@@ -1,0 +1,55 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Studying the Nuclear PDFs in HI Collisions}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}The Standard Model}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Quantum Electrodynamics}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Quantum Chromodynamics}{1}{subsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.2.1}Asymptotic Freedom}{2}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.1.2.2}Color Confinement}{2}{subsubsection.1.1.2.2}
+\contentsline {section}{\numberline {1.2}QCD Experiments}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Hard Processes}{3}{subsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Deep Inelastic Scattering}{3}{subsubsection.1.2.1.1}
+\contentsline {subsection}{\numberline {1.2.2}Soft Processes}{3}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Heavy-Ion Collisions}{3}{subsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.3.1}Ultra-peripheral Collisions}{3}{subsubsection.1.2.3.1}
+\contentsline {section}{\numberline {1.3}Jet Production}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Diffraction}{4}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Photoproduction}{4}{subsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Direct Photon Processes}{4}{subsubsection.1.3.2.1}
+\contentsline {subsubsection}{\numberline {1.3.2.2}Resolved Photon Processes}{4}{subsubsection.1.3.2.2}
+\contentsline {chapter}{\numberline {2}Diffractive Dijet Photoproduction}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Diffraction in Photon-Hadron Collisions}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Exclusivity}{5}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Next to Leading Order QCD + NPDF}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Perturbative QCD}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Factorisation Breaking}{5}{section.2.4}
+\contentsline {chapter}{\numberline {3}The Experiment}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Large Hadron Collider}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Compact Muon Solenoid}{6}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Inner Tracker}{7}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Pixel Tracker}{7}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Strip Tracker}{7}{subsubsection.3.2.1.2}
+\contentsline {subsection}{\numberline {3.2.2}Electromagnetic Calorimeter}{7}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Hadronic Calorimeter}{7}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Hadronic Forward Calorimeters}{7}{subsubsection.3.2.3.1}
+\contentsline {subsection}{\numberline {3.2.4}Muon Detector}{8}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Zero Degree Calorimeter}{8}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Luminosity}{8}{subsection.3.2.6}
+\contentsline {subsubsection}{\numberline {3.2.6.1}van de Meer Scanning}{8}{subsubsection.3.2.6.1}
+\contentsline {subsection}{\numberline {3.2.7}Triggering}{8}{subsection.3.2.7}
+\contentsline {chapter}{\numberline {4}Detecting Photoproduction in Ultra-Peripheral HI Collisions}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Selection on Hadronic Forward Calorimeter}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}Selection on Zero Degree Calorimeter}{9}{section.4.2}
+\contentsline {section}{\numberline {4.3}Selection on Pixel Tracker}{9}{section.4.3}
+\contentsline {chapter}{\numberline {5}DDPP at DESY}{10}{chapter.5}
+\contentsline {section}{\numberline {5.1}H1}{10}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Diffractive Jets in ep}{10}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}RAPGAP}{10}{section.5.2}
+\contentsline {chapter}{\numberline {6}DDPP measurement in CMS forward region}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}Rapidity Gap}{11}{section.6.1}
+\contentsline {section}{\numberline {6.2}Forward Tagging}{11}{section.6.2}
+\contentsline {section}{\numberline {6.3}Jet Reconstruction}{11}{section.6.3}
+\contentsline {section}{\numberline {6.4}PYTHIA and STARLIGHT}{11}{section.6.4}
+\contentsline {chapter}{\numberline {7}Probing low-x nuclear PDFs with diffractive photoproduction at CMS}{12}{chapter.7}
+\contentsline {section}{\numberline {7.1}The Probe}{12}{section.7.1}
+\contentsline {chapter}{\numberline {8}Conclusions}{13}{chapter.8}
+\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{15}{appendix.A}
