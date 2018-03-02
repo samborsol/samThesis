@@ -1,9 +1,19 @@
 
-\chapter{Studying the Nuclear PDFs in HI Collisions}
+\chapter{Nuclear Physics in Ultra-relativistic Heavy-Ion Collisions}
 
 \section{The Standard Model}
 
-The Standard Model describes the fundamental particles of the universe in terms of fermions and bosons. Fermions are particles with half-integer spin, while bosons have integer-spin. This difference in spin has far reaching consequences. Fermions must obey the Pauli Exclusion Principle: only one fermion at a time can occupy a given state. However, multiple bosons can simultaneously occupy a specific state. 
+The Standard Model describes the fundamental particles of the universe in terms of fermions and bosons. Fermions are particles with half-integer spin, while bosons have integer-spin. This difference in spin has far reaching consequences. Fermions must obey the Pauli Exclusion Principle: only one fermion at a time can occupy a given state. However, multiple bosons can simultaneously occupy a specific state.
+
+Among the fermions are the leptons, neutrinos, and quarks. The leptons consist of the electron, muon, and tau, as well as their anti-particles. The leptons are seemingly fundamental: high energy experiments have yet to observe internal lepton-structure. Neutrinos are weakly interacting particles detected primarily through the precise measuring of missing transverse energy in the products of particle collisions. Quarks are the constituent particles of baryons, which contain three valence quarks, and mesons, which contain two valence quarks. In addition to the valence quarks are the sea quarks, which appear and disappear as quark-antiquark pairs within hadrons. The hadrons are particles made of quarks and gluons.
+
+The behavior of fundamental particles is best described within the framework of quantum field theory (QTF). QFT defines a Lagrangian for fundamental particles. This Lagrangian then predicts the outcome of particle collisions. Different terms in the Lagrangian correspond to the various interactions between particles. The Standard Model Lagrangian can be broken down into four basic terms:
+
+\begin{equation}
+\mathcal{L}_{Standard Model} = \mathcal{L}_{QED} + \mathcal{L}_{QCD} + \mathcal{L}_{Higgs} + ... 
+\end{equation}
+
+The QED and QCD Lagrangians will be the most important in what follows. Feynman rules are derived from the Langrangian. Particularly important for the Feynman rules are the coupling constants for the electromagnetic force and strong-nuclear force.
 
 \subsection{Quantum Electrodynamics}
 
@@ -11,19 +21,22 @@ Quantum electrodynamics (QED) is a theory of electromagnetic interaction in term
 
 The QED coupling decreases with distance, as manifest the Coulomb force being proportional to an inverse-square law. 
 
+\begin{equation}
+\alpha_{QED}(Q^2) = \frac{ \alpha_{em}}{(1 - \frac{\alpha_{em}}{3\pi})\mathrm{ln}(\frac{Q^2}{m^2}) }
+\end{equation}
+
 \subsection{Quantum Chromodynamics}
 
 The quarks are a family of fermions that compose the baryons and the mesons. Baryons consist of three quarks in a color neutral state, while mesons consist two quarks in a color neutral state. "Color" in this context refers to the six kinds of strongly-interacting charge available to quarks: red and anti-red, blue and anti-blue, and green and anti-green. Color charge has no relation to optical phenomena, but provides a useful analogy for the stable combinations of quarks. The net color-charge of a baryon or meson is "white".
 
-Unlike QED, the QCD coupling increases with distance. This has the practical consequence of the strong-interactions being stronger in high momentum transfer collisions. The direct results of the running QCD coupling are the dual phenomena of asymptotic freedom and color confinement.
-
-\subsubsection{Asymptotic Freedom}
+Unlike QED, the QCD coupling increases with distance. This has the practical consequence of the strong-interactions being stronger in high momentum transfer collisions. The direct results of the running QCD coupling are the dual phenomena of asymptotic freedom and color confinement. At large distances, string tension describes the binding force of the quarks. At short distances, however, Coulomb-like interactions dominate.
 
 Within the nucleus, a proton can be thought of as a bubble in a vacuum. Debrye screening exerts a pressure on the proton. This pressure is responsible for the size of the proton. 
 
-\subsubsection{Color Confinement} 
+\begin{equation}
+\alpha_{QCD}(Q^2) = \alpha_{s}(Q^2) = \frac{4 \pi }{(11 - \frac{2}{3}n_f)\mathrm{ln}(\frac{Q^2}{\Lambda^2_{QCD}}) }
+\end{equation}
 
-At large distances, string tension describes the binding force of the quarks. At short distances, however, Coulomb-like interactions dominate.
 
 \section{QCD Experiments}
 
@@ -44,7 +57,6 @@ Hard processes involve scattering particles off partons in the manner of point-l
 Deep inelastic scattering commonly refers to the scattering of a leptons off hadrons. These experiments provided the first evidence of Bjorken-scaling in the nucleus, a direct interpretation of which is the existence of quarks as point-like particles at high energies.
 
 \subsection{Soft Processes}
-
 Soft processes compose the low momentum transfer, typically gluon-gluon interactions during a  collision.
 
 \subsection{Heavy-Ion Collisions}
