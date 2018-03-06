@@ -22,6 +22,7 @@
 \contentsline {section}{\numberline {2.4}Factorisation Breaking}{6}{section.2.4}
 \contentsline {chapter}{\numberline {3}The Experiment}{7}{chapter.3}
 \contentsline {section}{\numberline {3.1}Large Hadron Collider}{7}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Research Goals of LHC}{7}{subsection.3.1.1}
 \contentsline {section}{\numberline {3.2}Compact Muon Solenoid}{7}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Inner Tracker}{9}{subsection.3.2.1}
 \contentsline {subsubsection}{\numberline {3.2.1.1}Pixel Tracker}{10}{subsubsection.3.2.1.1}
@@ -29,12 +30,12 @@
 \contentsline {subsection}{\numberline {3.2.2}Electromagnetic Calorimeter}{10}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Hadronic Calorimeter}{11}{subsection.3.2.3}
 \contentsline {subsubsection}{\numberline {3.2.3.1}Hadronic Forward Calorimeters}{12}{subsubsection.3.2.3.1}
-\contentsline {subsection}{\numberline {3.2.4}Muon Detector}{13}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Zero Degree Calorimeter}{13}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.4}Muon Detector}{12}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Zero Degree Calorimeter}{12}{subsection.3.2.5}
 \contentsline {subsection}{\numberline {3.2.6}Particle Flow Algorithm}{13}{subsection.3.2.6}
 \contentsline {subsection}{\numberline {3.2.7}Luminosity}{13}{subsection.3.2.7}
-\contentsline {subsubsection}{\numberline {3.2.7.1}van de Meer Scanning}{13}{subsubsection.3.2.7.1}
-\contentsline {subsection}{\numberline {3.2.8}Triggering}{13}{subsection.3.2.8}
+\contentsline {subsubsection}{\numberline {3.2.7.1}van de Meer Scanning}{14}{subsubsection.3.2.7.1}
+\contentsline {subsection}{\numberline {3.2.8}Triggering}{14}{subsection.3.2.8}
 \contentsline {chapter}{\numberline {4}Detecting Photoproduction in Ultra-Peripheral HI Collisions}{15}{chapter.4}
 \contentsline {section}{\numberline {4.1}Selection on Hadronic Forward Calorimeter}{15}{section.4.1}
 \contentsline {section}{\numberline {4.2}Selection on Zero Degree Calorimeter}{15}{section.4.2}

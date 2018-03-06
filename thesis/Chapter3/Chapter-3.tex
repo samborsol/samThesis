@@ -7,6 +7,10 @@ The Large Hadron Collider (LHC) has a radius of approximately 27 kilometers. As 
 
 LHC is a hadron collider, meaning it is designed to collide particles made of quarks and gluons. The proton-proton, proton-Pb, and Pb-Pb collision energies are the largest ever probed experimentally.
 
+\subsection{Research Goals of LHC}
+
+The primary goal of LHC was to detect the Higgs boson. CMS and ATLAS are general purpose detectors. ALICE is a dedicated detector for heavy-ion physics. LHCb is designed to study heavy-quark production. 
+
 \section{Compact Muon Solenoid}
 
 The Compact Muon Solenoid (CMS) is a general-purpose particle detector located at Point-5 of the LHC. CMS was designed to precisely measure the momentum of muons. The titular superconducting solenoid magnet generates a 4 Tesla field. This field is homogeneous and parallel to the beam line close to the interaction point. The momentum of a muon is measured from how it deflects when moving through the magnetic field. 
@@ -36,9 +40,13 @@ The pixel tracker is precise enough to distinguish the vertices of tracks origin
 
 \subsubsection{Strip Tracker}
 
+Outside the pixel tracker are the layers of the strip tracker. They function similar to the components of the pixel tracker, except the strip tracker consists of thin silicon plates. 
+
 \centerline{
 \includegraphics[width=5in]{Chapter3/importfigs/cms_cft_09_003_fig1.png}
 }
+
+The strip tracker itself can be broken down into four components: the inner barrel layer, the inner endcaps, the outer barrel layer, and the outer endcaps.
 
 \subsection{Electromagnetic Calorimeter}
 
@@ -62,12 +70,15 @@ The Hadronic Forward Calorimeters (HF) absorbs the greatest portion of energy fr
 
 \subsection{Muon Detector}
 
-
+The outermost layer of CMS consists of the muon detectors. Muons are particles nearly identical to electrons, except for their mass, which exceeds that of the electron by some two orders of magnitude. High mass particles, like the Higgs boson, often decay into a final state containing muons. The muon detector not only identifies muons, but also measures their momentum. The muon detector has readout fast enough for triggering on muons.
 
 \subsection{Zero Degree Calorimeter}
 
+The zero degree calorimeters are both sides of CMS, approximately 140 meters from the interaction point. Each ZDC consists of two independent systems: an electromagnetic calorimeter, for detecting very forward photons, and a hadronic calorimeter, for detecting neutrons. Because these neutrons result from the dissociation of nuclei, the ZDC can measure the centrality of heavy-ion collisions. Hadrons in the forward region have energy on the TeV scale, so the ZDC's hadronic calorimeter is made of thick tungsten plates. For a UPC process, the photon emitting nucleus is most likely to remain intact; therefore, ZDC data can the photon direction of a process, and by extension it's energy. 
 
 \subsection{Particle Flow Algorithm}
+
+CMS identifies and reconstructs physics-objects out of the sub-detector readout data via the particle-flow algorithm. 
 
 \centerline{
 \includegraphics[width=5.5in]{Chapter3/importfigs/Figure_001.png}
@@ -76,9 +87,17 @@ The Hadronic Forward Calorimeters (HF) absorbs the greatest portion of energy fr
 
 \subsection{Luminosity}
 
-One of the most important quantities measured by CMS is luminosity. Luminosity is necessary to convert the number of events detected, for a given channel, into a collision cross-section. Collision cross-sections are among the primary observables predicted by theoretical physics, specifically quantum field theory.
+One of the most important quantities measured by CMS is luminosity. Luminosity is necessary to convert the number of events detected, for a given channel, into a collision cross-section. Collision cross-sections are among the primary observables predicted by theoretical physics, specifically quantum field theory. For particle physics, the collision cross-section of a process is typically measured through the relation:
+
+\begin{equation}
+\sigma  = \frac{R}{\mathit{L}}
+\end{equation}
+
+Where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity.  
 
 \subsubsection{van de Meer Scanning}
+
+The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. 
 
 \subsection{Triggering}
 
