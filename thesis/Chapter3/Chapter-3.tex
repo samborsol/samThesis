@@ -30,7 +30,9 @@ The Compact Muon Solenoid (CMS) is a general-purpose particle detector located a
 
 \subsection{Tracker}
 
-The tracker measures the momentum of charged particles via their trajectory through a homogenous magnetic field. The tracker consists of two units, the pixel tracker and the strip tracker, both of which are made of silicon. A charged particle causes an electrical signal when passing through a silicon pixel or silicon microstrip. CMS reconstructs these electrical signals, taken at specific points of position and time, into tracks. These tracks are accurate to the 10 micrometers. The tracker is meant to have  a particle pass all the way through it, with only minimal effect particle's trajectory.
+The tracker measures the momentum of charged particles via their trajectory through a homogenous magnetic field. The tracker consists of two units, the pixel tracker and the strip tracker, both of which are made of silicon. A charged particle causes an electrical signal when passing through a silicon pixel or silicon microstrip. CMS reconstructs these electrical signals, taken at specific points of position and time, into tracks. These tracks are accurate to 10 micrometers. The tracker is meant to have  a particle pass all the way through it, with only minimal effect particle's trajectory. 
+
+The tracker system is designed for high granularity and fast readout, such that each trajectory can be associated with its corresponding bunch crossing. The tracker is resilient enough to withstand the high flux of particles accompanying every bunch crossing; at design luminosity of $10^34 cm^-2 s^-1$, some 1000 particles will traverse the tracker every 25 ns. However, the mass of the tracker is minimal enough to suppress multiple scattering, off its material, that would distort particle trajectories. These design constraints -- resistance and transparency -- are satisfied silicon. The tracker has approximately $200 m^2$ of silicon surface, making it the largest silicon detector ever constructed.
 
 \subsubsection{Pixel Tracker}
 
@@ -48,7 +50,9 @@ Outside the pixel tracker are the layers of the strip tracker. They function sim
 
 \subsection{Electromagnetic Calorimeter}
 
-The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution. The ECAL is hermetic and homogenous. The data readout is fast enough that CMS can trigger off signals in the ECAL.
+The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution; for example, the ECAL has the resolution suitable for the decay of the Higgs boson into two photons. The ECAL is both hermetic and homogenous. 
+
+The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs).
 
 \begin{figure}[h!]
 \begin{centering}
