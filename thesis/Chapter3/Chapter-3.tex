@@ -9,31 +9,28 @@ LHC is a hadron collider, meaning it is designed to collide particles made of qu
 
 Heavy-ion collisions at LHC produce strongly interacting nuclear matter. The temperature and density of this matter is comparable to the state of the universe only a few milliseconds after the Big Bang.
 
-\subsection{Collaborations at LHC}
-
-The primary goal of LHC was to detect the Higgs boson. CMS and ATLAS are general purpose detectors. ALICE is a dedicated detector for heavy-ion physics, specifically the quark-gluon plasma. LHCb is designed to study charge-parity violation via b-quark production.
-
 \section{Compact Muon Solenoid}
 
 The Compact Muon Solenoid (CMS) is a general-purpose particle detector located at Point-5 of the LHC. CMS was designed to precisely measure the momentum of muons. The titular superconducting solenoid magnet was designed to generate a 4 Tesla field, but operates at 3.8 T to increase longevity. This field is homogeneous and parallel to the beam line close to the interaction point. The momentum of a muon is measured from how it deflects when moving through the magnetic field. Altogether, CMS weighs approximately 12,500 metric tons, with a diameter of 14.6 m and a length of 21.6 meters.
 
-\centerline{
+\begin{figure}[h!]
+\begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/fromCMS_DesignPaper_perspective.png}
-}
+\par\end{centering}
+\end{figure}
 
 	Within the solenoid volume are a silicon pixel and strip tracker, a lead tungsten crystal electromagnetic calorimeter (ECAL), and a brass and scintillator hadron calorimeter (HCAL), each composed of a barrel and two endcap sections. 
 
-The pseudorapidity coverage for the ECAL and HCAL detectors is $|\eta|< 3.0$. The ECAL provides coverage in the pseudorapidity range $y < $ 1.5 in the barrel region (EB) and 1.5 $< y <$ 3.0 in the two endcap regions (EE). The HCAL provides coverage for $y <$ 1.3 in the barrel region (HB) and 1.3 $< y< $ 3.0 in the two endcap regions (HE). The zero degree calorimeters (ZDCs) are two Cherenkov calorimeters composed of alternating layers of tungsten and quartz fibers, and situated between the two proton beam lines at above $|\eta|>8.3$ from the interaction point. The HF and ZDC systems each consist of two detectors on either side of the interaction point: $HF^{+-}$, and $ZDC^{+-}$, respectively. The CASTOR calorimeter is located at a distance of 14.2 m from the interaction point at a radial distance from the LHC beam of about 4 to 15 cm. This corresponds to a pseudorapidty coverage of -6.6 $< y <$ -5.2.
 
-\centerline{
-\includegraphics[width=4in]{Chapter3/importfigs/Figure_001-006.pdf}
-}
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=5.5in]{Chapter3/importfigs/Figure_001.png}
+\par\end{centering}
+\end{figure}
 
 \subsection{Tracker}
 
 The tracker measures the momentum of charged particles via their trajectory through a homogenous magnetic field. The tracker consists of two units, the pixel tracker and the strip tracker, both of which are made of silicon. A charged particle causes an electrical signal when passing through a silicon pixel or silicon microstrip. CMS reconstructs these electrical signals, taken at specific points of position and time, into tracks. These tracks are accurate to the 10 micrometers. The tracker is meant to have  a particle pass all the way through it, with only minimal effect particle's trajectory.
-
-The silicon tracker measures charged particles within the pseudorapidity range $|\eta| < 2.5$ . It consists of 1440 silicon pixel and 15\,148 silicon strip detector modules and is located in the field of the superconducting solenoid. For non-isolated particles of $1 < pt < 10 GeV$ and $|\eta| < 1.4$, the track resolutions are typically 1.5 percent in $pt$ and 25--90 (45--150)$\mu$ in the transverse (longitudinal) impact parameter~ cite (Chatrchyan:2014fea).
 
 \subsubsection{Pixel Tracker}
 
@@ -41,29 +38,35 @@ Every silicon-pixel has a corresponding readout chip. The readout chips are sold
 
 \subsubsection{Strip Tracker}
 
-Outside the pixel tracker are the layers of the strip tracker. They function similar to the components of the pixel tracker, except the strip tracker consists of thin silicon plates. 
+Outside the pixel tracker are the layers of the strip tracker. They function similar to the components of the pixel tracker, except the strip tracker consists of thin silicon plates. The strip tracker itself can be broken down into four components: the inner barrel layer, the inner endcaps, the outer barrel layer, and the outer endcaps. In total, these layers contain some $9.3 \times 10^6$ strips.
 
-\centerline{
+\begin{figure}[h!]
+\begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/cms_cft_09_003_fig1.png}
-}
-
-The strip tracker itself can be broken down into four components: the inner barrel layer, the inner endcaps, the outer barrel layer, and the outer endcaps. In total, these layers contain some $9.3 \times 10^6$ strips.
+\par\end{centering}
+\end{figure}
 
 \subsection{Electromagnetic Calorimeter}
 
 The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution. The ECAL is hermetic and homogenous. The data readout is fast enough that CMS can trigger off signals in the ECAL.
 
-\centerline{
+\begin{figure}[h!]
+\begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-007.pdf}
-}
+\par\end{centering}
+\end{figure}
  
 \subsection{Hadronic Calorimeter}
 
 The Hadronic Calorimeter (HCAL) is the next layer outside the tracker. HCAL is a sampling calorimeter, meaning that it absorbs particles and measures their energyy and momentum via scintillation. HCAL has such a large acceptance that it can indirectly observe non-interacting particles such as neutrinos. The HCAL is designed to be hermetic, so that imbalances of momentum and energy can be precisely measured.
 
-\centerline{
+
+\begin{figure}[h!]
+\begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-008.pdf}
-}
+\par\end{centering}
+\end{figure}
+
 
 \subsubsection{Hadronic Forward Calorimeters}
 
@@ -73,23 +76,26 @@ The Hadronic Forward Calorimeters (HF) absorbs the greatest portion of energy fr
 
 The outermost layer of CMS consists of the muon detectors. Muons are particles nearly identical to electrons, except for their mass, which exceeds that of the electron by some two orders of magnitude. High mass particles, like the Higgs boson, often decay into a final state containing muons. The muon detector not only identifies muons, but also measures their momentum. The muon detector has readout fast enough for triggering on muons.
 
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=4in]{Chapter3/importfigs/Figure_001-006.pdf}
+\par\end{centering}
+\end{figure}
+
+
 \subsection{Zero Degree Calorimeter}
 
 The zero degree calorimeters are both sides of CMS, approximately 140 meters from the interaction point. Each ZDC consists of two independent systems: an electromagnetic calorimeter, for detecting very forward photons, and a hadronic calorimeter, for detecting neutrons. Because these neutrons result from the dissociation of nuclei, the ZDC can measure the centrality of heavy-ion collisions. Hadrons in the forward region have energy on the TeV scale, so the ZDC's hadronic calorimeter is made of thick tungsten plates. For a UPC process, the photon emitting nucleus is most likely to remain intact; therefore, ZDC data can the photon direction of a process, and by extension it's energy. 
 
 \subsection{Particle Flow Algorithm}
 
-Raw data from the sub-detectors is combined, for data analysis, by the particle-flow (PF) algorithm. The PF takes the data about tracks in the tracker and energy deposits in the calorimeter, and uses them to reconstruct physics-related data objects, like jets, and to identify specific particles, such as photons and muons. The PF also identifies missing energy and momentum for use in neutrino studies. These data objects are stored in a format similar to that of conventional MC event generators. 
+Raw data from the sub-detectors is combined, for data analysis, by the particle-flow (PF) algorithm. The PF takes the data about tracks in the tracker and energy deposits in the calorimeter, and uses them to reconstruct physics-related data objects, like jets, and to identify specific particles, such as photons and muons. The PF also identifies missing energy and momentum for use in neutrino studies. These data objects are stored in a format similar to that of conventional MC event generators. CMS gains significant jet reconstruction efficiency via the PF. At low transverse momentum, PF reconstructs jets at nearly twice the resolution of HCAL and ECAL. This increase in efficiency comes from the PF integrating in track data with the calorimeter tower data. 
 
-\centerline{
-\includegraphics[width=5.5in]{Chapter3/importfigs/Figure_001.png}
-}
-
-CMS gains significant jet reconstruction efficiency via the PF. At low transverse momentum, PF reconstructs jets at nearly twice the resolution of HCAL and ECAL. This increase in efficiency comes from the PF integrating in track data with the calorimeter tower data. 
-
-\centerline{
+\begin{figure}[h!]
+\begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/CCrec2_05_16.jpg}
-}
+\par\end{centering}
+\end{figure}
 
 \subsection{Luminosity}
 
@@ -99,12 +105,14 @@ One of the most important quantities measured by CMS is luminosity. Luminosity i
 \sigma  = \frac{R}{\mathit{L}}
 \end{equation}
 
-Where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity.  
+Where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity. In general, the cross-section is analagous to the physics of a process, the event-rate comes from the triggering, and the luminosity comes from the LHC beam.
 
 \subsubsection{van de Meer Scanning}
 
-The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. 
+The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. This calibration is accomplished via Van de Meer scanning. The opposing beams of LHC are moved back and forth in the transverse plane. During the scan, the detector response is measured as a function of beam displacement. The beam widths are calculated from Gaussian fits to the detector response. The visible cross-section of the luminometer in question is then derived from the width of the beams, and acts as the calibration of the detector response. 
 
 \subsection{Triggering}
 
-CMS reconstruct events faster than they can be stored on hard-drives. To account for this phenomena -- pile-up -- CMS uses a two tiered triggering system. L1 triggers are always online, and for those events that pass the L1 triggers, the High Level Triggers (HLTs) will select which events are stored as data.
+CMS uses a two-tiered triggering system. The first tier, the L1 trigger, is hardware based. The second tier, the high-level trigger (HLT), is software based. The L1 trigger recieves raw data from the calorimeters and the muon detectors; this determines when the tracker will readout data. The raw data from the tracker, calorimeters, and muon detectors is then passed on to a computer farm running the HLT menu. The HLT then performs a simplistic reconstruction of the raw data into physics objects useful for analysis: jets, tracks, and identifiable particles. If an event passes the HLT, the raw data is permanently stored in preparation for a more complex reconstruction. 
+
+For this analysis, the L1 trigger applies two selections. First, the L1 checks that at least one of the HF is empty. Then, if there is at least 5 GeV of energy deposited in the ECAL, the event passes to the HLT. The HLT in turn requires that there be at least once reconstructed track from the tracker.
