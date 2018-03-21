@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.25)  20 MAR 2018 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.29)  21 MAR 2018 14:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **thesis-ku.tex
 (./thesis-ku.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
 (./kuthesis.cls
 Document Class: kuthesis 2016/03/27 v2 KU thesis class
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
@@ -853,40 +853,101 @@ File: uesint.fd
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-<Chapter1/importfigs/fig1a.png, id=125, 251.94125pt x 207.77625pt>
-File: Chapter1/importfigs/fig1a.png Graphic file (type png)
-
-<use Chapter1/importfigs/fig1a.png>
-Package pdftex.def Info: Chapter1/importfigs/fig1a.png used on input line 80.
-(pdftex.def)             Requested size: 144.54pt x 119.20091pt.
-
-<Chapter1/importfigs/fig1b.png, id=127, 338.26375pt x 270.00874pt>
-File: Chapter1/importfigs/fig1b.png Graphic file (type png)
-
-<use Chapter1/importfigs/fig1b.png>
-Package pdftex.def Info: Chapter1/importfigs/fig1b.png used on input line 80.
-(pdftex.def)             Requested size: 144.54pt x 115.37637pt.
-) [5 <./Chapter1/importfigs/fig1a.png> <./Chapter1/importfigs/fig1b.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]) [5]
 \openout2 = `Chapter2/Chapter-2.aux'.
 
  (./Chapter2/Chapter-2.tex
 Chapter 2.
-) [6
+<Chapter2/importfigs/fig7_h1_2015.png, id=129, 244.915pt x 250.9375pt>
+File: Chapter2/importfigs/fig7_h1_2015.png Graphic file (type png)
+
+<use Chapter2/importfigs/fig7_h1_2015.png>
+Package pdftex.def Info: Chapter2/importfigs/fig7_h1_2015.png used on input lin
+e 14.
+(pdftex.def)             Requested size: 216.81pt x 222.14667pt.
+ [6
 
 
 
 ]
+<Chapter2/importfigs/fig8_h1_2015.png, id=135, 569.12625pt x 571.13374pt>
+File: Chapter2/importfigs/fig8_h1_2015.png Graphic file (type png)
+
+<use Chapter2/importfigs/fig8_h1_2015.png>
+Package pdftex.def Info: Chapter2/importfigs/fig8_h1_2015.png used on input lin
+e 20.
+(pdftex.def)             Requested size: 289.07999pt x 290.1153pt.
+
+<Chapter2/importfigs/fig1a.png, id=136, 251.94125pt x 207.77625pt>
+File: Chapter2/importfigs/fig1a.png Graphic file (type png)
+
+<use Chapter2/importfigs/fig1a.png>
+Package pdftex.def Info: Chapter2/importfigs/fig1a.png used on input line 26.
+(pdftex.def)             Requested size: 158.99377pt x 131.12164pt.
+
+<Chapter2/importfigs/fig3_daniel_upc.png, id=137, 626.34pt x 417.56pt>
+File: Chapter2/importfigs/fig3_daniel_upc.png Graphic file (type png)
+
+<use Chapter2/importfigs/fig3_daniel_upc.png>
+Package pdftex.def Info: Chapter2/importfigs/fig3_daniel_upc.png used on input 
+line 27.
+(pdftex.def)             Requested size: 216.81pt x 144.53621pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter2/importfigs/fig5_yatta_compton.png, id=138, 501.875pt x 309.155pt>
+File: Chapter2/importfigs/fig5_yatta_compton.png Graphic file (type png)
+
+<use Chapter2/importfigs/fig5_yatta_compton.png>
+Package pdftex.def Info: Chapter2/importfigs/fig5_yatta_compton.png used on inp
+ut line 33.
+(pdftex.def)             Requested size: 289.07999pt x 178.08351pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter2/importfigs/fig6_introGPD_TMD.png, id=139, 615.29875pt x 359.3425pt>
+File: Chapter2/importfigs/fig6_introGPD_TMD.png Graphic file (type png)
+
+<use Chapter2/importfigs/fig6_introGPD_TMD.png>
+Package pdftex.def Info: Chapter2/importfigs/fig6_introGPD_TMD.png used on inpu
+t line 39.
+(pdftex.def)             Requested size: 505.89pt x 295.45232pt.
+
+Overfull \hbox (36.13498pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter2/importfigs/fig4_yatta.png, id=140, 501.875pt x 308.15125pt>
+File: Chapter2/importfigs/fig4_yatta.png Graphic file (type png)
+
+<use Chapter2/importfigs/fig4_yatta.png>
+Package pdftex.def Info: Chapter2/importfigs/fig4_yatta.png used on input line 
+45.
+(pdftex.def)             Requested size: 289.07999pt x 177.50531pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [7 <./Chapter2/importfigs/fig7_h1_2015.png> <./Chapter2/importfigs/fig8_h1_20
+15.png>] [8 <./Chapter2/importfigs/fig1a.png> <./Chapter2/importfigs/fig3_danie
+l_upc.png> <./Chapter2/importfigs/fig5_yatta_compton.png (PNG copy)> <./Chapter
+2/importfigs/fig6_introGPD_TMD.png>] [9 <./Chapter2/importfigs/fig4_yatta.png (
+PNG copy)>]
 \openout2 = `Chapter3/Chapter-3.aux'.
 
  (./Chapter3/Chapter-3.tex
 Chapter 3.
-[7
+[10
 
 
 
 ]
-<Chapter3/importfigs/fromCMS_DesignPaper_perspective.png, id=143, 706.64pt x 51
+<Chapter3/importfigs/fromCMS_DesignPaper_perspective.png, id=168, 706.64pt x 51
 0.90875pt>
 File: Chapter3/importfigs/fromCMS_DesignPaper_perspective.png Graphic file (typ
 e png)
@@ -895,7 +956,7 @@ Package pdftex.def Info: Chapter3/importfigs/fromCMS_DesignPaper_perspective.pn
 g used on input line 18.
 (pdftex.def)             Requested size: 289.07999pt x 209.0062pt.
 
-<Chapter3/importfigs/Figure_001.png, id=144, 843.15pt x 596.2275pt>
+<Chapter3/importfigs/Figure_001.png, id=169, 843.15pt x 596.2275pt>
 File: Chapter3/importfigs/Figure_001.png Graphic file (type png)
 
 <use Chapter3/importfigs/Figure_001.png>
@@ -906,11 +967,11 @@ Package pdftex.def Info: Chapter3/importfigs/Figure_001.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8 <./Chapter3/importfigs/fromCMS_DesignPaper_perspective.png>]
+[11 <./Chapter3/importfigs/fromCMS_DesignPaper_perspective.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 37.
- [9 <./Chapter3/importfigs/Figure_001.png>]
-<Chapter3/importfigs/cms_cft_09_003_fig1.png, id=156, 718.685pt x 338.26375pt>
+ [12 <./Chapter3/importfigs/Figure_001.png>]
+<Chapter3/importfigs/cms_cft_09_003_fig1.png, id=182, 718.685pt x 338.26375pt>
 File: Chapter3/importfigs/cms_cft_09_003_fig1.png Graphic file (type png)
 
 <use Chapter3/importfigs/cms_cft_09_003_fig1.png>
@@ -921,7 +982,7 @@ put line 47.
 
 pdfTeX warning: pdflatex (file ./Chapter3/importfigs/Figure_001-007.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Chapter3/importfigs/Figure_001-007.pdf, id=157, 569.12625pt x 532.99126pt>
+<Chapter3/importfigs/Figure_001-007.pdf, id=183, 569.12625pt x 532.99126pt>
 File: Chapter3/importfigs/Figure_001-007.pdf Graphic file (type pdf)
 
 <use Chapter3/importfigs/Figure_001-007.pdf>
@@ -932,8 +993,8 @@ ine 59.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10 <./Chapter3/importfigs/cms_cft_09_003_fig1.png (PNG copy)>]
-<Chapter3/importfigs/Figure_001-008.pdf, id=163, 569.12625pt x 408.52625pt>
+[13 <./Chapter3/importfigs/cms_cft_09_003_fig1.png (PNG copy)>]
+<Chapter3/importfigs/Figure_001-008.pdf, id=190, 569.12625pt x 408.52625pt>
 File: Chapter3/importfigs/Figure_001-008.pdf Graphic file (type pdf)
 
 <use Chapter3/importfigs/Figure_001-008.pdf>
@@ -944,17 +1005,17 @@ ine 70.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11 <./Chapter3/importfigs/Figure_001-007.pdf>]
-<Chapter3/importfigs/Figure_001-006.pdf, id=182, 323.97855pt x 234.58199pt>
+[14 <./Chapter3/importfigs/Figure_001-007.pdf>]
+<Chapter3/importfigs/Figure_001-006.pdf, id=208, 323.97855pt x 234.58199pt>
 File: Chapter3/importfigs/Figure_001-006.pdf Graphic file (type pdf)
 
 <use Chapter3/importfigs/Figure_001-006.pdf>
 Package pdftex.def Info: Chapter3/importfigs/Figure_001-006.pdf used on input l
 ine 85.
 (pdftex.def)             Requested size: 289.07999pt x 209.3178pt.
- [12 <./Chapter3/importfigs/Figure_001-008.pdf> <./Chapter3/importfigs/Figure_0
+ [15 <./Chapter3/importfigs/Figure_001-008.pdf> <./Chapter3/importfigs/Figure_0
 01-006.pdf>]
-<Chapter3/importfigs/CCrec2_05_16.jpg, id=228, 702.625pt x 676.5275pt>
+<Chapter3/importfigs/CCrec2_05_16.jpg, id=254, 702.625pt x 676.5275pt>
 File: Chapter3/importfigs/CCrec2_05_16.jpg Graphic file (type jpg)
 
 <use Chapter3/importfigs/CCrec2_05_16.jpg>
@@ -965,7 +1026,7 @@ e 100.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13] [14 <./Chapter3/importfigs/CCrec2_05_16.jpg>]) [15]
+[16] [17 <./Chapter3/importfigs/CCrec2_05_16.jpg>]) [18]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
  (./thesis-ku.aux
@@ -978,13 +1039,13 @@ Package rerunfilecheck Info: File `thesis-ku.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 12974 strings out of 493029
- 185109 string characters out of 6136233
- 270247 words of memory out of 5000000
- 16264 multiletter control sequences out of 15000+600000
+ 13008 strings out of 494910
+ 186220 string characters out of 6179836
+ 265558 words of memory out of 5000000
+ 16040 multiletter control sequences out of 15000+600000
  37934 words of font info for 68 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 44i,6n,42p,811b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36 hyphenation exceptions out of 8191
+ 44i,6n,42p,811b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
@@ -994,10 +1055,10 @@ bol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on thesis-ku.pdf (15 pages, 556355 bytes).
+Output written on thesis-ku.pdf (18 pages, 708176 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 500000)
- 230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 316 PDF objects out of 1000 (max. 8388607)
+ 252 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
