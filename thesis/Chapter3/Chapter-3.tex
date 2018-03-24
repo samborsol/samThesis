@@ -52,6 +52,12 @@ Outside the pixel tracker are the layers of the strip tracker. They function sim
 
 The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution; for example, the ECAL has the resolution suitable for the decay of the Higgs boson into two photons. The ECAL is both hermetic and homogenous. 
 
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=7in]{Chapter3/importfigs/ecal_performance_with_examples.png}
+\par\end{centering}
+\end{figure}
+
 The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs).
 
 \begin{figure}[h!]
@@ -61,6 +67,12 @@ The data readout is fast enough that CMS can trigger off signals in the ECAL. It
 \end{figure}
  
 \subsection{Hadronic Calorimeter}
+
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=5in]{Chapter3/importfigs/filtering_noise_in_CMS_hadron_calorimeter.png}
+\par\end{centering}
+\end{figure}
 
 The Hadronic Calorimeter (HCAL) is the next layer outside the tracker. HCAL is a sampling calorimeter, meaning that it absorbs particles and measures their energyy and momentum via scintillation. HCAL has such a large acceptance that it can indirectly observe non-interacting particles such as neutrinos. The HCAL is designed to be hermetic, so that imbalances of momentum and energy can be precisely measured.
 
@@ -119,7 +131,21 @@ The luminometers of CMS produce signals proportional to the instantanteous lumin
 
 CMS uses a two-tiered triggering system. The first tier, the L1 trigger, is hardware based. The second tier, the high-level trigger (HLT), is software based. The L1 trigger recieves raw data from the calorimeters and the muon detectors; this determines when the tracker will readout data. The raw data from the tracker, calorimeters, and muon detectors is then passed on to a computer farm running the HLT menu. The HLT then performs a simplistic reconstruction of the raw data into physics objects useful for analysis: jets, tracks, and identifiable particles. If an event passes the HLT, the raw data is permanently stored in preparation for a more complex reconstruction. 
 
-The 2015 UPC triggers were for low multiplicity events and low transverse momentum events.
+The 2015 UPC triggers were for low multiplicity events and low transverse momentum events. Typical heavy-ion collisions are high multiplicity events. Below is an event from one of the first heavy-ion collisions at CMS in 2010.
+
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=4in]{Chapter3/importfigs/cms_firstleadcoll.jpg}
+\par\end{centering}
+\end{figure}
+
+The event below is an example of a UPC upsilon candidate.
+
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=4in]{Chapter3/importfigs/upcJpsi_run285530_lumi594_event944509077_v0.png}
+\par\end{centering}
+\end{figure}
 
 For this analysis, the L1 trigger applies two selections. First, the L1 checks that at least one of the HF is empty. This is the most important part of the trigger in so far as it suppressed the hadronic contamination of the dataset. Then, if there is at least 5 GeV of energy deposited in the ECAL, the event passes to the HLT. 
 
