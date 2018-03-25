@@ -11,28 +11,37 @@ Heavy-ion collisions at LHC produce strongly interacting nuclear matter. The tem
 
 \section{Compact Muon Solenoid}
 
-The Compact Muon Solenoid (CMS) is a general-purpose particle detector located at Point-5 of the LHC. CMS was designed to precisely measure the momentum of muons. The titular superconducting solenoid magnet was designed to generate a 4 Tesla field, but operates at 3.8 T to increase longevity. This field is homogeneous and parallel to the beam line close to the interaction point. The momentum of a muon is measured from how it deflects when moving through the magnetic field. Altogether, CMS weighs approximately 12,500 metric tons, with a diameter of 14.6 m and a length of 21.6 meters.
+The Compact Muon Solenoid (CMS) is a general-purpose particle detector located at Point-5 of the LHC. CMS was designed to precisely measure the momentum of muons. The titular superconducting solenoid magnet was designed to generate a 4 Tesla field, but operates at 3.8 T to increase longevity. This field is homogeneous and parallel to the beam line close to the interaction point. The momentum of a muon is measured from how it deflects when moving through the magnetic field. Altogether, CMS weighs approximately 12,500 metric tons, with a diameter of 14.6 m and a length of 21.6 meters. Fig.\ref{fig:cmsCutOut} displays the detector's various sub-systems. 
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/fromCMS_DesignPaper_perspective.png}
 \par\end{centering}
+\caption{CMS Detector \label{fig:cmsCutOut}}
 \end{figure}
 
-Within the solenoid volume are a silicon pixel and strip tracker, a lead tungsten crystal electromagnetic calorimeter (ECAL), and a brass and scintillator hadron calorimeter (HCAL), each composed of a barrel and two endcap sections. 
+Within the solenoid volume are a silicon pixel and strip tracker, a lead tungsten crystal electromagnetic calorimeter (ECAL), and a brass and scintillator hadron calorimeter (HCAL), each composed of a barrel and two endcap sections. Fig.\ref{fig:cmsCutOutZY} radial layering of CMS component systems.  
 
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=5.5in]{Chapter3/importfigs/Figure_001.png}
 \par\end{centering}
+\caption{CMS radial cross-section \label{fig:cmsCutOutZY}}
 \end{figure}
 
 \subsection{Tracker}
 
 The tracker measures the momentum of charged particles via their trajectory through a homogenous magnetic field. The tracker consists of two units, the pixel tracker and the strip tracker, both of which are made of silicon. A charged particle causes an electrical signal when passing through a silicon pixel or silicon microstrip. CMS reconstructs these electrical signals, taken at specific points of position and time, into tracks. These tracks are accurate to 10 micrometers. The tracker is meant to have  a particle pass all the way through it, with only minimal effect particle's trajectory. 
 
-The tracker system is designed for high granularity and fast readout, such that each trajectory can be associated with its corresponding bunch crossing. The tracker is resilient enough to withstand the high flux of particles accompanying every bunch crossing; at design luminosity of $10^34 cm^-2 s^-1$, some 1000 particles will traverse the tracker every 25 ns. However, the mass of the tracker is minimal enough to suppress multiple scattering, off its material, that would distort particle trajectories. These design constraints -- resistance and transparency -- are satisfied silicon. The tracker has approximately $200 m^2$ of silicon surface, making it the largest silicon detector ever constructed.
+The tracker system is designed for high granularity and fast readout, such that each trajectory can be associated with its corresponding bunch crossing. The tracker is resilient enough to withstand the high flux of particles accompanying every bunch crossing; at design luminosity of $10^34 cm^-2 s^-1$, some 1000 particles will traverse the tracker every 25 ns. However, the mass of the tracker is minimal enough to suppress multiple scattering, off its material, that would distort particle trajectories. These design constraints -- resistance and transparency -- are satisfied silicon. The tracker has approximately $200 m^2$ of silicon surface, making it the largest silicon detector ever constructed. The pseudorapidity coverage of the pixel and strip trackers is shown in fig.\ref{fig:trackerYZ}.
+
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=4in]{Chapter3/importfigs/cms_cft_09_003_fig1.png}
+\par\end{centering}
+\caption{Pseudorapidity acceptance of tracker \label{fig:trackerYZ}}
+\end{figure}
 
 \subsubsection{Pixel Tracker}
 
@@ -40,64 +49,70 @@ Every silicon-pixel has a corresponding readout chip. The readout chips are sold
 
 \subsubsection{Strip Tracker}
 
-Outside the pixel tracker are the layers of the strip tracker. They function similar to the components of the pixel tracker, except the strip tracker consists of thin silicon plates. The strip tracker itself can be broken down into four components: the inner barrel layer, the inner endcaps, the outer barrel layer, and the outer endcaps. In total, these layers contain some $9.3 \times 10^6$ strips.
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=4in]{Chapter3/importfigs/cms_cft_09_003_fig1.png}
-\par\end{centering}
-\end{figure}
+Outside the pixel tracker are the layers of the strip tracker. They function similar to the components of the pixel tracker, except the strip tracker consists of thin silicon plates. The strip tracker itself can be broken down into four components: the inner barrel layer, the inner endcaps, the outer barrel layer, and the outer endcaps. In total, these layers contain some $9.3 \times 10^6$ strips. 
 
 \subsection{Electromagnetic Calorimeter}
 
-The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution; for example, the ECAL has the resolution suitable for the decay of the Higgs boson into two photons. The ECAL is both hermetic and homogenous. 
+The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps, as seen in fig\ref{fig:ecalComp}. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution; for example, the ECAL has the resolution suitable for the decay of the Higgs boson into two photons. The ECAL is both hermetic and homogenous. 
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=7in]{Chapter3/importfigs/ecal_performance_with_examples.png}
 \par\end{centering}
+\caption{ECAL components \label{fig:ecalComp}}
 \end{figure}
 
-The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs).
+The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs). ECAL's energy resolution, as a function of energy, is given by fig.\ref{fig:ecalRes}.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-007.pdf}
 \par\end{centering}
+\caption{Ecal energy resolution \label{fig:ecalRes}}
 \end{figure}
  
 \subsection{Hadronic Calorimeter}
 
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=5in]{Chapter3/importfigs/filtering_noise_in_CMS_hadron_calorimeter.png}
-\par\end{centering}
-\end{figure}
 
-The Hadronic Calorimeter (HCAL) is the next layer outside the tracker. HCAL is a sampling calorimeter, meaning that it absorbs particles and measures their energyy and momentum via scintillation. HCAL has such a large acceptance that it can indirectly observe non-interacting particles such as neutrinos. The HCAL is designed to be hermetic, so that imbalances of momentum and energy can be precisely measured.
-
+The Hadronic Calorimeter (HCAL) is the next layer outside the ECAL. The HCAL is a sampling calorimeter, meaning that it absorbs particles and measures their energyy and momentum via scintillation. HCAL has such a large acceptance that it can indirectly observe non-interacting particles such as neutrinos. The HCAL is designed to be hermetic, so that imbalances of momentum and energy can be precisely measured. Fig.\ref{fig:hcalRes} plots the HCAL's energy resolution; note that the resolution changes with $|\eta|$.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-008.pdf}
 \par\end{centering}
+\caption{HCAL energy resolution \label{fig:hcalRes}}
+\end{figure}
+
+There are four sub-sections of the HCAL: the inner barrel (HB) and the outer barrel (HO), two endcaps (HE), and two forward calorimeters (HF). The HF are the most relevant to this analysis because of their use in triggering on non-hadronic events. Fig.\ref{fig:hcalComp} shows the HCAL energy resolution.
+
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=5in]{Chapter3/importfigs/filtering_noise_in_CMS_hadron_calorimeter.png}
+\par\end{centering}
+\caption{HCAL Components \label{fig:hcalComp}}
 \end{figure}
 
 
 \subsubsection{Hadronic Forward Calorimeters}
 
-The Hadronic Forward Calorimeters (HF) absorbs the greatest portion of energy from collisions. As such it is designed for maximum radiative resistance. Hits in the HF are used to measure the instantaneous luminosity of CMS. The HF encompasses ($3.0<|\eta| < 5.2 $) and complements the coverage provided by the barrel and endcap detectors.
+The Hadronic Forward Calorimeters (HF) absorbs the greatest portion of energy from collisions. As named, it is located in the forward region ($3.0<|\eta| < 5.2 $) of CMS and complements the coverage provided by the barrel and endcap detectors.
+
+HCAL is of made of quartz fibers and steel absorbers for maximum radiative resistance. When high energy particles pass through the quartz fibers, these particles are moving faster than the speed of light in the medium, depositing energy that causes particle showers. These showers give off light, in the form of Cherenkov radiation, that the fibers transmit to photomultiplier tubes (PMTs). The PMTs readout to the L1-trigger. Triggering on HF can also be done by vetoing on HF activity.
+
+Hits in the HF are used to measure the instantaneous luminosity of CMS. 
 
 \subsection{Muon Detector}
 
-The outermost layer of CMS consists of the muon detectors. Muons are particles nearly identical to electrons, except for their mass, which exceeds that of the electron by some two orders of magnitude. High mass particles, like the Higgs boson, often decay into a final state containing muons. The muon detector not only identifies muons, but also measures their momentum. The muon detector has readout fast enough for triggering on muons.
+The outermost layer of CMS consists of the muon detectors, as seen in fig.\ref{fig:muonYZ}. Muons are particles nearly identical to electrons, except for their mass, which exceeds that of the electron by some two orders of magnitude. High mass particles, like the Higgs boson, often decay into a final state containing muons. The muon detector not only identifies muons, but also measures their momentum. The muon detector has readout fast enough for triggering on muons.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-006.pdf}
 \par\end{centering}
+\caption{Pseudorapidity acceptance of muon detector \label{fig:muonYZ}}
 \end{figure}
 
+The muon detector consists of three types of component: muon drift tubes (DT), cathode strip chambers (CSC), and resistive plate chambers (RPC). The DTs are gas filled chambers that contain a stretched metal wire. When muons pass through the DT gas, electrons are excited. These electrons escape from the gas atoms and are attracted to the metal wire, which triggers a signal. The CSC, located in the endcaps, operate under similar principles, but contain perpendicular arrays of positively charged and negatively charged wires immersed in gas. The RPC do not use electrode wires to detect excited electrons; instead, high-resitivity plates are used as alternating cathodes and anodes. 
 
 \subsection{Zero Degree Calorimeter}
 
@@ -105,12 +120,13 @@ The zero degree calorimeters are both sides of CMS, approximately 140 meters fro
 
 \subsection{Particle Flow Algorithm}
 
-Raw data from the sub-detectors is combined, for data analysis, by the particle-flow (PF) algorithm. The PF takes the data about tracks in the tracker and energy deposits in the calorimeter, and uses them to reconstruct physics-related data objects, like jets, and to identify specific particles, such as photons and muons. The PF also identifies missing energy and momentum for use in neutrino studies. These data objects are stored in a format similar to that of conventional MC event generators. CMS gains significant jet reconstruction efficiency via the PF. At low transverse momentum, PF reconstructs jets at nearly twice the resolution of HCAL and ECAL. This increase in efficiency comes from the PF integrating in track data with the calorimeter tower data. 
+Raw data from the sub-detectors is combined, for data analysis, by the particle-flow (PF) algorithm. The PF takes the data about tracks in the tracker and energy deposits in the calorimeter, and uses them to reconstruct physics-related data objects, like jets, and to identify specific particles, such as photons and muons. The PF also identifies missing energy and momentum for use in neutrino studies. These data objects are stored in a format similar to that of conventional MC event generators. CMS gains significant jet reconstruction efficiency via the PF. At low transverse momentum, PF reconstructs jets at nearly twice the resolution of HCAL and ECAL. This increase in efficiency comes from the PF integrating in track data with the calorimeter tower data. Fig.\ref{fig:pfPerf} compares the performance of the PF algorithm to the calorimter reconstruction.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/CCrec2_05_16.jpg}
 \par\end{centering}
+\caption{Performance of particle flow alorgithm compared to calorimeter readout.\label{fig:pfPerf}}
 \end{figure}
 
 \subsection{Luminosity}
@@ -118,7 +134,7 @@ Raw data from the sub-detectors is combined, for data analysis, by the particle-
 One of the most important quantities measured by CMS is luminosity. Luminosity is necessary to convert the number of events detected, for a given channel, into a collision cross-section. Collision cross-sections are among the primary observables predicted by theoretical physics, specifically quantum field theory. For particle physics, the collision cross-section of a process is typically measured through the relation:
 
 \begin{equation}
-\sigma  = \frac{R}{\mathit{L}}
+\sigma  = \frac{R}{\mathit{L}} ,
 \end{equation}
 
 Where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity.
@@ -131,20 +147,22 @@ The luminometers of CMS produce signals proportional to the instantanteous lumin
 
 CMS uses a two-tiered triggering system. The first tier, the L1 trigger, is hardware based. The second tier, the high-level trigger (HLT), is software based. The L1 trigger recieves raw data from the calorimeters and the muon detectors; this determines when the tracker will readout data. The raw data from the tracker, calorimeters, and muon detectors is then passed on to a computer farm running the HLT menu. The HLT then performs a simplistic reconstruction of the raw data into physics objects useful for analysis: jets, tracks, and identifiable particles. If an event passes the HLT, the raw data is permanently stored in preparation for a more complex reconstruction. 
 
-The 2015 UPC triggers were for low multiplicity events and low transverse momentum events. Typical heavy-ion collisions are high multiplicity events. Below is an event from one of the first heavy-ion collisions at CMS in 2010.
+The 2015 UPC triggers were for low multiplicity events and low transverse momentum events. Typical heavy-ion collisions are high multiplicity events. Fig.\ref{fig:eventdisplayHI} is an event display of one of the first heavy-ion collisions at CMS in 2010.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/cms_firstleadcoll.jpg}
 \par\end{centering}
+\caption{High multiplicity PbPb collision \label{fig:eventdisplayHI}}
 \end{figure}
 
-The event below is an example of a UPC upsilon candidate.
+Fig.\ref{fig:eventdisplayUPCUps} is the event display of a UPC upsilon candidate.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/upcJpsi_run285530_lumi594_event944509077_v0.png}
 \par\end{centering}
+\caption{UPC Upsilon candidate \label{fig:eventdisplayUPCUps}}
 \end{figure}
 
 For this analysis, the L1 trigger applies two selections. First, the L1 checks that at least one of the HF is empty. This is the most important part of the trigger in so far as it suppressed the hadronic contamination of the dataset. Then, if there is at least 5 GeV of energy deposited in the ECAL, the event passes to the HLT. 

@@ -7,10 +7,10 @@ The Standard Model describes the fundamental particles of the universe in terms 
 
 Among the fermions are the leptons, neutrinos, and quarks. The leptons consist of the electron, muon, and tau, as well as their anti-particles. The leptons are seemingly fundamental: high energy experiments have yet to observe internal lepton-structure. Neutrinos are weakly interacting particles detected primarily through the precise measuring of missing transverse energy in the products of particle collisions. Quarks are the constituent particles of baryons, which contain three valence quarks, and mesons, which contain two valence quarks. In addition to the valence quarks are the sea quarks, which appear and disappear as quark-antiquark pairs within hadrons. The hadrons are particles made of quarks and gluons.
 
-The behavior of fundamental particles is best described within the framework of quantum field theory (QTF). QFT defines a Lagrangian for fundamental particles. This Lagrangian then predicts the outcome of particle collisions. Different terms in the Lagrangian correspond to the various interactions between particles. The Standard Model Lagrangian can be broken down into four basic terms:
+The behavior of fundamental particles is best described within the framework of quantum field theory (QTF). QFT defines a Lagrangian for fundamental particles. This Lagrangian then predicts the outcome of particle collisions. Different terms in the Lagrangian correspond to the various interactions between particles. The Standard Model Lagrangian can be broken down into three basic terms:
 
 \begin{equation}
-\mathcal{L}_{Standard Model} = \mathcal{L}_{QED} + \mathcal{L}_{QCD} + \mathcal{L}_{Higgs} + ... 
+\mathcal{L}_{Standard Model} = \mathcal{L}_{QED} + \mathcal{L}_{QCD} + \mathcal{L}_{Higgs} + ... ,  
 \end{equation}
 
 The QED and QCD Lagrangians will be the most important in what follows. Feynman rules are derived from the Langrangian. Particularly important for the Feynman rules are the coupling constants for the electromagnetic force and strong-nuclear force. 
@@ -22,25 +22,26 @@ Quantum electrodynamics (QED) is a theory of electromagnetic interaction in term
 The QED coupling constant is approximately ~1/137 at perturbative scales. However, at small scales, i.e. non-perturbative momentum transfers $Q^2$, the coupling constant increases.
 
 \begin{equation}
-\alpha_{QED}(Q^2) = \frac{ \alpha_{em}}{(1 - \frac{\alpha_{em}}{3\pi})\mathrm{ln}(\frac{Q^2}{m^2}) }
+\alpha_{QED}(Q^2) = \frac{ \alpha_{em}}{(1 - \frac{\alpha_{em}}{3\pi})\mathrm{ln}(\frac{Q^2}{m^2}) } ,
 \end{equation}
 
 \section{Quantum Chromodynamics}
 
 The quarks are a family of fermions that compose the baryons and the mesons. Baryons consist of three quarks in a color neutral state, while mesons consist two quarks in a color neutral state. "Color" in this context refers to the six kinds of strongly-interacting charge available to quarks: red and anti-red, blue and anti-blue, and green and anti-green. Color charge has no relation to optical phenomena, but provides a useful analogy for the stable combinations of quarks. The net color-charge of a baryon or meson is "white".
 
-Unlike QED, the QCD coupling increases with distance. This has the practical consequence of the strong-interactions being stronger in high momentum transfer collisions. The direct results of the running QCD coupling are the dual phenomena of asymptotic freedom and color confinement. At large distances, string tension describes the binding force of the quarks. At short distances, however, Coulomb-like interactions dominate.
+Unlike QED, the QCD coupling increases with distance. Fig.\ref{fig:runningQCDCoupling} shows the running of the QCD coupling with $Q^2$. This has the practical consequence of the strong-interactions being stronger in high momentum transfer collisions. The direct results of the running QCD coupling are the dual phenomena of asymptotic freedom and color confinement. At large distances, string tension describes the binding force of the quarks. At short distances, however, Coulomb-like interactions dominate.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter1/importfigs/qcd_coupling_bethke.png}
 \par\end{centering}
+\caption{QCD Coupling Constant vs. $Q^2$ \label{fig:runningQCDCoupling}}
 \end{figure}
 
 Within the nucleus, a proton can be thought of as a bubble in a vacuum. Debrye screening exerts a pressure on the proton. This pressure is responsible for the size of the proton. 
 
 \begin{equation}
-\alpha_{QCD}(Q^2) = \alpha_{s}(Q^2) = \frac{4 \pi }{(11 - \frac{2}{3}n_f)\mathrm{ln}(\frac{Q^2}{\Lambda^2_{QCD}}) }
+\alpha_{QCD}(Q^2) = \alpha_{s}(Q^2) = \frac{4 \pi }{(11 - \frac{2}{3}n_f)\mathrm{ln}(\frac{Q^2}{\Lambda^2_{QCD}}) } ,
 \end{equation}
 
 \section{QCD Experiments}
@@ -59,13 +60,13 @@ Deep inelastic scattering commonly refers to the scattering of a leptons off had
 
 The parton model, first proposed by Richard Feynman, posits that hadrons in general, and nucleons in specific, are made of more fundamental constituent particles which may or may not be the quarks implied by the SU(3) symmetry. In addition to the quarks, the partons also include any field quanta associated with nuclear forces. In time, these field quanta are dubbed "gluons".
 
-"Scaling" is an interpretation of the data from deep inelastic scattering. First proposed by James Bjorken, scaling is reflected in the incoherence of photon-proton interactions at photon energies above 1 $GeV/c$.
-
+"Scaling" is an interpretation of the data from deep inelastic scattering (DIS). First proposed by James Bjorken, scaling is reflected in the incoherence of photon-proton interactions at photon energies above 1 $GeV/c$. Predictions from perturbative QCD are in good agreement with DIS data from HERA, as seen in .\ref{fig:qcdBjorkenX}.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter1/importfigs/scholarpedia_bjorken_x_qcdExp.png}
 \par\end{centering}
+\caption{Collision Cross Section vs Bjorken-x, theory and data \label{fig:qcdBjorkenX}}
 \end{figure}
 
 Soft processes compose the low momentum transfer, typically gluon-gluon interactions during a  collision.
@@ -76,12 +77,13 @@ Similar to the Rutherford experiment, in heavy-ion collisions the scattered part
 
 The Rutherford experiment has the three components that still characterize high-energy nuclear experiments: a probe, a medium, and a signal. Alpha particles probe the medium of the gold atom, and the angular distribution of scattered alpha particles signals the internal structure of the atom. 
 
-Ultra-peripheral collisions occur at impact parameters greater than the sum of the heavy-ion radii. In these collisions, hadronic interactions are strongly suppressed while photonuclear activity is enhanced proportional to the square of the nuclear charge. The electromagnetic field of an incoming heavy-ion, from the perspective of a target, is equivalent to a flux of virtual photons. 
+Ultra-peripheral collisions occur at impact parameters greater than the sum of the heavy-ion radii. In these collisions, hadronic interactions are strongly suppressed while photonuclear activity is enhanced proportional to the square of the nuclear charge. The electromagnetic field of an incoming heavy-ion, from the perspective of a target, is equivalent to a flux of virtual photons; fig.\ref{fig:smushedField} illustrates the Lorentz contraction of the field of a boosted charge.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter1/importfigs/jackson_em_wwa.png}
 \par\end{centering}
+\caption{ (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \label{fig:smushedField}}
 \end{figure}
 
 The Weizsacker-Williams appoximation (WWA) calculates the density of photons, about the nucleus, as a function of energy. WWA is a semi-classical formulation. Maxwell's equations are solved for a stationary point charge boosted to an ultra-relativistic velocity. In the target's frame, the Fourier transform of the source field is taken. The Fourier frequency modes are interpreted through the quantum mechanical equation of photon energy. 
