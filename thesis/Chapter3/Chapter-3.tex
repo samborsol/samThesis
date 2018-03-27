@@ -62,7 +62,7 @@ The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for dete
 \caption{ECAL components \label{fig:ecalComp}}
 \end{figure}
 
-The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs). ECAL's energy resolution, as a function of energy, is given by fig.\ref{fig:ecalRes}.
+The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs). ECAL's energy resolution, as a function of energy, is given by fig.\ref{fig:ecalRes}. The resolution increases with energy because, at large energies, parton showers become more similar as their random fluctuations average-out.
 
 \begin{figure}[h!]
 \begin{centering}
@@ -70,6 +70,16 @@ The data readout is fast enough that CMS can trigger off signals in the ECAL. It
 \par\end{centering}
 \caption{Ecal energy resolution \label{fig:ecalRes}}
 \end{figure}
+ 
+In CMS trigger development, "EG" triggers fire based on energy deposits in the ECAL; fig.\ref{fig:ecalResL1} gives the EG trigger energy resolution. This energy comes primarily from electrons and photons. When these particles strike a tungstate crystal, the particle shower size is approximately that of the crystal. Electrons are distinguished from photons by the correlation of track to ECAL energy. The L1 trigger does not fire on tracks, which are reconstructed at the HLT level. Thus, L1 EG triggers do not distinguish between electrons and photons. 
+
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=4in]{Chapter3/importfigs/figures_L1EGresolutionEB_cmsTriggerSys.png}
+\par\end{centering}
+\caption{Ecal energy resolution \label{fig:ecalResL1}}
+\end{figure}
+ 
  
 \subsection{Hadronic Calorimeter}
 
@@ -99,7 +109,7 @@ The Hadronic Forward Calorimeters (HF) absorbs the greatest portion of energy fr
 
 HCAL is of made of quartz fibers and steel absorbers for maximum radiative resistance. When high energy particles pass through the quartz fibers, these particles are moving faster than the speed of light in the medium, depositing energy that causes particle showers. These showers give off light, in the form of Cherenkov radiation, that the fibers transmit to photomultiplier tubes (PMTs). The PMTs readout to the L1-trigger. Triggering on HF can also be done by vetoing on HF activity.
 
-Hits in the HF are used to measure the instantaneous luminosity of CMS. 
+Hits in the HF are used to measure the instantaneous luminosity of CMS. As shown in fig.\ref{fig:hcalRes}, the HF have a finer $E_T$ resolution than the other parts of the HCAL, making it suitable for high precision measurement of luminosity. Furthermore, because HF noise is comparatively small with respect to Minbias HF threshold, the veto of the HF threshold is a reliable measure of HF "emptiness". 
 
 \subsection{Muon Detector}
 
@@ -138,6 +148,12 @@ One of the most important quantities measured by CMS is luminosity. Luminosity i
 \end{equation}
 
 Where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity.
+
+There are two kinds of CMS luminometer: online and offline. Online luminometers readout the luminosity per bunch in real time. As of 2015 there are three online luminometers: the pixel luminosity telescope (PLT), the HF, and the beam conditions monitor (BCM1f). There is a high-rate, independent data-acquisition system for each of the online luminometers. Offline luminometers measure the rate of reconstructed objects. The primary offline lumimoneter is the pixel tracker. In general, the offline lumimometers have better stability over time. \cite{CMS:2010gua}
+
+The online and offline luminometers complement each other for high precision data analysis. Specifically, the offline data can be used to calibrate out imperfections in the online data. 
+
+In addition to these hardware luminometers, CMS can use physics processes as luminosity benchmarks.  For example, other experiments have measured the Z-boson cross-section to a high accuracy and high precision. Comparing this cross-section to the Z-boson mass-peak ,in CMS data, provides a cross-check to the delivered luminosity. 
 
 \subsubsection{van de Meer Scanning}
 

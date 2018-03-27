@@ -7,46 +7,49 @@ A level-1 auxiliary file: Chapter3/Chapter-3.aux
 The style file: apalike2.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
+Warning--to sort, need author or key in CMS:2010gua
+Warning--empty author in CMS:2010gua
+Warning--empty journal in CMS:2010gua
 Warning--empty journal in Crittenden:1997yz
-You've used 9 entries,
+You've used 10 entries,
             2229 wiz_defined-function locations,
-            580 strings with 5437 characters,
-and the built_in function-call counts, 3092 in all, are:
-= -- 302
+            583 strings with 5490 characters,
+and the built_in function-call counts, 3316 in all, are:
+= -- 321
 > -- 99
 < -- 9
 + -- 31
 - -- 30
-* -- 244
-:= -- 560
-add.period$ -- 26
-call.type$ -- 9
-change.case$ -- 56
-chr.to.int$ -- 8
-cite$ -- 10
-duplicate$ -- 125
-empty$ -- 233
+* -- 265
+:= -- 593
+add.period$ -- 28
+call.type$ -- 10
+change.case$ -- 61
+chr.to.int$ -- 9
+cite$ -- 15
+duplicate$ -- 138
+empty$ -- 256
 format.name$ -- 47
-if$ -- 607
+if$ -- 650
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 9
-newline$ -- 47
+missing$ -- 10
+newline$ -- 51
 num.names$ -- 27
-pop$ -- 33
+pop$ -- 41
 preamble$ -- 1
-purify$ -- 56
+purify$ -- 61
 quote$ -- 0
-skip$ -- 103
+skip$ -- 112
 stack$ -- 0
-substring$ -- 213
+substring$ -- 226
 swap$ -- 8
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 54
-warning$ -- 1
+type$ -- 60
+warning$ -- 4
 while$ -- 26
 width$ -- 0
-write$ -- 116
-(There was 1 warning)
+write$ -- 125
+(There were 4 warnings)
