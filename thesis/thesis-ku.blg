@@ -4,6 +4,11 @@ The top-level auxiliary file: thesis-ku.aux
 A level-1 auxiliary file: Chapter1/Chapter-1.aux
 A level-1 auxiliary file: Chapter2/Chapter-2.aux
 A level-1 auxiliary file: Chapter3/Chapter-3.aux
+A level-1 auxiliary file: Chapter4/Chapter-4.aux
+A level-1 auxiliary file: Chapter5/Chapter-5.aux
+A level-1 auxiliary file: Chapter6/Chapter-6.aux
+A level-1 auxiliary file: Chapter7/Chapter-7.aux
+A level-1 auxiliary file: Chapter8/Chapter-8.aux
 The style file: apalike2.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
@@ -13,7 +18,7 @@ Warning--empty journal in CMS:2010gua
 Warning--empty journal in Crittenden:1997yz
 You've used 10 entries,
             2229 wiz_defined-function locations,
-            583 strings with 5490 characters,
+            588 strings with 5600 characters,
 and the built_in function-call counts, 3316 in all, are:
 = -- 321
 > -- 99

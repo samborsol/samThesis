@@ -1,16 +1,20 @@
 
-\chapter{Detecting Photoproduction in Ultra-Peripheral HI Collisions}
+\chapter{Beam Radiation and Luminosity}
 
-Central heavy-ion collisions produce large numbers of tracks compared to proton collisions. However, ultra-peripheral collisions are characterized by emptiness in most of CMS. As such, ultra-peripheral collisions can be thought of as the complement to the high multiplicity, hadronically dominated heavy-ion collisions. 
+One of the most important quantities measured by CMS is luminosity. Luminosity is necessary to convert the number of events detected, for a given channel, into a collision cross-section. Collision cross-sections are among the primary observables predicted by theoretical physics, specifically quantum field theory. For particle physics, the collision cross-section of a process is typically measured through the relation:
 
-\section{Selection on Hadronic Forward Calorimeter}
+\begin{equation}
+\sigma  = \frac{R}{\mathit{L}} ,
+\end{equation}
 
-	The operative variable for the HF is the maximum calorimeter-tower energy.
+Where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity.
 
-\section{Selection on Zero Degree Calorimeter}
+There are two kinds of CMS luminometer: online and offline. Online luminometers readout the luminosity per bunch in real time. As of 2015 there are three online luminometers: the pixel luminosity telescope (PLT), the HF, and the beam conditions monitor (BCM1f). There is a high-rate, independent data-acquisition system for each of the online luminometers. Offline luminometers measure the rate of reconstructed objects. The primary offline lumimoneter is the pixel tracker. In general, the offline lumimometers have better stability over time. \cite{CMS:2010gua}
 
-	The zero degree calorimeter detects any neutrons emitted from the colliding nuclei. Neutron emission indicates that the nucleus dissociated, and that the interaction was not coherent. Removing these obviously incoherent events from our data sample improves our signal. 
+The online and offline luminometers complement each other for high precision data analysis. Specifically, the offline data can be used to calibrate out imperfections in the online data. 
 
-\section{Selection on Pixel Tracker}
+In addition to these hardware luminometers, CMS can use physics processes as luminosity benchmarks.  For example, other experiments have measured the Z-boson cross-section to a high accuracy and high precision. Comparing this cross-section to the Z-boson mass-peak ,in CMS data, provides a cross-check to the delivered luminosity. 
 
-	High purity tracks are recorded by the pixel tracker. These tracks are then used to determine the size of rapidity gaps.
+\section{van de Meer Scanning}
+
+The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. This calibration is accomplished via Van de Meer scanning. The opposing beams of LHC are moved back and forth in the transverse plane. During the scan, the detector response is measured as a function of beam displacement. The beam widths are calculated from Gaussian fits to the detector response. The visible cross-section of the luminometer in question is then derived from the width of the beams, and acts as the calibration of the detector response. 

@@ -1,14 +1,26 @@
 
-\chapter{DDPP at DESY}
+\chapter{Triggering}
 
-\section{H1}
+CMS uses a two-tiered triggering system. The first tier, the L1 trigger, is hardware based. The second tier, the high-level trigger (HLT), is software based. The L1 trigger recieves raw data from the calorimeters and the muon detectors; this determines when the tracker will readout data. The raw data from the tracker, calorimeters, and muon detectors is then passed on to a computer farm running the HLT menu. The HLT then performs a simplistic reconstruction of the raw data into physics objects useful for analysis: jets, tracks, and identifiable particles. If an event passes the HLT, the raw data is permanently stored in preparation for a more complex reconstruction. 
 
-The H1 Collaboration is an experiment hosted by the HERA electron-proton collider at DESY in Hamburg, Germany. 
+The 2015 UPC triggers were for low multiplicity events and low transverse momentum events. Typical heavy-ion collisions are high multiplicity events. Fig.\ref{fig:eventdisplayHI} is an event display of one of the first heavy-ion collisions at CMS in 2010.
 
-\subsection{Diffractive Jets in ep}
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=4in]{Chapter3/importfigs/cms_firstleadcoll.jpg}
+\par\end{centering}
+\caption{High multiplicity PbPb collision \label{fig:eventdisplayHI}}
+\end{figure}
 
-Diffractive jet analyses at H1 demonstrate factorization breaking in the nuclear parton distribution. In comparison to H1 data, next-to-leading order QCD calculations of the diffractive-photoproduction dijet cross-section are a factor of two larger than measured. 
+Fig.\ref{fig:eventdisplayUPCUps} is the event display of a UPC upsilon candidate.
 
-\section{RAPGAP}
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=4in]{Chapter3/importfigs/upcJpsi_run285530_lumi594_event944509077_v0.png}
+\par\end{centering}
+\caption{UPC Upsilon candidate \label{fig:eventdisplayUPCUps}}
+\end{figure}
 
-RAPGAP is a Monte Carlo generator created for H1 analyses, specifically diffractive studies. By default, RAPGAP models electron-proton and proton-proton collisions. However, ultra-peripheral heavy-ion collisions are distinct from electron-proton collisions only in the photon spectrum. Re-weighing RAPGAP events by the heavy-ion photon spectrum can thus model heavy-ion UPC. 
+For this analysis, the L1 trigger applies two selections. First, the L1 checks that at least one of the HF is empty. This is the most important part of the trigger in so far as it suppressed the hadronic contamination of the dataset. Then, if there is at least 5 GeV of energy deposited in the ECAL, the event passes to the HLT. 
+
+Low multiplicity events are difficult to distinguish from background. To compensate, the HLT in turn requires that there be at least once reconstructed track from the pixel tracker, to make sure that there are particles that will be reconstructed by the complete tracker. Only the pixel tracker is used for these HLTs to increase the speed of reconstruction while decreasing needed computer cycles. 

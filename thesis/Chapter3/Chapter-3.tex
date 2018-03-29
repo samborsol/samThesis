@@ -139,48 +139,4 @@ Raw data from the sub-detectors is combined, for data analysis, by the particle-
 \caption{Performance of particle flow alorgithm compared to calorimeter readout.\label{fig:pfPerf}}
 \end{figure}
 
-\subsection{Luminosity}
 
-One of the most important quantities measured by CMS is luminosity. Luminosity is necessary to convert the number of events detected, for a given channel, into a collision cross-section. Collision cross-sections are among the primary observables predicted by theoretical physics, specifically quantum field theory. For particle physics, the collision cross-section of a process is typically measured through the relation:
-
-\begin{equation}
-\sigma  = \frac{R}{\mathit{L}} ,
-\end{equation}
-
-Where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity.
-
-There are two kinds of CMS luminometer: online and offline. Online luminometers readout the luminosity per bunch in real time. As of 2015 there are three online luminometers: the pixel luminosity telescope (PLT), the HF, and the beam conditions monitor (BCM1f). There is a high-rate, independent data-acquisition system for each of the online luminometers. Offline luminometers measure the rate of reconstructed objects. The primary offline lumimoneter is the pixel tracker. In general, the offline lumimometers have better stability over time. \cite{CMS:2010gua}
-
-The online and offline luminometers complement each other for high precision data analysis. Specifically, the offline data can be used to calibrate out imperfections in the online data. 
-
-In addition to these hardware luminometers, CMS can use physics processes as luminosity benchmarks.  For example, other experiments have measured the Z-boson cross-section to a high accuracy and high precision. Comparing this cross-section to the Z-boson mass-peak ,in CMS data, provides a cross-check to the delivered luminosity. 
-
-\subsubsection{van de Meer Scanning}
-
-The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. This calibration is accomplished via Van de Meer scanning. The opposing beams of LHC are moved back and forth in the transverse plane. During the scan, the detector response is measured as a function of beam displacement. The beam widths are calculated from Gaussian fits to the detector response. The visible cross-section of the luminometer in question is then derived from the width of the beams, and acts as the calibration of the detector response. 
-
-\subsection{Triggering}
-
-CMS uses a two-tiered triggering system. The first tier, the L1 trigger, is hardware based. The second tier, the high-level trigger (HLT), is software based. The L1 trigger recieves raw data from the calorimeters and the muon detectors; this determines when the tracker will readout data. The raw data from the tracker, calorimeters, and muon detectors is then passed on to a computer farm running the HLT menu. The HLT then performs a simplistic reconstruction of the raw data into physics objects useful for analysis: jets, tracks, and identifiable particles. If an event passes the HLT, the raw data is permanently stored in preparation for a more complex reconstruction. 
-
-The 2015 UPC triggers were for low multiplicity events and low transverse momentum events. Typical heavy-ion collisions are high multiplicity events. Fig.\ref{fig:eventdisplayHI} is an event display of one of the first heavy-ion collisions at CMS in 2010.
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=4in]{Chapter3/importfigs/cms_firstleadcoll.jpg}
-\par\end{centering}
-\caption{High multiplicity PbPb collision \label{fig:eventdisplayHI}}
-\end{figure}
-
-Fig.\ref{fig:eventdisplayUPCUps} is the event display of a UPC upsilon candidate.
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=4in]{Chapter3/importfigs/upcJpsi_run285530_lumi594_event944509077_v0.png}
-\par\end{centering}
-\caption{UPC Upsilon candidate \label{fig:eventdisplayUPCUps}}
-\end{figure}
-
-For this analysis, the L1 trigger applies two selections. First, the L1 checks that at least one of the HF is empty. This is the most important part of the trigger in so far as it suppressed the hadronic contamination of the dataset. Then, if there is at least 5 GeV of energy deposited in the ECAL, the event passes to the HLT. 
-
-Low multiplicity events are difficult to distinguish from background. To compensate, the HLT in turn requires that there be at least once reconstructed track from the pixel tracker, to make sure that there are particles that will be reconstructed by the complete tracker. Only the pixel tracker is used for these HLTs to increase the speed of reconstruction while decreasing needed computer cycles. 
