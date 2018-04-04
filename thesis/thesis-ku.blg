@@ -9,128 +9,60 @@ A level-1 auxiliary file: Chapter5/Chapter-5.aux
 A level-1 auxiliary file: Chapter6/Chapter-6.aux
 A level-1 auxiliary file: Chapter7/Chapter-7.aux
 A level-1 auxiliary file: Chapter8/Chapter-8.aux
-The style file: apalike2.bst
+The style file: Biblio/utphys.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
-Database file #2: Biblio/upcTheoryChp.bib
-Repeated entry---line 867 of file Biblio/upcTheoryChp.bib
- : @article{Strikman:2005ze
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 931 of file Biblio/upcTheoryChp.bib
- : @article{Frankfurt:2006tp
- :                          ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1284 of file Biblio/upcTheoryChp.bib
- :       authnote     =  "J. Adam and D. Adamová and A.M. Adare and M.M. Aggarwal and G. Aglieri Rinella and M. Agnello and A.G. Agocs and A. Agostinelli and S. Aguilar Salazar and Z. Ahammed and A. Ahmad Masoodi and N. Ahmad and S.A. Ahn and S.U. Ahn and A. Akindinov and D. Aleksandrov and B. Alessandro and R. Alfaro Molina and A. Alici and A. Alkin and E. Almaráz Aviña and J. Alme and T. Alt and V. Altini and S. Altinpinar and I. Altsybeev and C. Andrei and A. Andronic and V. Anguelov and J. Anielski and C. Anson and T. Antičić and F. Antinori and P. Antonioli and L. Aphecetche and H. Appelsh\"
- :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {a}user and N. Arbor and S. Arcelli and A. Arend and N. Armesto and R. Arnaldi and T. Aronsson and I.C. Arsene and M. Arslandok and A. Asryan and A. Augustinus and R. Averbeck and T.C. Awes and J. \"{a}yst\"{o} and M.D. Azmi and M. Bach and A. Badalà and Y.W. Baek and R. Bailhache and R. Bala and R. Baldini Ferroli and A. Baldisseri and F. Baltasar Dos Santos Pedrosa and J. Bán and R.C. Baral and R. Barbera and F. Barile and G.G. Barnaf\"{o}ldi and L.S. Barnby and V. Barret and J. Bartke and M. Basile and N. Bastid and S. Basu and B. Bathen and G. Batigne and B. Batyunya and C. Baumann and I.G. Bearden and H. Beck and N.K. Behera and I. Belikov and F. Bellini and R. Bellwied and E. Belmont-Moreno and G. Bencedi and S. Beole and I. Berceanu and A. Bercuci and Y. Berdnikov and D. Berenyi and A.A.E. Bergognon and D. Berzano and L. Betev and A. Bhasin and A.K. Bhati and J. Bhom and N. Bianchi and L. Bianchi and C. Bianchin and J. Bielčík and J. Bielčíková and A. Bilandzic and S. Bjelogrlic and F. Blanco and F. Blanco and D. Blau and C. Blume and M. Boccioli and N. Bock and S. B\"{o}ttger and A. Bogdanov and H. Bøggild and M. Bogolyubsky and L. Boldizsár and M. Bombara and J. Book and H. Borel and A. Borissov and F. Bossú and M. Botje and E. Botta and B. Boyer and E. Braidot and P. Braun-Munzinger and M. Bregant and T. Breitner and T.A. Browning and M. Broz and R. Brun and E. Bruna and G.E. Bruno and D. Budnikov and H. Buesching and S. Bufalino and O. Busch and Z. Buthelezi and D. Caballero Orduna and D. Caffarri and X. Cai and H. Caines and E. Calvo Villar and P. Camerini and V. Canoa Roman and G. Cara Romeo and W. Carena and F. Carena and N. Carlin Filho and F. Carminati and A. Casanova Díaz and J. Castillo Castellanos and J.F. Castillo Hernandez and E.A.R. Casula and V. Catanescu and C. Cavicchioli and C. Ceballos Sanchez and J. Cepila and P. Cerello and B. Chang and S. Chapeland and J.L. Charvet and S. Chattopadhyay and S. Chattopadhyay and I. Chawla and M. Cherney and C. Cheshkov and B. Cheynis and V. Chibante Barroso and D.D. Chinellato and P. Chochula and M. Chojnacki and S. Choudhury and P. Christakoglou and C.H. Christensen and P. Christiansen and T. Chujo and S.U. Chung and C. Cicalo and L. Cifarelli and F. Cindolo and J. Cleymans and F. Coccetti and F. Colamaria and D. Colella and G. Conesa Balbastre and Z. Conesa del Valle and G. Contin and J.G. Contreras and T.M. Cormier and Y. Corrales Morales and P. Cortese and I. Cort\'{e}s Maldonado and M.R. Cosentino and F. Costa and M.E. Cotallo and E. Crescio and P. Crochet and E. Cruz Alaniz and E. Cuautle and L. Cunqueiro and A. Dainese and H.H. Dalsgaard and A. Danu and D. Das and K. Das and I. Das and A. Dash and S. Dash and S. De and G.O.V. de Barros and A. De Caro and G. de Cataldo and J. de Cuveland and A. De Falco and D. De Gruttola and H. Delagrange and A. Deloff and N. De Marco and E. D\'{e}nes and S. De Pasquale and A. Deppman and G. D Erasmo and R. de Rooij and M.A. Diaz Corchero and D. Di Bari and T. Dietel and C. Di Giglio and S. Di Liberto and A. Di Mauro and P. Di Nezza and R. Divià and Ø. Djuvsland and A. Dobrin and T. Dobrowolski and I. Domínguez and B. D\"{o}nigus and O. Dordic and O. Driga and A.K. Dubey and A. Dubla and L. Ducroux and P. Dupieux and A.K. Dutta Majumdar and M.R. Dutta Majumdar and D. Elia and D. Emschermann and H. Engel and B. Erazmus and H.A. Erdal and B. Espagnon and M. Estienne and S. Esumi and D. Evans and G. Eyyubova and D. Fabris and J. Faivre and D. Falchieri and A. Fantoni and M. Fasel and R. Fearick and D. Fehlker and L. Feldkamp and D. Felea and A. Feliciello and B. Fenton-Olsen and G. Feofilov and A. Fernández T\'{e}llez and A. Ferretti and R. Ferretti and A. Festanti and J. Figiel and M.A.S. Figueredo and S. Filchagin and D. Finogeev and F.M. Fionda and E.M. Fiore and M. Floris and S. Foertsch and P. Foka and S. Fokin and E. Fragiacomo and A. Francescon and U. Frankenfeld and U. Fuchs and C. Furget and M. Fusco Girard and J.J. Gaardhøje and M. Gagliardi and A. Gago and M. Gallio and D.R. Gangadharan and P. Ganoti and C. Garabatos and E. Garcia-Solis and I. Garishvili and J. Gerhard and M. Germain and C. Geuna and A. Gheata and M. Gheata and P. Ghosh and P. Gianotti and M.R. Girard and P. Giubellino and E. Gladysz-Dziadus and P. Gl\"{a}ssel and R. Gomez and E.G. Ferreiro and L.H. González-Trueba and P. González-Zamora and S. Gorbunov and A. Goswami and S. Gotovac and V. Grabski and L.K. Graczykowski and R. Grajcarek and A. Grelli and C. Grigoras and A. Grigoras and V. Grigoriev and A. Grigoryan and S. Grigoryan and B. Grinyov and N. Grion and P. Gros and J.F. Grosse-Oetringhaus and J.-Y. Grossiord and R. Grosso and F. Guber and R. Guernane and C. Guerra Gutierrez and B. Guerzoni and M. Guilbaud and K. Gulbrandsen and H. Gulkanyan and T. Gunji and A. Gupta and R. Gupta and Ø. Haaland and C. Hadjidakis and M. Haiduc and H. Hamagaki and G. Hamar and B.H. Han and L.D. Hanratty and A. Hansen and Z. Harmanová-Tóthová and J.W. Harris and M. Hartig and A. Harton and D. Hasegan and D. Hatzifotiadou and A. Hayrapetyan and S.T. Heckel and M. Heide and H. Helstrup and A. Herghelegiu and G. Herrera Corral and N. Herrmann and B.A. Hess and K.F. Hetland and B. Hicks and B. Hippolyte and Y. Hori and P. Hristov and I. Hřivnáčová and M. Huang and T.J. Humanic and D.S. Hwang and R. Ichou and R. Ilkaev and I. Ilkiv and M. Inaba and E. Incani and G.M. Innocenti and P.G. Innocenti and M. Ippolitov and M. Irfan and C. Ivan and V. Ivanov and A. Ivanov and M. Ivanov and O. Ivanytskyi and A. Jacholkowski and P.M. Jacobs and H.J. Jang and R. Janik and M.A. Janik and P.H.S.Y. Jayarathna and S. Jena and D.M. Jha and R.T. Jimenez Bustamante and P.G. Jones and H. Jung and A. Jusko and A.B. Kaidalov and S. Kalcher and P. Kaliňák and T. Kalliokoski and A. Kalweit and J.H. Kang and V. Kaplin and A. Karasu Uysal and O. Karavichev and T. Karavicheva and E. Karpechev and A. Kazantsev and U. Kebschull and R. Keidel and S.A. Khan and P. Khan and M.M. Khan and A. Khanzadeev and Y. Kharlov and B. Kileng and M. Kim and S. Kim and D.J. Kim and D.W. Kim and J.H. Kim and J.S. Kim and T. Kim and M. Kim and B. Kim and S. Kirsch and I. Kisel and S. Kiselev and A. Kisiel and J.L. Klay and J. Klein and C. Klein-B\"{o}sing and M. Kliemant and A. Kluge and M.L. Knichel and A.G. Knospe and K. Koch and M.K. K\"{o}hler and T. Kollegger and A. Kolojvari and V. Kondratiev and N. Kondratyeva and A. Konevskikh and R. Kour and M. Kowalski and S. Kox and G. Koyithatta Meethaleveedu and J. Kral and I. Králik and F. Kramer and A. Kravčáková and T. Krawutschke and M. Krelina and M. Kretz and M. Krivda and F. Krizek and M. Krus and E. Kryshen and M. Krzewicki and Y. Kucheriaev and T. Kugathasan and C. Kuhn and P.G. Kuijer and I. Kulakov and J. Kumar and P. Kurashvili and A.B. Kurepin and A. Kurepin and A. Kuryakin and S. Kushpil and V. Kushpil and H. Kvaerno and M.J. Kweon and Y. Kwon and P. Ladrón de Guevara and I. Lakomov and R. Langoy and S.L. La Pointe and C. Lara and A. Lardeux and P. La Rocca and R. Lea and M. Lechman and K.S. Lee and G.R. Lee and S.C. Lee and J. Lehnert and M. Lenhardt and V. Lenti and H. León and M. Leoncino and I. León Monzón and H. León Vargas and P. L\'{e}vai and J. Lien and R. Lietava and S. Lindal and V. Lindenstruth and C. Lippmann and M.A. Lisa and H.M. Ljunggren and P.I. Loenne and V.R. Loggins and V. Loginov and S. Lohn and D. Lohner and C. Loizides and K.K. Loo and X. Lopez and E. López Torres and G. Løvhøiden and X.-G. Lu and P. Luettig and M. Lunardon and J. Luo and G. Luparello and C. Luzzi and K. Ma and R. Ma and D.M. Madagodahettige-Don and A. Maevskaya and M. Mager and D.P. Mahapatra and A. Maire and M. Malaev and I. Maldonado Cervantes and L. Malinina and D. MalʼKevich and P. Malzacher and A. Mamonov and L. Manceau and L. Mangotra and V. Manko and F. Manso and V. Manzari and Y. Mao and M. Marchisone and J. Mareš and G.V. Margagliotti and A. Margotti and A. Marín and C.A. Marin Tobon and C. Markert and M. Marquard and I. Martashvili and N.A. Martin and P. Martinengo and M.I. Martínez and A. Martínez Davalos and G. Martínez García and Y. Martynov and A. Mas and S. Masciocchi and M. Masera and A. Masoni and L. Massacrier and A. Mastroserio and Z.L. Matthews and A. Matyja and C. Mayer and J. Mazer and M.A. Mazzoni and F. Meddi and A. Menchaca-Rocha and J. Mercado P\'{e}rez and M. Meres and Y. Miake and L. Milano and J. Milosevic and A. Mischke and A.N. Mishra and D. Miśkowiec and C. Mitu and S. Mizuno and J. Mlynarz and B. Mohanty and L. Molnar and L. Montaño Zetina and M. Monteno and E. Montes and T. Moon and M. Morando and D.A. Moreira De Godoy and S. Moretto and A. Morsch and V. Muccifora and E. Mudnic and S. Muhuri and M. Mukherjee and H. M\"{u}ller and M.G. Munhoz and L. Musa and A. Musso and B.K. Nandi and R. Nania and E. Nappi and C. Nattrass and S. Navin and T.K. Nayak and S. Nazarenko and A. Nedosekin and M. Nicassio and M. Niculescu and B.S. Nielsen and T. Niida and S. Nikolaev and V. Nikolic and V. Nikulin and S. Nikulin and B.S. Nilsen and M.S. Nilsson and F. Noferini and P. Nomokonov and G. Nooren and N. Novitzky and A. Nyanin and A. Nyatha and C. Nygaard and J. Nystrand and A. Ochirov and H. Oeschler and S.K. Oh and S. Oh and J. Oleniacz and A.C. Oliveira Da Silva and C. Oppedisano and A. Ortiz Velasquez and A. Oskarsson and P. Ostrowski and J. Otwinowski and K. Oyama and K. Ozawa and Y. Pachmayer and M. Pachr and F. Padilla and P. Pagano and G. Paić and F. Painke and C. Pajares and S.K. Pal and A. Palaha and A. Palmeri and V. Papikyan and G.S. Pappalardo and W.J. Park and A. Passfeld and B. Pastirčák and D.I. Patalakha and V. Paticchio and A. Pavlinov and T. Pawlak and T. Peitzmann and H. Pereira Da Costa and E. Pereira De Oliveira Filho and D. Peresunko and C.E. P\'{e}rez Lara and E. Perez Lezama and D. Perini and D. Perrino and W. Peryt and A. Pesci and V. Peskov and Y. Pestov and V. Petráček and M. Petran and M. Petris and P. Petrov and M. Petrovici and C. Petta and S. Piano and A. Piccotti and M. Pikna and P. Pillot and O. Pinazza and L. Pinsky and N. Pitz and D.B. Piyarathna and M. Planinic and M. Płoskoń and J. Pluta and T. Pocheptsov and S. Pochybova and P.L.M. Podesta-Lerma and M.G. Poghosyan and K. Polák and B. Polichtchouk and A. Pop and S. Porteboeuf-Houssais and V. Pospíšil and B. Potukuchi and S.K. Prasad and R. Preghenella and F. Prino and C.A. Pruneau and I. Pshenichnov and G. Puddu and A. Pulvirenti and V. Punin and M. Putiš and J. Putschke and E. Quercigh and H. Qvigstad and A. Rachevski and A. Rademakers and T.S. R\"{a}ih\"{a} and J. Rak and A. Rakotozafindrabe and L. Ramello and A. Ramírez Reyes and R. Raniwala and S. Raniwala and S.S. R\"{a}s\"{a}nen and B.T. Rascanu and D. Rathee and K.F. Read and J.S. Real and K. Redlich and R.J. Reed and A. Rehman and P. Reichelt and M. Reicher and R. Renfordt and A.R. Reolon and A. Reshetin and F. Rettig and J.-P. Revol and K. Reygers and L. Riccati and R.A. Ricci and T. Richert and M. Richter and P. Riedler and W. Riegler and F. Riggi and M. Rodríguez Cahuantzi and A. Rodriguez Manso and K. Røed and D. Rohr and D. R\"{o}hrich and R. Romita and F. Ronchetti and P. Rosnet and S. Rossegger and A. Rossi and P. Roy and C. Roy and A.J. Rubio Montero and R. Rui and R. Russo and E. Ryabinkin and A. Rybicki and S. Sadovsky and K. Šafařík and R. Sahoo and P.K. Sahu and J. Saini and H. Sakaguchi and S. Sakai and D. Sakata and C.A. Salgado and J. Salzwedel and S. Sambyal and V. Samsonov and X. Sanchez Castro and L. Šándor and A. Sandoval and S. Sano and M. Sano and R. Santoro and J. Sarkamo and E. Scapparone and F. Scarlassara and R.P. Scharenberg and C. Schiaua and R. Schicker and H.R. Schmidt and C. Schmidt and S. Schreiner and S. Schuchmann and J. Schukraft and T. Schuster and Y. Schutz and K. Schwarz and K. Schweda and G. Scioli and E. Scomparin and R. Scott and G. Segato and I. Selyuzhenkov and S. Senyukov and J. Seo and S. Serci and E. Serradilla and A. Sevcenco and A. Shabetai and G. Shabratova and R. Shahoyan and S. Sharma and N. Sharma and S. Rohni and K. Shigaki and K. Shtejer and Y. Sibiriak and M. Siciliano and E. Sicking and S. Siddhanta and T. Siemiarczuk and D. Silvermyr and C. Silvestre and G. Simatovic and G. Simonetti and R. Singaraju and R. Singh and S. Singha and V. Singhal and T. Sinha and B.C. Sinha and B. Sitar and M. Sitta and T.B. Skaali and K. Skjerdal and R. Smakal and N. Smirnov and R.J.M. Snellings and C. Søgaard and R. Soltz and H. Son and J. Song and M. Song and C. Soos and F. Soramel and I. Sputowska and M. Spyropoulou-Stassinaki and B.K. Srivastava and J. Stachel and I. Stan and I. Stan and G. Stefanek and M. Steinpreis and E. Stenlund and G. Steyn and J.H. Stiller and D. Stocco and M. Stolpovskiy and P. Strmen and A.A.P. Suaide and M.A. Subieta Vásquez and T. Sugitate and C. Suire and R. Sultanov and M. Šumbera and T. Susa and T.J.M. Symons and A. Szanto de Toledo and I. Szarka and A. Szczepankiewicz and A. Szostak and M. Szymański and J. Takahashi and J.D. Tapia Takaki and A. Tarantola Peloni and A. Tarazona Martinez and A. Tauro and G. Tejeda Muñoz and A. Telesca and C. Terrevoli and J. Th\"{a}der and D. Thomas and R. Tieulent and A.R. Timmins and D. Tlusty and A. Toia and H. Torii and L. Toscano and V. Trubnikov and D. Truesdale and W.H. Trzaska and T. Tsuji and A. Tumkin and R. Turrisi and T.S. Tveter and J. Ulery and K. Ullaland and J. Ulrich and A. Uras and J. Urbán and G.M. Urciuoli and G.L. Usai and M. Vajzer and M. Vala and L. Valencia Palomo and S. Vallero and P. Vande Vyvre and M. van Leeuwen and L. Vannucci and A. Vargas and R. Varma and M. Vasileiou and A. Vasiliev and V. Vechernin and M. Veldhoen and M. Venaruzzo and E. Vercellin and S. Vergara and R. Vernet and M. Verweij and L. Vickovic and G. Viesti and Z. Vilakazi and O. Villalobos Baillie and Y. Vinogradov and A. Vinogradov and L. Vinogradov and T. Virgili and Y.P. Viyogi and A. Vodopyanov and K. Voloshin and S. Voloshin and G. Volpe and B. von Haller and D. Vranic and J. Vrláková and B. Vulpescu and A. Vyushin and B. Wagner and V. Wagner and R. Wan and D. Wang and Y. Wang and M. Wang and Y. Wang and K. Watanabe and M. Weber and J.P. Wessels and U. Westerhoff and J. Wiechula and J. Wikne and M. Wilde and A. Wilk and G. Wilk and M.C.S. Williams and B. Windelband and L. Xaplanteris Karampatsos and C.G. Yaldo and Y. Yamaguchi and H. Yang and S. Yang and S. Yasnopolskiy and J. Yi and Z. Yin and I.-K. Yoo and J. Yoon and W. Yu and X. Yuan and I. Yushmanov and V. Zaccolo and C. Zach and C. Zampolli and S. Zaporozhets and A. Zarochentsev and P. Závada and N. Zaviyalov and H. Zbroszczyk and P. Zelnicek and I.S. Zgura and M. Zhalov and H. Zhang and X. Zhang and D. Zhou and F. Zhou and Y. Zhou and J. Zhu and J. Zhu and X. Zhu and H. Zhu and A. Zichichi and A. Zimmermann and G. Zinovjev and Y. Zoccarato and M. Zynovyev and M. Zyzak"
-I'm skipping whatever remains of this entry
-Reallocated buffer (elt_size=1) to 40000 items from 20000.
-Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
-Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
-Reallocated out_buf (elt_size=1) to 40000 items from 20000.
-Reallocated name_tok (elt_size=4) to 40000 items from 20000.
-Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
 Warning--entry type for "starlight" isn't style-file defined
---line 2136 of file Biblio/upcTheoryChp.bib
-Warning--to sort, need author or key in CMS:2010gua
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1191 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1191 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1191 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1191 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1191 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1191 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1191 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1191 of file apalike2.bst
-Warning--to sort, need author, editor, or key in cmsTdrTrk
-Warning--to sort, need author or key in starlight
-Warning--empty year in starlight
-Warning--empty author and editor in cmsTdrTrk
-Warning--empty author in CMS:2010gua
-Warning--empty journal in CMS:2010gua
-Warning--empty author in CMS:2000aa
-Warning--empty journal in CMS:2000aa
-Warning--empty author in CMS:2002xia
-Warning--empty journal in CMS:2002xia
-Warning--empty author in longrage2008
-Warning--empty journal in longrage2008
-Warning--empty institution in alice2013.03
-Warning--empty journal in TheALICE:2014dwa
-Warning--empty journal in Baiatian:2007xva
+--line 1932 of file Biblio/allcites.bib
+Warning--empty publisher in Halzen:1984mc
+Warning--empty publisher in Griffiths:2008zz
+Warning--empty pages in CMS_AN_2008-098
 Warning--empty title in gdr_neutron
-Warning--empty journal in Borghini:2001zr
-Warning--empty journal in cmsLumi
-Warning--empty journal in emPCite6
-Warning--empty journal in Crittenden:1997yz
-Warning--empty journal in Dasu:2000ge
-Warning--empty journal in d'Enterria:2006ep
+Warning--empty pages in elect_cms_note06
+Warning--empty pages in yepes_cms_note03
 Warning--empty institution in cgc2013.05
-Warning--empty journal in Frankfurt:2006wg
-Warning--empty journal in Gaiser:1982yw
-Warning--empty journal in Goncalves:2006ed
-Warning--empty journal in Guzey:2013jaa
-Warning--empty journal in Klasen:2007pm
-Warning--empty journal in Krasny:2006xg
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1266 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1266 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1266 of file apalike2.bst
-Too many commas in name 1 of "M. Mulders I. Bloch, E. James A. Everett D. Barge, C. Campagnari, P. Kalavase, V. Krutelyov, D. Kovalskyi, J. Ribnik N. Amapane" for entry CMS_AN_2008-098
-while executing---line 1266 of file apalike2.bst
-Warning--empty journal in CGC2Lec
-Warning--empty journal in Sorensen:2009cz
-Warning--empty journal in Sphicas:2002gg
-Warning--empty journal in vanderMeer:1968zz
-Warning--empty journal in Vogt:1998kna
-You've used 164 entries,
-            2229 wiz_defined-function locations,
-            1457 strings with 51448 characters,
-and the built_in function-call counts, 103077 in all, are:
-= -- 8584
-> -- 9208
-< -- 110
-+ -- 3529
-- -- 3508
-* -- 10587
-:= -- 19013
-add.period$ -- 471
-call.type$ -- 164
-change.case$ -- 2517
-chr.to.int$ -- 147
-cite$ -- 202
-duplicate$ -- 2267
-empty$ -- 4362
-format.name$ -- 3755
-if$ -- 18670
-int.to.chr$ -- 18
-int.to.str$ -- 0
-missing$ -- 161
-newline$ -- 801
-num.names$ -- 476
-pop$ -- 2211
+Warning--empty author and editor in cmsTdrTrk
+Warning--all relevant fields are empty in starlight
+Warning--empty pages in cmsJpPP
+You've used 145 entries,
+            2328 wiz_defined-function locations,
+            1755 strings with 33301 characters,
+and the built_in function-call counts, 45760 in all, are:
+= -- 4929
+> -- 1246
+< -- 1
++ -- 478
+- -- 333
+* -- 4132
+:= -- 5325
+add.period$ -- 299
+call.type$ -- 145
+change.case$ -- 164
+chr.to.int$ -- 0
+cite$ -- 155
+duplicate$ -- 2506
+empty$ -- 4507
+format.name$ -- 333
+if$ -- 12088
+int.to.chr$ -- 0
+int.to.str$ -- 145
+missing$ -- 526
+newline$ -- 686
+num.names$ -- 145
+pop$ -- 689
 preamble$ -- 1
-purify$ -- 2524
+purify$ -- 0
 quote$ -- 0
-skip$ -- 1780
+skip$ -- 1741
 stack$ -- 0
-substring$ -- 4342
-swap$ -- 149
-text.length$ -- 3
+substring$ -- 2256
+swap$ -- 1179
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 978
-warning$ -- 35
-while$ -- 446
-width$ -- 0
-write$ -- 2058
-(There were 15 error messages)
+type$ -- 0
+warning$ -- 10
+while$ -- 320
+width$ -- 148
+write$ -- 1272
+(There were 11 warnings)

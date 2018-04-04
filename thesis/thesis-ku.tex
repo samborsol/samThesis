@@ -1,3 +1,4 @@
+
 %% LyX 2.2.0 created this file.  For more info, see http://www.lyx.org/.
 %% Do not edit unless you really know what you are doing.
 \documentclass[12pt,english]{kuthesis}
@@ -17,7 +18,7 @@
 \usepackage{graphicx}
 \usepackage{setspace}
 \usepackage{esint}
-\usepackage[authoryear]{natbib}
+%\usepackage[authoryear]{natbib}
 \doublespacing
 \usepackage[unicode=true,
  bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
@@ -84,8 +85,19 @@
 \usepackage{listings}
 \renewcommand{\lstlistingname}{\inputencoding{latin9}Listing}
 
+\newcommand{\JPsi}{J/$\psi$}
+\newcommand{\pt}{$p_{T}$}
+\newcommand{\jpsi}{J/$\psi$}
+\newcommand{\elel}{$e+e$}
+
+
 \begin{document}
 \begin{romanpages}
+
+\setlength\abovedisplayskip{1pt}
+\setlength\belowdisplayskip{1pt}
+\setlength\abovedisplayshortskip{1pt}
+\setlength\belowdisplayshortskip{1pt}
 
 \maketitle
 \begin{abstract}
@@ -120,9 +132,15 @@
 %\global\long\def\bibname{References}
 %\nocite{*}
 %\bibliographystyle{apalike2}
+%\bibliography{Biblio/allcites}
 
+\global\long\def\bibname{References}
+\nocite{*}
 \bibliographystyle{Biblio/utphys}
+%\bibliographystyle{apalike2}
+%\bibliography{Biblio/allcites,Biblio/upcTheoryChp}
 \bibliography{Biblio/allcites}
-%\appendix
-%\include{Appendix1/Appendix1}
+
+\appendix
+\include{Appendix1/Appendix1}
 \end{document}

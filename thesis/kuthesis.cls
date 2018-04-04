@@ -56,7 +56,7 @@
 % As an alternative to the above could use next line for twosided output
 %\LoadClass[letterpaper,twoside,openright]{report}
 
-\raggedbottom
+%\raggedbottom
 
 %% PACKAGE REQUIREMENTS %%
 

@@ -1,1175 +1,1037 @@
-\begin{thebibliography}{}
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{100}
 
-\bibitem[sta, ]{starlight}
+\bibitem{Bethke:2006ac}
+S.~Bethke, ``{Experimental tests of asymptotic freedom},''
+  \href{http://dx.doi.org/10.1016/j.ppnp.2006.06.001}{{\em Prog. Part. Nucl.
+  Phys.} {\bfseries 58} (2007) 351--386},
+\href{http://arxiv.org/abs/hep-ex/0606035}{{\ttfamily arXiv:hep-ex/0606035
+  [hep-ex]}}.
+%%CITATION = HEP-EX/0606035;%%.
 
+\bibitem{WWJackson}
+J.~D. Jackson, {\em Classical electrodynamics}.
+\newblock Wiley, New York, {NY}, 3rd ed.~ed., 1999.
+\newblock \url{http://cdsweb.cern.ch/record/490457}.
 
-\bibitem[cms, 2000]{cmsTdrTrk}
- (2000).
-\newblock {\em {The CMS tracker: addendum to the Technical Design Report}}.
-\newblock Technical Design Report CMS. Geneva: CERN.
+\bibitem{Halzen:1984mc}
+F.~Halzen and A.~D. Martin, {\em {QUARKS AND LEPTONS: AN INTRODUCTORY COURSE IN
+  MODERN PARTICLE PHYSICS}}.
+\newblock
+1984.
+\newblock
+%%CITATION = INSPIRE-205394;%%.
 
-\bibitem[CMS, 2010]{CMS:2010gua}
- (2010).
-\newblock {Measurement of CMS Luminosity}.
+\bibitem{Peskin:1995ev}
+M.~E. Peskin and D.~V. Schroeder, {\em {An Introduction to quantum field
+  theory}}.
+\newblock Addison-Wesley, Reading, USA, 1995.
+\newblock
+\url{http://www.slac.stanford.edu/~mpeskin/QFT.html}.
+\newblock
+%%CITATION = INSPIRE-407703;%%.
 
-\bibitem[540878, 2000]{CMS:2000aa}
-540878 (2000).
-\newblock {Addendum to the CMS tracker TDR}.
+\bibitem{Griffiths:2008zz}
+D.~Griffiths, {\em {Introduction to elementary particles}}.
+\newblock
+2008.
+\newblock
+%%CITATION = INSPIRE-806976;%%.
 
-\bibitem[599843, 2002]{CMS:2002xia}
-599843 (2002).
-\newblock {Addendum to the CMS ECAL technical design report: Changes to the CMS
-  ECAL electronics}.
+\bibitem{Brock:1993sz}
+{\bfseries CTEQ} Collaboration, R.~Brock {\em et~al.}, ``{Handbook of
+  perturbative QCD: Version 1.0},''
+\href{http://dx.doi.org/10.1103/RevModPhys.67.157}{{\em Rev. Mod. Phys.}
+  {\bfseries 67} (1995) 157--248}.
+%%CITATION = RMPHA,67,157;%%.
 
-\bibitem[796947, 2008]{longrage2008}
-796947 (2008).
-\newblock {The Frontiers of Nuclear Science, A Long Range Plan}.
+\bibitem{Wilczek:2000ih}
+F.~Wilczek, ``{QCD made simple},''
+\href{http://dx.doi.org/10.1063/1.1310117}{{\em Phys. Today} {\bfseries 53N8}
+  (2000) 22--28}.
+%%CITATION = PHTOA,53N8,22;%%.
 
-\bibitem[Aad et~al., 2008]{Aad:2008zzm}
-Aad, G. et~al. (2008).
-\newblock {The ATLAS Experiment at the CERN Large Hadron Collider}.
-\newblock {\em JINST}, 3, S08003.
+\bibitem{Bjorken:1968dy}
+J.~D. Bjorken, ``{Asymptotic Sum Rules at Infinite Momentum},''
+\href{http://dx.doi.org/10.1103/PhysRev.179.1547}{{\em Phys. Rev.} {\bfseries
+  179} (1969) 1547--1553}.
+%%CITATION = PHRVA,179,1547;%%.
 
-\bibitem[Aamodt et~al., 2008]{Aamodt:2008zz}
-Aamodt, K. et~al. (2008).
-\newblock {The ALICE experiment at the CERN LHC}.
-\newblock {\em JINST}, 3, S08002.
+\bibitem{Andreev:2015cwa}
+{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
+  Production with a Leading Proton in $ep$ Collisions at HERA},''
+  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
+  (2015) 056},
+\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
+%%CITATION = ARXIV:1502.01683;%%.
 
-\bibitem[Aaron et~al., 2010]{Aaron:2010su}
-Aaron, F.~D. et~al. (2010).
-\newblock {Diffractive Dijet Photoproduction in ep Collisions at HERA}.
-\newblock {\em Eur. Phys. J.}, C70, 15--37.
+\bibitem{Hatta:2016dxp}
+Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Probing the Small- x Gluon Tomography in
+  Correlated Hard Diffractive Dijet Production in Deep Inelastic Scattering},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.116.202301}{{\em Phys. Rev.
+  Lett.} {\bfseries 116} no.~20, (2016) 202301},
+\href{http://arxiv.org/abs/1601.01585}{{\ttfamily arXiv:1601.01585 [hep-ph]}}.
+%%CITATION = ARXIV:1601.01585;%%.
 
-\bibitem[Aaron et~al., 2011]{Aaron:2010aa}
-Aaron, F.~D. et~al. (2011).
-\newblock {Measurement of the cross section for diffractive deep-inelastic
-  scattering with a leading proton at HERA}.
-\newblock {\em Eur. Phys. J.}, C71, 1578.
+\bibitem{Boer:2011fh}
+D.~Boer {\em et~al.}, ``{Gluons and the quark sea at high energies:
+  Distributions, polarization, tomography},''
+\href{http://arxiv.org/abs/1108.1713}{{\ttfamily arXiv:1108.1713 [nucl-th]}}.
+%%CITATION = ARXIV:1108.1713;%%.
 
-\bibitem[Abazov et~al., 2013]{PhysRevD.88.012005}
-Abazov, V.~M., Abbott, B., Acharya, B.~S., Adams, M., Adams, T., Agnew, J.~P.,
-  Alexeev, G.~D., Alkhazov, G., Alton, A., Askew, A., Atkins, S., Augsten, K.,
-  Avila, C., Badaud, F., Bagby, L., Baldin, B., Bandurin, D.~V., Banerjee, S.,
-  Barberis, E., Baringer, P., Bartlett, J.~F., Bassler, U., Bazterra, V., Bean,
-  A., Begalli, M., Bellantoni, L., Beri, S.~B., Bernardi, G., Bernhard, R.,
-  Bertram, I., Besan\ifmmode~\mbox{\c{c}}\else \c{c}\fi{}on, M., Beuselinck,
-  R., Bhat, P.~C., Bhatia, S., Bhatnagar, V., Blazey, G., Blessing, S., Bloom,
-  K., Boehnlein, A., Boline, D., Boos, E.~E., Borissov, G., Brandt, A., Brandt,
-  O., Brock, R., Bross, A., Brown, D., Bu, X.~B., Buehler, M., Buescher, V.,
-  Bunichev, V., Burdin, S., Buszello, C.~P., Camacho-P\'erez, E., Casey, B.
-  C.~K., Castilla-Valdez, H., Caughron, S., Chakrabarti, S., Chan, K.~M.,
-  Chandra, A., Chapon, E., Chen, G., Cho, S.~W., Choi, S., Choudhary, B.,
-  Cihangir, S., Claes, D., Clutter, J., Cooke, M., Cooper, W.~E., Corcoran, M.,
-  Couderc, F., Cousinou, M.-C., Cutts, D., Das, A., Davies, G., de~Jong, S.~J.,
-  De~La Cruz-Burelo, E., D\'eliot, F., Demina, R., Denisov, D., Denisov, S.~P.,
-  Desai, S., Deterre, C., DeVaughan, K., Diehl, H.~T., Diesburg, M., Ding,
-  P.~F., Dominguez, A., Dubey, A., Dudko, L.~V., Duperrin, A., Dutt, S., Eads,
-  M., Edmunds, D., Ellison, J., Elvira, V.~D., Enari, Y., Evans, H., Evdokimov,
-  V.~N., Feng, L., Ferbel, T., Fiedler, F., Filthaut, F., Fisher, W., Fisk,
-  H.~E., Fortner, M., Fox, H., Fuess, S., Garcia-Bellido, A.,
-  Garc\'\ia-Gonz\'alez, J.~A., Gavrilov, V., Geng, W., Gerber, C.~E.,
-  Gershtein, Y., Ginther, G., Golovanov, G., Grannis, P.~D., Greder, S.,
-  Greenlee, H., Grenier, G., Gris, P., Grivaz, J.-F., Grohsjean, A.,
-  Gr\"unendahl, S., Gr\"unewald, M.~W., Guillemin, T., Gutierrez, G.,
-  Gutierrez, P., Haley, J., Han, L., Harder, K., Harel, A., Hauptman, J.~M.,
-  Hays, J., Head, T., Hebbeker, T., Hedin, D., Hegab, H., Heinson, A.~P.,
-  Heintz, U., Hensel, C., Heredia-De La~Cruz, I., Herner, K., Hesketh, G.,
-  Hildreth, M.~D., Hirosky, R., Hoang, T., Hobbs, J.~D., Hoeneisen, B., Hogan,
-  J., Hohlfeld, M., Howley, I., Hubacek, Z., Hynek, V., Iashvili, I., Ilchenko,
-  Y., Illingworth, R., Ito, A.~S., Jabeen, S., Jaffr\'e, M., Jayasinghe, A.,
-  Holzbauer, J., Jeong, M.~S., Jesik, R., Jiang, P., Johns, K., Johnson, E.,
-  Johnson, M., Jonckheere, A., Jonsson, P., Joshi, J., Jung, A.~W., Juste, A.,
-  Kajfasz, E., Karmanov, D., Katsanos, I., Kehoe, R., Kermiche, S., Khalatyan,
-  N., Khanov, A., Kharchilava, A., Kharzheev, Y.~N., Kiselevich, I., Kohli,
-  J.~M., Kozelov, A.~V., Kraus, J., Kumar, A., Kupco, A.,
-  Kur\ifmmode~\check{c}\else \v{c}\fi{}a, T., Kuzmin, V.~A., Lammers, S.,
-  Lebrun, P., Lee, H.~S., Lee, S.~W., Lee, W.~M., Lei, X., Lellouch, J., Li,
-  D., Li, H., Li, L., Li, Q.~Z., Lim, J.~K., Lincoln, D., Linnemann, J.,
-  Lipaev, V.~V., Lipton, R., Liu, H., Liu, Y., Lobodenko, A., Lokajicek, M.,
-  Lopes~de Sa, R., Luna-Garcia, R., Lyon, A.~L., Maciel, A. K.~A., Madar, R.,
-  Maga\~na Villalba, R., Malik, S., Malyshev, V.~L., Mansour, J.,
-  Mart\'\inez-Ortega, J., McCarthy, R., McGivern, C.~L., Meijer, M.~M.,
-  Melnitchouk, A., Menezes, D., Mercadante, P.~G., Merkin, M., Meyer, A.,
-  Meyer, J., Miconi, F., Mondal, N.~K., Mulhearn, M., Nagy, E., Narain, M.,
-  Nayyar, R., Neal, H.~A., Negret, J.~P., Neustroev, P., Nguyen, H.~T.,
-  Nunnemann, T., Orduna, J., Osman, N., Osta, J., Pal, A., Parashar, N.,
-  Parihar, V., Park, S.~K., Partridge, R., Parua, N., Patwa, A., Penning, B.,
-  Perfilov, M., Peters, Y., Petridis, K., Petrillo, G., P\'etroff, P., Pleier,
-  M.-A., Podstavkov, V.~M., Popov, A.~V., Prewitt, M., Price, D., Prokopenko,
-  N., Qian, J., Quadt, A., Quinn, B., Ratoff, P.~N., Razumov, I., Ripp-Baudot,
-  I., Rizatdinova, F., Rominsky, M., Ross, A., Royon, C., Rubinov, P., Ruchti,
-  R., Sajot, G., S\'anchez-Hern\'andez, A., Sanders, M.~P., Santos, A.~S.,
-  Savage, G., Sawyer, L., Scanlon, T., Schamberger, R.~D., Scheglov, Y.,
-  Schellman, H., Schwanenberger, C., Schwienhorst, R., Sekaric, J., Severini,
-  H., Shabalina, E., Shary, V., Shaw, S., Shchukin, A.~A., Simak, V., Skubic,
-  P., Slattery, P., Smirnov, D., Snow, G.~R., Snow, J., Snyder, S.,
-  S\"oldner-Rembold, S., Sonnenschein, L., Soustruznik, K., Stark, J.,
-  Stoyanova, D.~A., Strauss, M., Suter, L., Svoisky, P., Titov, M., Tokmenin,
-  V.~V., Tsai, Y.-T., Tsybychev, D., Tuchming, B., Tully, C., Uvarov, L.,
-  Uvarov, S., Uzunyan, S., Van~Kooten, R., van Leeuwen, W.~M., Varelas, N.,
-  Varnes, E.~W., Vasilyev, I.~A., Verkheev, A.~Y., Vertogradov, L.~S.,
-  Verzocchi, M., Vesterinen, M., Vilanova, D., Vokac, P., Wahl, H.~D., Wang, M.
-  H. L.~S., Warchol, J., Watts, G., Wayne, M., Weichert, J., Welty-Rieger, L.,
-  Williams, M. R.~J., Wilson, G.~W., Wobisch, M., Wood, D.~R., Wyatt, T.~R.,
-  Xie, Y., Yamada, R., Yang, S., Yasuda, T., Yatsunenko, Y.~A., Ye, W., Ye, Z.,
-  Yin, H., Yip, K., Youn, S.~W., Yu, J.~M., Zennamo, J., Zhao, T.~G., Zhou, B.,
-  Zhu, J., Zielinski, M., Zieminska, D., \& Zivkovic, L. (2013).
-\newblock Search for anomalous quartic ww$\gamma${}$\gamma${} couplings in
-  dielectron and missing energy final states in
-  pp\ifmmode\bar\else\textasciimacron\fi{} collisions at s=1.96\,\,tev.
-\newblock {\em Phys. Rev. D}, 88, 012005.
+\bibitem{Diehl:2003ny}
+M.~Diehl, ``{Generalized parton distributions},''
+  \href{http://dx.doi.org/10.1016/j.physrep.2003.08.002,
+  10.3204/DESY-THESIS-2003-018}{{\em Phys. Rept.} {\bfseries 388} (2003)
+  41--277},
+\href{http://arxiv.org/abs/hep-ph/0307382}{{\ttfamily arXiv:hep-ph/0307382
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0307382;%%.
 
-\bibitem[Abbas et~al., 2013]{Abbas:2013oua}
-Abbas, E. et~al. (2013).
-\newblock {Charmonium and $e^+e^-$ pair photoproduction at mid-rapidity in
-  ultra-peripheral Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV}.
-\newblock {\em Eur.Phys.J.}, C73, 2617.
+\bibitem{Belitsky:2003nz}
+A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
+  quantum phase space distributions},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.69.074014}{{\em Phys. Rev.}
+  {\bfseries D69} (2004) 074014},
+\href{http://arxiv.org/abs/hep-ph/0307383}{{\ttfamily arXiv:hep-ph/0307383
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0307383;%%.
 
-\bibitem[Abelev et~al., 2013a]{alice2013.03}
-Abelev, B. et~al. (2013a).
-\newblock {\em Charmonium and $e^+e^-$ pair photoproduction at mid-rapidity in
-  ultra-peripheral Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV}.
-\newblock Technical Report arXiv:1305.1467. CERN-PH-EP-2013-066.
-\newblock Comments: 26 pages, 6 captioned figures, 3 tables, authors from page
-  19 to 21.
+\bibitem{CMS:2010gua}
+{\bfseries CMS} Collaboration, CMS,
+``{Measurement of CMS Luminosity},''.
+%%CITATION = CMS-PAS-EWK-10-004;%%.
 
-\bibitem[Abelev et~al., 2013b]{Abelev:2012ba}
-Abelev, B. et~al. (2013b).
-\newblock {Coherent $J/\psi$ photoproduction in ultra-peripheral Pb-Pb
-  collisions at $\sqrt{s_{NN}} = 2.76$ TeV}.
-\newblock {\em Phys.Lett.}, B718, 1273--1283.
+\bibitem{Ellis:1993tq}
+S.~D. Ellis and D.~E. Soper, ``{Successive combination jet algorithm for hadron
+  collisions},'' \href{http://dx.doi.org/10.1103/PhysRevD.48.3160}{{\em Phys.
+  Rev.} {\bfseries D48} (1993) 3160--3166},
+\href{http://arxiv.org/abs/hep-ph/9305266}{{\ttfamily arXiv:hep-ph/9305266
+  [hep-ph]}}.
+%%CITATION = HEP-PH/9305266;%%.
 
-\bibitem[Abelev et~al., 2013c]{alice2012.09}
-Abelev, B. et~al. (2013c).
-\newblock {Coherent $J/\psi$ photoproduction in ultra-peripheral Pb-Pb
-  collisions at $\sqrt{s_{NN}} = 2.76$ TeV}.
-\newblock {\em Physics Letters B}, 718(4–5), 1273 -- 1283.
+\bibitem{Thomson:2013zua}
+M.~Thomson, {\em {Modern particle physics}}.
+\newblock Cambridge University Press, New York, 2013.
+\newblock
+\url{http://www-spires.fnal.gov/spires/find/books/www?cl=QC793.2.T46::2013}.
+\newblock
+%%CITATION = INSPIRE-1326857;%%.
 
-\bibitem[Abelev et~al., 2013d]{Abelev:2012ola}
-Abelev, B. et~al. (2013d).
-\newblock {Long-range angular correlations on the near and away side in $p$-Pb
-  collisions at $\sqrt{s_{NN}}=5.02$ TeV}.
-\newblock {\em Phys.Lett.}, B719, 29--41.
+\bibitem{Aaron:2010su}
+{\bfseries H1} Collaboration, F.~D. Aaron {\em et~al.}, ``{Diffractive Dijet
+  Photoproduction in ep Collisions at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-010-1448-6}{{\em Eur. Phys. J.}
+  {\bfseries C70} (2010) 15--37},
+\href{http://arxiv.org/abs/1006.0946}{{\ttfamily arXiv:1006.0946 [hep-ex]}}.
+%%CITATION = ARXIV:1006.0946;%%.
 
-\bibitem[Abelev et~al., 2014]{TheALICE:2014dwa}
-Abelev, B.~B. et~al. (2014).
-\newblock {Exclusive $J/\psi$ photoproduction off protons in ultra-peripheral
-  p-Pb collisions at $\sqrt{s_{NN}}$=5.02 TeV}.
+\bibitem{Aaron:2010aa}
+F.~D. Aaron {\em et~al.}, ``{Measurement of the cross section for diffractive
+  deep-inelastic scattering with a leading proton at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-011-1578-5}{{\em Eur. Phys. J.}
+  {\bfseries C71} (2011) 1578},
+\href{http://arxiv.org/abs/1010.1476}{{\ttfamily arXiv:1010.1476 [hep-ex]}}.
+%%CITATION = ARXIV:1010.1476;%%.
 
-\bibitem[Abelev et~al., 2009]{starUPCrhoInterfer}
-Abelev, B.~I., Aggarwal, M.~M., Ahammed, Z., Anderson, B.~D., Arkhipkin, D.,
-  Averichev, G.~S., Bai, Y., Balewski, J., Barannikova, O., Barnby, L.~S.,
-  Baudot, J., Baumgart, S., Beavis, D.~R., Bellwied, R., Benedosso, F.,
-  Betancourt, M.~J., Betts, R.~R., Bhardwaj, S., Bhasin, A., Bhati, A.~K.,
-  Bichsel, H., Bielcik, J., Bielcikova, J., Biritz, B., Bland, L.~C., Bombara,
-  M., Bonner, B.~E., Botje, M., Bouchet, J., Braidot, E., Brandin, A.~V.,
-  Bruna, E., Bueltmann, S., Burton, T.~P., Bystersky, M., Cai, X.~Z., Caines,
-  H., Calder\'on de~la Barca~S\'anchez, M., Callner, J., Catu, O., Cebra, D.,
-  Cendejas, R., Cervantes, M.~C., Chajecki, Z., Chaloupka, P., Chattopadhyay,
-  S., Chen, H.~F., Chen, J.~H., Chen, J.~Y., Cheng, J., Cherney, M., Chikanian,
-  A., Choi, K.~E., Christie, W., Chung, S.~U., Clarke, R.~F., Codrington, M.
-  J.~M., Coffin, J.~P., Corliss, R., Cormier, T.~M., Cosentino, M.~R., Cramer,
-  J.~G., Crawford, H.~J., Das, D., Dash, S., Daugherity, M., De~Silva, C.,
-  Dedovich, T.~G., DePhillips, M., Derevschikov, A.~A., Derradi~de Souza, R.,
-  Didenko, L., Djawotho, P., Dogra, S.~M., Dong, X., Drachenberg, J.~L.,
-  Draper, J.~E., Du, F., Dunlop, J.~C., Dutta~Mazumdar, M.~R., Edwards, W.~R.,
-  Efimov, L.~G., Elhalhuli, E., Elnimr, M., Emelianov, V., Engelage, J.,
-  Eppley, G., Erazmus, B., Estienne, M., Eun, L., Fachini, P., Fatemi, R.,
-  Fedorisin, J., Feng, A., Filip, P., Finch, E., Fine, V., Fisyak, Y.,
-  Gagliardi, C.~A., Gaillard, L., Gangadharan, D.~R., Ganti, M.~S.,
-  Garcia-Solis, E., Ghazikhanian, V., Ghosh, P., Gorbunov, Y.~N., Gordon, A.,
-  Grebenyuk, O., Grosnick, D., Grube, B., Guertin, S.~M., Guimaraes, K. S.
-  F.~F., Gupta, A., Gupta, N., Guryn, W., Haag, B., Hallman, T.~J., Hamed, A.,
-  Harris, J.~W., He, W., Heinz, M., Heppelmann, S., Hippolyte, B., Hirsch, A.,
-  Hjort, E., Hoffman, A.~M., Hoffmann, G.~W., Hofman, D.~J., Hollis, R.~S.,
-  Huang, H.~Z., Humanic, T.~J., Igo, G., Iordanova, A., Jacobs, P., Jacobs,
-  W.~W., Jakl, P., Jin, F., Jones, C.~L., Jones, P.~G., Joseph, J., Judd,
-  E.~G., Kabana, S., Kajimoto, K., Kang, K., Kapitan, J., Kaplan, M., Keane,
-  D., Kechechyan, A., Kettler, D., Khodyrev, V.~Y., Kikola, D.~P., Kiryluk, J.,
-  Kisiel, A., Klein, S.~R., Knospe, A.~G., Kocoloski, A., Koetke, D.~D.,
-  Kopytine, M., Kotchenda, L., Kouchpil, V., Kravtsov, P., Kravtsov, V.~I.,
-  Krueger, K., Krus, M., Kuhn, C., Kumar, L., Kurnadi, P., Lamont, M. A.~C.,
-  Landgraf, J.~M., LaPointe, S., Lauret, J., Lebedev, A., Lednicky, R., Lee,
-  C.-H., Leight, W., LeVine, M.~J., Li, C., Li, N., Li, Y., Lin, G.,
-  Lindenbaum, S.~J., Lisa, M.~A., Liu, F., Liu, H., Liu, J., Liu, L., Ljubicic,
-  T., Llope, W.~J., Longacre, R.~S., Love, W.~A., Lu, Y., Ludlam, T., Lynn, D.,
-  Ma, G.~L., Ma, Y.~G., Mahapatra, D.~P., Majka, R., Mall, O.~I., Mangotra,
-  L.~K., Manweiler, R., Margetis, S., Markert, C., Matis, H.~S., Matulenko,
-  Y.~A., McShane, T.~S., Meschanin, A., Milner, R., Minaev, N.~G.,
-  Mioduszewski, S., Mischke, A., Mitchell, J., Mohanty, B., Morozov, D.~A.,
-  Munhoz, M.~G., Nandi, B.~K., Nattrass, C., Nayak, T.~K., Nelson, J.~M.,
-  Nepali, C., Netrakanti, P.~K., Ng, M.~J., Nogach, L.~V., Nurushev, S.~B.,
-  Odyniec, G., Ogawa, A., Okada, H., Okorokov, V., Olson, D., Pachr, M., Page,
-  B.~S., Pal, S.~K., Pandit, Y., Panebratsev, Y., Pawlak, T., Peitzmann, T.,
-  Perevoztchikov, V., Perkins, C., Peryt, W., Phatak, S.~C., Planinic, M.,
-  Pluta, J., Poljak, N., Poskanzer, A.~M., Potukuchi, B. V. K.~S., Prindle, D.,
-  Pruneau, C., Pruthi, N.~K., Putschke, J., Raniwala, R., Raniwala, S., Ray,
-  R.~L., Redwine, R., Reed, R., Ridiger, A., Ritter, H.~G., Roberts, J.~B.,
-  Rogachevskiy, O.~V., Romero, J.~L., Rose, A., Roy, C., Ruan, L., Russcher,
-  M.~J., Rykov, V., Sahoo, R., Sakrejda, I., Sakuma, T., Salur, S., Sandweiss,
-  J., Sarsour, M., Schambach, J., Scharenberg, R.~P., Schmitz, N., Seger, J.,
-  Selyuzhenkov, I., Seyboth, P., Shabetai, A., Shahaliev, E., Shao, M., Sharma,
-  M., Shi, S.~S., Shi, X.-H., Sichtermann, E.~P., Simon, F., Singaraju, R.~N.,
-  Skoby, M.~J., Smirnov, N., Snellings, R., Sorensen, P., Sowinski, J., Spinka,
-  H.~M., Srivastava, B., Stadnik, A., Stanislaus, T. D.~S., Staszak, D.,
-  Strikhanov, M., Stringfellow, B., Suaide, A. A.~P., Suarez, M.~C., Subba,
-  N.~L., Sumbera, M., Sun, X.~M., Sun, Y., Sun, Z., Surrow, B., Symons, T.
-  J.~M., Szanto~de Toledo, A., Takahashi, J., Tang, A.~H., Tang, Z., Tarnowsky,
-  T., Thein, D., Thomas, J.~H., Tian, J., Timmins, A.~R., Timoshenko, S.,
-  Tlusty, D., Tokarev, M., Trainor, T.~A., Tram, V.~N., Trattner, A.~L.,
-  Trentalange, S., Tribble, R.~E., Tsai, O.~D., Ulery, J., Ullrich, T.,
-  Underwood, D.~G., Van~Buren, G., van Leeuwen, M., Vander~Molen, A.~M.,
-  Vanfossen, J.~A., Varma, R., Vasconcelos, G. M.~S., Vasilevski, I.~M.,
-  Vasiliev, A.~N., Videbaek, F., Vigdor, S.~E., Viyogi, Y.~P., Vokal, S.,
-  Voloshin, S.~A., Wada, M., Waggoner, W.~T., Walker, M., Wang, F., Wang, G.,
-  Wang, J.~S., Wang, Q., Wang, X., Wang, X.~L., Wang, Y., Webb, J.~C.,
-  Westfall, G.~D., Whitten, C., Wieman, H., Wissink, S.~W., Witt, R., Wu, Y.,
-  Xie, W., Xu, N., Xu, Q.~H., Xu, Y., Xu, Z., Yepes, P., Yoo, I.-K., Yue, Q.,
-  Zawisza, M., Zbroszczyk, H., Zhan, W., Zhang, H., Zhang, S., Zhang, W.~M.,
-  Zhang, Y., Zhang, Z.~P., Zhao, Y., Zhong, C., Zhou, J., Zoulkarneev, R.,
-  Zoulkarneeva, Y., \& Zuo, J.~X. (2009).
-\newblock Observation of two-source interference in the photoproduction
-  reaction auau$\rightarrow${}auau$\rho${}0.
-\newblock {\em Phys. Rev. Lett.}, 102, 112301.
+\bibitem{Chekanov:2008fh}
+{\bfseries ZEUS} Collaboration, S.~Chekanov {\em et~al.}, ``{Deep inelastic
+  scattering with leading protons or large rapidity gaps at HERA},''
+  \href{http://dx.doi.org/10.1016/j.nuclphysb.2009.03.003}{{\em Nucl. Phys.}
+  {\bfseries B816} (2009) 1--61},
+\href{http://arxiv.org/abs/0812.2003}{{\ttfamily arXiv:0812.2003 [hep-ex]}}.
+%%CITATION = ARXIV:0812.2003;%%.
 
-\bibitem[Abelev et~al., 2008]{upcRhoSTAR08}
-Abelev, B.~I. et~al. (2008).
-\newblock $\rho^{0}$ photoproduction in ultraperipheral relativistic heavy ion
-  collisions at $\sqrt{s_{NN}}$ = 200 gev.
-\newblock {\em Phys. Rev. C}, 77, 034910.
+\bibitem{Crittenden:1997yz}
+J.~A. Crittenden, ``{Exclusive production of neutral vector mesons at the
+  electron - proton collider HERA},''
+\href{http://arxiv.org/abs/hep-ex/9704009}{{\ttfamily arXiv:hep-ex/9704009
+  [hep-ex]}}.
+%%CITATION = HEP-EX/9704009;%%.
 
-\bibitem[Ackermann et~al., 2001]{Ackermann:2000tr}
-Ackermann, K. et~al. (2001).
-\newblock {Elliptic flow in Au + Au collisions at (S(NN))**(1/2) = 130 GeV}.
-\newblock {\em Phys.Rev.Lett.}, 86, 402--407.
+\bibitem{Guzey:2016awf}
+V.~Guzey and M.~Klasen, ``{A fresh look at factorization breaking in
+  diffractive photoproduction of dijets at HERA at next-to-leading order
+  QCD},'' \href{http://dx.doi.org/10.1140/epjc/s10052-016-4304-5}{{\em Eur.
+  Phys. J.} {\bfseries C76} no.~8, (2016) 467},
+\href{http://arxiv.org/abs/1606.01350}{{\ttfamily arXiv:1606.01350 [hep-ph]}}.
+%%CITATION = ARXIV:1606.01350;%%.
 
-\bibitem[Adams et~al., 2004]{Adams:2004rz}
-Adams, J. et~al. (2004).
-\newblock Production of $\elel$ pairs accompanied by nuclear dissociation in
-  ultra-peripheral heavy ion collision.
-\newblock {\em Phys. Rev.}, C70, 031902.
+\bibitem{Guzey:2016tek}
+V.~Guzey and M.~Klasen, ``{Diffractive dijet photoproduction in ultraperipheral
+  collisions at the LHC in next-to-leading order QCD},''
+  \href{http://dx.doi.org/10.1007/JHEP04(2016)158}{{\em JHEP} {\bfseries 04}
+  (2016) 158},
+\href{http://arxiv.org/abs/1603.06055}{{\ttfamily arXiv:1603.06055 [hep-ph]}}.
+%%CITATION = ARXIV:1603.06055;%%.
 
-\bibitem[Adams et~al., 2005]{starFlow}
-Adams, J. et~al. (2005).
-\newblock Azimuthal anisotropy in au+au collisions at
-  $\sqrt{{s}_{\mathit{NN}}}=200\phantom{\rule{0.3em}{0ex}}\mathrm{GeV}$.
-\newblock {\em Phys. Rev. C}, 72, 014904.
+\bibitem{Benaglia:2014aqa}
+{\bfseries CMS} Collaboration, A.~Benaglia, ``{The CMS ECAL performance with
+  examples},''
+\href{http://dx.doi.org/10.1088/1748-0221/9/02/C02008}{{\em JINST} {\bfseries
+  9} (2014) C02008}.
+%%CITATION = JINST,9,C02008;%%.
 
-\bibitem[Adare et~al., 2010]{phenixPhoton2010}
-Adare, A. et~al. (2010).
-\newblock Enhanced production of direct photons in $\mathrm{Au}+\mathrm{Au}$
-  collisions at $\sqrt{{s}_{NN}}=200\mathrm{GeV}$ and implications for the
-  initial temperature.
-\newblock {\em Phys. Rev. Lett.}, 104, 132301.
+\bibitem{Gaiser:1982yw}
+J.~Gaiser,
+``{Charmonium Spectroscopy From Radiative Decays of the $J/\psi$ and
+  $\psi^\prime$},''.
+%%CITATION = SLAC-0255 ETC.;%%.
 
-\bibitem[Adare et~al., 2011]{dAuOniaPHENIX}
-Adare, A. et~al. (2011).
-\newblock {Cold Nuclear Matter Effects on $J/\psi$ Yields as a Function of
-  Rapidity and Nuclear Geometry in Deuteron-Gold Collisions at
-  $\sqrt{s_{NN}}=200$ GeV}.
-\newblock {\em Phys.Rev.Lett.}, 107, 142301.
+\bibitem{vanderMeer:1968zz}
+S.~van~der Meer,
+``{Calibration of the Effective Beam Height in the ISR},''.
+%%CITATION = CERN-ISR-PO-68-31 ETC.;%%.
 
-\bibitem[Adcox et~al., 2001]{phenixDeDeta2001}
-Adcox, K. et~al. (2001).
-\newblock Measurement of the midrapidity transverse energy distribution from
-  $\sqrt{{s}_{\mathrm{NN}}}\phantom{\rule{0ex}{0ex}}=\phantom{\rule{0ex}{0ex}}130\mathrm{GeV}$
-  $au+au$ collisions at rhic.
-\newblock {\em Phys. Rev. Lett.}, 87, 052301.
+\bibitem{Bauer:1977iq}
+T.~Bauer, R.~Spital, D.~Yennie, and F.~Pipkin, ``{The Hadronic Properties of
+  the Photon in High-Energy Interactions},''
+\href{http://dx.doi.org/10.1103/RevModPhys.50.261}{{\em Rev.Mod.Phys.}
+  {\bfseries 50} (1978) 261}.
+%%CITATION = RMPHA,50,261;%%.
 
-\bibitem[Adcox et~al., 2005]{phenixWhite}
-Adcox, K. et~al. (2005).
-\newblock Formation of dense partonic matter in relativistic nucleus–nucleus
-  collisions at rhic: Experimental evaluation by the \{PHENIX\} collaboration.
-\newblock {\em Nuclear Physics A}, 757(1–2), 184 -- 283.
-\newblock First Three Years of Operation of \{RHIC\}.
+\bibitem{Donnachie:2002en}
+S.~Donnachie, H.~G. Dosch, O.~Nachtmann, and P.~Landshoff, ``{Pomeron physics
+  and QCD},''
+{\em Camb.Monogr.Part.Phys.Nucl.Phys.Cosmol.} {\bfseries 19} (2002) 1--347.
+%%CITATION = CMPCE,19,1;%%.
 
-\bibitem[Adeluyi \& Bertulani, 2011]{pQCD2011.08}
-Adeluyi, A. \& Bertulani, C.~A. (2011).
-\newblock Gluon distributions in nuclei probed at energies available at the
-  {CERN} large hadron collider.
-\newblock {\em Phys. Rev. C}, 84, 024916.
+\bibitem{TheALICE:2014dwa}
+{\bfseries ALICE Collaboration} Collaboration, B.~B. Abelev {\em et~al.},
+  ``{Exclusive $J/\psi$ photoproduction off protons in ultra-peripheral p-Pb
+  collisions at $\sqrt{s_{NN}}$=5.02 TeV},''
+\href{http://arxiv.org/abs/1406.7819}{{\ttfamily arXiv:1406.7819 [nucl-ex]}}.
+%%CITATION = ARXIV:1406.7819;%%.
 
-\bibitem[Adeluyi \& Nguyen, 2013]{pQCD2013.02}
-Adeluyi, A. \& Nguyen, T. (2013).
-\newblock {Coherent photoproduction of $\psi$ and $\Upsilon$ mesons in
-  ultraperipheral pPb and PbPb collisions at the {CERN} Large Hadron Collider
-  at $\sqrt {S_{NN}}=5$ TeV and $\sqrt {S_{NN}}=2.76$ TeV}.
-\newblock {\em Phys. Rev. C}, 87, 027901.
+\bibitem{Chekanov:2002xi}
+{\bfseries ZEUS Collaboration} Collaboration, S.~Chekanov {\em et~al.},
+  ``{Exclusive photoproduction of J / psi mesons at HERA},''
+  \href{http://dx.doi.org/10.1007/s10052-002-0953-7}{{\em Eur.Phys.J.}
+  {\bfseries C24} (2002) 345--360},
+\href{http://arxiv.org/abs/hep-ex/0201043}{{\ttfamily arXiv:hep-ex/0201043
+  [hep-ex]}}.
+%%CITATION = HEP-EX/0201043;%%.
 
-\bibitem[Adler et~al., 2002a]{starUPCrho}
-Adler, C., Ahammed, Z., Allgower, C., Amonett, J., Anderson, B.~D., Anderson,
-  M., Averichev, G.~S., Balewski, J., Barannikova, O., Barnby, L.~S., Baudot,
-  J., Bekele, S., Belaga, V.~V., Bellwied, R., Berger, J., Bichsel, H., Bland,
-  L.~C., Blyth, C.~O., Bonner, B.~E., Boucham, A., Brandin, A., Bravar, A.,
-  Cadman, R.~V., Caines, H., de~la Barca~S\'anchez, M.~C., Cardenas, A.,
-  Carroll, J., Castillo, J., Castro, M., Cebra, D., Chaloupka, P.,
-  Chattopadhyay, S., Chen, Y., Chernenko, S.~P., Cherney, M., Chikanian, A.,
-  Choi, B., Christie, W., Coffin, J.~P., Cormier, T.~M., Cramer, J.~G.,
-  Crawford, H.~J., Deng, W.~S., Derevschikov, A.~A., Didenko, L., Dietel, T.,
-  Draper, J.~E., Dunin, V.~B., Dunlop, J.~C., Eckardt, V., Efimov, L.~G.,
-  Emelianov, V., Engelage, J., Eppley, G., Erazmus, B., Fachini, P., Faine, V.,
-  Filimonov, K., Finch, E., Fisyak, Y., Flierl, D., Foley, K.~J., Fu, J.,
-  Gagliardi, C.~A., Gagunashvili, N., Gans, J., Gaudichet, L., Germain, M.,
-  Geurts, F., Ghazikhanian, V., Grachov, O., Grigoriev, V., Guedon, M., Gushin,
-  E., Hallman, T.~J., Hardtke, D., Harris, J.~W., Henry, T.~W., Heppelmann, S.,
-  Herston, T., Hippolyte, B., Hirsch, A., Hjort, E., Hoffmann, G.~W., Horsley,
-  M., Huang, H.~Z., Humanic, T.~J., Igo, G., Ishihara, A., Ivanshin, Y.~I.,
-  Jacobs, P., Jacobs, W.~W., Janik, M., Johnson, I., Jones, P.~G., Judd, E.~G.,
-  Kaneta, M., Kaplan, M., Keane, D., Kiryluk, J., Kisiel, A., Klay, J., Klein,
-  S.~R., Klyachko, A., Konstantinov, A.~S., Kopytine, M., Kotchenda, L.,
-  Kovalenko, A.~D., Kramer, M., Kravtsov, P., Krueger, K., Kuhn, C., Kulikov,
-  A.~I., Kunde, G.~J., Kunz, C.~L., Kutuev, R.~K., Kuznetsov, A.~A.,
-  Lakehal-Ayat, L., Lamont, M. A.~C., Landgraf, J.~M., Lange, S., Lansdell,
-  C.~P., Lasiuk, B., Laue, F., Lebedev, A., Lednick\'y, R., Leontiev, V.~M.,
-  LeVine, M.~J., Li, Q., Lindenbaum, S.~J., Lisa, M.~A., Liu, F., Liu, L., Liu,
-  Z., Liu, Q.~J., Ljubicic, T., Llope, W.~J., LoCurto, G., Long, H., Longacre,
-  R.~S., Lopez-Noriega, M., Love, W.~A., Ludlam, T., Lynn, D., Ma, J., Majka,
-  R., Margetis, S., Markert, C., Martin, L., Marx, J., Matis, H.~S., Matulenko,
-  Y.~A., McShane, T.~S., Meissner, F., Melnick, Y., Meschanin, A., Messer, M.,
-  Miller, M.~L., Milosevich, Z., Minaev, N.~G., Mitchell, J., Moiseenko, V.~A.,
-  Moore, C.~F., Morozov, V., de~Moura, M.~M., Munhoz, M.~G., Nelson, J.~M.,
-  Nevski, P., Nikitin, V.~A., Nogach, L.~V., Norman, B., Nurushev, S.~B.,
-  Nystrand, J., Odyniec, G., Ogawa, A., Okorokov, V., Oldenburg, M., Olson, D.,
-  Paic, G., Pandey, S.~U., Panebratsev, Y., Panitkin, S.~Y., Pavlinov, A.~I.,
-  Pawlak, T., Perevoztchikov, V., Peryt, W., Petrov, V.~A., Planinic, M.,
-  Pluta, J., Porile, N., Porter, J., Poskanzer, A.~M., Potrebenikova, E.,
-  Prindle, D., Pruneau, C., Putschke, J., Rai, G., Rakness, G., Ravel, O., Ray,
-  R.~L., Razin, S.~V., Reichhold, D., Reid, J.~G., Retiere, F., Ridiger, A.,
-  Ritter, H.~G., Roberts, J.~B., Rogachevski, O.~V., Romero, J.~L., Roy, C.,
-  Rykov, V., Sakrejda, I., Salur, S., Sandweiss, J., Saulys, A.~C., Savin, I.,
-  Schambach, J., Scharenberg, R.~P., Schmitz, N., Schroeder, L.~S.,
-  Sch\"uttauf, A., Schweda, K., Seger, J., Seliverstov, D., Seyboth, P.,
-  Shahaliev, E., Shestermanov, K.~E., Shimanskii, S.~S., Shvetcov, V.~S.,
-  Skoro, G., Smirnov, N., Snellings, R., Sorensen, P., Sowinski, J., Spinka,
-  H.~M., Srivastava, B., Stephenson, E.~J., Stock, R., Stolpovsky, A.,
-  Strikhanov, M., Stringfellow, B., Struck, C., Suaide, A. A.~P., Sugarbaker,
-  E., Suire, C., \ifmmode~\check{S}\else \v{S}\fi{}umbera, M., Surrow, B.,
-  Symons, T. J.~M., de~Toledo, A.~S., Szarwas, P., Tai, A., Takahashi, J.,
-  Tang, A.~H., Thomas, J.~H., Thompson, M., Tikhomirov, V., Tokarev, M.,
-  Tonjes, M.~B., Trainor, T.~A., Trentalange, S., Tribble, R.~E., Trofimov, V.,
-  Tsai, O., Ullrich, T., Underwood, D.~G., Van~Buren, G., VanderMolen, A.~M.,
-  Vasilevski, I.~M., Vasiliev, A.~N., Vigdor, S.~E., Voloshin, S.~A., Wang, F.,
-  Ward, H., Watson, J.~W., Wells, R., Westfall, G.~D., Whitten, C., Wieman, H.,
-  Willson, R., Wissink, S.~W., Witt, R., Wood, J., Xu, N., Xu, Z., Yakutin,
-  A.~E., Yamamoto, E., Yang, J., Yepes, P., Yurevich, V.~I., Zanevski, Y.~V.,
-  Zborovsk\'y, I., Zhang, H., Zhang, W.~M., Zoulkarneev, R., \& Zubarev, A.~N.
-  (2002a).
-\newblock Coherent $\rho${}0 production in ultraperipheral heavy-ion
-  collisions.
-\newblock {\em Phys. Rev. Lett.}, 89, 272302.
+\bibitem{Aktas:2005xu}
+{\bfseries H1 Collaboration} Collaboration, A.~Aktas {\em et~al.}, ``{Elastic
+  J/psi production at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s2006-02519-5}{{\em Eur.Phys.J.}
+  {\bfseries C46} (2006) 585--603},
+\href{http://arxiv.org/abs/hep-ex/0510016}{{\ttfamily arXiv:hep-ex/0510016
+  [hep-ex]}}.
+%%CITATION = HEP-EX/0510016;%%.
 
-\bibitem[Adler et~al., 2002b]{Adler:2002sc}
-Adler, C. et~al. (2002b).
-\newblock Coherent $\rho^0$ production in ultra-peripheral heavy ion
-  collisions.
-\newblock {\em Phys. Rev. Lett.}, 89, 272302.
+\bibitem{Alexa:2013xxa}
+{\bfseries H1 Collaboration} Collaboration, C.~Alexa {\em et~al.}, ``{Elastic
+  and Proton-Dissociative Photoproduction of J/psi Mesons at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-013-2466-y}{{\em Eur.Phys.J.}
+  {\bfseries C73} (2013) 2466},
+\href{http://arxiv.org/abs/1304.5162}{{\ttfamily arXiv:1304.5162 [hep-ex]}}.
+%%CITATION = ARXIV:1304.5162;%%.
 
-\bibitem[Adler \& otheres, 2002]{upcRhoSTAR02}
-Adler, C. \& otheres (2002).
-\newblock Coherent $\rho^{0}$ production in ultraperipheral heavy-ion
-  collisions.
-\newblock {\em Phys. Rev. Lett.}, 89, 272302.
+\bibitem{Frankfurt:2006tp}
+L.~Frankfurt, M.~Strikman, and M.~Zhalov, ``{Elastic and large t rapidity gap
+  vector meson production in ultraperipheral proton-ion collisions},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2006.07.059}{{\em Phys.Lett.}
+  {\bfseries B640} (2006) 162--169},
+\href{http://arxiv.org/abs/hep-ph/0605160}{{\ttfamily arXiv:hep-ph/0605160
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0605160;%%.
 
-\bibitem[Adler et~al., 2005a]{phenixPhoton2005}
-Adler, S.~S. et~al. (2005a).
-\newblock Centrality dependence of direct photon production in
-  $\sqrt{{S}_{NN}}=200\text{\,}\text{\,}\mathrm{GeV}$ $\mathrm{Au}+\mathrm{Au}$
-  collisions.
-\newblock {\em Phys. Rev. Lett.}, 94, 232301.
+\bibitem{Guzey:2013taa}
+V.~Guzey and M.~Zhalov, ``{Rapidity and momentum transfer distributions of
+  coherent $J/\psi$ photoproduction in ultraperipheral pPb collisions at the
+  LHC},'' \href{http://dx.doi.org/10.1007/JHEP02(2014)046}{{\em JHEP}
+  {\bfseries 1402} (2014) 046},
+\href{http://arxiv.org/abs/1307.6689}{{\ttfamily arXiv:1307.6689 [hep-ph]}}.
+%%CITATION = ARXIV:1307.6689;%%.
 
-\bibitem[Adler et~al., 2005b]{phenixDeDeta}
-Adler, S.~S. et~al. (2005b).
-\newblock Systematic studies of the centrality and $\sqrt{s_{NN}}$ dependence
-  of the $de_{T}/d\eta$ and $dn_{ch}/d\eta$ in heavy ion collisions at
-  midrapidity.
-\newblock {\em Phys. Rev. C}, 71, 034908.
+\bibitem{Abelev:2012ba}
+{\bfseries ALICE Collaboration} Collaboration, B.~Abelev {\em et~al.},
+  ``{Coherent $J/\psi$ photoproduction in ultra-peripheral Pb-Pb collisions at
+  $\sqrt{s_{NN}} = 2.76$ TeV},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2012.11.059}{{\em Phys.Lett.}
+  {\bfseries B718} (2013) 1273--1283},
+\href{http://arxiv.org/abs/1209.3715}{{\ttfamily arXiv:1209.3715 [nucl-ex]}}.
+%%CITATION = ARXIV:1209.3715;%%.
 
-\bibitem[Afanasiev et~al., 2009]{upcJPsiPHENIX}
-Afanasiev, S. et~al. (2009).
-\newblock Photoproduction of and of high mass in ultra-peripheral au-au
-  collisions at $\sqrt{s_{NN}}$.
-\newblock {\em Physics Letters B}, 679(4), 321 -- 329.
+\bibitem{Eskola:2009uj}
+K.~Eskola, H.~Paukkunen, and C.~Salgado, ``{EPS09: A New Generation of NLO and
+  LO Nuclear Parton Distribution Functions},''
+  \href{http://dx.doi.org/10.1088/1126-6708/2009/04/065}{{\em JHEP} {\bfseries
+  0904} (2009) 065},
+\href{http://arxiv.org/abs/0902.4154}{{\ttfamily arXiv:0902.4154 [hep-ph]}}.
+%%CITATION = ARXIV:0902.4154;%%.
 
-\bibitem[Agakishiev et~al., 2012]{starUPCrho62}
-Agakishiev, G., Aggarwal, M.~M., Ahammed, Z., Alakhverdyants, A.~V., Alekseev,
-  I., Alford, J., Anderson, B.~D., Anson, C.~D., Arkhipkin, D., Averichev,
-  G.~S., Balewski, J., Beavis, D.~R., Behera, N.~K., Bellwied, R., Betancourt,
-  M.~J., Betts, R.~R., Bhasin, A., Bhati, A.~K., Bichsel, H., Bielcik, J.,
-  Bielcikova, J., Bland, L.~C., Bordyuzhin, I.~G., Borowski, W., Bouchet, J.,
-  Braidot, E., Brandin, A.~V., Bridgeman, A., Brovko, S.~G., Bruna, E.,
-  Bueltmann, S., Bunzarov, I., Burton, T.~P., Cai, X.~Z., Caines, H.,
-  Calder\'on de~la Barca~S\'anchez, M., Cebra, D., Cendejas, R., Cervantes,
-  M.~C., Chaloupka, P., Chattopadhyay, S., Chen, H.~F., Chen, J.~H., Chen,
-  J.~Y., Chen, L., Cheng, J., Cherney, M., Chikanian, A., Choi, K.~E.,
-  Christie, W., Chung, P., Codrington, M. J.~M., Corliss, R., Cramer, J.~G.,
-  Crawford, H.~J., Davila~Leyva, A., De~Silva, L.~C., Debbe, R.~R., Dedovich,
-  T.~G., Deng, J., Derevschikov, A.~A., Derradi~de Souza, R., Didenko, L.,
-  Djawotho, P., Dogra, S.~M., Dong, X., Drachenberg, J.~L., Draper, J.~E., Du,
-  C.~M., Dunlop, J.~C., Efimov, L.~G., Elnimr, M., Engelage, J., Eppley, G.,
-  Estienne, M., Eun, L., Evdokimov, O., Fatemi, R., Fedorisin, J., Fersch,
-  R.~G., Filip, P., Finch, E., Fine, V., Fisyak, Y., Gagliardi, C.~A., Geurts,
-  F., Ghosh, P., Gorbunov, Y.~N., Gordon, A., Grebenyuk, O.~G., Grosnick, D.,
-  Gupta, A., Gupta, S., Guryn, W., Haag, B., Hajkova, O., Hamed, A., Han,
-  L.-X., Harris, J.~W., Hays-Wehle, J.~P., Heinz, M., Heppelmann, S., Hirsch,
-  A., Hjort, E., Hoffmann, G.~W., Hofman, D.~J., Huang, B., Huang, H.~Z.,
-  Humanic, T.~J., Huo, L., Igo, G., Jacobs, P., Jacobs, W.~W., Jena, C., Jin,
-  F., Joseph, J., Judd, E.~G., Kabana, S., Kang, K., Kapitan, J., Kauder, K.,
-  Ke, H.~W., Keane, D., Kechechyan, A., Kettler, D., Kikola, D.~P., Kiryluk,
-  J., Kisiel, A., Kizka, V., Klein, S.~R., Knospe, A.~G., Koetke, D.~D.,
-  Kollegger, T., Konzer, J., Koralt, I., Koroleva, L., Korsch, W., Kotchenda,
-  L., Kouchpil, V., Kravtsov, P., Krueger, K., Krus, M., Kumar, L., Lamont, M.
-  A.~C., Landgraf, J.~M., LaPointe, S., Lauret, J., Lebedev, A., Lednicky, R.,
-  Lee, J.~H., Leight, W., LeVine, M.~J., Li, C., Li, L., Li, N., Li, W., Li,
-  X., Li, X., Li, Y., Li, Z.~M., Lima, L.~M., Lisa, M.~A., Liu, F., Liu, H.,
-  Liu, J., Ljubicic, T., Llope, W.~J., Longacre, R.~S., Lu, Y., Lukashov,
-  E.~V., Luo, X., Ma, G.~L., Ma, Y.~G., Mahapatra, D.~P., Majka, R., Mall,
-  O.~I., Manweiler, R., Margetis, S., Markert, C., Masui, H., Matis, H.~S.,
-  McDonald, D., McShane, T.~S., Meschanin, A., Milner, R., Minaev, N.~G.,
-  Mioduszewski, S., Mitrovski, M.~K., Mohammed, Y., Mohanty, B., Mondal, M.~M.,
-  Morozov, B., Morozov, D.~A., Munhoz, M.~G., Mustafa, M.~K., Naglis, M.,
-  Nandi, B.~K., Nayak, T.~K., Nogach, L.~V., Nurushev, S.~B., Odyniec, G.,
-  Ogawa, A., Oh, K., Ohlson, A., Okorokov, V., Oldag, E.~W., Oliveira, R.
-  A.~N., Olson, D., Pachr, M., Page, B.~S., Pal, S.~K., Pandit, Y.,
-  Panebratsev, Y., Pawlak, T., Pei, H., Peitzmann, T., Perkins, C., Peryt, W.,
-  Pile, P., Planinic, M., Ploskon, M.~A., Pluta, J., Plyku, D., Poljak, N.,
-  Porter, J., Poskanzer, A.~M., Potukuchi, B. V. K.~S., Powell, C.~B., Prindle,
-  D., Pruneau, C., Pruthi, N.~K., Pujahari, P.~R., Putschke, J., Qiu, H.,
-  Raniwala, R., Raniwala, S., Ray, R.~L., Redwine, R., Reed, R., Ritter, H.~G.,
-  Roberts, J.~B., Rogachevskiy, O.~V., Romero, J.~L., Ruan, L., Rusnak, J.,
-  Sahoo, N.~R., Sakrejda, I., Salur, S., Sandweiss, J., Sangaline, E., Sarkar,
-  A., Schambach, J., Scharenberg, R.~P., Schaub, J., Schmah, A.~M., Schmitz,
-  N., Schuster, T.~R., Seele, J., Seger, J., Selyuzhenkov, I., Seyboth, P.,
-  Shah, N., Shahaliev, E., Shao, M., Sharma, M., Shi, S.~S., Shou, Q.~Y.,
-  Sichtermann, E.~P., Simon, F., Singaraju, R.~N., Skoby, M.~J., Smirnov, N.,
-  Solanki, D., Sorensen, P., deSouza, U.~G., Spinka, H.~M., Srivastava, B.,
-  Stanislaus, T. D.~S., Steadman, S.~G., Stevens, J.~R., Stock, R., Strikhanov,
-  M., Stringfellow, B., Suaide, A. A.~P., Suarez, M.~C., Subba, N.~L., Sumbera,
-  M., Sun, X.~M., Sun, Y., Sun, Z., Surrow, B., Svirida, D.~N., Symons, T.
-  J.~M., Szanto~de Toledo, A., Takahashi, J., Tang, A.~H., Tang, Z., Tarini,
-  L.~H., Tarnowsky, T., Thein, D., Thomas, J.~H., Tian, J., Timmins, A.~R.,
-  Tlusty, D., Tokarev, M., Trainor, T.~A., Trentalange, S., Tribble, R.~E.,
-  Tribedy, P., Trzeciak, B.~A., Tsai, O.~D., Ullrich, T., Underwood, D.~G.,
-  Van~Buren, G., van Nieuwenhuizen, G., Vanfossen, J.~A., Varma, R.,
-  Vasconcelos, G. M.~S., Vasiliev, A.~N., Videb\ae{}k, F., Viyogi, Y.~P.,
-  Vokal, S., Voloshin, S.~A., Wada, M., Walker, M., Wang, F., Wang, G., Wang,
-  H., Wang, J.~S., Wang, Q., Wang, X.~L., Wang, Y., Webb, G., Webb, J.~C.,
-  Westfall, G.~D., Whitten, C., Wieman, H., Wissink, S.~W., Witt, R., Witzke,
-  W., Wu, Y.~F., Xiao, Z., Xie, W., Xu, H., Xu, N., Xu, Q.~H., Xu, W., Xu, Y.,
-  Xu, Z., Xue, L., Yang, Y., Yang, Y., Yepes, P., Yip, K., Yoo, I.-K., Zawisza,
-  M., Zbroszczyk, H., Zhan, W., Zhang, J.~B., Zhang, S., Zhang, W.~M., Zhang,
-  X.~P., Zhang, Y., Zhang, Z.~P., Zhao, F., Zhao, J., Zhong, C., Zhu, X., Zhu,
-  Y.~H., \& Zoulkarneeva, Y. (2012).
-\newblock $\rho${}0.
-\newblock {\em Phys. Rev. C}, 85, 014910.
+\bibitem{Eskola:2008ca}
+K.~J. Eskola, H.~Paukkunen, and C.~A. Salgado, ``{An Improved global analysis
+  of nuclear parton distribution functions including RHIC data},''
+  \href{http://dx.doi.org/10.1088/1126-6708/2008/07/102}{{\em JHEP} {\bfseries
+  0807} (2008) 102},
+\href{http://arxiv.org/abs/0802.0139}{{\ttfamily arXiv:0802.0139 [hep-ph]}}.
+%%CITATION = ARXIV:0802.0139;%%.
 
-\bibitem[Agakishiev \& otheres, 2012]{upcRhoSTAR12}
-Agakishiev, G. \& otheres (2012).
-\newblock $\rho^{0}$ photoproduction in auau collisions at $\sqrt{s_{NN}}$ =
-  62.4 gev measured with the star detector.
-\newblock {\em Phys. Rev. C}, 85, 014910.
+\bibitem{Pumplin:2002vw}
+J.~Pumplin, D.~Stump, J.~Huston, H.~Lai, P.~M. Nadolsky, {\em et~al.}, ``{New
+  generation of parton distributions with uncertainties from global QCD
+  analysis},'' \href{http://dx.doi.org/10.1088/1126-6708/2002/07/012}{{\em
+  JHEP} {\bfseries 0207} (2002) 012},
+\href{http://arxiv.org/abs/hep-ph/0201195}{{\ttfamily arXiv:hep-ph/0201195
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0201195;%%.
 
-\bibitem[Aktas et~al., 2006a]{Aktas:2006qs}
-Aktas, A. et~al. (2006a).
-\newblock Diffractive photoproduction of $\rho$ mesons with large momentum
-  transfer at hera.
-\newblock {\em Phys. Lett.}, B638, 422--431.
+\bibitem{Martin:2009iq}
+A.~Martin, W.~Stirling, R.~Thorne, and G.~Watt, ``{Parton distributions for the
+  LHC},'' \href{http://dx.doi.org/10.1140/epjc/s10052-009-1072-5}{{\em
+  Eur.Phys.J.} {\bfseries C63} (2009) 189--285},
+\href{http://arxiv.org/abs/0901.0002}{{\ttfamily arXiv:0901.0002 [hep-ph]}}.
+%%CITATION = ARXIV:0901.0002;%%.
 
-\bibitem[Aktas et~al., 2006b]{Aktas:2005xu}
-Aktas, A. et~al. (2006b).
-\newblock {Elastic J/psi production at HERA}.
-\newblock {\em Eur.Phys.J.}, C46, 585--603.
+\bibitem{Goldhaber:1948zza}
+M.~Goldhaber and E.~Teller, ``{On nuclear dipole vibrations},''
+\href{http://dx.doi.org/10.1103/PhysRev.74.1046}{{\em Phys.Rev.} {\bfseries 74}
+  (1948) 1046--1049}.
+%%CITATION = PHRVA,74,1046;%%.
 
-\bibitem[Albajar et~al., 2005]{Albajar:2005wv}
-Albajar, C., de~Troconiz, J., Rohlf, J., \& Wrochna, G. (2005).
-\newblock {Conceptual design of an improved CMS RPC muon trigger using the
-  hadron outer scintillators}.
-\newblock {\em Nucl.Instrum.Meth.}, A545, 97--113.
+\bibitem{Jensen:1950}
+H.~Steinwedel and J.~H.~D. Jensen, ``{},''
+{\em Zeits. f. Naturforsch} {\bfseries 5a} (1950) 343.
+%%CITATION = PHRVA,74,1046;%%.
 
-\bibitem[Albrow, 2001]{albrow}
-Albrow, M. (2001).
+\bibitem{Abbas:2013oua}
+{\bfseries ALICE Collaboration} Collaboration, E.~Abbas {\em et~al.},
+  ``{Charmonium and $e^+e^-$ pair photoproduction at mid-rapidity in
+  ultra-peripheral Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-013-2617-1}{{\em Eur.Phys.J.}
+  {\bfseries C73} (2013) 2617},
+\href{http://arxiv.org/abs/1305.1467}{{\ttfamily arXiv:1305.1467 [nucl-ex]}}.
+%%CITATION = ARXIV:1305.1467;%%.
+
+\bibitem{Emling:1994gu}
+H.~Emling, ``{Electromagnetic excitation of the two phonon giant dipole
+  resonance},''
+\href{http://dx.doi.org/10.1016/0146-6410(94)90052-3}{{\em
+  Prog.Part.Nucl.Phys.} {\bfseries 33} (1994) 729--786}.
+%%CITATION = PPNPD,33,729;%%.
+
+\bibitem{dePassos:2001dc}
+E.~de~Passos, M.~Hussein, L.~Canto, and B.~Carlson, ``{The Mean energy,
+  strength and width of triple giant dipole resonances},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.65.034326}{{\em Phys.Rev.}
+  {\bfseries C65} (2002) 034326},
+\href{http://arxiv.org/abs/nucl-th/0108002}{{\ttfamily arXiv:nucl-th/0108002
+  [nucl-th]}}.
+%%CITATION = NUCL-TH/0108002;%%.
+
+\bibitem{Ryskin:1992ui}
+M.~Ryskin, ``{Diffractive J / psi electroproduction in LLA QCD},''
+\href{http://dx.doi.org/10.1007/BF01555742}{{\em Z.Phys.} {\bfseries C57}
+  (1993) 89--92}.
+%%CITATION = ZEPYA,C57,89;%%.
+
+\bibitem{Guzey:2013jaa}
+V.~Guzey, M.~Strikman, and M.~Zhalov, ``{Disentangling coherent and incoherent
+  $J/\psi$ photoproduction on nuclei by neutron tagging in ultraperipheral ion
+  collisions at the LHC},''
+\href{http://arxiv.org/abs/1312.6486}{{\ttfamily arXiv:1312.6486 [hep-ph]}}.
+%%CITATION = ARXIV:1312.6486;%%.
+
+\bibitem{Frankfurt:2011cs}
+L.~Frankfurt, V.~Guzey, and M.~Strikman, ``{Leading Twist Nuclear Shadowing
+  Phenomena in Hard Processes with Nuclei},''
+  \href{http://dx.doi.org/10.1016/j.physrep.2011.12.002}{{\em Phys.Rept.}
+  {\bfseries 512} (2012) 255--393},
+\href{http://arxiv.org/abs/1106.2091}{{\ttfamily arXiv:1106.2091 [hep-ph]}}.
+%%CITATION = ARXIV:1106.2091;%%.
+
+\bibitem{Goncalves:2011vf}
+V.~Goncalves and M.~Machado, ``{Vector Meson Production in Coherent Hadronic
+  Interactions: An update on predictions for RHIC and LHC},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.84.011902}{{\em Phys.Rev.}
+  {\bfseries C84} (2011) 011902},
+\href{http://arxiv.org/abs/1106.3036}{{\ttfamily arXiv:1106.3036 [hep-ph]}}.
+%%CITATION = ARXIV:1106.3036;%%.
+
+\bibitem{Cisek:2012yt}
+A.~Cisek, W.~Schafer, and A.~Szczurek, ``{Exclusive coherent production of
+  heavy vector mesons in nucleus-nucleus collisions at LHC},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.86.014905}{{\em Phys.Rev.}
+  {\bfseries C86} (2012) 014905},
+\href{http://arxiv.org/abs/1204.5381}{{\ttfamily arXiv:1204.5381 [hep-ph]}}.
+%%CITATION = ARXIV:1204.5381;%%.
+
+\bibitem{Lappi:2013am}
+T.~Lappi and H.~Mantysaari, ``{$J/|psi$ production in ultraperipheral Pb+Pb and
+  $p$+Pb collisions at energies available at the CERN Large Hadron Collider},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.87.032201}{{\em Phys.Rev.}
+  {\bfseries C87} no.~3, (2013) 032201},
+\href{http://arxiv.org/abs/1301.4095}{{\ttfamily arXiv:1301.4095 [hep-ph]}}.
+%%CITATION = ARXIV:1301.4095;%%.
+
+\bibitem{Hufner:1996jw}
+J.~Hufner, B.~Kopeliovich, and A.~B. Zamolodchikov, ``{Inelastic J / psi
+  photoproduction off nuclei: Gluon enhancement or double color exchange?},''
+  \href{http://dx.doi.org/10.1007/s002180050222}{{\em Z.Phys.} {\bfseries A357}
+  (1997) 113--120},
+\href{http://arxiv.org/abs/nucl-th/9607033}{{\ttfamily arXiv:nucl-th/9607033
+  [nucl-th]}}.
+%%CITATION = NUCL-TH/9607033;%%.
+
+\bibitem{Brodsky:1994kf}
+S.~J. Brodsky, L.~Frankfurt, J.~Gunion, A.~H. Mueller, and M.~Strikman,
+  ``{Diffractive leptoproduction of vector mesons in QCD},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.50.3134}{{\em Phys.Rev.} {\bfseries
+  D50} (1994) 3134--3144},
+\href{http://arxiv.org/abs/hep-ph/9402283}{{\ttfamily arXiv:hep-ph/9402283
+  [hep-ph]}}.
+%%CITATION = HEP-PH/9402283;%%.
+
+\bibitem{Strikman:2005ze}
+M.~Strikman, M.~Tverskoy, and M.~Zhalov, ``{Neutron tagging of quasielastic
+  J/psi photoproduction off nucleus in ultraperipheral heavy ion collisions at
+  RHIC energies},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2005.08.083}{{\em Phys.Lett.}
+  {\bfseries B626} (2005) 72--79},
+\href{http://arxiv.org/abs/hep-ph/0505023}{{\ttfamily arXiv:hep-ph/0505023
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0505023;%%.
+
+\bibitem{Witten:1984rs}
+E.~Witten, ``{Cosmic Separation of Phases},''
+\href{http://dx.doi.org/10.1103/PhysRevD.30.272}{{\em Phys.Rev.} {\bfseries
+  D30} (1984) 272--285}.
+%%CITATION = PHRVA,D30,272;%%.
+
+\bibitem{Vogt:1998kna}
+R.~Vogt,
+``{Quark-Gluon Plasma Signatures},''.
+%%CITATION = CMS-NOTE-1998-061 ETC.;%%.
+
+\bibitem{vonWeizsacker:1934sx}
+C.~von Weizsacker, ``{Radiation emitted in collisions of very fast
+  electrons},''
+\href{http://dx.doi.org/10.1007/BF01333110}{{\em Z.Phys.} {\bfseries 88} (1934)
+  612--625}.
+%%CITATION = ZEPYA,88,612;%%.
+
+\bibitem{Williams:1934ad}
+E.~Williams, ``{Nature of the high-energy particles of penetrating radiation
+  and status of ionization and radiation formulae},''
+\href{http://dx.doi.org/10.1103/PhysRev.45.729}{{\em Phys.Rev.} {\bfseries 45}
+  (1934) 729--730}.
+%%CITATION = PHRVA,45,729;%%.
+
+\bibitem{Grachov:2006ke}
+{\bfseries CMS Collaboration} Collaboration, O.~A. Grachov {\em et~al.},
+  ``{Status of zero degree calorimeter for CMS experiment},''
+  \href{http://dx.doi.org/10.1063/1.2396962}{{\em AIP Conf.Proc.} {\bfseries
+  867} (2006) 258--265},
+\href{http://arxiv.org/abs/nucl-ex/0608052}{{\ttfamily arXiv:nucl-ex/0608052
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0608052;%%.
+
+\bibitem{Baiatian:2007xva}
+{\bfseries CMS HCAL Collaboration} Collaboration, G.~Baiatian {\em et~al.},
+``{Design, Performance, and Calibration of CMS Hadron-Barrel Calorimeter
+  Wedges},''.
+%%CITATION = CERN-CMS-NOTE-2006-138 ETC.;%%.
+
+\bibitem{Albajar:2005wv}
+C.~Albajar, J.~de~Troconiz, J.~Rohlf, and G.~Wrochna, ``{Conceptual design of
+  an improved CMS RPC muon trigger using the hadron outer scintillators},''
+\href{http://dx.doi.org/10.1016/j.nima.2005.01.331}{{\em Nucl.Instrum.Meth.}
+  {\bfseries A545} (2005) 97--113}.
+%%CITATION = NUIMA,A545,97;%%.
+
+\bibitem{Dasu:2000ge}
+{\bfseries CMS Collaboration} Collaboration, S.~Dasu {\em et~al.},
+``{CMS. The TriDAS project. Technical design report, vol. 1: The trigger
+  systems},''.
+%%CITATION = CERN-LHCC-2000-038 ETC.;%%.
+
+\bibitem{Sphicas:2002gg}
+{\bfseries CMS Collaboration} Collaboration, P.~Sphicas,
+``{CMS: The TriDAS project. Technical design report, Vol. 2: Data acquisition
+  and high-level trigger},''.
+%%CITATION = CERN-LHCC-2002-026 ETC.;%%.
+
+\bibitem{Margetis:2000sv}
+S.~Margetis, K.~Safarik, and O.~Villalobos~Baillie, ``{Strangeness production
+  in heavy-ion collisions},''
+\href{http://dx.doi.org/10.1146/annurev.nucl.50.1.299}{{\em
+  Ann.Rev.Nucl.Part.Sci.} {\bfseries 50} (2000) 299--342}.
+%%CITATION = ARNUA,50,299;%%.
+
+\bibitem{Matsui:1986dk}
+T.~Matsui and H.~Satz, ``{$J/\psi$ Suppression by Quark-Gluon Plasma
+  Formation},''
+\href{http://dx.doi.org/10.1016/0370-2693(86)91404-8}{{\em Phys.Lett.}
+  {\bfseries B178} (1986) 416}.
+%%CITATION = PHLTA,B178,416;%%.
+
+\bibitem{Gyulassy:1990ye}
+M.~Gyulassy and M.~Plumer, ``{Jet Quenching in Dense Matter},''
+\href{http://dx.doi.org/10.1016/0370-2693(90)91409-5}{{\em Phys.Lett.}
+  {\bfseries B243} (1990) 432--438}.
+%%CITATION = PHLTA,B243,432;%%.
+
+\bibitem{Baltz:2007kq}
+A.~Baltz, G.~Baur, D.~d'Enterria, L.~Frankfurt, F.~Gelis, {\em et~al.}, ``{The
+  Physics of Ultraperipheral Collisions at the LHC},''
+  \href{http://dx.doi.org/10.1016/j.physrep.2007.12.001}{{\em Phys.Rept.}
+  {\bfseries 458} (2008) 1--171},
+\href{http://arxiv.org/abs/0706.3356}{{\ttfamily arXiv:0706.3356 [nucl-ex]}}.
+%%CITATION = ARXIV:0706.3356;%%.
+
+\bibitem{Bertulani:2005ru}
+C.~A. Bertulani, S.~R. Klein, and J.~Nystrand, ``{Physics of ultra-peripheral
+  nuclear collisions},''
+  \href{http://dx.doi.org/10.1146/annurev.nucl.55.090704.151526}{{\em
+  Ann.Rev.Nucl.Part.Sci.} {\bfseries 55} (2005) 271--310},
+\href{http://arxiv.org/abs/nucl-ex/0502005}{{\ttfamily arXiv:nucl-ex/0502005
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0502005;%%.
+
+\bibitem{Karsch:2000kv}
+F.~Karsch, E.~Laermann, and A.~Peikert, ``{Quark mass and flavor dependence of
+  the QCD phase transition},''
+  \href{http://dx.doi.org/10.1016/S0550-3213(01)00200-0}{{\em Nucl.Phys.}
+  {\bfseries B605} (2001) 579--599},
+\href{http://arxiv.org/abs/hep-lat/0012023}{{\ttfamily arXiv:hep-lat/0012023
+  [hep-lat]}}.
+%%CITATION = HEP-LAT/0012023;%%.
+
+\bibitem{Hands:2001ve}
+S.~Hands, ``{The Phase diagram of QCD},''
+  \href{http://dx.doi.org/10.1080/00107510110063843}{{\em Contemp.Phys.}
+  {\bfseries 42} (2001) 209--225},
+\href{http://arxiv.org/abs/physics/0105022}{{\ttfamily arXiv:physics/0105022
+  [physics.ed-ph]}}.
+%%CITATION = PHYSICS/0105022;%%.
+
+\bibitem{Evans:2008zzb}
+L.~Evans and P.~Bryant, ``{LHC Machine},''
+\href{http://dx.doi.org/10.1088/1748-0221/3/08/S08001}{{\em JINST} {\bfseries
+  3} (2008) S08001}.
+%%CITATION = JINST,3,S08001;%%.
+
+\bibitem{Miller:2007ri}
+M.~L. Miller, K.~Reygers, S.~J. Sanders, and P.~Steinberg, ``{Glauber modeling
+  in high energy nuclear collisions},''
+  \href{http://dx.doi.org/10.1146/annurev.nucl.57.090506.123020}{{\em
+  Ann.Rev.Nucl.Part.Sci.} {\bfseries 57} (2007) 205--243},
+\href{http://arxiv.org/abs/nucl-ex/0701025}{{\ttfamily arXiv:nucl-ex/0701025
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0701025;%%.
+
+\bibitem{Roland:2014jsa}
+G.~Roland, K.~Safarik, and P.~Steinberg, ``{Heavy-ion collisions at the LHC},''
+\href{http://dx.doi.org/10.1016/j.ppnp.2014.05.001}{{\em Prog.Part.Nucl.Phys.}
+  {\bfseries 77} (2014) 70--127}.
+%%CITATION = PPNPD,77,70;%%.
+
+\bibitem{Chatrchyan:2013nka}
+{\bfseries CMS Collaboration} Collaboration, S.~Chatrchyan {\em et~al.},
+  ``{Multiplicity and transverse momentum dependence of two- and four-particle
+  correlations in pPb and PbPb collisions},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2013.06.028}{{\em Phys.Lett.}
+  {\bfseries B724} (2013) 213--240},
+\href{http://arxiv.org/abs/1305.0609}{{\ttfamily arXiv:1305.0609 [nucl-ex]}}.
+%%CITATION = ARXIV:1305.0609;%%.
+
+\bibitem{Abelev:2012ola}
+{\bfseries ALICE Collaboration} Collaboration, B.~Abelev {\em et~al.},
+  ``{Long-range angular correlations on the near and away side in $p$-Pb
+  collisions at $\sqrt{s_{NN}}=5.02$ TeV},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2013.01.012}{{\em Phys.Lett.}
+  {\bfseries B719} (2013) 29--41},
+\href{http://arxiv.org/abs/1212.2001}{{\ttfamily arXiv:1212.2001 [nucl-ex]}}.
+%%CITATION = ARXIV:1212.2001;%%.
+
+\bibitem{Aamodt:2008zz}
+{\bfseries ALICE Collaboration} Collaboration, K.~Aamodt {\em et~al.}, ``{The
+  ALICE experiment at the CERN LHC},''
+\href{http://dx.doi.org/10.1088/1748-0221/3/08/S08002}{{\em JINST} {\bfseries
+  3} (2008) S08002}.
+%%CITATION = JINST,3,S08002;%%.
+
+\bibitem{Aad:2008zzm}
+{\bfseries ATLAS Collaboration} Collaboration, G.~Aad {\em et~al.}, ``{The
+  ATLAS Experiment at the CERN Large Hadron Collider},''
+\href{http://dx.doi.org/10.1088/1748-0221/3/08/S08003}{{\em JINST} {\bfseries
+  3} (2008) S08003}.
+%%CITATION = JINST,3,S08003;%%.
+
+\bibitem{Alves:2008zz}
+{\bfseries LHCb Collaboration} Collaboration, J.~Alves, A.~Augusto {\em
+  et~al.}, ``{The LHCb Detector at the LHC},''
+\href{http://dx.doi.org/10.1088/1748-0221/3/08/S08005}{{\em JINST} {\bfseries
+  3} (2008) S08005}.
+%%CITATION = JINST,3,S08005;%%.
+
+\bibitem{Bjorken:1982qr}
+J.~Bjorken, ``{Highly Relativistic Nucleus-Nucleus Collisions: The Central
+  Rapidity Region},''
+\href{http://dx.doi.org/10.1103/PhysRevD.27.140}{{\em Phys.Rev.} {\bfseries
+  D27} (1983) 140--151}.
+%%CITATION = PHRVA,D27,140;%%.
+
+\bibitem{Ackermann:2000tr}
+{\bfseries STAR Collaboration} Collaboration, K.~Ackermann {\em et~al.},
+  ``{Elliptic flow in Au + Au collisions at (S(NN))**(1/2) = 130 GeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.86.402}{{\em Phys.Rev.Lett.}
+  {\bfseries 86} (2001) 402--407},
+\href{http://arxiv.org/abs/nucl-ex/0009011}{{\ttfamily arXiv:nucl-ex/0009011
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0009011;%%.
+
+\bibitem{Ollitrault:1992bk}
+J.-Y. Ollitrault, ``{Anisotropy as a signature of transverse collective
+  flow},''
+\href{http://dx.doi.org/10.1103/PhysRevD.46.229}{{\em Phys.Rev.} {\bfseries
+  D46} (1992) 229--245}.
+%%CITATION = PHRVA,D46,229;%%.
+
+\bibitem{Sorensen:2009cz}
+P.~Sorensen, ``{Elliptic Flow: A Study of Space-Momentum Correlations In
+  Relativistic Nuclear Collisions},''
+\href{http://arxiv.org/abs/0905.0174}{{\ttfamily arXiv:0905.0174 [nucl-ex]}}.
+%%CITATION = ARXIV:0905.0174;%%.
+
+\bibitem{Borghini:2004ke}
+N.~Borghini, R.~Bhalerao, and J.~Ollitrault, ``{Anisotropic flow from Lee-Yang
+  zeroes: A Practical guide},''
+  \href{http://dx.doi.org/10.1088/0954-3899/30/8/092}{{\em J.Phys.} {\bfseries
+  G30} (2004) S1213--S1216},
+\href{http://arxiv.org/abs/nucl-th/0402053}{{\ttfamily arXiv:nucl-th/0402053
+  [nucl-th]}}.
+%%CITATION = NUCL-TH/0402053;%%.
+
+\bibitem{Bhalerao:2003yq}
+R.~Bhalerao, N.~Borghini, and J.~Ollitrault, ``{Genuine collective flow from
+  Lee-Yang zeroes},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2003.11.056}{{\em Phys.Lett.}
+  {\bfseries B580} (2004) 157--162},
+\href{http://arxiv.org/abs/nucl-th/0307018}{{\ttfamily arXiv:nucl-th/0307018
+  [nucl-th]}}.
+%%CITATION = NUCL-TH/0307018;%%.
+
+\bibitem{Borghini:2001zr}
+N.~Borghini, P.~M. Dinh, and J.-Y. Ollitrault, ``{Flow analysis from cumulants:
+  A Practical guide},''
+\href{http://arxiv.org/abs/nucl-ex/0110016}{{\ttfamily arXiv:nucl-ex/0110016
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0110016;%%.
+
+\bibitem{Andreev:2010zzb}
+V.~Andreev, X.~Aslanoglou, A.~Azman, M.~Bakirci, S.~Basegmez, {\em et~al.},
+  ``{Performance studies of a full-length prototype for the CASTOR forward
+  calorimeter at the CMS experiment},''
+\href{http://dx.doi.org/10.1140/epjc/s10052-010-1316-4}{{\em Eur.Phys.J.}
+  {\bfseries C67} (2010) 601--615}.
+%%CITATION = EPHJA,C67,601;%%.
+
+\bibitem{CGC2Lec}
+L.~McLerran, ``{The Color Glass Condensate and Glasma},''
+\href{http://arxiv.org/abs/0804.1736}{{\ttfamily arXiv:0804.1736 [hep-ph]}}.
+%%CITATION = ARXIV:0804.1736;%%.
+
+\bibitem{CGCandGlasma}
+F.~Gelis, ``Color glass condensate and glasma,''
+  \href{http://dx.doi.org/http://dx.doi.org/10.1016/j.nuclphysa.2010.09.001}{{\em
+  Nuclear Physics A} {\bfseries 854} no.~1, (2011) 10 -- 17}.
+  \url{http://www.sciencedirect.com/science/article/pii/S0375947410006615}.
+  Saturation, the Color Glass Condensate and the Glasma: What Have We Learned
+  from RHIC?
+
+\bibitem{CMS_AN_2008-098}
+M.~M.~I. Bloch, E.~J. A., E.~D. Barge, C.~Campagnari, P.~Kalavase,
+  V.~Krutelyov, D.~Kovalskyi, J.~Ribnik, and N.~Amapane, ``Muon identification
+  in cms,'' {\em CMS Note} {\bfseries 2008/098} (2008) .
+  \url{http://cdsweb.cern.ch/record/962045}.
+
+\bibitem{Frankfurt:2006wg}
+L.~Frankfurt, M.~Strikman, and M.~Zhalov, ``Large t diffractive $\rho$-meson
+  photoproduction with target dissociation in ultraperipheral p a and a a
+  collisions at lhc,''
+\href{http://arxiv.org/abs/hep-ph/0612072}{{\ttfamily hep-ph/0612072}}.
+%%CITATION = HEP-PH 0612072;%%.
+
+\bibitem{Aktas:2006qs}
+{\bfseries H1} Collaboration, A.~Aktas {\em et~al.}, ``Diffractive
+  photoproduction of $\rho$ mesons with large momentum transfer at hera,'' {\em
+  Phys. Lett.} {\bfseries B638} (2006) 422--431,
+\href{http://arxiv.org/abs/hep-ex/0603038}{{\ttfamily hep-ex/0603038}}.
+%%CITATION = HEP-EX 0603038;%%.
+
+\bibitem{Adler:2002sc}
+{\bfseries STAR} Collaboration, C.~Adler {\em et~al.}, ``Coherent $\rho^0$
+  production in ultra-peripheral heavy ion collisions,'' {\em Phys. Rev. Lett.}
+  {\bfseries 89} (2002) 272302,
+\href{http://arxiv.org/abs/nucl-ex/0206004}{{\ttfamily nucl-ex/0206004}}.
+%%CITATION = NUCL-EX 0206004;%%.
+
+\bibitem{Teubner:2005sj}
+T.~Teubner, ``Diffractive production of vector mesons and the gluon at small
+  $x$,''
+{\em AIP Conf. Proc.} {\bfseries 792} (2005) 416--419.
+%%CITATION = APCPC,792,416;%%.
+
+\bibitem{Klasen:2007pm}
+M.~Klasen, ``Hard photoproduction at hera,''
+\href{http://arxiv.org/abs/hep-ph/0702052}{{\ttfamily hep-ph/0702052}}.
+%%CITATION = HEP-PH 0702052;%%.
+
+\bibitem{d'Enterria:2004nv}
+D.~d'Enterria, ``Hard spectra and qcd matter: Experimental review,'' {\em J.
+  Phys.} {\bfseries G30} (2004) S767--S774,
+\href{http://arxiv.org/abs/nucl-ex/0404018}{{\ttfamily nucl-ex/0404018}}.
+%%CITATION = NUCL-EX 0404018;%%.
+
+\bibitem{Strikman:2005yv}
+M.~Strikman, R.~Vogt, and S.~White, ``Probing small $x$ parton densities in
+  ultraperipheral a a and p a collisions at the lhc,'' {\em Phys. Rev. Lett.}
+  {\bfseries 96} (2006) 082001,
+\href{http://arxiv.org/abs/hep-ph/0508296}{{\ttfamily hep-ph/0508296}}.
+%%CITATION = HEP-PH 0508296;%%.
+
+\bibitem{Nystrand:2004vn}
+J.~Nystrand, ``Electromagnetic interactions in nucleus nucleus and proton
+  proton collisions,'' {\em Nucl. Phys.} {\bfseries A752} (2005) 470--479,
+\href{http://arxiv.org/abs/hep-ph/0412096}{{\ttfamily hep-ph/0412096}}.
+%%CITATION = HEP-PH 0412096;%%.
+
+\bibitem{Klein:2003vd}
+S.~R. Klein and J.~Nystrand, ``Photoproduction of quarkonium in proton proton
+  and nucleus nucleus collisions,'' {\em Phys. Rev. Lett.} {\bfseries 92}
+  (2004) 142003,
+\href{http://arxiv.org/abs/hep-ph/0311164}{{\ttfamily hep-ph/0311164}}.
+%%CITATION = HEP-PH 0311164;%%.
+
+\bibitem{Baltz:2002pp}
+A.~J. Baltz, S.~R. Klein, and J.~Nystrand, ``Coherent vector meson
+  photoproduction with nuclear breakup in relativistic heavy ion collisions,''
+  {\em Phys. Rev. Lett.} {\bfseries 89} (2002) 012301,
+\href{http://arxiv.org/abs/nucl-th/0205031}{{\ttfamily nucl-th/0205031}}.
+%%CITATION = NUCL-TH 0205031;%%.
+
+\bibitem{Klein:1999qj}
+S.~Klein and J.~Nystrand, ``Exclusive vector meson production in relativistic
+  heavy ion collisions,'' {\em Phys. Rev.} {\bfseries C60} (1999) 014903,
+\href{http://arxiv.org/abs/hep-ph/9902259}{{\ttfamily hep-ph/9902259}}.
+%%CITATION = HEP-PH 9902259;%%.
+
+\bibitem{Frankfurt:2005mc}
+L.~Frankfurt, M.~Strikman, and C.~Weiss, ``Small-$x$ physics: From hera to lhc
+  and beyond,'' {\em Ann. Rev. Nucl. Part. Sci.} {\bfseries 55} (2005)
+  403--465,
+\href{http://arxiv.org/abs/hep-ph/0507286}{{\ttfamily hep-ph/0507286}}.
+%%CITATION = HEP-PH 0507286;%%.
+
+\bibitem{Goncalves:2006ed}
+V.~P. Goncalves and M.~V.~T. Machado, ``Heavy quarks and meson production in
+  ultraperipheral heavy ion collisions,''
+\href{http://arxiv.org/abs/hep-ph/0601131}{{\ttfamily hep-ph/0601131}}.
+%%CITATION = HEP-PH 0601131;%%.
+
+\bibitem{gdr_neutron}
+B.~L. Berman and S.~C. Fultz
+{\em Rev. Mod. Phys.} {\bfseries 47} (1975) 713.
+%%CITATION = ;%%.
+
+\bibitem{Vogt:2002ve}
+R.~Vogt, ``Heavy quark production in heavy ion colliders,'' {\em Heavy Ion
+  Phys.} {\bfseries 18} (2003) 11--20,
+\href{http://arxiv.org/abs/hep-ph/0205330}{{\ttfamily hep-ph/0205330}}.
+%%CITATION = HEP-PH 0205330;%%.
+
+\bibitem{Piotrzkowski:2000rx}
+K.~Piotrzkowski, ``Tagging two-photon production at the lhc,'' {\em Phys. Rev.}
+  {\bfseries D63} (2001) 071502,
+\href{http://arxiv.org/abs/hep-ex/0009065}{{\ttfamily hep-ex/0009065}}.
+%%CITATION = HEP-EX 0009065;%%.
+
+\bibitem{Krasny:2006xg}
+M.~W. Krasny, J.~Chwastowski, and K.~Slowikowski, ``Luminosity measurement
+  method for lhc: The theoretical precision and the experimental challenges,''
+\href{http://arxiv.org/abs/hep-ex/0610052}{{\ttfamily hep-ex/0610052}}.
+%%CITATION = HEP-EX 0610052;%%.
+
+\bibitem{Yao:2006px}
+{\bfseries Particle Data Group} Collaboration, W.-M. Yao {\em et~al.}, ``Review
+  of particle physics,''
+{\em J. Phys.} {\bfseries G33} (2006) 1--1232.
+%%CITATION = JPHGB,G33,1;%%.
+
+\bibitem{Khoze:2000jm}
+V.~A. Khoze, A.~D. Martin, and M.~G. Ryskin, ``Double-diffractive processes in
+  high-resolution missing- mass experiments at the tevatron,'' {\em Eur. Phys.
+  J.} {\bfseries C19} (2001) 477--483,
+\href{http://arxiv.org/abs/hep-ph/0011393}{{\ttfamily hep-ph/0011393}}.
+%%CITATION = HEP-PH 0011393;%%.
+
+\bibitem{albrow}
+M.~Albrow, 2001.
 \newblock private communication.
 
-\bibitem[Alexa et~al., 2013]{Alexa:2013xxa}
-Alexa, C. et~al. (2013).
-\newblock {Elastic and Proton-Dissociative Photoproduction of J/psi Mesons at
-  HERA}.
-\newblock {\em Eur.Phys.J.}, C73, 2466.
+\bibitem{Pshenichnov:2001qd}
+I.~A. Pshenichnov, J.~P. Bondorf, I.~N. Mishustin, A.~Ventura, and S.~Masetti,
+  ``Mutual heavy ion dissociation in peripheral collisions at ultrarelativistic
+  energies,'' {\em Phys. Rev.} {\bfseries C64} (2001) 024903,
+\href{http://arxiv.org/abs/nucl-th/0101035}{{\ttfamily nucl-th/0101035}}.
+%%CITATION = NUCL-TH 0101035;%%.
 
-\bibitem[Allison et~al., 2006]{geant}
-Allison, J. et~al. (2006).
-\newblock Geant4 developments and applications.
-\newblock {\em Nuclear Science, IEEE Transactions on}, 53(1), 270--278.
+\bibitem{atlas_note}
+M.~Boonekamp {\em et~al.} Atl-gen-2004-001, March, 2004.
 
-\bibitem[Alver et~al., 2008]{phobosFlow}
-Alver, B. et~al. (2008).
-\newblock Importance of correlations and fluctuations on the initial source
-  eccentricity in high-energy nucleus-nucleus collisions.
-\newblock {\em Phys. Rev. C}, 77, 014906.
+\bibitem{elect_cms_note06}
+S.~Baffioni, C.~Charlot, {\em et~al.}, ``Electron reconstruction in cms,'' {\em
+  CMS NOTE 2006/40} (2006) .
 
-\bibitem[Alves et~al., 2008]{Alves:2008zz}
-Alves, A.~Augusto, J. et~al. (2008).
-\newblock {The LHCb Detector at the LHC}.
-\newblock {\em JINST}, 3, S08005.
+\bibitem{yepes_cms_note03}
+P.~Yepes, ``Studying light objects in ultra-peripheral heavy ion collisions,''
+  {\em CMS NOTE 2003/022} (2003) .
 
-\bibitem[Alwall et~al., 2007]{lheFormat}
-Alwall, J., Ballestrero, A., Bartalini, P., Belov, S., Boos, E., et~al. (2007).
-\newblock {A Standard format for Les Houches event files}.
-\newblock {\em Comput.Phys.Commun.}, 176, 300--304.
+\bibitem{aliceIclJpsi}
+A.~Lardeux, ``{J/$\psi$ production in Pb-Pb collisions at $\sqrt{s_{NN}}$ =2.76
+  TeV in the ALICE experiment},''
+\href{http://dx.doi.org/10.1088/1742-6596/446/1/012042}{{\em J.Phys.Conf.Ser.}
+  {\bfseries 446} (2013) 012042}.
+%%CITATION = 00462,446,012042;%%.
 
-\bibitem[Andreev et~al., 2010]{Andreev:2010zzb}
-Andreev, V., Aslanoglou, X., Azman, A., Bakirci, M., Basegmez, S., et~al.
-  (2010).
-\newblock {Performance studies of a full-length prototype for the CASTOR
-  forward calorimeter at the CMS experiment}.
-\newblock {\em Eur.Phys.J.}, C67, 601--615.
+\bibitem{tCmsE}
+S.~Chatrchyan {\em et~al.}, ``The cms experiment at the cern lhc,'' {\em
+  Journal of Instrumentation} {\bfseries 3} no.~08, (2008) S08004.
+  \url{http://stacks.iop.org/1748-0221/3/i=08/a=S08004}.
 
-\bibitem[Andreev et~al., 2015]{Andreev:2015cwa}
-Andreev, V. et~al. (2015).
-\newblock {Diffractive Dijet Production with a Leading Proton in $ep$
-  Collisions at HERA}.
-\newblock {\em JHEP}, 05, 056.
-
-\bibitem[Back et~al., 2005]{phobosWhite}
-Back, B. et~al. (2005).
-\newblock The \{PHOBOS\} perspective on discoveries at \{RHIC\}.
-\newblock {\em Nuclear Physics A}, 757(1–2), 28 -- 101.
-\newblock First Three Years of Operation of \{RHIC\}.
-
-\bibitem[Baffioni et~al., 2006]{elect_cms_note06}
-Baffioni, S., Charlot, C., et~al. (2006).
-\newblock Electron reconstruction in cms.
-\newblock {\em CMS NOTE 2006/40}.
-
-\bibitem[Baiatian et~al., 2007]{Baiatian:2007xva}
-Baiatian, G. et~al. (2007).
-\newblock {Design, Performance, and Calibration of CMS Hadron-Barrel
-  Calorimeter Wedges}.
-
-\bibitem[Baltz et~al., 2008]{Baltz:2007kq}
-Baltz, A., Baur, G., d'Enterria, D., Frankfurt, L., Gelis, F., et~al. (2008).
-\newblock {The Physics of Ultraperipheral Collisions at the LHC}.
-\newblock {\em Phys.Rept.}, 458, 1--171.
-
-\bibitem[Baltz et~al., 1998]{emPCite3}
-Baltz, A.~J., Chasman, C., \& White, S.~N. (1998).
-\newblock Correlated forward–backward dissociation and neutron spectra as a
-  luminosity monitor in heavy-ion colliders.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
-  Accelerators, Spectrometers, Detectors and Associated Equipment}, 417(1), 1
-  -- 8.
-
-\bibitem[Baltz et~al., 2002]{Baltz:2002pp}
-Baltz, A.~J., Klein, S.~R., \& Nystrand, J. (2002).
-\newblock Coherent vector meson photoproduction with nuclear breakup in
-  relativistic heavy ion collisions.
-\newblock {\em Phys. Rev. Lett.}, 89, 012301.
-
-\bibitem[Bauer et~al., 1978]{Bauer:1977iq}
-Bauer, T., Spital, R., Yennie, D., \& Pipkin, F. (1978).
-\newblock {The Hadronic Properties of the Photon in High-Energy Interactions}.
-\newblock {\em Rev.Mod.Phys.}, 50, 261.
-
-\bibitem[Bayatian et~al., 2007]{CmsPTdrv2}
-Bayatian, G. et~al. (2007).
-\newblock {CMS technical design report, volume II: Physics performance}.
-\newblock {\em J.Phys.}, G34, 995--1579.
-
-\bibitem[Benaglia, 2014]{Benaglia:2014aqa}
-Benaglia, A. (2014).
-\newblock {The CMS ECAL performance with examples}.
-\newblock {\em JINST}, 9, C02008.
-
-\bibitem[Beringer et~al., 2012]{pdg}
-Beringer, J. et~al. (2012).
-\newblock Review of particle physics.
-\newblock {\em Phys. Rev. D}, 86, 010001.
-
-\bibitem[Berman \& Fultz, 1975]{gdr_neutron}
-Berman, B.~L. \& Fultz, S.~C. (1975).
-\newblock {\em Rev. Mod. Phys.}, 47, 713.
-
-\bibitem[Bertulani et~al., 2005]{Bertulani:2005ru}
-Bertulani, C.~A., Klein, S.~R., \& Nystrand, J. (2005).
-\newblock {Physics of ultra-peripheral nuclear collisions}.
-\newblock {\em Ann.Rev.Nucl.Part.Sci.}, 55, 271--310.
-
-\bibitem[Bethke, 2007]{Bethke:2006ac}
-Bethke, S. (2007).
-\newblock {Experimental tests of asymptotic freedom}.
-\newblock {\em Prog. Part. Nucl. Phys.}, 58, 351--386.
-
-\bibitem[Bhalerao et~al., 2004]{Bhalerao:2003yq}
-Bhalerao, R., Borghini, N., \& Ollitrault, J. (2004).
-\newblock {Genuine collective flow from Lee-Yang zeroes}.
-\newblock {\em Phys.Lett.}, B580, 157--162.
-
-\bibitem[Bjorken, 1983a]{Bjorken:1982qr}
-Bjorken, J. (1983a).
-\newblock {Highly Relativistic Nucleus-Nucleus Collisions: The Central Rapidity
-  Region}.
-\newblock {\em Phys.Rev.}, D27, 140--151.
-
-\bibitem[Bjorken, 1983b]{bjEdense}
-Bjorken, J.~D. (1983b).
-\newblock Highly relativistic nucleus-nucleus collisions: The central rapidity
-  region.
-\newblock {\em Phys. Rev. D}, 27, 140--151.
-
-\bibitem[Boonekamp et~al., 2004]{atlas_note}
-Boonekamp, M. et~al. (2004).
-\newblock ATL-GEN-2004-001.
-
-\bibitem[Borghini et~al., 2004]{Borghini:2004ke}
-Borghini, N., Bhalerao, R., \& Ollitrault, J. (2004).
-\newblock {Anisotropic flow from Lee-Yang zeroes: A Practical guide}.
-\newblock {\em J.Phys.}, G30, S1213--S1216.
-
-\bibitem[Borghini et~al., 2001]{Borghini:2001zr}
-Borghini, N., Dinh, P.~M., \& Ollitrault, J.-Y. (2001).
-\newblock {Flow analysis from cumulants: A Practical guide}.
-
-\bibitem[Brau, 2004]{WWBrau}
-Brau, C.~A. (2004).
-\newblock {\em Modern Problems in Classical Electrodynamics}.
-\newblock New York, {NY}: Oxford, 1st ed. edition.
-
-\bibitem[Brodsky et~al., 1994]{Brodsky:1994kf}
-Brodsky, S.~J., Frankfurt, L., Gunion, J., Mueller, A.~H., \& Strikman, M.
-  (1994).
-\newblock {Diffractive leptoproduction of vector mesons in QCD}.
-\newblock {\em Phys.Rev.}, D50, 3134--3144.
-
-\bibitem[Chatrchyan et~al., 2008]{tCmsE}
-Chatrchyan, S. et~al. (2008).
-\newblock The cms experiment at the cern lhc.
-\newblock {\em Journal of Instrumentation}, 3(08), S08004.
-
-\bibitem[Chatrchyan et~al., 2010]{cmsLumi}
-Chatrchyan, S. et~al. (2010).
-\newblock {Measurement of CMS Luminosity}.
-
-\bibitem[Chatrchyan et~al., 2012a]{cmsExMuplMumi}
-Chatrchyan, S. et~al. (2012a).
-\newblock Exclusive $\gamma\gamma \rightarrow \mu+\mu−$ production in
-  proton-proton collisions at $\sqrt{s}$ = {7} tev.
-\newblock {\em Journal of High Energy Physics}, 2012(1).
-
-\bibitem[Chatrchyan et~al., 2012b]{cmsJpPP}
-Chatrchyan, S. et~al. (2012b).
-\newblock J/$\psi$ and $\psi$(2s) production in pp collisions at $\sqrt{s}$ = 7
-  tev.
-\newblock {\em Journal of High Energy Physics}, 2012(2).
-
-\bibitem[Chatrchyan et~al., 2012c]{cmsEt}
-Chatrchyan, S. et~al. (2012c).
-\newblock Measurement of the pseudorapidity and centrality dependence of the
-  transverse energy density in pb-pb collisions at snn=2.76\,\,tev.
-\newblock {\em Phys. Rev. Lett.}, 109, 152303.
-
-\bibitem[Chatrchyan et~al., 2013a]{cmsFlow}
-Chatrchyan, S. et~al. (2013a).
-\newblock Measurement of the elliptic anisotropy of charged particles produced
-  in pbpb collisions at $\sqrt{{s}_{NN}}=2.76$ tev.
-\newblock {\em Phys. Rev. C}, 87, 014902.
-
-\bibitem[Chatrchyan et~al., 2013b]{Chatrchyan:2013nka}
-Chatrchyan, S. et~al. (2013b).
-\newblock {Multiplicity and transverse momentum dependence of two- and
-  four-particle correlations in pPb and PbPb collisions}.
-\newblock {\em Phys.Lett.}, B724, 213--240.
-
-\bibitem[Chatrchyan et~al., 2013c]{cmsExWplWmi}
-Chatrchyan, S. et~al. (2013c).
-\newblock Study of exclusive two-photon production of w+w− in pp collisions
-  at \sqrt{s}=7 tev and constraints on anomalous quartic gauge couplings.
-\newblock {\em Journal of High Energy Physics}, 2013(7).
-
-\bibitem[Chekanov et~al., 2002]{Chekanov:2002xi}
-Chekanov, S. et~al. (2002).
-\newblock {Exclusive photoproduction of J / psi mesons at HERA}.
-\newblock {\em Eur.Phys.J.}, C24, 345--360.
-
-\bibitem[Chekanov et~al., 2009]{Chekanov:2008fh}
-Chekanov, S. et~al. (2009).
-\newblock {Deep inelastic scattering with leading protons or large rapidity
-  gaps at HERA}.
-\newblock {\em Nucl. Phys.}, B816, 1--61.
-
-\bibitem[Chiu et~al., 2002]{upcNeuPHENIX}
-Chiu, M., Denisov, A., Garcia, E., Katzy, J., Makeev, A., Murray, M., \& White,
-  S. (2002).
-\newblock Measurement of mutual coulomb dissociation in
-  $\sqrt{{s}_{\mathrm{NN}}}\phantom{\rule{0ex}{0ex}}=\phantom{\rule{0ex}{0ex}}130\mathrm{GeV}$
-  $au+au$ collisions.
-\newblock {\em Phys. Rev. Lett.}, 89, 012302.
-
-\bibitem[Chomaz, 1997]{emPCite6}
-Chomaz, P. (1997).
-\newblock {Collective excitations in nuclei}.
-
-\bibitem[Cisek et~al., 2012]{Cisek:2012yt}
-Cisek, A., Schafer, W., \& Szczurek, A. (2012).
-\newblock {Exclusive coherent production of heavy vector mesons in
-  nucleus-nucleus collisions at LHC}.
-\newblock {\em Phys.Rev.}, C86, 014905.
-
-\bibitem[collaboration, 2012]{cmsTnP}
-collaboration, T.~C. (2012).
-\newblock Performance of cms muon reconstruction in pp collision events at
-  $sqrt{s}$ = 7 tev.
-\newblock {\em Journal of Instrumentation}, 7(10), P10002.
-
-\bibitem[Crittenden, 1997]{Crittenden:1997yz}
-Crittenden, J.~A. (1997).
-\newblock {Exclusive production of neutral vector mesons at the electron -
-  proton collider HERA}.
-
-\bibitem[Dasu et~al., 2000]{Dasu:2000ge}
-Dasu, S. et~al. (2000).
-\newblock {CMS. The TriDAS project. Technical design report, vol. 1: The
-  trigger systems}.
-
-\bibitem[de~Passos et~al., 2002]{dePassos:2001dc}
-de~Passos, E., Hussein, M., Canto, L., \& Carlson, B. (2002).
-\newblock {The Mean energy, strength and width of triple giant dipole
-  resonances}.
-\newblock {\em Phys.Rev.}, C65, 034326.
-
-\bibitem[d'Enterria, 2004]{d'Enterria:2004nv}
-d'Enterria, D. (2004).
-\newblock Hard spectra and qcd matter: Experimental review.
-\newblock {\em J. Phys.}, G30, S767--S774.
-
-\bibitem[d'Enterria, 2006]{d'Enterria:2006ep}
-d'Enterria, D. (2006).
-\newblock Coherent photoproduction of $\jpsi$ and high-mass $\elel$ pairs in
-  ultra-peripheral au + au collisions at $\sqrtsnn$ = 200-gev.
-
-\bibitem[d'Enterria \& Hees, 2006]{upc_dde_hees_note06}
-d'Enterria, D. \& Hees, A. (2006).
-\newblock Measurement of $\ups\rightarrow e^+e^-,\mu^+\mu^-$ in electromagnetic
-  pbpb collisions at $\sqrtsnn$ = 5.5 tev in cms.
-\newblock {\em CMS AN-2006/107}.
-
-\bibitem[Donnachie et~al., 2002]{Donnachie:2002en}
-Donnachie, S., Dosch, H.~G., Nachtmann, O., \& Landshoff, P. (2002).
-\newblock {Pomeron physics and QCD}.
-\newblock {\em Camb.Monogr.Part.Phys.Nucl.Phys.Cosmol.}, 19, 1--347.
-
-\bibitem[Ducati et~al., 2013]{cgc2013.05}
-Ducati, M. B.~G., Griep, M.~T., \& Machado, M. V.~T. (2013).
-\newblock {\em Exclusive photoproduction of J/$\psi$ and $\psi$(2S) states in
-  proton-proton collisions at the CERN LHC}.
-\newblock Technical Report arXiv:1305.4611.
+\bibitem{cgc2013.05}
+M.~B.~G. Ducati, M.~T. Griep, and M.~V.~T. Machado, ``Exclusive photoproduction
+  of j/$\psi$ and $\psi$(2s) states in proton-proton collisions at the cern
+  lhc,'' Tech. Rep. arXiv:1305.4611, May, 2013.
 \newblock Comments: 04 pages, 2 figures. arXiv admin note: text overlap with
   arXiv:1305.2407.
 
-\bibitem[Emling, 1994]{Emling:1994gu}
-Emling, H. (1994).
-\newblock {Electromagnetic excitation of the two phonon giant dipole
-  resonance}.
-\newblock {\em Prog.Part.Nucl.Phys.}, 33, 729--786.
-
-\bibitem[Eskola et~al., 2009]{Eskola:2009uj}
-Eskola, K., Paukkunen, H., \& Salgado, C. (2009).
-\newblock {EPS09: A New Generation of NLO and LO Nuclear Parton Distribution
-  Functions}.
-\newblock {\em JHEP}, 0904, 065.
-
-\bibitem[Eskola et~al., 2008]{Eskola:2008ca}
-Eskola, K.~J., Paukkunen, H., \& Salgado, C.~A. (2008).
-\newblock {An Improved global analysis of nuclear parton distribution functions
-  including RHIC data}.
-\newblock {\em JHEP}, 0807, 102.
-
-\bibitem[Evans \& Bryant, 2008]{Evans:2008zzb}
-Evans, L. \& Bryant, P. (2008).
-\newblock {LHC Machine}.
-\newblock {\em JINST}, 3, S08001.
-
-\bibitem[Faccioli et~al., 2010]{oniaPol}
-Faccioli, P., Lourenco, C., Seixas, J., \& Wohri, H.~K. (2010).
-\newblock {Towards the experimental clarification of quarkonium polarization}.
-\newblock {\em Eur.Phys.J.}, C69, 657--673.
-
-\bibitem[{Fermi}, 2003]{WWFermi}
-{Fermi}, E. (2003).
-\newblock {On the Theory of Collisions between Atoms and Electrically Charged
-  Particles}.
-\newblock In W. {Marciano} \& S. {White} (Eds.), {\em Electromagnetic Probes of
-  Fundamental Physics}  (pp.\ 243--252).
-
-\bibitem[Frankfurt et~al., 2012]{Frankfurt:2011cs}
-Frankfurt, L., Guzey, V., \& Strikman, M. (2012).
-\newblock {Leading Twist Nuclear Shadowing Phenomena in Hard Processes with
-  Nuclei}.
-\newblock {\em Phys.Rept.}, 512, 255--393.
-
-\bibitem[Frankfurt et~al., 2003]{Frankfurt:2003qy}
-Frankfurt, L., Guzey, V., Strikman, M., \& Zhalov, M. (2003).
-\newblock Onset of perturbative color opacity at small $x$ and $\ups$ coherent
-  photoproduction off heavy nuclei at lhc.
-\newblock {\em JHEP}, 08, 043.
-
-\bibitem[Frankfurt et~al., 2005]{Frankfurt:2005mc}
-Frankfurt, L., Strikman, M., \& Weiss, C. (2005).
-\newblock Small-$x$ physics: From hera to lhc and beyond.
-\newblock {\em Ann. Rev. Nucl. Part. Sci.}, 55, 403--465.
-
-\bibitem[Frankfurt et~al., 2006a]{Frankfurt:2006tp}
-Frankfurt, L., Strikman, M., \& Zhalov, M. (2006a).
-\newblock {Elastic and large t rapidity gap vector meson production in
-  ultraperipheral proton-ion collisions}.
-\newblock {\em Phys.Lett.}, B640, 162--169.
-
-\bibitem[Frankfurt et~al., 2006b]{Frankfurt:2006wg}
-Frankfurt, L., Strikman, M., \& Zhalov, M. (2006b).
-\newblock Large t diffractive $\rho$-meson photoproduction with target
-  dissociation in ultraperipheral p a and a a collisions at lhc.
-
-\bibitem[Gaiser, 1982]{Gaiser:1982yw}
-Gaiser, J. (1982).
-\newblock {Charmonium Spectroscopy From Radiative Decays of the $J/\psi$ and
-  $\psi^\prime$}.
-
-\bibitem[Gelis, 2011]{CGCandGlasma}
-Gelis, F. (2011).
-\newblock Color glass condensate and glasma.
-\newblock {\em Nuclear Physics A}, 854(1), 10 -- 17.
-\newblock Saturation, the Color Glass Condensate and the Glasma: What Have We
-  Learned from RHIC?
-
-\bibitem[Goldhaber \& Teller, 1948]{Goldhaber:1948zza}
-Goldhaber, M. \& Teller, E. (1948).
-\newblock {On nuclear dipole vibrations}.
-\newblock {\em Phys.Rev.}, 74, 1046--1049.
-
-\bibitem[Goncalves \& Machado, 2011]{Goncalves:2011vf}
-Goncalves, V. \& Machado, M. (2011).
-\newblock {Vector Meson Production in Coherent Hadronic Interactions: An update
-  on predictions for RHIC and LHC}.
-\newblock {\em Phys.Rev.}, C84, 011902.
-
-\bibitem[Goncalves \& Machado, 2006]{Goncalves:2006ed}
-Goncalves, V.~P. \& Machado, M. V.~T. (2006).
-\newblock Heavy quarks and meson production in ultraperipheral heavy ion
-  collisions.
-
-\bibitem[Grachov et~al., 2006]{Grachov:2006ke}
-Grachov, O.~A. et~al. (2006).
-\newblock {Status of zero degree calorimeter for CMS experiment}.
-\newblock {\em AIP Conf.Proc.}, 867, 258--265.
-
-\bibitem[Guzey \& Klasen, 2016a]{Guzey:2016awf}
-Guzey, V. \& Klasen, M. (2016a).
-\newblock {A fresh look at factorization breaking in diffractive
-  photoproduction of dijets at HERA at next-to-leading order QCD}.
-\newblock {\em Eur. Phys. J.}, C76(8), 467.
-
-\bibitem[Guzey \& Klasen, 2016b]{Guzey:2016tek}
-Guzey, V. \& Klasen, M. (2016b).
-\newblock {Diffractive dijet photoproduction in ultraperipheral collisions at
-  the LHC in next-to-leading order QCD}.
-\newblock {\em JHEP}, 04, 158.
-
-\bibitem[Guzey et~al., 2013a]{lta2013.05}
-Guzey, V., Kryshen, E., Strikman, M., \& Zhalov, M. (2013a).
-\newblock Evidence for nuclear gluon shadowing from the {ALICE} measurements of
-  pbpb ultraperipheral exclusive production.
-\newblock {\em Physics Letters B}, 726(1–3), 290 -- 295.
-
-\bibitem[Guzey et~al., 2013b]{Guzey:2013jaa}
-Guzey, V., Strikman, M., \& Zhalov, M. (2013b).
-\newblock {Disentangling coherent and incoherent $J/\psi$ photoproduction on
-  nuclei by neutron tagging in ultraperipheral ion collisions at the LHC}.
-
-\bibitem[Guzey \& Zhalov, 2014]{Guzey:2013taa}
-Guzey, V. \& Zhalov, M. (2014).
-\newblock {Rapidity and momentum transfer distributions of coherent $J/\psi$
-  photoproduction in ultraperipheral pPb collisions at the LHC}.
-\newblock {\em JHEP}, 1402, 046.
-
-\bibitem[Gyulassy \& Plumer, 1990]{Gyulassy:1990ye}
-Gyulassy, M. \& Plumer, M. (1990).
-\newblock {Jet Quenching in Dense Matter}.
-\newblock {\em Phys.Lett.}, B243, 432--438.
-
-\bibitem[Hands, 2001]{Hands:2001ve}
-Hands, S. (2001).
-\newblock {The Phase diagram of QCD}.
-\newblock {\em Contemp.Phys.}, 42, 209--225.
-
-\bibitem[Hufner et~al., 1997]{Hufner:1996jw}
-Hufner, J., Kopeliovich, B., \& Zamolodchikov, A.~B. (1997).
-\newblock {Inelastic J / psi photoproduction off nuclei: Gluon enhancement or
-  double color exchange?}
-\newblock {\em Z.Phys.}, A357, 113--120.
-
-\bibitem[Jackson, 1999]{WWJackson}
-Jackson, J.~D. (1999).
-\newblock {\em Classical electrodynamics}.
-\newblock New York, {NY}: Wiley, 3rd ed. edition.
-
-\bibitem[Karsch et~al., 2001]{Karsch:2000kv}
-Karsch, F., Laermann, E., \& Peikert, A. (2001).
-\newblock {Quark mass and flavor dependence of the QCD phase transition}.
-\newblock {\em Nucl.Phys.}, B605, 579--599.
-
-\bibitem[Khoze et~al., 2001]{Khoze:2000jm}
-Khoze, V.~A., Martin, A.~D., \& Ryskin, M.~G. (2001).
-\newblock Double-diffractive processes in high-resolution missing- mass
-  experiments at the tevatron.
-\newblock {\em Eur. Phys. J.}, C19, 477--483.
-
-\bibitem[Klasen, 2007]{Klasen:2007pm}
-Klasen, M. (2007).
-\newblock Hard photoproduction at hera.
-
-\bibitem[Klein \& Nystrand, 1999a]{Klein:1999qj}
-Klein, S. \& Nystrand, J. (1999a).
-\newblock Exclusive vector meson production in relativistic heavy ion
-  collisions.
-\newblock {\em Phys. Rev.}, C60, 014903.
-
-\bibitem[Klein \& Nystrand, 1999b]{vmd1999}
-Klein, S.~R. \& Nystrand, J. (1999b).
-\newblock Exclusive vector meson production in relativistic heavy ion
-  collisions.
-\newblock {\em Phys. Rev. C}, 60, 014903.
-
-\bibitem[Klein \& Nystrand, 2000]{vmd2000.03}
-Klein, S.~R. \& Nystrand, J. (2000).
-\newblock Interference in exclusive vector meson production in heavy-ion
-  collisions.
-\newblock {\em Phys. Rev. Lett.}, 84, 2330--2333.
-
-\bibitem[Klein \& Nystrand, 2004]{Klein:2003vd}
-Klein, S.~R. \& Nystrand, J. (2004).
-\newblock Photoproduction of quarkonium in proton proton and nucleus nucleus
-  collisions.
-\newblock {\em Phys. Rev. Lett.}, 92, 142003.
-
-\bibitem[Krasny et~al., 2006]{Krasny:2006xg}
-Krasny, M.~W., Chwastowski, J., \& Slowikowski, K. (2006).
-\newblock Luminosity measurement method for lhc: The theoretical precision and
-  the experimental challenges.
-
-\bibitem[Lappi \& Mantysaari, 2013]{Lappi:2013am}
-Lappi, T. \& Mantysaari, H. (2013).
-\newblock {$J/|psi$ production in ultraperipheral Pb+Pb and $p$+Pb collisions
-  at energies available at the CERN Large Hadron Collider}.
-\newblock {\em Phys.Rev.}, C87(3), 032201.
-
-\bibitem[Lardeux, 2013]{aliceIclJpsi}
-Lardeux, A. (2013).
-\newblock {J/$\psi$ production in Pb-Pb collisions at $\sqrt{s_{NN}}$ =2.76 TeV
-  in the ALICE experiment}.
-\newblock {\em J.Phys.Conf.Ser.}, 446, 012042.
-
-\bibitem[M.~Mulders I.~Bloch, 2008]{CMS_AN_2008-098}
-M.~Mulders I.~Bloch, E. James A. Everett D.~Barge, C. C. P. K. V. K. D. K. J.
-  R. N.~A. (2008).
-\newblock Muon identification in cms.
-\newblock {\em CMS Note}, 2008/098.
-
-\bibitem[Margetis et~al., 2000]{Margetis:2000sv}
-Margetis, S., Safarik, K., \& Villalobos~Baillie, O. (2000).
-\newblock {Strangeness production in heavy-ion collisions}.
-\newblock {\em Ann.Rev.Nucl.Part.Sci.}, 50, 299--342.
-
-\bibitem[Martin et~al., 2009]{Martin:2009iq}
-Martin, A., Stirling, W., Thorne, R., \& Watt, G. (2009).
-\newblock {Parton distributions for the LHC}.
-\newblock {\em Eur.Phys.J.}, C63, 189--285.
-
-\bibitem[Matsui \& Satz, 1986]{Matsui:1986dk}
-Matsui, T. \& Satz, H. (1986).
-\newblock {$J/\psi$ Suppression by Quark-Gluon Plasma Formation}.
-\newblock {\em Phys.Lett.}, B178, 416.
-
-\bibitem[McLerran, 2008]{CGC2Lec}
-McLerran, L. (2008).
-\newblock {The Color Glass Condensate and Glasma}.
-
-\bibitem[Miller et~al., 2007]{Miller:2007ri}
-Miller, M.~L., Reygers, K., Sanders, S.~J., \& Steinberg, P. (2007).
-\newblock {Glauber modeling in high energy nuclear collisions}.
-\newblock {\em Ann.Rev.Nucl.Part.Sci.}, 57, 205--243.
-
-\bibitem[Nystrand, 2005]{Nystrand:2004vn}
-Nystrand, J. (2005).
-\newblock Electromagnetic interactions in nucleus nucleus and proton proton
-  collisions.
-\newblock {\em Nucl. Phys.}, A752, 470--479.
-
-\bibitem[Ollitrault, 1992]{Ollitrault:1992bk}
-Ollitrault, J.-Y. (1992).
-\newblock {Anisotropy as a signature of transverse collective flow}.
-\newblock {\em Phys.Rev.}, D46, 229--245.
-
-\bibitem[Piotrzkowski, 2001]{Piotrzkowski:2000rx}
-Piotrzkowski, K. (2001).
-\newblock Tagging two-photon production at the lhc.
-\newblock {\em Phys. Rev.}, D63, 071502.
-
-\bibitem[Pshenichnov et~al., 2001a]{Pshenichnov:2001qd}
-Pshenichnov, I.~A., Bondorf, J.~P., Mishustin, I.~N., Ventura, A., \& Masetti,
-  S. (2001a).
-\newblock Mutual heavy ion dissociation in peripheral collisions at
-  ultrarelativistic energies.
-\newblock {\em Phys. Rev.}, C64, 024903.
-
-\bibitem[Pshenichnov et~al., 2001b]{emPcite4}
-Pshenichnov, I.~A., Bondorf, J.~P., Mishustin, I.~N., Ventura, A., \& Masetti,
-  S. (2001b).
-\newblock Mutual heavy ion dissociation in peripheral collisions at
-  ultrarelativistic energies.
-\newblock {\em Phys. Rev. C}, 64, 024903.
-
-\bibitem[Pshenichnov et~al., 1999]{emPCite5}
-Pshenichnov, I.~A., Mishustin, I.~N., Bondorf, J.~P., Botvina, A.~S., \&
-  Iljinov, A.~S. (1999).
-\newblock Particle emission following coulomb excitation in ultrarelativistic
-  heavy-ion collisions.
-\newblock {\em Phys. Rev. C}, 60, 044901.
-
-\bibitem[Pumplin et~al., 2002]{Pumplin:2002vw}
-Pumplin, J., Stump, D., Huston, J., Lai, H., Nadolsky, P.~M., et~al. (2002).
-\newblock {New generation of parton distributions with uncertainties from
-  global QCD analysis}.
-\newblock {\em JHEP}, 0207, 012.
-
-\bibitem[Rebyakova et~al., 2012a]{lta2011.09}
-Rebyakova, V., Strikman, M., \& Zhalov, M. (2012a).
-\newblock {Coherent rho and J/psi photoproduction in ultraperipheral processes
-  with electromagnetic dissociation of heavy ions at RHIC and LHC}.
-\newblock {\em Phys.Lett.}, B710, 647--653.
-
-\bibitem[Rebyakova et~al., 2012b]{lta2012.03}
-Rebyakova, V., Strikman, M., \& Zhalov, M. (2012b).
-\newblock Coherent $\rho$ and {J/$\Psi$} photoproduction in ultraperipheral
-  processes with electromagnetic dissociation of heavy ions at {RHIC} and
-  {LHC}.
-\newblock {\em Physics Letters B}, 710(4–5), 647 -- 653.
-
-\bibitem[Roland et~al., 2014]{Roland:2014jsa}
-Roland, G., Safarik, K., \& Steinberg, P. (2014).
-\newblock {Heavy-ion collisions at the LHC}.
-\newblock {\em Prog.Part.Nucl.Phys.}, 77, 70--127.
-
-\bibitem[Ryskin, 1993]{Ryskin:1992ui}
-Ryskin, M. (1993).
-\newblock {Diffractive J / psi electroproduction in LLA QCD}.
-\newblock {\em Z.Phys.}, C57, 89--92.
-
-\bibitem[Ryskin et~al., 1997]{Ryskin:1995hz}
-Ryskin, M.~G., Roberts, R.~G., Martin, A.~D., \& Levin, E.~M. (1997).
-\newblock Diffractive $\jpsi$ photoproduction as a probe of the gluon density.
-\newblock {\em Z. Phys.}, C76, 231--239.
-
-\bibitem[Satz, 2004]{spsHI}
-Satz, H. (2004).
-\newblock {The SPS heavy ion programme}.
-\newblock {\em Phys.Rept.}, 403-404, 33--50.
-
-\bibitem[Sj\"{o}strand et~al., 2006]{pythia}
-Sj\"{o}strand, T., Mrenna, S., \& Skands, P. (2006).
-\newblock Pythia 6.4 physics and manual.
-\newblock {\em Journal of High Energy Physics}, 2006(05), 026.
-
-\bibitem[Song et~al., 2011]{etaOvSinit}
-Song, H., Bass, S.~A., Heinz, U., Hirano, T., \& Shen, C. (2011).
-\newblock 200 $a$ gev $\mathrm{Au}+\mathrm{Au}$ collisions serve a nearly
-  perfect quark-gluon liquid.
-\newblock {\em Phys. Rev. Lett.}, 106, 192301.
-
-\bibitem[Sorensen, 2009]{Sorensen:2009cz}
-Sorensen, P. (2009).
-\newblock {Elliptic Flow: A Study of Space-Momentum Correlations In
-  Relativistic Nuclear Collisions}.
-
-\bibitem[Sphicas, 2002]{Sphicas:2002gg}
-Sphicas, P. (2002).
-\newblock {CMS: The TriDAS project. Technical design report, Vol. 2: Data
-  acquisition and high-level trigger}.
-
-\bibitem[Stankus, 2005]{directPhotonTheory}
-Stankus, P. (2005).
-\newblock Direct photon production in relativistic heavy-ion collisions.
-\newblock {\em Annual Review of Nuclear and Particle Science}, 55(1), 517--554.
-
-\bibitem[Steinberg, 2002]{ags2rhic}
-Steinberg, P. (2002).
-\newblock {Relativistic heavy ion physics: Results from AGS to RHIC}.
-\newblock {\em eConf}, C020620, FRBT03.
-
-\bibitem[Steinwedel \& Jensen, 1950]{Jensen:1950}
-Steinwedel, H. \& Jensen, J. H.~D. (1950).
-\newblock {}.
-\newblock {\em Zeits. f. Naturforsch}, 5a, 343.
-
-\bibitem[Strikman et~al., 2005]{Strikman:2005ze}
-Strikman, M., Tverskoy, M., \& Zhalov, M. (2005).
-\newblock {Neutron tagging of quasielastic J/psi photoproduction off nucleus in
-  ultraperipheral heavy ion collisions at RHIC energies}.
-\newblock {\em Phys.Lett.}, B626, 72--79.
-
-\bibitem[Strikman et~al., 2006]{Strikman:2005yv}
-Strikman, M., Vogt, R., \& White, S. (2006).
-\newblock Probing small $x$ parton densities in ultraperipheral a a and p a
-  collisions at the lhc.
-\newblock {\em Phys. Rev. Lett.}, 96, 082001.
-
-\bibitem[Teubner, 2005]{Teubner:2005sj}
-Teubner, T. (2005).
-\newblock Diffractive production of vector mesons and the gluon at small $x$.
-\newblock {\em AIP Conf. Proc.}, 792, 416--419.
-
-\bibitem[van~der Meer, 1968]{vanderMeer:1968zz}
-van~der Meer, S. (1968).
-\newblock {Calibration of the Effective Beam Height in the ISR}.
-
-\bibitem[Vogt, 1998]{Vogt:1998kna}
-Vogt, R. (1998).
-\newblock {Quark-Gluon Plasma Signatures}.
-
-\bibitem[Vogt, 2003]{Vogt:2002ve}
-Vogt, R. (2003).
-\newblock Heavy quark production in heavy ion colliders.
-\newblock {\em Heavy Ion Phys.}, 18, 11--20.
-
-\bibitem[von Weizsacker, 1934]{vonWeizsacker:1934sx}
-von Weizsacker, C. (1934).
-\newblock {Radiation emitted in collisions of very fast electrons}.
-\newblock {\em Z.Phys.}, 88, 612--625.
-
-\bibitem[Wilde, 2013]{photonALICE}
-Wilde, M. (2013).
-\newblock Measurement of direct photons in pp and pb–pb collisions with
-  \{ALICE\}.
-\newblock {\em Nuclear Physics A}, 904–905(0), 573c -- 576c.
-\newblock The Quark Matter 2012 Proceedings of the \{XXIII\} International
-  Conference on Ultrarelativistic Nucleus-Nucleus Collisions.
-
-\bibitem[Williams, 1934]{Williams:1934ad}
-Williams, E. (1934).
-\newblock {Nature of the high-energy particles of penetrating radiation and
-  status of ionization and radiation formulae}.
-\newblock {\em Phys.Rev.}, 45, 729--730.
-
-\bibitem[Witten, 1984]{Witten:1984rs}
-Witten, E. (1984).
-\newblock {Cosmic Separation of Phases}.
-\newblock {\em Phys.Rev.}, D30, 272--285.
-
-\bibitem[Yao et~al., 2006]{Yao:2006px}
-Yao, W.-M. et~al. (2006).
-\newblock Review of particle physics.
-\newblock {\em J. Phys.}, G33, 1--1232.
-
-\bibitem[Yepes, 2003]{yepes_cms_note03}
-Yepes, P. (2003).
-\newblock Studying light objects in ultra-peripheral heavy ion collisions.
-\newblock {\em CMS NOTE 2003/022}.
-
-\end{thebibliography}
+\bibitem{WWFermi}
+E.~{Fermi}, \href{http://dx.doi.org/10.1142/9789812704214_0026}{``{On the
+  Theory of Collisions between Atoms and Electrically Charged Particles},''} in
+  {\em Electromagnetic Probes of Fundamental Physics}, W.~{Marciano} and
+  S.~{White}, eds., pp.~243--252.
+\newblock Sept., 2003.
+\newblock \href{http://arxiv.org/abs/hep-th/0205086}{{\ttfamily
+  hep-th/0205086}}.
+
+\bibitem{dAuOniaPHENIX}
+{\bfseries PHENIX Collaboration} Collaboration, A.~Adare {\em et~al.}, ``{Cold
+  Nuclear Matter Effects on $J/\psi$ Yields as a Function of Rapidity and
+  Nuclear Geometry in Deuteron-Gold Collisions at $\sqrt{s_{NN}}=200$ GeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.107.142301}{{\em Phys.Rev.Lett.}
+  {\bfseries 107} (2011) 142301},
+\href{http://arxiv.org/abs/1010.1246}{{\ttfamily arXiv:1010.1246 [nucl-ex]}}.
+%%CITATION = ARXIV:1010.1246;%%.
+
+\bibitem{WWBrau}
+C.~A. Brau, {\em Modern Problems in Classical Electrodynamics}.
+\newblock Oxford, New York, {NY}, 1st ed.~ed., 2004.
+
+\bibitem{vmd1999}
+S.~R. Klein and J.~Nystrand, ``Exclusive vector meson production in
+  relativistic heavy ion collisions,''
+  \href{http://dx.doi.org/10.1103/PhysRevC.60.014903}{{\em Phys. Rev. C}
+  {\bfseries 60} (Jun, 1999) 014903}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.60.014903}.
+
+\bibitem{vmd2000.03}
+S.~R. Klein and J.~Nystrand, ``Interference in exclusive vector meson
+  production in heavy-ion collisions,''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.84.2330}{{\em Phys. Rev. Lett.}
+  {\bfseries 84} (Mar, 2000) 2330--2333}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.84.2330}.
+
+\bibitem{lta2011.09}
+V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``{Coherent rho and J/psi
+  photoproduction in ultraperipheral processes with electromagnetic
+  dissociation of heavy ions at RHIC and LHC},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2012.03.041}{{\em Phys.Lett.}
+  {\bfseries B710} (2012) 647--653},
+\href{http://arxiv.org/abs/1109.0737}{{\ttfamily arXiv:1109.0737 [hep-ph]}}.
+%%CITATION = ARXIV:1109.0737;%%.
+
+\bibitem{lta2012.03}
+V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``Coherent $\rho$ and {J/$\Psi$}
+  photoproduction in ultraperipheral processes with electromagnetic
+  dissociation of heavy ions at {RHIC} and {LHC},''
+  \href{http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2012.03.041}{{\em
+  Physics Letters B} {\bfseries 710} no.~4–5, (2012) 647 -- 653}.
+  \url{http://www.sciencedirect.com/science/article/pii/S0370269312003152}.
+
+\bibitem{lta2013.05}
+V.~Guzey, E.~Kryshen, M.~Strikman, and M.~Zhalov, ``Evidence for nuclear gluon
+  shadowing from the {ALICE} measurements of pbpb ultraperipheral exclusive
+  production,''
+  \href{http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2013.08.043}{{\em
+  Physics Letters B} {\bfseries 726} no.~1–3, (2013) 290 -- 295}.
+  \url{http://www.sciencedirect.com/science/article/pii/S0370269313006825}.
+
+\bibitem{pQCD2011.08}
+A.~Adeluyi and C.~A. Bertulani, ``Gluon distributions in nuclei probed at
+  energies available at the {CERN} large hadron collider,''
+  \href{http://dx.doi.org/10.1103/PhysRevC.84.024916}{{\em Phys. Rev. C}
+  {\bfseries 84} (Aug, 2011) 024916}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.84.024916}.
+
+\bibitem{pQCD2013.02}
+A.~Adeluyi and T.~Nguyen, ``{Coherent photoproduction of $\psi$ and $\Upsilon$
+  mesons in ultraperipheral pPb and PbPb collisions at the {CERN} Large Hadron
+  Collider at $\sqrt {S_{NN}}=5$ TeV and $\sqrt {S_{NN}}=2.76$ TeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.87.027901}{{\em Phys. Rev. C}
+  {\bfseries 87} (Feb, 2013) 027901},
+  \href{http://arxiv.org/abs/1302.4288}{{\ttfamily arXiv:1302.4288 [nucl-th]}}.
+\url{http://link.aps.org/doi/10.1103/PhysRevC.87.027901}.
+%%CITATION = ARXIV:1302.4288;%%.
+
+\bibitem{cmsTnP}
+T.~C. collaboration, ``Performance of cms muon reconstruction in pp collision
+  events at $sqrt{s}$ = 7 tev,'' {\em Journal of Instrumentation} {\bfseries 7}
+  no.~10, (2012) P10002. \url{http://stacks.iop.org/1748-0221/7/i=10/a=P10002}.
+
+\bibitem{cmsLumi}
+{\bfseries CMS Collaboration} Collaboration, S.~Chatrchyan {\em et~al.},
+``{Measurement of CMS Luminosity},''.
+%%CITATION = CMS-PAS-EWK-10-004 ETC.;%%.
+
+\bibitem{CmsPTdrv2}
+{\bfseries CMS Collaboration} Collaboration, G.~Bayatian {\em et~al.}, ``{CMS
+  technical design report, volume II: Physics performance},''
+\href{http://dx.doi.org/10.1088/0954-3899/34/6/S01}{{\em J.Phys.} {\bfseries
+  G34} (2007) 995--1579}.
+%%CITATION = JPHGB,G34,995;%%.
+
+\bibitem{cmsTdrTrk}
+{\bfseries CMS Collaboration} Collaboration, {\em {The CMS tracker: addendum to
+  the Technical Design Report}}.
+\newblock Technical Design Report CMS. CERN, Geneva, 2000.
+
+\bibitem{oniaPol}
+P.~Faccioli, C.~Lourenco, J.~Seixas, and H.~K. Wohri, ``{Towards the
+  experimental clarification of quarkonium polarization},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-010-1420-5}{{\em Eur.Phys.J.}
+  {\bfseries C69} (2010) 657--673},
+\href{http://arxiv.org/abs/1006.2738}{{\ttfamily arXiv:1006.2738 [hep-ph]}}.
+%%CITATION = ARXIV:1006.2738;%%.
+
+\bibitem{lheFormat}
+J.~Alwall, A.~Ballestrero, P.~Bartalini, S.~Belov, E.~Boos, {\em et~al.}, ``{A
+  Standard format for Les Houches event files},''
+  \href{http://dx.doi.org/10.1016/j.cpc.2006.11.010}{{\em Comput.Phys.Commun.}
+  {\bfseries 176} (2007) 300--304},
+\href{http://arxiv.org/abs/hep-ph/0609017}{{\ttfamily arXiv:hep-ph/0609017
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0609017;%%.
+
+\bibitem{pythia}
+T.~Sj\"{o}strand, S.~Mrenna, and P.~Skands, ``Pythia 6.4 physics and manual,''
+  {\em Journal of High Energy Physics} {\bfseries 2006} no.~05, (2006) 026.
+  \url{http://stacks.iop.org/1126-6708/2006/i=05/a=026}.
+
+\bibitem{ags2rhic}
+P.~Steinberg, ``{Relativistic heavy ion physics: Results from AGS to RHIC},''
+  {\em eConf} {\bfseries C020620} (2002) FRBT03,
+\href{http://arxiv.org/abs/nucl-ex/0210009}{{\ttfamily arXiv:nucl-ex/0210009
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0210009;%%.
+
+\bibitem{spsHI}
+H.~Satz, ``{The SPS heavy ion programme},''
+  \href{http://dx.doi.org/10.1016/j.physrep.2004.08.009}{{\em Phys.Rept.}
+  {\bfseries 403-404} (2004) 33--50},
+\href{http://arxiv.org/abs/hep-ph/0405051}{{\ttfamily arXiv:hep-ph/0405051
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0405051;%%.
+
+\bibitem{upcNeuPHENIX}
+M.~Chiu, A.~Denisov, E.~Garcia, J.~Katzy, A.~Makeev, M.~Murray, and S.~White,
+  ``Measurement of mutual coulomb dissociation in
+  $\sqrt{{s}_{\mathrm{NN}}}\phantom{\rule{0ex}{0ex}}=\phantom{\rule{0ex}{0ex}}130\mathrm{GeV}$
+  $au+au$ collisions,''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.89.012302}{{\em Phys. Rev. Lett.}
+  {\bfseries 89} (Jun, 2002) 012302}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.89.012302}.
+
+\bibitem{photonALICE}
+M.~Wilde, ``Measurement of direct photons in pp and pb–pb collisions with
+  \{ALICE\},''
+  \href{http://dx.doi.org/http://dx.doi.org/10.1016/j.nuclphysa.2013.02.079}{{\em
+  Nuclear Physics A} {\bfseries 904–905} no.~0, (2013) 573c -- 576c}.
+  \url{http://www.sciencedirect.com/science/article/pii/S0375947413001954}. The
+  Quark Matter 2012 Proceedings of the \{XXIII\} International Conference on
+  Ultrarelativistic Nucleus-Nucleus Collisions.
+
+\bibitem{bjEdense}
+J.~D. Bjorken, ``Highly relativistic nucleus-nucleus collisions: The central
+  rapidity region,'' \href{http://dx.doi.org/10.1103/PhysRevD.27.140}{{\em
+  Phys. Rev. D} {\bfseries 27} (Jan, 1983) 140--151}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevD.27.140}.
+
+\bibitem{directPhotonTheory}
+P.~Stankus, ``Direct photon production in relativistic heavy-ion collisions,''
+  \href{http://dx.doi.org/10.1146/annurev.nucl.53.041002.110533}{{\em Annual
+  Review of Nuclear and Particle Science} {\bfseries 55} no.~1, (2005)
+  517--554},
+  \href{http://arxiv.org/abs/http://dx.doi.org/10.1146/annurev.nucl.53.041002.110533}{{\ttfamily
+  http://dx.doi.org/10.1146/annurev.nucl.53.041002.110533}}.
+  \url{http://dx.doi.org/10.1146/annurev.nucl.53.041002.110533}.
+
+\bibitem{etaOvSinit}
+H.~Song, S.~A. Bass, U.~Heinz, T.~Hirano, and C.~Shen, ``200 $a$ gev
+  $\mathrm{Au}+\mathrm{Au}$ collisions serve a nearly perfect quark-gluon
+  liquid,'' \href{http://dx.doi.org/10.1103/PhysRevLett.106.192301}{{\em Phys.
+  Rev. Lett.} {\bfseries 106} (May, 2011) 192301}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.106.192301}.
+
+\bibitem{phobosFlow}
+B.~Alver {\em et~al.}, ``Importance of correlations and fluctuations on the
+  initial source eccentricity in high-energy nucleus-nucleus collisions,''
+  \href{http://dx.doi.org/10.1103/PhysRevC.77.014906}{{\em Phys. Rev. C}
+  {\bfseries 77} (Jan, 2008) 014906}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.77.014906}.
+
+\bibitem{emPCite3}
+A.~J. Baltz, C.~Chasman, and S.~N. White, ``Correlated forward–backward
+  dissociation and neutron spectra as a luminosity monitor in heavy-ion
+  colliders,''
+  \href{http://dx.doi.org/http://dx.doi.org/10.1016/S0168-9002(98)00575-0}{{\em
+  Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment} {\bfseries 417} no.~1,
+  (1998) 1 -- 8}.
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900298005750}.
+
+\bibitem{emPcite4}
+I.~A. Pshenichnov, J.~P. Bondorf, I.~N. Mishustin, A.~Ventura, and S.~Masetti,
+  ``Mutual heavy ion dissociation in peripheral collisions at ultrarelativistic
+  energies,'' \href{http://dx.doi.org/10.1103/PhysRevC.64.024903}{{\em Phys.
+  Rev. C} {\bfseries 64} (Jul, 2001) 024903}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.64.024903}.
+
+\bibitem{emPCite5}
+I.~A. Pshenichnov, I.~N. Mishustin, J.~P. Bondorf, A.~S. Botvina, and A.~S.
+  Iljinov, ``Particle emission following coulomb excitation in
+  ultrarelativistic heavy-ion collisions,''
+  \href{http://dx.doi.org/10.1103/PhysRevC.60.044901}{{\em Phys. Rev. C}
+  {\bfseries 60} (Sep, 1999) 044901}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.60.044901}.
+
+\bibitem{emPCite6}
+P.~Chomaz,
+``{Collective excitations in nuclei},''.
+%%CITATION = GANIL-P-98-01 ETC.;%%.
+
+\bibitem{starlight}
+\url{http://starlight.hepforge.org}.
+
+\bibitem{cmsJpPP}
+S.~Chatrchyan {\em et~al.}, ``J/$\psi$ and $\psi$(2s) production in pp
+  collisions at $\sqrt{s}$ = 7 tev,''
+  \href{http://dx.doi.org/10.1007/JHEP02(2012)011}{{\em Journal of High Energy
+  Physics} {\bfseries 2012} no.~2, (2012) }.
+  \url{http://dx.doi.org/10.1007/JHEP02%282012%29011}.
+
+\end{thebibliography}\endgroup
