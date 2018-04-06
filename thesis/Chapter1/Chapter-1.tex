@@ -1,6 +1,6 @@
 \setlength\abovedisplayskip{0pt}
 
-\chapter{Nuclear Physics in Ultra-relativistic Heavy-Ion Collisions}
+\chapter{Ultra-relativistic heavy-ion collisions}
 
 \section{The Standard Model}
 
@@ -57,22 +57,13 @@ Within the nucleus, a proton can be thought of as a bubble in a vacuum. Debrye s
 
 \section{QCD Experiments}
 
+\subsection{Scattering as a Tool}
+
 Scattering experiments are the basic tool for exploring the nucleus. The Large Hadron Collider (LHC) is capable of reaching heavy-ion collision energies of up to 7 TeV per nucleon-nucleon. The higher the energy, the more experiments can probe the nuclear phase-space diagram. Momentum transferred, expressed as $Q^2$, is an important quantity for characterizing QCD measurements. In addition to $Q^2$, Bjorken-x, also known as Bjorken-scaling is necessary to describe the nuclear phase space. Bjorken-x represents the momentum fraction of partons \cite{Bjorken:1968dy}. 
 
 At the turn of the century, Ernst Rutherford probed the gold atom by bombarding a gold sheet with alpha-particles, i.e. helium nuclei. The angular distribution of the scattered alpha-particles demonstrates that the mass of the atom is concentrated in a small volume, i.e, the atom is mostly empty space. Further expedriments revealed that the atomic nuclei consisted of separate positively and neutrally charged particles: protons and neutrons. 
 
-The modern understanding of subnuclear physics is based on results from three laboratories: Lawrence Berkeley National Laboratory (LBNL), Brookhaven National Laboratory (BNL), and CERN. Fixed target experiments hinted at the existence of a quark gluon plasma, but the collision energies were too low for this state to last. These experiments confirmed the developing model of the QCD phase space; see figure \ref{fig:QCDPhase}.
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=4in]{Chapter1/importfigs/byr13.png}
-\par\end{centering}
-\caption{QCD Phase Diagram. \label{fig:QCDPhase}}
-\end{figure}
-
-Collider experiments are capable of reaching much higher energies than fixed target experiments because of relativistic effects. 
-
-\section{Deep Inelastic Scattering}
+\subsection{Deep Inelastic Scattering}
 
 Deep inelastic scattering commonly refers to the scattering of a leptons off hadrons. Experiments at HERA focused on electron-proton collisions. In these collisions, the electron was used as a source of photons and neutrinos. When these particles scatter off the proton, the dependence of the collision cross section, on momentum transfer and scattering angle of the source electron, reflects the structure of the proton. These experiments provided the first evidence of two phenomena: the parton model and Bjorken-scaling. 
 
@@ -87,116 +78,17 @@ The parton model, first proposed by Richard Feynman, posits that hadrons in gene
 \caption{Collision Cross Section vs Bjorken-x, theory and data \cite{Bethke:2006ac}. \label{fig:qcdBjorkenX}}
 \end{figure}
 
-At the small scales probed by high energy photons, the decreasing QCD coupling causes quarks and gluons to interact weakly. This phenomena is called "asymptotic freedom". Because gluons themselves carry color charge, the gluons about a quark tend to have an anti-screening behavior: the gluon color adds to the quark color, increasing the net color charge of the area. At smaller distances to a quark, then, there are fewer and fewer gluons augmenting the color interaction. 
+At the small scales probed by high energy photons, the decreasing QCD coupling causes quarks and gluons to interact weakly. This phenomena is called "asymptotic freedom". Because gluons themselves carry color charge, the gluons about a quark tend to have an anti-screening behavior: the gluon color adds to the quark color, increasing the net color charge of the area. At smaller distances to a quark, then, there are fewer and fewer gluons augmenting the color interaction.
 
-\section{Ultra-peripheral Heavy-Ion Collisions}
+\subsection{Quark Gluon Plasma}
 
-Similar to the Rutherford experiment, in heavy-ion collisions the scattered particles carry information about the internal structure of the nucleus. 
-
-The Rutherford experiment has the three components that still characterize high-energy nuclear experiments: a probe, a medium, and a signal. Alpha particles probe the medium of the gold atom, and the angular distribution of scattered alpha particles signals the internal structure of the atom. 
-
-Ultra-peripheral collisions occur at impact parameters greater than the sum of the heavy-ion radii. In these collisions, hadronic interactions are strongly suppressed while photonuclear activity is enhanced proportional to the square of the nuclear charge. The electromagnetic field of an incoming heavy-ion, from the perspective of a target, is equivalent to a flux of virtual photons; figure \ref{fig:smushedField} illustrates the Lorentz contraction of the field of a boosted charge.
+The modern understanding of subnuclear physics is based on results from three laboratories: Lawrence Berkeley National Laboratory (LBNL), Brookhaven National Laboratory (BNL), and CERN. Fixed target experiments hinted at the existence of a quark gluon plasma, but the collision energies were too low for this state to last. These experiments confirmed the developing model of the QCD phase space; see figure \ref{fig:QCDPhase}. Essentially, quark matter organizes itself differently depending on temperature and baryon density. At low energies, quark matter exists in bound states: the hadrons. However, in the high energy limit, quarks and gluons take the form of a strongly interacting plasma: the quark-gluon plasma (QGP). The QGP represents the extreme case of asymptotic freedom; the QCD coupling constant becomes small enough that quarks ang gluons no longer behave as bound states. There are two ways of achieving the high energies necessary to form QGP. High baryon densities cause the quarks of separate hadrons to interact at small distances where asymptotic freedom takes effect. It is not currently possible to achive these densities in laboratory experiments, though this state is thought to occur in neutron stars. By contrast, it particle collider's like the LHC increase the energy density by colliding heavy-ions at ultra-relativistic velocities. The high temperature environment thus produced manifests QGP. The early universe, mere milliseconds after the Big Bang, is thought to have existed as QGP. 
 
 \begin{figure}[h!]
 \begin{centering}
-\includegraphics[width=4in]{Chapter1/importfigs/jackson_em_wwa.png}
+\includegraphics[width=4in]{Chapter1/importfigs/byr13.png}
 \par\end{centering}
-\caption{ (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \cite{WWJackson}. \label{fig:smushedField}}
+\caption{QCD Phase Diagram. \label{fig:QCDPhase}}
 \end{figure}
 
-The Weizsacker-Williams appoximation (WWA) calculates the density of photons, about the nucleus, as a function of energy. WWA is a semi-classical formulation. Maxwell's equations are solved for a stationary point charge boosted to an ultra-relativistic velocity. In the target's frame, the Fourier transform of the source field is taken. The Fourier frequency modes are interpreted through the quantum mechanical equation of photon energy. The photon flux as function of energy is given by
-\begin{equation}
-N(\omega,b) = \frac{\alpha}{\hbar \omega}\left( \frac{Z}{b\beta\pi} \right)^2\left ( \frac{\omega b}{\gamma \nu} \right )K_1^2\left ( \frac{\omega b}{\gamma \nu} \right ) ,
-\end{equation}
-where $\alpha$ is the QED coupling constant, $\omega$ is the photon energy, $Z$ is the atomic number of the nuclei, $b$ is the impact parameter, $\beta$ is ratio of the nuclei speed to the speed of light, $\gamma$ is the Lorentz boost of the nuclei, $K_1^2$ is a Bessel function, $\nu$ is the photon frequency \cite{WWJackson}.
-
-Gluons are the particle exchanged in strong interactions. However, gluons themselves carry color charge. By analogy, photons transmit the electromagnetic force, but do not themselves have an electric charge. 
-
-When a quark is scattered from a nucleus, the strong interaction gathers potential energy until the threshold for quark production is passed, at which point an anti-quark is generated to screen the ejected quark.
-
-QCD factorisation describes the diffractive-photoproduction dijet cross-section as the convolution of the partonic cross-section with the diffractive parton distributions. However, factorisation only describes H1 data if the resolved-photon contribution is suppressed. 
-
-The photoproduction cross-section is proportional to the gluon distribution. At low momentum transfer, photons interact electromagnetically, i.e. directly, with partons. High energy, "resolved" photons possess a hadronic structure; instead of directly interacting with the nuclei, these photons fluctuate into mediating quark-antiquark pairs. 
-
-\section{Factorization}
-
-Diffractive dijet photoproduction is not describable in perturbative QCD. For coherent processes the photon energy is small, and therefore the wavelength is large compared to the size of the nucleus. At these large distances, there isn't a hard scale, and so perturbation calculations cannot be done. Gluon splitting interactions dominate the low Bjorken-x partons. QCD collinear factorization describes these soft interactions via the convolution of parton cross sections, taken from perturbative QCD, and diffractive parton distribution functions, taken from experiment \cite{Andreev:2015cwa}. 
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=2.2in]{Chapter1/importfigs/fig1a.png}
-\includegraphics[width=3in]{Chapter1/importfigs/fig3_daniel_upc.png}
-\includegraphics[width=6in]{Chapter1/importfigs/h1_2015_feyn.png}
-\par\end{centering}
-\caption{Feynman diagrams for coherent jet photoproduction in (upper a.) lepton-proton collisions, (upper b.) Pb-Pb collisions, (lower a.) direct-photon in ep, (lower b.) resolved-photon in ep. \label{fig:feynmanUPC1}}
-\end{figure}
-
-In electron-hadron collisions, diffractive photoproduction is characterized by the presence of a large rapidity gap in the final state and an intact nucleus. The Feynman diagram of electroproduction in lepton-hadron collisions is similar to that of photoproduction in ultraperipheral collisions, as seen in fig.\ref{fig:feynmanUPC1}. The diffractive dijet cross section is expressed by the convolution of partonic cross sections $d\hat{\sigma}$ and diffractive PDFs $f^D_{i/p}$.
-\begin{equation}
-d\sigma (ep \rightarrow e + 2 jets + X^{'} + p) = \sum_{i} \int dt \int dx_\mathbb{P} \int dz_\mathbb{P}d\hat{\sigma}_{ei\rightarrow 2jets}(\hat{s},\mu^2_R,\mu^2_F)\times f^D_{i/p}(z_\mathbb{P},\mu^2_F,x_\mathbb{P},t) ,
-\end{equation}
-where $x_\mathbb{P}$ is longitudinal momenetum fraction lost by the incoming proton, $d\hat{\sigma}_{ei\rightarrow 2jets}$ is the partonic cross-section for the process, $z_\mathbb{P}$ is the longitudinal momentum fraction of the pomeron entering the hard process, $\hat{s}$ is the squared invariant energy of the subprocess, $\mu^2_R$ is the squared renormanlization scale, $\mu^2_F$ is the squared factorisation scale, $f^D_{i/p}$ is the diffractive parton distribution,and $t$ is the four-momentum transfer squared at the vertex. 
-
-In the proton-vertex factorisation hypothesis, the dependence on $x_{\mathbb{P}}$ and $|t|$ is factored out of the dependence on $\mu^2_F$ and $z_{\mathbb{P}}$. Furthermore, $f^D_{i/p}$ is sum of contributions from the pomeron and Reggeon:
-\begin{equation}
-f^D_{i/p}(z_{\mathbb{P}},\mu^2_F,x_{\mathbb{P}},t) = f_{\mathbb{P}/p}(x_{\mathbb{P}},t)f_{i/\mathbb{P}}(z_{\mathbb{P}},\mu^2_F) + n_\mathbb{R}f_{\mathbb{R}/p}(x_{\mathbb{P}},t)f_{i/\mathbb{R}}(z_{\mathbb{P}},
-\mu^2_F) ,
-\end{equation}
-where $_{\mathbb{P}/p}$ is the pomeron flux factor, $f_{\mathbb{R}/p}$ is the Reggeon flux factor, $n_\mathbb{R}$ is the normalization factor of the Reggeon, $f_{i/\mathbb{P}}$ is the pomeron parton distribution, and $f_{i/\mathbb{R}}$ is the Reggeon parton distribution.
-
-Lepton-hadron collisions were performed at HERA and measured by the H1 experiment. These experiments reported a value for the total diffractive photoproduction cross section that is double that predicted by QCD collinear factorization; fig.\ref{fig:h1Ratio} compares the cross-section of H1 data to that predicted by NLO-QCD. Diffractive events were selected for using rapidity gaps or the presence of leading protons in the very forward proton spectrometer (VFPS). 
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=3in]{Chapter1/importfigs/fig8_h1_2015.png}
-\par\end{centering}
-\caption{Ratio of H1 data cross-section to NLO-QCD cross-section. \label{fig:h1Ratio}}
-\end{figure}
-
-H1 used the Very Forward Proton Spectrometer (VFPS) to trigger on low $Q^2$ protons. The VFPS consists of two Roman Pots located 218 m and 222 m from the H1 interaction-point in the forward direction. The VFPS can detect protons scattered at very low transverse momentum, corresponding to $0.008 < x_{P} < 0.028$ and $|t|<0.6$. Each of the Roman Pots contains layers of scintillating fibers, which are covered by a layer of scintillator tiles. The fibers readout to photomultipliers, and the tiles both shield from radiation and trigger on protons. The track effiency of VFPS is a remarkable $96 \%$, and the background contamination is kept at $1 \%$ , making the detector excellent for studying diffractive events. Figure \ref{fig:h1BeamEnv} shows the $|t|$ coverage of the Forward Proton Spectrometer (FPS) and VFPS.
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=3in]{Chapter1/importfigs/fig7_h1_2015.png}
-\par\end{centering}
-\caption{Beam envelope vs. distance to vertex in H1. \label{fig:h1BeamEnv}}
-\end{figure}
-
-The H1 data was compared to predictions based on NLO-QCD convoluted with diffractive parton distribution functions (DPDFs) from HERA inclusive diffractive deep-inelastic scattering (DDIS) data. For diffractive pp collisions the high transverse momentum jets yield a hard scale for perturbative QCD. 
-
-\section{Wigner Distribution}
-
-One can use the Wigner distribution to tomographically image the internal structure of the nucleus \cite{Hatta:2016dxp}. The nucleus manifests different structures at varying momentum fractions; specifically, small momentum fractions exhibit gluon saturation \cite{Boer:2011fh}; see figure \ref{fig:nuclImag} for an illustration of how the nucleus appears at varying momentum fractions.
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=7in]{Chapter1/importfigs/imaging_the_nucleon_upc_dijets_pres.png}
-\par\end{centering}
-\caption{Subnuclear tomography \label{fig:nuclImag}}
-\end{figure}
-
-The quantum field theory lagrangian of the strong interaction is relatively simple, but because of confinement and asymptotic freedom the hadronic bound states are too complex for an analytic solution. Furthermore, collider experiment data requires a quantitative interpretation to be useful. The gap between QCD and heavy-ion data is bridged using the parton model, which considers hadrons as composed of quarks and gluons. Parton density functions (PDFs) model the longitudinal momentum distribution of the partons. PDFs are supplemented by transverse momentum distributions (TMDs) and generalized parton distributions (GPDs). In addition to transverse momentum, GPDs describe the transverse spatial distribution. TMDs and GPDs are derived from the final state particles of a collision. Markus Diehl maps the relationship between various distribution functions in figure \ref{fig:gpdTMDWeb} \cite{Diehl:2003ny}.
-
-The Wigner distribution is a quantum phase space distribution that describes elliptic gluons \cite{Belitsky:2003nz}. Specifically, by considering the color diple scattering amplitude, the angular correlation of the nucleon recoil momentum and the dijet transverse momentum can provide a three-dimensional, tomographic image of the gluons within a high energy nucleus. This tomographic image takes the form of a Wigner distribution, which contains all the information of both TMDs and GPDs without violating the uncertainty principle. Specifically, the angular correlation directly measures the Fourier transform of the gluons. This is possible because the dipole amplitudes are functions of the impact parameter, and because collinear factorization holds. 
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=7in]{Chapter1/importfigs/fig6_introGPD_TMD.png}
-\par\end{centering}
-\caption{Interconnectedness of Parton Distributions. \label{fig:gpdTMDWeb}}
-\end{figure}
-
-TMDs and GPDs manifest non-perturbative QCD effects. The Wigner distribution, at this scale, reflects the relationship between the position and momentum of partons. Integrating the Wigner function over the transverse distance yields the TMD, while integrating over transverse momentum yields a GPD with spatial information. 
-
-Yoshitaka Hatta uses the dipole framework to show that the azimuthal angular correlations of coherent dijets are generated by the underlying gluon Wigner distribution. Furthermore, these correlations are consistent with predictions based on standard collinear factorization. Relevant kinematic variables are mapped in the figure \ref{fig:yatta1}.
-
-\begin{figure}[h!]
-\begin{centering}
-\includegraphics[width=4in]{Chapter1/importfigs/fig4_yatta.png}
-\par\end{centering}
-\caption{Feynman Diagram of Coherent Dijets in Dipole Framework. \label{fig:yatta1}}.
-\end{figure}
-
-It is expected that the dominant contribution to the angular correlation is the ellipitic, corresponding to $n=1$ in the Fourier transform. 
-
-
+There are a number of experimental signatures of QGP. Of particular interest are charm suppression and strangeness enhancement, elliptic flow, jet quenching. The QGP is thought to suppression the production of $J\Psi$ mesons in heavy-ion collisions. The predicted viscosity of QGP would cause elliptic flow in the overlap region of heavy-ion collisions. Lastly, hadronic jets would interact strongly with the QGP; therefore, dijets will have significant energy imbalance depending on the multiple interactions of the components jet with the QGP. All of these cases require a good understanding the heavy-ion initial state as a basis for comparison. 
