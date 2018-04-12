@@ -22,7 +22,7 @@
 \contentsline {subsection}{\numberline {3.1.4}TOTEM}{21}{subsection.3.1.4}
 \contentsline {section}{\numberline {3.2}Compact Muon Solenoid}{21}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Tracker}{22}{subsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.1.1}Pixel Tracker}{24}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Pixel Tracker}{23}{subsubsection.3.2.1.1}
 \contentsline {subsubsection}{\numberline {3.2.1.2}Strip Tracker}{24}{subsubsection.3.2.1.2}
 \contentsline {subsection}{\numberline {3.2.2}Electromagnetic Calorimeter}{24}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Hadronic Calorimeter}{26}{subsection.3.2.3}
@@ -40,8 +40,9 @@
 \contentsline {chapter}{\numberline {5}Trigger Development and Performance}{36}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introduction to Triggering}{36}{section.5.1}
 \contentsline {section}{\numberline {5.2}Triggering at CMS}{36}{section.5.2}
-\contentsline {section}{\numberline {5.3}My Contributions}{38}{section.5.3}
-\contentsline {chapter}{\numberline {6}Data Analysis}{39}{chapter.6}
-\contentsline {chapter}{\numberline {7}Systematic Uncertainties}{40}{chapter.7}
-\contentsline {chapter}{\numberline {8}Results and Conclusions}{41}{chapter.8}
-\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{58}{appendix.A}
+\contentsline {section}{\numberline {5.3}Author's Contributions}{38}{section.5.3}
+\contentsline {section}{\numberline {5.4}Studies from Trigger Menus}{39}{section.5.4}
+\contentsline {chapter}{\numberline {6}Data Analysis}{40}{chapter.6}
+\contentsline {chapter}{\numberline {7}Systematic Uncertainties}{41}{chapter.7}
+\contentsline {chapter}{\numberline {8}Results and Conclusions}{42}{chapter.8}
+\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{59}{appendix.A}
