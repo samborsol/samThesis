@@ -56,11 +56,9 @@ The luminometers of CMS produce signals proportional to the instantanteous lumin
 \end{figure}
 
 
-\section{My Contributions}
+\section{Author's Contributions}
 
-I contributed to CMS luminosity validation, and performed studies on the long-term stability of the BRIL luminometers. On a week by week basis, I would examine the data from online and offline luminometers and certify that it met the quality standards of CMS. If the data exhitibed non-linear behavior, I would de-certify the corresponding lumi-sections in the BRIL json files.
-
-In additon to data certification, I reviewed the long-term stability of the BRIL luminometers during the 2015 and 2016 proton-proton runs. Stability refers to the comparative performance of the different luminometers. Ideally, the ratio of the instantaneous luminosity reported by separate luminometers should be a constant ratio, but in fact there is a tendency for this ratio to drift as a result of radiation damage to the luminometers.
+LHC produces a staggering amount of data. The 2015 heavy-ion run itself recorded some $1.4 pb^-1$ in integrated luminosity. This integrated luminosity is reconstructed into data on the order of pentabytes. 
 
 \begin{figure}[h!]
 \begin{centering}
@@ -69,3 +67,15 @@ In additon to data certification, I reviewed the long-term stability of the BRIL
 \caption{Luminosity by CMS fill. \label{fig:lumiFill}}
 \end{figure}
 
+I contributed to CMS luminosity validation, and performed studies on the long-term stability of the BRIL luminometers. On a week by week basis, I would examine the data from online and offline luminometers and certify that it met the quality standards of CMS. If the data exhitibed non-linear behavior, I would de-certify the corresponding lumi-sections in the BRIL json files.
+
+All CMS data has to go through a data certification workflow. Data certification insures that only valid data is used in CMS analyses. Decisions on data certification are recorded in two systems: the DQM Run Registry, shown here in figure \ref{fig:runRegistry}, and the normtag JSON files of the BRIL-DPG. There are occasions when the sub-detectors of CMS might record poor quality data. For example, the software reading out data from the PLT could crash and thus compromise the output. In this case the certification workers would record the lumi sections during which the PLT software crashed. These lumi sections would be removed from the normtag JSON file passed on to the BRIL group. If all te luminometers are malfunctioning, a whole run could be invalidated in the run registry. 
+
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=6in]{Chapter4/importfigs/chris_palmer_run_registry.png}
+\par\end{centering}
+\caption{CMS Run Registry. \label{fig:runRegistry}}
+\end{figure}
+
+In additon to data certification, I reviewed the long-term stability of the BRIL luminometers during the 2015 and 2016 proton-proton runs. Stability refers to the comparative performance of the different luminometers. Ideally, the ratio of the instantaneous luminosity reported by separate luminometers should be a constant ratio, but in fact there is a tendency for this ratio to drift as a result of radiation damage to the luminometers. This drift can be seen in plotting the average ratio as a function of interaction rate and of the different measures of LHC time: runs, lumi-sections, and bunch-crossings.  Instantaneous luminosity, in theory, should be independent of machine conditions like acceptance and efficiency. 

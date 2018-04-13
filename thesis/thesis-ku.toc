@@ -36,13 +36,13 @@
 \contentsline {section}{\numberline {4.3}Van de Meer Scanning Calibration}{32}{section.4.3}
 \contentsline {section}{\numberline {4.4}Comparitive Luminosity Performance of LHC Detectors}{33}{section.4.4}
 \contentsline {section}{\numberline {4.5}Systematic Uncertainty}{33}{section.4.5}
-\contentsline {section}{\numberline {4.6}My Contributions}{33}{section.4.6}
-\contentsline {chapter}{\numberline {5}Trigger Development and Performance}{36}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction to Triggering}{36}{section.5.1}
-\contentsline {section}{\numberline {5.2}Triggering at CMS}{36}{section.5.2}
-\contentsline {section}{\numberline {5.3}Author's Contributions}{38}{section.5.3}
-\contentsline {section}{\numberline {5.4}Studies from Trigger Menus}{39}{section.5.4}
-\contentsline {chapter}{\numberline {6}Data Analysis}{40}{chapter.6}
-\contentsline {chapter}{\numberline {7}Systematic Uncertainties}{41}{chapter.7}
-\contentsline {chapter}{\numberline {8}Results and Conclusions}{42}{chapter.8}
-\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{59}{appendix.A}
+\contentsline {section}{\numberline {4.6}Author's Contributions}{33}{section.4.6}
+\contentsline {chapter}{\numberline {5}Trigger Development and Performance}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction to Triggering}{37}{section.5.1}
+\contentsline {section}{\numberline {5.2}Triggering at CMS}{37}{section.5.2}
+\contentsline {section}{\numberline {5.3}Author's Contributions}{39}{section.5.3}
+\contentsline {section}{\numberline {5.4}Studies from Trigger Menus}{41}{section.5.4}
+\contentsline {chapter}{\numberline {6}Data Analysis}{42}{chapter.6}
+\contentsline {chapter}{\numberline {7}Systematic Uncertainties}{43}{chapter.7}
+\contentsline {chapter}{\numberline {8}Results and Conclusions}{44}{chapter.8}
+\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{61}{appendix.A}
