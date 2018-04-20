@@ -56,14 +56,6 @@ J.~D. Bjorken, ``{Asymptotic Sum Rules at Infinite Momentum},''
   179} (1969) 1547--1553}.
 %%CITATION = PHRVA,179,1547;%%.
 
-\bibitem{Andreev:2015cwa}
-{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
-  Production with a Leading Proton in $ep$ Collisions at HERA},''
-  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
-  (2015) 056},
-\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
-%%CITATION = ARXIV:1502.01683;%%.
-
 \bibitem{Hatta:2016dxp}
 Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Probing the Small- x Gluon Tomography in
   Correlated Hard Diffractive Dijet Production in Deep Inelastic Scattering},''
@@ -95,6 +87,14 @@ A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
 \href{http://arxiv.org/abs/hep-ph/0307383}{{\ttfamily arXiv:hep-ph/0307383
   [hep-ph]}}.
 %%CITATION = HEP-PH/0307383;%%.
+
+\bibitem{Andreev:2015cwa}
+{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
+  Production with a Leading Proton in $ep$ Collisions at HERA},''
+  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
+  (2015) 056},
+\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
+%%CITATION = ARXIV:1502.01683;%%.
 
 \bibitem{CMS:2010gua}
 {\bfseries CMS} Collaboration, CMS,
