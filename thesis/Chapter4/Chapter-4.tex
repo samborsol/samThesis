@@ -8,6 +8,9 @@ One of the most important quantities measured by CMS is luminosity. Luminosity i
 \sigma  = \frac{R}{\mathit{L}} ,
 \end{equation}
 where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity.
+\begin{equation}
+L  = \frac{R}{ \sigma_{o}(E) A(t,\mu,n_b,...)} ,
+\end{equation}
 
 \section{Luminometers}
 
@@ -17,10 +20,32 @@ The online and offline luminometers complement each other for high precision dat
 
 In addition to these hardware luminometers, CMS can use physics processes as luminosity benchmarks.  For example, other experiments have measured the Z-boson cross-section to a high accuracy and high precision. Comparing this cross-section to the Z-boson mass-peak ,in CMS data, provides a cross-check to the delivered luminosity. 
 
+\section{Pixel cluster counting}
+
+One of the primary methods of measuring instantaneous luminosity is through pixel cluster counting (PCC) in the pixel-tracker. The collision rate is linked to instantaneous luminosity $L$ via the total inelastic cross-section $\sigma_T$
+\begin{equation}
+v \mu  = L \sigma_T,
+\end{equation}
+where $v=11246$ Hz is the beam revolution frequency and $\mu$ is the number of collisions per bunch crossing. We define the average number of pixel clusters per event, $\left \langle n \right \rangle$, as
+\begin{equation}
+\left \langle n \right \rangle = \mu n_1,
+\end{equation}
+and the visible cross section $\sigma_{vis}$ as 
+\begin{equation}
+\sigma_{vis} = \sigma_T n_1,
+\end{equation}
+where $n_1$ is the average number of pixel clusters per inelastic collision. Leveraging the previous two equations, the instantaneous luminosity reduces to
+\begin{equation}
+L = \frac{v\left \langle n \right \rangle}{\sigma_{vis}},
+\end{equation}
+such that $L$ can be calculated after measuring the actual $\left \langle n \right \rangle$ of the data.
+
 \section{Van de Meer scanning calibration}
 
 The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. This calibration is accomplished via Van de Meer scanning. The opposing beams of LHC are moved back and forth in the transverse plane. During the scan, the detector response is measured as a function of beam displacement. The beam widths are calculated from Gaussian fits to the detector response. The visible cross-section of the luminometer in question is then derived from the width of the beams, and acts as the calibration of the detector response. 
-
+\begin{equation}
+\sigma_{vis} = \frac{2 \pi \Sigma_x \Sigma_y v\left \langle n \right \rangle_{\Delta=0}}{N_1 N_2},
+\end{equation}
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=3in]{Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png}
@@ -37,7 +62,6 @@ The luminometers of CMS produce signals proportional to the instantanteous lumin
 \par\end{centering}
 \caption{CMS lumi during HI-2015. \label{fig:lumiHi2015}}
 \end{figure}
-
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=6in]{Chapter4/importfigs/int_lumi_cumulative_pp_2.png}
@@ -59,7 +83,6 @@ The luminometers of CMS produce signals proportional to the instantanteous lumin
 \section{Author's contributions}
 
 LHC produces a staggering amount of data. The 2015 heavy-ion run itself recorded some $1.4 pb^-1$ in integrated luminosity. This integrated luminosity is reconstructed into data on the order of pentabytes. 
-
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=6in]{Chapter4/importfigs/lumiFill.png}
@@ -70,7 +93,6 @@ LHC produces a staggering amount of data. The 2015 heavy-ion run itself recorded
 I contributed to CMS luminosity validation, and performed studies on the long-term stability of the BRIL luminometers. On a week by week basis, I would examine the data from online and offline luminometers and certify that it met the quality standards of CMS. If the data exhitibed non-linear behavior, I would de-certify the corresponding lumi-sections in the BRIL json files.
 
 All CMS data has to go through a data certification workflow. Data certification insures that only valid data is used in CMS analyses. Decisions on data certification are recorded in two systems: the DQM Run Registry, shown here in figure \ref{fig:runRegistry}, and the normtag JSON files of the BRIL-DPG. There are occasions when the sub-detectors of CMS might record poor quality data. For example, the software reading out data from the PLT could crash and thus compromise the output. In this case the certification workers would record the lumi sections during which the PLT software crashed. These lumi sections would be removed from the normtag JSON file passed on to the BRIL group. If all te luminometers are malfunctioning, a whole run could be invalidated in the run registry. 
-
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=6in]{Chapter4/importfigs/chris_palmer_run_registry.png}

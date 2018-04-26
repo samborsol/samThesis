@@ -38,7 +38,6 @@ The Compact Muon Solenoid (CMS) is a general-purpose particle detector located a
 
 Within the solenoid volume are a silicon pixel and strip tracker, a lead tungsten crystal electromagnetic calorimeter (ECAL), and a brass and scintillator hadron calorimeter (HCAL), each composed of a barrel and two endcap sections. Fig.\ref{fig:cmsCutOutZY} radial layering of CMS component systems.  
 
-
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=5.5in]{Chapter3/importfigs/Figure_001.png}
@@ -48,7 +47,13 @@ Within the solenoid volume are a silicon pixel and strip tracker, a lead tungste
 
 \subsection{Tracker}
 
-The tracker measures the momentum of charged particles via their trajectory through a homogenous magnetic field. The tracker consists of two units, the pixel tracker and the strip tracker, both of which are made of silicon. A charged particle causes an electrical signal when passing through a silicon pixel or silicon microstrip. CMS reconstructs these electrical signals, taken at specific points of position and time, into tracks. These tracks are accurate to 10 micrometers. The tracker is meant to have  a particle pass all the way through it, with only minimal effect particle's trajectory. 
+The tracker measures the momentum of charged particles via their trajectory through a homogenous magnetic field. The tracker consists of two units, the pixel tracker and the strip tracker, both of which are made of silicon. Compared to large-volume gas detectors, which are less expensive, silicon detectors have a faster response time. The number of tracker layers is optimized for the highest penetration by charged particles while minimizing the occurence of multiple scattering. 
+
+Multiple scattering reduces the efficiency and resolution of the tracker because of bremmstrahlung. When a charged lepton passes through an electric field, the changes in acceleration will change the energy of lepton. The lepton will release photons that will contaminate the signals read by the tracker. 
+
+The high luminosities reached by LHC typically achieve some 20 to 30 collisions per bunch crossing, and increasing the number of hits in the tracker improves the pattern recognition of the particle flow algorithm. The particle flow algorithm is discussed in more detail later in this chapter. 
+
+A charged particle causes an electrical signal when passing through a silicon pixel or silicon microstrip. CMS reconstructs these electrical signals, taken at specific points of position and time, into tracks. These tracks are accurate to 10 micrometers. The tracker is meant to have  a particle pass all the way through it, with only minimal effect particle's trajectory. 
 
 The tracker system is designed for high granularity and fast readout, such that each trajectory can be associated with its corresponding bunch crossing. The tracker is resilient enough to withstand the high flux of particles accompanying every bunch crossing; at design luminosity of $10^34 cm^-2 s^-1$, some 1000 particles will traverse the tracker every 25 ns. However, the mass of the tracker is minimal enough to suppress multiple scattering, off its material, that would distort particle trajectories. These design constraints -- resistance and transparency -- are satisfied silicon. The tracker has approximately $200 m^2$ of silicon surface, making it the largest silicon detector ever constructed. The pseudorapidity coverage of the pixel and strip trackers is shown in fig.\ref{fig:trackerYZ}.
 
@@ -59,7 +64,11 @@ The tracker system is designed for high granularity and fast readout, such that 
 \caption{Pseudorapidity acceptance of tracker \label{fig:trackerYZ}}
 \end{figure}
 
+In addition to excellent track reconstruction, the tracker provides high precision vertex reconstruction. Vertex reconstruction is a key ingredient in several high-profile LHC studies -- Higgs, SUSY, extra-dimensions -- because of the use of vertices in distinguishing non-prompt decays of heavy-quarks. 
+
 \subsubsection{Pixel tracker}
+
+The first layer of the tracker is made of silicon pixel modules. This layer has a time resolution on the scale of 25 ns, meaning that it can take data for individual bunch crossings. Pixel technology is used because the high flux of particles, present at high beam luminosities, require high spatial resolution for proper pattern recognition. A major design constraint is that the pixel tracker had to be able to separate distinct tracks in high multiplicity environments. Tracks reconstructed by the pixels can be used to cross-check the results from the other parts of the tracker. 
 
 Every silicon-pixel has a corresponding readout chip. The readout chips are soldered through the bump-bonding method. The readout chip amplifies signals from the pixel. The pixel tracker is precise enough to distinguish the vertices of tracks originating from short-lived particles, such as bottomonia. The innermost elements of the pixel tracker come within 4.4 cms of the CMS interaction point. The pixel tracker covers a pseudorapidity range of $|\eta|<2.5$ with some $66 \times 10^6$ separate pixels.
 
