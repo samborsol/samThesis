@@ -8,7 +8,6 @@ Similar to the Rutherford experiment, in heavy-ion collisions the scattered part
 The Rutherford experiment has the three components that still characterize high-energy nuclear experiments: a probe, a medium, and a signal. Alpha particles probe the medium of the gold atom, and the angular distribution of scattered alpha particles signals the internal structure of the atom. 
 
 Ultra-peripheral collisions occur at impact parameters greater than the sum of the heavy-ion radii. In these collisions, hadronic interactions are strongly suppressed while photonuclear activity is enhanced proportional to the square of the nuclear charge. The electromagnetic field of an incoming heavy-ion, from the perspective of a target, is equivalent to a flux of virtual photons; figure \ref{fig:smushedField} illustrates the Lorentz contraction of the field of a boosted charge.
-
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter1/importfigs/jackson_em_wwa.png}
@@ -16,11 +15,22 @@ Ultra-peripheral collisions occur at impact parameters greater than the sum of t
 \caption{ (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \cite{WWJackson}. \label{fig:smushedField}}
 \end{figure}
 
+UPC models typically address two elements: the photon flux, $N_{\gamma / Pb}$, and the photoproduction cross-section, $\sigma_{\gamma Pb}$. These quantities are related to the UPC cross-section, $\sigma_{PbPb}$, in the following equation,
+\begin{equation}
+\frac{d \sigma_{PbPb}}{dy} = N_{\gamma/Pb}(y,M)\sigma_{\gamma Pb}(y)+N_{\gamma/Pb}(-y,M)\sigma_{\gamma Pb}(-y),
+\end{equation}
+where there are two terms to reflect that either heavy-ion can be a source of photons. 
+
 The Weizsacker-Williams appoximation (WWA) calculates the density of photons, about the nucleus, as a function of energy. WWA is a semi-classical formulation. Maxwell's equations are solved for a stationary point charge boosted to an ultra-relativistic velocity. In the target's frame, the Fourier transform of the source field is taken. The Fourier frequency modes are interpreted through the quantum mechanical equation of photon energy. The photon flux as function of energy is given by
 \begin{equation}
 N(\omega,b) = \frac{\alpha}{\hbar \omega}\left( \frac{Z}{b\beta\pi} \right)^2\left ( \frac{\omega b}{\gamma \nu} \right )K_1^2\left ( \frac{\omega b}{\gamma \nu} \right ) ,
 \end{equation}
 where $\alpha$ is the QED coupling constant, $\omega$ is the photon energy, $Z$ is the atomic number of the nuclei, $b$ is the impact parameter, $\beta$ is ratio of the nuclei speed to the speed of light, $\gamma$ is the Lorentz boost of the nuclei, $K_1^2$ is a Bessel function, $\nu$ is the photon frequency \cite{WWJackson}.
+
+There are ways to represent the photon flux as solely a function of photon wavelength:
+\begin{equation}
+n(k) = \frac{2 \alpha Z^2}{\pi}\left [ \xi K_0(\xi) - \frac{\xi^2}{Z}(K_1^2(\xi)-K_0^2(\xi)) \right ]
+\end{equation}
 
 Gluons are the particle exchanged in strong interactions. However, gluons themselves carry color charge. By analogy, photons transmit the electromagnetic force, but do not themselves have an electric charge. The gluons are spin-1, meaning that more than one can occupy the same quantum state.
 
@@ -34,10 +44,7 @@ The photoproduction cross-section is proportional to the gluon distribution. At 
 
 The virtual photons present in UPC can fluctuate into a quark-antiquark pair which can take the form of a low mass meson. This meson then interacts with the target nuclei via colorless gluon exchange, emitting a vector meson. If the virtual photon interacts coherently with the target nucleus, this is reflected in the transverse momentum of the vector meson. The vector meson decays into a dilepton pair detectable by CMS. 
 
-Ultra-peripheral coherent $J/\Psi$ photoproduction was studied in the ALICE 2011 Pb-Pb data.
-
-Notice that the cross-section of coherent $J/\Psi$ photoproduction, for $\gamma+p\rightarrow J/\Psi+p$, has a power-law dependence on the photon-proton center-of-mass energy.
-
+Ultra-peripheral coherent $J/\Psi$ photoproduction was studied in the ALICE 2011 Pb-Pb data. Notice that the cross-section of coherent $J/\Psi$ photoproduction, for $\gamma+p\rightarrow J/\Psi+p$, has a power-law dependence on the photon-proton center-of-mass energy. This data can be used to measure the gluon distribution as a function of Bjorken-x. 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/aliceData1.jpeg}
@@ -45,8 +52,7 @@ Notice that the cross-section of coherent $J/\Psi$ photoproduction, for $\gamma+
 \caption{$\gamma +$proton$\rightarrow J/\Psi +$proton cross-section. \label{fig:aliceData1}}
 \end{figure}
 
-CMS has studied $J/\Psi$ and $\rho$ photoproduction off the proton in proton-Pb collisions. In coherent UPC photoproduction of $J/\Psi$, the transverse momentum distribution peaks at about 60 MeV because, for coherent production, the photon energy is inversely proportional to the Pb ion diameter, $1/2R_{Pb}$.
-
+CMS has studied $J/\Psi$ and $\rho$ photoproduction off the proton in proton-Pb collisions. In coherent UPC photoproduction of $J/\Psi$, the transverse momentum distribution peaks at about 60 MeV because, for coherent production, the photon energy is inversely proportional to the Pb ion diameter, $1/2R_{Pb}$. For this process the photon is interacting with the whole nucleus. The low momentum corresponds to large wavelength of the photon with respect to the nuclear radius. 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/patkenny_Figure_001-a.png}
@@ -54,8 +60,7 @@ CMS has studied $J/\Psi$ and $\rho$ photoproduction off the proton in proton-Pb 
 \caption{Pat Kenny Plot 1 \label{fig:pk3}}
 \end{figure}
 
-
-
+UPC vector mesons are a clean probe of the nuclear initial state. The high temperature environment of heavy-ion collisions produces a near viscosity free medium that exhibits collective flow. However, collective flow phenomena are also observed in heavy-ion collisions below the QGP phase transition. A good understanding of the heavy-ion initial state, before the phase transition, is necessary to detect authentic QGP pheneomena. UPC productions can probe the initial state because the interaction is purely electromagnetic; hadronic activity is strongly suppressed, excluding the possibility of QGP forming. 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/patkenny_Figure_001-b.png}
@@ -63,20 +68,21 @@ CMS has studied $J/\Psi$ and $\rho$ photoproduction off the proton in proton-Pb 
 \caption{Pat Kenny Plot 2 \label{fig:pk2}}
 \end{figure}
 
+The UPC $J/\Psi$ in particular is senstive to the gluon distribution at low Bjorken-x. The UPC $J/\Psi$ photoproduction cross-section can be calculated from a Glauber model of the heavy-ion. The Glauber model approach depicts the nucleus as a sum of protons and neutrons by scaling up the photon-nuclear cross section derived from electron-proton collisions. 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/patkenny_Figure_002.png}
 \par\end{centering}
 \caption{Pat Kenny Plot 3 \label{fig:pk3}}
 \end{figure}
-
+ 
+Studies of UPC $J/\Psi$ at CMS show that the measured cross section is consistent with models of the nucleus that include moderately strong gluon shadowing, in particular EPSO9. Fig \ref{fig:pk3} compares the cross section measured by CMS and ALICE against theoretical models. In the data there is a clear difference from the Glauber model prediction. The cross sections indicate that, at the energy scale of the $J/\Psi$ mass, the nuclear gluon density is suppressed with respect to that of the proton.  
 
 \section{Photon-photon interactions}
 
 Classical electrodynamics forbids the scattering of a photon off another photon. According to Maxwell's equations, charge and current distributions make linear contributions to the electric and magnetic fields. For example, the electric field generated by a grid of static charges is the sum of the electric fields of the each charge considered by itself. This properpty, called "the principle of superposition", allows Maxwell's equations to be solved as boundary values problems via the separation of variables.
 
 Maxwell's equations, being a classical theory, do not take into account the quantum mechanical effects that manifest at the distance scales of sub-atomic particles. The polarization of the vacuum is one such consequence of quantum mechanics. Around a photon there is a cloud of particle-antiparticle pairs, appearing together and then annihilating each other after a time proportional to their energy. In so far as these particles have an electric charge, portions of the local area may carry a non-zero electric charge. Thus, two photons may scatter off each other in three possible exchanges: Diagrams for Delbrück scattering, photon splitting, and elastic light-by-light scattering. 
-
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=7in]{Chapter2/importfigs/nphys4208-f1.jpg}
@@ -85,7 +91,6 @@ Maxwell's equations, being a classical theory, do not take into account the quan
 \end{figure}
 
 Figure \ref{fig:ggDiag} illustrates the process of light-by-light scattering. The plots in figure \ref{fig:ggDiag} (a.) are the Feynman diagrams of the three light-by-light channels: Delbruck scattering, photon splitting, and elastic scattering, respectively. Notice that all three channels are variations on a closed electron-loop. Figure \ref{fig:ggDiag} (b.) shows how these processes arise in heavy-ion collisions. The photon flux from a relativistic heavy-ion is calculated from the Fourier transform of its electric field. The final state $X$ is empty except for two photons. 
-
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=7in]{Chapter2/importfigs/nphys4208-f3.jpg}
@@ -94,7 +99,6 @@ Figure \ref{fig:ggDiag} illustrates the process of light-by-light scattering. Th
 \end{figure}
 
 Light-by-light scattering has been observed at ATLAS. The relevant data sample contains 480 $\mu b^-1$ of Pb+Pb data taken at $\sqrt{s_{NN}}=5.02$ TeV. Light-by-light MC was generated using STARLIGHT and processed through a GEANT4 simulation of ATLAS. The reconstructed MC was used to create kinematic templates for comparison against the data. These templates can be seen in figure \ref{fig:ggKin}. The most important part of the event selection is the cut on diphoton acoplanarity. 
-
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/gammaGammaAtlasEvent.jpeg}
