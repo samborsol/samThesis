@@ -1,11 +1,11 @@
 
 \chapter{Ultra-peripheral collisions at the Large Hadron Collider}
 
+In this chapter, I will review recent LHC results on ultra-peripheral collisions (UPCs). First I will discuss the unique features of UPCs, and how they are selected. I then present the results from ALICE and CMS on vector meson photoproduction as an example of how UPCs can probe the nuclear gluon distribution. The ATLAS results for light-by-light scattering are described. The final section explains dijet photoproduction in UPCs, and how the factorisation theorem informs the interpretation of coherent dijet correlations. 
+
 \section{Ultra-peripheral heavy-ion collisions}
 
-Similar to the Rutherford experiment, in heavy-ion collisions the scattered particles carry information about the internal structure of the nucleus. 
-
-The Rutherford experiment has the three components that still characterize high-energy nuclear experiments: a probe, a medium, and a signal. Alpha particles probe the medium of the gold atom, and the angular distribution of scattered alpha particles signals the internal structure of the atom. 
+Similar to the Rutherford experiment, in heavy-ion collisions the scattered particles carry information about the internal structure of the nucleus. The Rutherford experiment has the three components that still characterize high-energy nuclear experiments: a probe, a medium, and a signal. Alpha particles probe the medium of the gold atom, and the angular distribution of scattered alpha particles signals the internal structure of the atom. 
 
 Ultra-peripheral collisions occur at impact parameters greater than the sum of the heavy-ion radii. In these collisions, hadronic interactions are strongly suppressed while photonuclear activity is enhanced proportional to the square of the nuclear charge. The electromagnetic field of an incoming heavy-ion, from the perspective of a target, is equivalent to a flux of virtual photons; figure \ref{fig:smushedField} illustrates the Lorentz contraction of the field of a boosted charge.
 \begin{figure}[h!]
@@ -44,12 +44,18 @@ The photoproduction cross-section is proportional to the gluon distribution. At 
 
 The virtual photons present in UPC can fluctuate into a quark-antiquark pair which can take the form of a low mass meson. This meson then interacts with the target nuclei via colorless gluon exchange, emitting a vector meson. If the virtual photon interacts coherently with the target nucleus, this is reflected in the transverse momentum of the vector meson. The vector meson decays into a dilepton pair detectable by CMS. 
 
-Ultra-peripheral coherent $J/\Psi$ photoproduction was studied in the ALICE 2011 Pb-Pb data. Notice that the cross-section of coherent $J/\Psi$ photoproduction, for $\gamma+p\rightarrow J/\Psi+p$, has a power-law dependence on the photon-proton center-of-mass energy. This data can be used to measure the gluon distribution as a function of Bjorken-x. 
+For a given final state $X$, the collision cross section is given as
+\begin{equation}
+\sigma_X = \int d \omega \frac{n(\omega)}{\omega} \sigma_X^\gamma(\omega),
+\end{equation}
+where $n(\omega)$ is the number of photons emitted at an energy $\omega$, and $\sigma_X^\gamma(\omega)$ is the photonuclear cross-section of the photon-nucleon interaction. The Weizacker-Williams approximation provides $n(\omega)$. The integral reflects how a state $X$ can result from the interaction of a quasi-real photon of varying energy. 
+
+Ultra-peripheral coherent $J/\Psi$ photoproduction was studied in the ALICE 2011 Pb-Pb data. Notice that the cross-section of coherent $J/\Psi$ photoproduction, for $\gamma+p\rightarrow J/\Psi+p$, has a power-law dependence on the photon-proton center-of-mass energy, as seen in figure \ref{fig:aliceData1} \cite{Klein:2017nqo}. This data can be used to measure the gluon distribution as a function of Bjorken-x. 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/aliceData1.jpeg}
 \par\end{centering}
-\caption{$\gamma +$proton$\rightarrow J/\Psi +$proton cross-section. \label{fig:aliceData1}}
+\caption{$\gamma +$proton$\rightarrow J/\Psi +$proton cross-section \cite{Klein:2017nqo}. \label{fig:aliceData1}}
 \end{figure}
 
 CMS has studied $J/\Psi$ and $\rho$ photoproduction off the proton in proton-Pb collisions. In coherent UPC photoproduction of $J/\Psi$, the transverse momentum distribution peaks at about 60 MeV because, for coherent production, the photon energy is inversely proportional to the Pb ion diameter, $1/2R_{Pb}$. For this process the photon is interacting with the whole nucleus. The low momentum corresponds to large wavelength of the photon with respect to the nuclear radius. 
@@ -57,7 +63,7 @@ CMS has studied $J/\Psi$ and $\rho$ photoproduction off the proton in proton-Pb 
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/patkenny_Figure_001-a.png}
 \par\end{centering}
-\caption{Pat Kenny Plot 1 \label{fig:pk3}}
+\caption{Dimuon invariant mass distributions of opposite-sign muon pairs ($p_T<1.0$ GeV, $1.8<|y|<2.3$) \cite{Khachatryan:2016qhq}\label{fig:pk3}}
 \end{figure}
 
 UPC vector mesons are a clean probe of the nuclear initial state. The high temperature environment of heavy-ion collisions produces a near viscosity free medium that exhibits collective flow. However, collective flow phenomena are also observed in heavy-ion collisions below the QGP phase transition. A good understanding of the heavy-ion initial state, before the phase transition, is necessary to detect authentic QGP pheneomena. UPC productions can probe the initial state because the interaction is purely electromagnetic; hadronic activity is strongly suppressed, excluding the possibility of QGP forming. 
@@ -65,7 +71,7 @@ UPC vector mesons are a clean probe of the nuclear initial state. The high tempe
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/patkenny_Figure_001-b.png}
 \par\end{centering}
-\caption{Pat Kenny Plot 2 \label{fig:pk2}}
+\caption{Dimuon transverse momentum distributions of opposite-sign muon pairs ($p_T<1.0$ GeV, $1.8<|y|<2.3$) \cite{Khachatryan:2016qhq} \label{fig:pk2}}
 \end{figure}
 
 The UPC $J/\Psi$ in particular is senstive to the gluon distribution at low Bjorken-x. The UPC $J/\Psi$ photoproduction cross-section can be calculated from a Glauber model of the heavy-ion. The Glauber model approach depicts the nucleus as a sum of protons and neutrons by scaling up the photon-nuclear cross section derived from electron-proton collisions. 
@@ -73,7 +79,7 @@ The UPC $J/\Psi$ in particular is senstive to the gluon distribution at low Bjor
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/patkenny_Figure_002.png}
 \par\end{centering}
-\caption{Pat Kenny Plot 3 \label{fig:pk3}}
+\caption{Differential cross section versus rapidity for coherent $J/\Psi$ production in ultra-peripheral PbPb collisions at $\sqrt{s_{NN}}=2.76 TeV$ \cite{Khachatryan:2016qhq} \label{fig:pk3}}
 \end{figure}
  
 Studies of UPC $J/\Psi$ at CMS show that the measured cross section is consistent with models of the nucleus that include moderately strong gluon shadowing, in particular EPSO9. Fig \ref{fig:pk3} compares the cross section measured by CMS and ALICE against theoretical models. In the data there is a clear difference from the Glauber model prediction. The cross sections indicate that, at the energy scale of the $J/\Psi$ mass, the nuclear gluon density is suppressed with respect to that of the proton.  
@@ -82,31 +88,39 @@ Studies of UPC $J/\Psi$ at CMS show that the measured cross section is consisten
 
 Classical electrodynamics forbids the scattering of a photon off another photon. According to Maxwell's equations, charge and current distributions make linear contributions to the electric and magnetic fields. For example, the electric field generated by a grid of static charges is the sum of the electric fields of the each charge considered by itself. This properpty, called "the principle of superposition", allows Maxwell's equations to be solved as boundary values problems via the separation of variables.
 
+The cross section of a final state from the photon-photon interaction is given by
+\begin{equation}
+\sigma_X = \int d \omega_1 d \omega_2 \frac{n(\omega_1)}{\omega_2} \sigma_X^{\gamma\gamma}(\omega_1, \omega_2),
+\end{equation}
+where the subscripts $1$ and $2$ designate the quasi-real photons that are colliding and 
+$\sigma_X^{\gamma\gamma}(\omega_1, \omega_2)$ is the cross-section of the final state from a collision of photons with energies $\omega_1$ and $\omega_2$. Once more, notice that the total final state cross-section is an integral of the all the photon energies in the photon flux. 
+
 Maxwell's equations, being a classical theory, do not take into account the quantum mechanical effects that manifest at the distance scales of sub-atomic particles. The polarization of the vacuum is one such consequence of quantum mechanics. Around a photon there is a cloud of particle-antiparticle pairs, appearing together and then annihilating each other after a time proportional to their energy. In so far as these particles have an electric charge, portions of the local area may carry a non-zero electric charge. Thus, two photons may scatter off each other in three possible exchanges: Diagrams for Delbrück scattering, photon splitting, and elastic light-by-light scattering. 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=7in]{Chapter2/importfigs/nphys4208-f1.jpg}
 \par\end{centering}
-\caption{$\gamma \gamma$ Diagrams of light-by-light scattering, (a.) channels, (b.) analagous. \label{fig:ggDiag}}
+\caption{$\gamma \gamma$ Diagrams of light-by-light scattering, (a.) channels, (b.) analagous \cite{Aaboud:2017bwk} \label{fig:ggDiag}}
 \end{figure}
 
-Figure \ref{fig:ggDiag} illustrates the process of light-by-light scattering. The plots in figure \ref{fig:ggDiag} (a.) are the Feynman diagrams of the three light-by-light channels: Delbruck scattering, photon splitting, and elastic scattering, respectively. Notice that all three channels are variations on a closed electron-loop. Figure \ref{fig:ggDiag} (b.) shows how these processes arise in heavy-ion collisions. The photon flux from a relativistic heavy-ion is calculated from the Fourier transform of its electric field. The final state $X$ is empty except for two photons. 
+Figure \ref{fig:ggDiag} illustrates the process of light-by-light scattering. The plots in figure \ref{fig:ggDiag} (a.) are the Feynman diagrams of the three light-by-light channels: Delbruck scattering, photon splitting, and elastic scattering, respectively. Notice that all three channels are variations on a closed electron-loop. Figure \ref{fig:ggDiag} (b.) shows how these processes arise in heavy-ion collisions. The photon flux from a relativistic heavy-ion is calculated from the Fourier transform of its electric field. The final state $X$ is empty except for two photons \cite{Aaboud:2017bwk}. 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=7in]{Chapter2/importfigs/nphys4208-f3.jpg}
 \par\end{centering}
-\caption{$\gamma \gamma$ kinematics, (a.) acoplanarity, (b.) invariant mass. \label{fig:ggKin}}
+\caption{$\gamma \gamma$ kinematics, (a.) acoplanarity, (b.) invariant mass \cite{Aaboud:2017bwk} \label{fig:ggKin}}
 \end{figure}
 
 Light-by-light scattering has been observed at ATLAS. The relevant data sample contains 480 $\mu b^-1$ of Pb+Pb data taken at $\sqrt{s_{NN}}=5.02$ TeV. Light-by-light MC was generated using STARLIGHT and processed through a GEANT4 simulation of ATLAS. The reconstructed MC was used to create kinematic templates for comparison against the data. These templates can be seen in figure \ref{fig:ggKin}. The most important part of the event selection is the cut on diphoton acoplanarity. 
+
 \begin{figure}[h!]
 \begin{centering}
-\includegraphics[width=4in]{Chapter2/importfigs/gammaGammaAtlasEvent.jpeg}
+\includegraphics[width=5in]{Chapter2/importfigs/light-by-light-figure_2.png}
 \par\end{centering}
-\caption{Event Display of ATLAS photon-photon scattering \label{fig:atlasEvent}}
+\caption{Event Display of ATLAS photon-photon scattering \cite{Collaboration:2278547} \label{fig:atlasEvent}}
 \end{figure}
 
-Figure \ref{fig:atlasEvent} is an event display for an ATLAS light-by-light candidate. Notice that the two photons are back-to-back in the plane perpendicular to the beam.
+Figure \ref{fig:atlasEvent} is an event display for an ATLAS light-by-light candidate \cite{Collaboration:2278547}. Notice that the two photons are back-to-back in the plane perpendicular to the beam.
 
 ATLAS has published preliminary results on UPC dijet production. It has been shown that these photonuclear dijets manifest distinct differences from dijets produced in more "hadronic" collisions. There are rapidity gaps that are similar to those seen in the diffractive productions of electron-proton collisions at HERA. The forward neutron emission spectrum also matches that expected for UPC data set. The ATLAS results are particularly interesting because Strikman, Vogt, and White have shown that UPC dijet photoproduction is sensitive to the low Bjorken-x nuclear PDFs.
 
@@ -120,14 +134,12 @@ Diffractive dijet photoproduction is not describable in perturbative QCD. For co
 
 \begin{figure}[h!]
 \begin{centering}
-\includegraphics[width=2.2in]{Chapter1/importfigs/fig1a.png}
-\includegraphics[width=3in]{Chapter1/importfigs/fig3_daniel_upc.png}
 \includegraphics[width=6in]{Chapter1/importfigs/h1_2015_feyn.png}
 \par\end{centering}
-\caption{Feynman diagrams for coherent jet photoproduction in (upper a.) lepton-proton collisions, (upper b.) Pb-Pb collisions, (lower a.) direct-photon in ep, (lower b.) resolved-photon in ep. \label{fig:feynmanUPC1}}
+\caption{Feynman diagrams for coherent jet photoproduction in (a) direct-photon in ep, (b) resolved-photon in ep \cite{Andreev:2015cwa} \label{fig:feynmanUPC1}}
 \end{figure}
 
-In electron-hadron collisions, diffractive photoproduction is characterized by the presence of a large rapidity gap in the final state and an intact nucleus. The Feynman diagram of electroproduction in lepton-hadron collisions is similar to that of photoproduction in ultraperipheral collisions, as seen in fig.\ref{fig:feynmanUPC1}. The diffractive dijet cross section is expressed by the convolution of partonic cross sections $d\hat{\sigma}$ and diffractive PDFs $f^D_{i/p}$.
+In electron-hadron collisions, diffractive photoproduction is characterized by the presence of a large rapidity gap in the final state and an intact nucleus. The Feynman diagram of electroproduction in lepton-hadron collisions is similar to that of photoproduction in ultraperipheral collisions, as seen in figure \ref{fig:feynmanUPC1} \cite{Andreev:2015cwa}. The diffractive dijet cross section is expressed by the convolution of partonic cross sections $d\hat{\sigma}$ and diffractive PDFs $f^D_{i/p}$.
 \begin{equation}
 d\sigma (ep \rightarrow e + 2 jets + X^{'} + p) = \sum_{i} \int dt \int dx_\mathbb{P} \int dz_\mathbb{P}d\hat{\sigma}_{ei\rightarrow 2jets}(\hat{s},\mu^2_R,\mu^2_F)\times f^D_{i/p}(z_\mathbb{P},\mu^2_F,x_\mathbb{P},t) ,
 \end{equation}
@@ -140,22 +152,22 @@ f^D_{i/p}(z_{\mathbb{P}},\mu^2_F,x_{\mathbb{P}},t) = f_{\mathbb{P}/p}(x_{\mathbb
 \end{equation}
 where $_{\mathbb{P}/p}$ is the pomeron flux factor, $f_{\mathbb{R}/p}$ is the Reggeon flux factor, $n_\mathbb{R}$ is the normalization factor of the Reggeon, $f_{i/\mathbb{P}}$ is the pomeron parton distribution, and $f_{i/\mathbb{R}}$ is the Reggeon parton distribution.
 
-Lepton-hadron collisions were performed at HERA and measured by the H1 experiment. These experiments reported a value for the total diffractive photoproduction cross section that is double that predicted by QCD collinear factorization; fig.\ref{fig:h1Ratio} compares the cross-section of H1 data to that predicted by NLO-QCD. Diffractive events were selected for using rapidity gaps or the presence of leading protons in the very forward proton spectrometer (VFPS). 
+Lepton-hadron collisions were performed at HERA and measured by the H1 experiment. These experiments reported a value for the total diffractive photoproduction cross section that is double that predicted by QCD collinear factorization; figure \ref{fig:h1Ratio} compares the cross-section of H1 data to that predicted by NLO-QCD \cite{Andreev:2015cwa}. Diffractive events were selected for using rapidity gaps or the presence of leading protons in the very forward proton spectrometer (VFPS). 
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=3in]{Chapter1/importfigs/fig8_h1_2015.png}
 \par\end{centering}
-\caption{Ratio of H1 data cross-section to NLO-QCD cross-section. \label{fig:h1Ratio}}
+\caption{Ratio of H1 data cross-section to NLO-QCD cross-section \cite{Andreev:2015cwa} \label{fig:h1Ratio}}
 \end{figure}
 
-H1 used the Very Forward Proton Spectrometer (VFPS) to trigger on low $Q^2$ protons. The VFPS consists of two Roman Pots located 218 m and 222 m from the H1 interaction-point in the forward direction. The VFPS can detect protons scattered at very low transverse momentum, corresponding to $0.008 < x_{P} < 0.028$ and $|t|<0.6$. Each of the Roman Pots contains layers of scintillating fibers, which are covered by a layer of scintillator tiles. The fibers readout to photomultipliers, and the tiles both shield from radiation and trigger on protons. The track effiency of VFPS is a remarkable $96 \%$, and the background contamination is kept at $1 \%$ , making the detector excellent for studying diffractive events. Figure \ref{fig:h1BeamEnv} shows the $|t|$ coverage of the Forward Proton Spectrometer (FPS) and VFPS.
+H1 used the Very Forward Proton Spectrometer (VFPS) to trigger on low $Q^2$ protons. The VFPS consists of two Roman Pots located 218 m and 222 m from the H1 interaction-point in the forward direction. The VFPS can detect protons scattered at very low transverse momentum, corresponding to $0.008 < x_{P} < 0.028$ and $|t|<0.6$. Each of the Roman Pots contains layers of scintillating fibers, which are covered by a layer of scintillator tiles. The fibers readout to photomultipliers, and the tiles both shield from radiation and trigger on protons. The track effiency of VFPS is a remarkable $96 \%$, and the background contamination is kept at $1 \%$ , making the detector excellent for studying diffractive events. Figure \ref{fig:h1BeamEnv} shows the $|t|$ coverage of the Forward Proton Spectrometer (FPS) and VFPS \cite{Andreev:2015cwa}.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=3in]{Chapter1/importfigs/fig7_h1_2015.png}
 \par\end{centering}
-\caption{Beam envelope vs. distance to vertex in H1. \label{fig:h1BeamEnv}}
+\caption{Beam envelope vs. distance to vertex in H1 \cite{Andreev:2015cwa} \label{fig:h1BeamEnv}}
 \end{figure}
 
 The H1 data was compared to predictions based on NLO-QCD convoluted with diffractive parton distribution functions (DPDFs) from HERA inclusive diffractive deep-inelastic scattering (DDIS) data. For diffractive pp collisions the high transverse momentum jets yield a hard scale for perturbative QCD. 

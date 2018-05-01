@@ -27,22 +27,22 @@ Heavy-ion collisions at LHC produce strongly interacting nuclear matter. The tem
 
 \section{Compact Muon Solenoid}
 
-The Compact Muon Solenoid (CMS) is a general-purpose particle detector located at Point-5 of the LHC. CMS was designed to precisely measure the momentum of muons. The titular superconducting solenoid magnet was designed to generate a 4 Tesla field, but operates at 3.8 T to increase longevity. This field is homogeneous and parallel to the beam line close to the interaction point. The momentum of a muon is measured from how it deflects when moving through the magnetic field. Altogether, CMS weighs approximately 12,500 metric tons, with a diameter of 14.6 m and a length of 21.6 meters. Fig.\ref{fig:cmsCutOut} displays the detector's various sub-systems. 
+The Compact Muon Solenoid (CMS) is a general-purpose particle detector located at Point-5 of the LHC. CMS was designed to precisely measure the momentum of muons. The titular superconducting solenoid magnet was designed to generate a 4 Tesla field, but operates at 3.8 T to increase longevity. This field is homogeneous and parallel to the beam line close to the interaction point. The momentum of a muon is measured from how it deflects when moving through the magnetic field. Altogether, CMS weighs approximately 12,500 metric tons, with a diameter of 14.6 m and a length of 21.6 meters. Figure \ref{fig:cmsCutOut} displays the detector's various sub-systems \cite{dEnterria:2007iyi}. 
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/fromCMS_DesignPaper_perspective.png}
 \par\end{centering}
-\caption{CMS Detector \label{fig:cmsCutOut}}
+\caption{CMS Detector \cite{dEnterria:2007iyi} \label{fig:cmsCutOut}}
 \end{figure}
 
-Within the solenoid volume are a silicon pixel and strip tracker, a lead tungsten crystal electromagnetic calorimeter (ECAL), and a brass and scintillator hadron calorimeter (HCAL), each composed of a barrel and two endcap sections. Fig.\ref{fig:cmsCutOutZY} radial layering of CMS component systems.  
+Within the solenoid volume are a silicon pixel and strip tracker, a lead tungsten crystal electromagnetic calorimeter (ECAL), and a brass and scintillator hadron calorimeter (HCAL), each composed of a barrel and two endcap sections. Fig.\ref{fig:cmsCutOutZY} radial layering of CMS component systems \cite{10.1088/978-1-6817-4078-2ch4}.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=5.5in]{Chapter3/importfigs/Figure_001.png}
 \par\end{centering}
-\caption{CMS radial cross-section \label{fig:cmsCutOutZY}}
+\caption{CMS radial cross-section \cite{10.1088/978-1-6817-4078-2ch4} \label{fig:cmsCutOutZY}}
 \end{figure}
 
 \subsection{Tracker}
@@ -55,13 +55,13 @@ The high luminosities reached by LHC typically achieve some 20 to 30 collisions 
 
 A charged particle causes an electrical signal when passing through a silicon pixel or silicon microstrip. CMS reconstructs these electrical signals, taken at specific points of position and time, into tracks. These tracks are accurate to 10 micrometers. The tracker is meant to have  a particle pass all the way through it, with only minimal effect particle's trajectory. 
 
-The tracker system is designed for high granularity and fast readout, such that each trajectory can be associated with its corresponding bunch crossing. The tracker is resilient enough to withstand the high flux of particles accompanying every bunch crossing; at design luminosity of $10^34 cm^-2 s^-1$, some 1000 particles will traverse the tracker every 25 ns. However, the mass of the tracker is minimal enough to suppress multiple scattering, off its material, that would distort particle trajectories. These design constraints -- resistance and transparency -- are satisfied silicon. The tracker has approximately $200 m^2$ of silicon surface, making it the largest silicon detector ever constructed. The pseudorapidity coverage of the pixel and strip trackers is shown in fig.\ref{fig:trackerYZ}.
+The tracker system is designed for high granularity and fast readout, such that each trajectory can be associated with its corresponding bunch crossing. The tracker is resilient enough to withstand the high flux of particles accompanying every bunch crossing; at design luminosity of $10^34 cm^-2 s^-1$, some 1000 particles will traverse the tracker every 25 ns. However, the mass of the tracker is minimal enough to suppress multiple scattering, off its material, that would distort particle trajectories. These design constraints -- resistance and transparency -- are satisfied silicon. The tracker has approximately $200 m^2$ of silicon surface, making it the largest silicon detector ever constructed. The pseudorapidity coverage of the pixel and strip trackers is shown in figure \ref{fig:trackerYZ} \cite{Chatrchyan:2009sr}.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/cms_cft_09_003_fig1.png}
 \par\end{centering}
-\caption{Pseudorapidity acceptance of tracker \label{fig:trackerYZ}}
+\caption{Pseudorapidity acceptance of tracker \cite{Chatrchyan:2009sr} \label{fig:trackerYZ}}
 \end{figure}
 
 In addition to excellent track reconstruction, the tracker provides high precision vertex reconstruction. Vertex reconstruction is a key ingredient in several high-profile LHC studies -- Higgs, SUSY, extra-dimensions -- because of the use of vertices in distinguishing non-prompt decays of heavy-quarks. The tracker is also instrumental in detecting the leptonic decays of W and Z bosons. 
@@ -108,8 +108,7 @@ In CMS trigger development, "EG" triggers fire based on energy deposits in the E
  
 \subsection{Hadronic calorimeter}
 
-
-The Hadronic Calorimeter (HCAL) is the next layer outside the ECAL. The HCAL is a sampling calorimeter, meaning that it absorbs particles and measures their energyy and momentum via scintillation. HCAL has such a large acceptance that it can indirectly observe non-interacting particles such as neutrinos. The HCAL is designed to be hermetic, so that imbalances of momentum and energy can be precisely measured. Fig.\ref{fig:hcalRes} plots the HCAL's energy resolution; note that the resolution changes with $|\eta|$.
+The Hadronic Calorimeter (HCAL) is the next layer outside the ECAL. The HCAL is a sampling calorimeter, meaning that it absorbs particles and measures their energyy and momentum via scintillation. HCAL has such a large acceptance that it can indirectly observe non-interacting particles such as neutrinos. The HCAL is designed to be hermetic, so that imbalances of momentum and energy can be precisely measured. Figure \ref{fig:hcalRes} plots the HCAL's energy resolution; note that the resolution changes with $|\eta|$ \cite{Bayatian:2006nff}.
 
 \begin{figure}[h!]
 \begin{centering}
@@ -124,7 +123,7 @@ There are four sub-sections of the HCAL: the inner barrel (HB) and the outer bar
 \begin{centering}
 \includegraphics[width=5in]{Chapter3/importfigs/filtering_noise_in_CMS_hadron_calorimeter.png}
 \par\end{centering}
-\caption{HCAL Components \label{fig:hcalComp}}
+\caption{HCAL Components \cite{Bayatian:2006nff} \label{fig:hcalComp}}
 \end{figure}
 
 
@@ -138,13 +137,13 @@ Hits in the HF are used to measure the instantaneous luminosity of CMS. As shown
 
 \subsection{Muon detector}
 
-The outermost layer of CMS consists of the muon detectors, as seen in fig.\ref{fig:muonYZ}. Muons are particles nearly identical to electrons, except for their mass, which exceeds that of the electron by some two orders of magnitude. High mass particles, like the Higgs boson, often decay into a final state containing muons. The muon detector not only identifies muons, but also measures their momentum. The muon detector has readout fast enough for triggering on muons.
+The outermost layer of CMS consists of the muon detectors, as seen in figure \ref{fig:muonYZ} \cite{Bayatian:2006nff}. Muons are particles nearly identical to electrons, except for their mass, which exceeds that of the electron by some two orders of magnitude. High mass particles, like the Higgs boson, often decay into a final state containing muons. The muon detector not only identifies muons, but also measures their momentum. The muon detector has readout fast enough for triggering on muons.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-006.pdf}
 \par\end{centering}
-\caption{Pseudorapidity acceptance of muon detector \label{fig:muonYZ}}
+\caption{Pseudorapidity acceptance of muon detector \cite{Bayatian:2006nff}\label{fig:muonYZ}}
 \end{figure}
 
 The muon detector consists of three types of component: muon drift tubes (DT), cathode strip chambers (CSC), and resistive plate chambers (RPC). The DTs are gas filled chambers that contain a stretched metal wire. When muons pass through the DT gas, electrons are excited. These electrons escape from the gas atoms and are attracted to the metal wire, which triggers a signal. The CSC, located in the endcaps, operate under similar principles, but contain perpendicular arrays of positively charged and negatively charged wires immersed in gas. The RPC do not use electrode wires to detect excited electrons; instead, high-resitivity plates are used as alternating cathodes and anodes. 

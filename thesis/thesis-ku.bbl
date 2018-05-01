@@ -8,10 +8,106 @@ S.~Bethke, ``{Experimental tests of asymptotic freedom},''
   [hep-ex]}}.
 %%CITATION = HEP-EX/0606035;%%.
 
+\bibitem{Shimizu:2009fc}
+{\bfseries ZEUS, H1} Collaboration, S.~Shimizu, ``{Low Q**2 Structure Functions
+  including the Longitudinal Structure Function},'' in {\em {QCD and high
+  energy interactions. Proceedings, 44th Rencontres de Moriond, La Thuile,
+  Italy, March 14-21, 2009}}, pp.~301--304.
+\newblock 2009.
+\newblock \href{http://arxiv.org/abs/0905.4712}{{\ttfamily arXiv:0905.4712
+  [hep-ex]}}.
+\newblock
+\url{http://inspirehep.net/record/821571/files/arXiv:0905.4712.pdf}.
+\newblock
+%%CITATION = ARXIV:0905.4712;%%.
+
+\bibitem{Bhalerao:1695331}
+R.~S. Bhalerao, ``{Relativistic heavy-ion collisions},''.
+  \url{https://cds.cern.ch/record/1695331}. Comments: Updated version of the
+  lectures given at the First Asia-Europe-Pacific School of High-Energy
+  Physics, Fukuoka, Japan, 14-27 October 2012. Published as a CERN Yellow
+  Report (CERN-2014-001) and KEK report (KEK-Proceedings-2013-8), K. Kawagoe
+  and M. Mulders (eds.), 2014, p. 219. Total 21 pages.
+
+\bibitem{Diehl:2003ny}
+M.~Diehl, ``{Generalized parton distributions},''
+  \href{http://dx.doi.org/10.1016/j.physrep.2003.08.002,
+  10.3204/DESY-THESIS-2003-018}{{\em Phys. Rept.} {\bfseries 388} (2003)
+  41--277},
+\href{http://arxiv.org/abs/hep-ph/0307382}{{\ttfamily arXiv:hep-ph/0307382
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0307382;%%.
+
+\bibitem{Hatta:2016dxp}
+Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Probing the Small- x Gluon Tomography in
+  Correlated Hard Diffractive Dijet Production in Deep Inelastic Scattering},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.116.202301}{{\em Phys. Rev.
+  Lett.} {\bfseries 116} no.~20, (2016) 202301},
+\href{http://arxiv.org/abs/1601.01585}{{\ttfamily arXiv:1601.01585 [hep-ph]}}.
+%%CITATION = ARXIV:1601.01585;%%.
+
 \bibitem{WWJackson}
 J.~D. Jackson, {\em Classical electrodynamics}.
 \newblock Wiley, New York, {NY}, 3rd ed.~ed., 1999.
 \newblock \url{http://cdsweb.cern.ch/record/490457}.
+
+\bibitem{Klein:2017nqo}
+S.~Klein and J.~Nystrand, ``{Ultraperipheral nuclear collisions},''
+\href{http://dx.doi.org/10.1063/PT.3.3727}{{\em Phys. Today} {\bfseries 70}
+  no.~10, (2017) 40--47}.
+%%CITATION = PHTOA,70,40;%%.
+
+\bibitem{Khachatryan:2016qhq}
+{\bfseries CMS} Collaboration, V.~Khachatryan {\em et~al.}, ``{Coherent
+  $J/\psi$ photoproduction in ultra-peripheral PbPb collisions at $\sqrt
+  {s_{NN}} =$ 2.76 TeV with the CMS experiment},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2017.07.001}{{\em Phys. Lett.}
+  {\bfseries B772} (2017) 489--511},
+\href{http://arxiv.org/abs/1605.06966}{{\ttfamily arXiv:1605.06966 [nucl-ex]}}.
+%%CITATION = ARXIV:1605.06966;%%.
+
+\bibitem{Aaboud:2017bwk}
+{\bfseries ATLAS} Collaboration, M.~Aaboud {\em et~al.}, ``{Evidence for
+  light-by-light scattering in heavy-ion collisions with the ATLAS detector at
+  the LHC},'' \href{http://dx.doi.org/10.1038/nphys4208}{{\em Nature Phys.}
+  {\bfseries 13} no.~9, (2017) 852--858},
+\href{http://arxiv.org/abs/1702.01625}{{\ttfamily arXiv:1702.01625 [hep-ex]}}.
+%%CITATION = ARXIV:1702.01625;%%.
+
+\bibitem{Collaboration:2278547}
+A.~Collaboration, ``{ATLAS Event Display: Light-by-Light Scattering}.'' General
+  Photo, Aug, 2017.
+
+\bibitem{Andreev:2015cwa}
+{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
+  Production with a Leading Proton in $ep$ Collisions at HERA},''
+  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
+  (2015) 056},
+\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
+%%CITATION = ARXIV:1502.01683;%%.
+
+\bibitem{dEnterria:2007iyi}
+{\bfseries CMS} Collaboration, D.~G. d'Enterria {\em et~al.}, ``{CMS physics
+  technical design report: Addendum on high density QCD with heavy ions},''
+\href{http://dx.doi.org/10.1088/0954-3899/34/11/008}{{\em J. Phys.} {\bfseries
+  G34} (2007) 2307--2455}.
+%%CITATION = JPAGA,G34,2307;%%.
+
+\bibitem{10.1088/978-1-6817-4078-2ch4}
+L.~R.~F. Castillo, \href{http://dx.doi.org/10.1088/978-1-6817-4078-2ch4}{``The
+  atlas and cms detectors,''} in {\em The Search and Discovery of the Higgs
+  Boson}, 2053-2571, pp.~4--1 to 4--8.
+\newblock Morgan and Claypool Publishers, 2015.
+\newblock \url{http://dx.doi.org/10.1088/978-1-6817-4078-2ch4}.
+
+\bibitem{Chatrchyan:2009sr}
+{\bfseries CMS} Collaboration, S.~Chatrchyan {\em et~al.}, ``{Alignment of the
+  CMS Silicon Tracker during Commissioning with Cosmic Rays},''
+  \href{http://dx.doi.org/10.1088/1748-0221/5/03/T03009}{{\em JINST} {\bfseries
+  5} (2010) T03009},
+\href{http://arxiv.org/abs/0910.2505}{{\ttfamily arXiv:0910.2505
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:0910.2505;%%.
 
 \bibitem{Halzen:1984mc}
 F.~Halzen and A.~D. Martin, {\em {QUARKS AND LEPTONS: AN INTRODUCTORY COURSE IN
@@ -56,28 +152,11 @@ J.~D. Bjorken, ``{Asymptotic Sum Rules at Infinite Momentum},''
   179} (1969) 1547--1553}.
 %%CITATION = PHRVA,179,1547;%%.
 
-\bibitem{Hatta:2016dxp}
-Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Probing the Small- x Gluon Tomography in
-  Correlated Hard Diffractive Dijet Production in Deep Inelastic Scattering},''
-  \href{http://dx.doi.org/10.1103/PhysRevLett.116.202301}{{\em Phys. Rev.
-  Lett.} {\bfseries 116} no.~20, (2016) 202301},
-\href{http://arxiv.org/abs/1601.01585}{{\ttfamily arXiv:1601.01585 [hep-ph]}}.
-%%CITATION = ARXIV:1601.01585;%%.
-
 \bibitem{Boer:2011fh}
 D.~Boer {\em et~al.}, ``{Gluons and the quark sea at high energies:
   Distributions, polarization, tomography},''
 \href{http://arxiv.org/abs/1108.1713}{{\ttfamily arXiv:1108.1713 [nucl-th]}}.
 %%CITATION = ARXIV:1108.1713;%%.
-
-\bibitem{Diehl:2003ny}
-M.~Diehl, ``{Generalized parton distributions},''
-  \href{http://dx.doi.org/10.1016/j.physrep.2003.08.002,
-  10.3204/DESY-THESIS-2003-018}{{\em Phys. Rept.} {\bfseries 388} (2003)
-  41--277},
-\href{http://arxiv.org/abs/hep-ph/0307382}{{\ttfamily arXiv:hep-ph/0307382
-  [hep-ph]}}.
-%%CITATION = HEP-PH/0307382;%%.
 
 \bibitem{Belitsky:2003nz}
 A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
@@ -88,18 +167,30 @@ A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
   [hep-ph]}}.
 %%CITATION = HEP-PH/0307383;%%.
 
-\bibitem{Andreev:2015cwa}
-{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
-  Production with a Leading Proton in $ep$ Collisions at HERA},''
-  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
-  (2015) 056},
-\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
-%%CITATION = ARXIV:1502.01683;%%.
-
 \bibitem{CMS:2010gua}
 {\bfseries CMS} Collaboration, CMS,
 ``{Measurement of CMS Luminosity},''.
 %%CITATION = CMS-PAS-EWK-10-004;%%.
+
+\bibitem{CMS:2013gfa}
+{\bfseries CMS} Collaboration, C.~Collaboration,
+``{CMS Luminosity Based on Pixel Cluster Counting - Summer 2013 Update},''.
+%%CITATION = CMS-PAS-LUM-13-001;%%.
+
+\bibitem{Kornmayer:2016wkz}
+{\bfseries CMS} Collaboration, A.~Kornmayer, ``{The CMS pixel luminosity
+  telescope},''
+\href{http://dx.doi.org/10.1016/j.nima.2015.09.104}{{\em Nucl. Instrum. Meth.}
+  {\bfseries A824} (2016) 304--306}.
+%%CITATION = NUIMA,A824,304;%%.
+
+\bibitem{Guthoff:2017ibf}
+{\bfseries CMS} Collaboration, M.~Guthoff, ``{Instrumentation for beam
+  radiation and luminosity measurement in the CMS experiment using novel
+  detector technologies},''
+\href{http://dx.doi.org/10.1016/j.nima.2016.06.028}{{\em Nucl. Instrum. Meth.}
+  {\bfseries A845} (2017) 565--569}.
+%%CITATION = NUIMA,A845,565;%%.
 
 \bibitem{Ellis:1993tq}
 S.~D. Ellis and D.~E. Soper, ``{Successive combination jet algorithm for hadron

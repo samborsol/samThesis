@@ -12,8 +12,10 @@ A level-1 auxiliary file: Chapter8/Chapter-8.aux
 The style file: Biblio/utphys.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
+Reallocated field_info (elt_size=4) to 10024 items from 5000.
 Warning--entry type for "starlight" isn't style-file defined
 --line 1932 of file Biblio/allcites.bib
+Warning--I didn't find a database entry for "Bayatian:2006nff"
 Warning--empty publisher in Halzen:1984mc
 Warning--empty publisher in Griffiths:2008zz
 Warning--empty pages in CMS_AN_2008-098
@@ -24,45 +26,45 @@ Warning--empty institution in cgc2013.05
 Warning--empty author and editor in cmsTdrTrk
 Warning--all relevant fields are empty in starlight
 Warning--empty pages in cmsJpPP
-You've used 145 entries,
+You've used 157 entries,
             2328 wiz_defined-function locations,
-            1755 strings with 33301 characters,
-and the built_in function-call counts, 45760 in all, are:
-= -- 4929
-> -- 1246
+            1857 strings with 36357 characters,
+and the built_in function-call counts, 49570 in all, are:
+= -- 5360
+> -- 1314
 < -- 1
-+ -- 478
-- -- 333
-* -- 4132
-:= -- 5325
-add.period$ -- 299
-call.type$ -- 145
-change.case$ -- 164
++ -- 507
+- -- 350
+* -- 4462
+:= -- 5770
+add.period$ -- 327
+call.type$ -- 157
+change.case$ -- 178
 chr.to.int$ -- 0
-cite$ -- 155
-duplicate$ -- 2506
-empty$ -- 4507
-format.name$ -- 333
-if$ -- 12088
+cite$ -- 167
+duplicate$ -- 2713
+empty$ -- 4900
+format.name$ -- 350
+if$ -- 13095
 int.to.chr$ -- 0
-int.to.str$ -- 145
-missing$ -- 526
-newline$ -- 686
-num.names$ -- 145
-pop$ -- 689
+int.to.str$ -- 157
+missing$ -- 562
+newline$ -- 746
+num.names$ -- 157
+pop$ -- 740
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1741
+skip$ -- 1879
 stack$ -- 0
-substring$ -- 2256
-swap$ -- 1179
+substring$ -- 2497
+swap$ -- 1268
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 10
-while$ -- 320
-width$ -- 148
-write$ -- 1272
-(There were 11 warnings)
+while$ -- 349
+width$ -- 160
+write$ -- 1392
+(There were 12 warnings)
