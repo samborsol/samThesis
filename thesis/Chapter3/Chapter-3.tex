@@ -78,31 +78,31 @@ Outside the pixel tracker are the layers of the strip tracker. They function sim
 
 \subsection{Electromagnetic calorimeter}
 
-The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps, as seen in fig\ref{fig:ecalComp}. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution; for example, the ECAL has the resolution suitable for the decay of the Higgs boson into two photons. The ECAL is both hermetic and homogenous. 
+The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps, as seen in figure \ref{fig:ecalComp} \cite{Benaglia:2014aqa}. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution; for example, the ECAL has the resolution suitable for the decay of the Higgs boson into two photons. The ECAL is both hermetic and homogenous. 
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=7in]{Chapter3/importfigs/ecal_performance_with_examples.png}
 \par\end{centering}
-\caption{ECAL components \label{fig:ecalComp}}
+\caption{ECAL components \cite{Benaglia:2014aqa} \label{fig:ecalComp}}
 \end{figure}
 
-The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs). ECAL's energy resolution, as a function of energy, is given by fig.\ref{fig:ecalRes}. The resolution increases with energy because, at large energies, parton showers become more similar as their random fluctuations average-out.
+The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs). ECAL's energy resolution, as a function of energy, is given by figure \ref{fig:ecalRes} \cite{Bayatian:2006nff}. The resolution increases with energy because, at large energies, parton showers become more similar as their random fluctuations average-out.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-007.pdf}
 \par\end{centering}
-\caption{Ecal energy resolution \label{fig:ecalRes}}
+\caption{Ecal energy resolution \cite{Bayatian:2006nff} \label{fig:ecalRes}}
 \end{figure}
  
-In CMS trigger development, "EG" triggers fire based on energy deposits in the ECAL; fig.\ref{fig:ecalResL1} gives the EG trigger energy resolution. This energy comes primarily from electrons and photons. When these particles strike a tungstate crystal, the particle shower size is approximately that of the crystal. Electrons are distinguished from photons by the correlation of track to ECAL energy. The L1 trigger does not fire on tracks, which are reconstructed at the HLT level. Thus, L1 EG triggers do not distinguish between electrons and photons. 
+In CMS trigger development, "EG" triggers fire based on energy deposits in the ECAL; fig.\ref{fig:ecalResL1} gives the EG trigger energy resolution \cite{Bayatian:2006nff}. This energy comes primarily from electrons and photons. When these particles strike a tungstate crystal, the particle shower size is approximately that of the crystal. Electrons are distinguished from photons by the correlation of track to ECAL energy. The L1 trigger does not fire on tracks, which are reconstructed at the HLT level. Thus, L1 EG triggers do not distinguish between electrons and photons. 
 
 \begin{figure}[h!]
 \begin{centering}
-\includegraphics[width=4in]{Chapter3/importfigs/figures_L1EGresolutionEB_cmsTriggerSys.png}
+\includegraphics[width=4in]{Chapter3/importfigs/Figure_013-a.png}
 \par\end{centering}
-\caption{Ecal energy resolution \label{fig:ecalResL1}}
+\caption{Ecal energy resolution \cite{Bayatian:2006nff}\label{fig:ecalResL1}}
 \end{figure}
  
  
@@ -114,10 +114,10 @@ The Hadronic Calorimeter (HCAL) is the next layer outside the ECAL. The HCAL is 
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-008.pdf}
 \par\end{centering}
-\caption{HCAL energy resolution \label{fig:hcalRes}}
+\caption{HCAL energy resolution \cite{Bayatian:2006nff}\label{fig:hcalRes}}
 \end{figure}
 
-There are four sub-sections of the HCAL: the inner barrel (HB) and the outer barrel (HO), two endcaps (HE), and two forward calorimeters (HF). The HF are the most relevant to this analysis because of their use in triggering on non-hadronic events. Fig.\ref{fig:hcalComp} shows the HCAL energy resolution.
+There are four sub-sections of the HCAL: the inner barrel (HB) and the outer barrel (HO), two endcaps (HE), and two forward calorimeters (HF). The HF are the most relevant to this analysis because of their use in triggering on non-hadronic events. Fig.\ref{fig:hcalComp} shows the HCAL energy resolution \cite{Bayatian:2006nff}.
 
 \begin{figure}[h!]
 \begin{centering}
@@ -154,13 +154,13 @@ The zero degree calorimeters are both sides of CMS, approximately 140 meters fro
 
 \subsection{Particle flow algorithm}
 
-Raw data from the sub-detectors is combined, for data analysis, by the particle-flow (PF) algorithm. The PF takes the data about tracks in the tracker and energy deposits in the calorimeter, and uses them to reconstruct physics-related data objects, like jets, and to identify specific particles, such as photons and muons. The PF also identifies missing energy and momentum for use in neutrino studies. These data objects are stored in a format similar to that of conventional MC event generators. CMS gains significant jet reconstruction efficiency via the PF. At low transverse momentum, PF reconstructs jets at nearly twice the resolution of HCAL and ECAL. This increase in efficiency comes from the PF integrating in track data with the calorimeter tower data. Fig.\ref{fig:pfPerf} compares the performance of the PF algorithm to the calorimter reconstruction.
+Raw data from the sub-detectors is combined, for data analysis, by the particle-flow (PF) algorithm. The PF takes the data about tracks in the tracker and energy deposits in the calorimeter, and uses them to reconstruct physics-related data objects, like jets, and to identify specific particles, such as photons and muons. The PF also identifies missing energy and momentum for use in neutrino studies. These data objects are stored in a format similar to that of conventional MC event generators. CMS gains significant jet reconstruction efficiency via the PF. At low transverse momentum, PF reconstructs jets at nearly twice the resolution of HCAL and ECAL. This increase in efficiency comes from the PF integrating in track data with the calorimeter tower data. Figure \ref{fig:pfPerf} compares the performance of the PF algorithm to the calorimter reconstruction \cite{Sirunyan:2017ulk}.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/CCrec2_05_16.jpg}
 \par\end{centering}
-\caption{Performance of particle flow alorgithm compared to calorimeter readout.\label{fig:pfPerf}}
+\caption{Performance of particle flow alorgithm compared to calorimeter readout \cite{Sirunyan:2017ulk} \label{fig:pfPerf}}
 \end{figure}
 
 

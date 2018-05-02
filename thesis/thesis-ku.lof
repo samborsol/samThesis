@@ -23,13 +23,13 @@
 \contentsline {figure}{\numberline {3.1}{\ignorespaces CMS Detector \cite {dEnterria:2007iyi} \relax }}{27}{figure.caption.22}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces CMS radial cross-section \cite {10.1088/978-1-6817-4078-2ch4} \relax }}{28}{figure.caption.23}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Pseudorapidity acceptance of tracker \cite {Chatrchyan:2009sr} \relax }}{29}{figure.caption.24}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces ECAL components \relax }}{31}{figure.caption.25}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Ecal energy resolution \relax }}{31}{figure.caption.26}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Ecal energy resolution \relax }}{32}{figure.caption.27}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces HCAL energy resolution \relax }}{33}{figure.caption.28}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces HCAL Components \cite {Bayatian:2006nff} \relax }}{34}{figure.caption.29}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces ECAL components \cite {Benaglia:2014aqa} \relax }}{31}{figure.caption.25}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Ecal energy resolution \cite {Bayatian:2006nff} \relax }}{31}{figure.caption.26}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Ecal energy resolution \cite {Bayatian:2006nff}\relax }}{32}{figure.caption.27}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces HCAL energy resolution \cite {Bayatian:2006nff}\relax }}{33}{figure.caption.28}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces HCAL Components \cite {Bayatian:2006nff} \relax }}{33}{figure.caption.29}
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Pseudorapidity acceptance of muon detector \cite {Bayatian:2006nff}\relax }}{35}{figure.caption.30}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Performance of particle flow alorgithm compared to calorimeter readout.\relax }}{36}{figure.caption.31}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Performance of particle flow alorgithm compared to calorimeter readout \cite {Sirunyan:2017ulk} \relax }}{36}{figure.caption.31}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces PCC VdM Scans. \relax }}{41}{figure.caption.32}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Systematic Uncertainty During 2015 pp Run. \relax }}{41}{figure.caption.33}
@@ -38,7 +38,7 @@
 \contentsline {figure}{\numberline {4.5}{\ignorespaces CMS lumi during HI-2015. \relax }}{44}{figure.caption.36}
 \contentsline {figure}{\numberline {4.6}{\ignorespaces CMS Lumi by Era. \relax }}{45}{figure.caption.37}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Rossi circuit with three Geiger-Muller coincidence circuits. \relax }}{46}{figure.caption.38}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Rossi circuit with three Geiger-Muller coincidence circuits \cite {Bonolis:2011ph} \relax }}{46}{figure.caption.38}
 \contentsline {figure}{\numberline {5.2}{\ignorespaces High multiplicity PbPb collision \relax }}{47}{figure.caption.39}
 \contentsline {figure}{\numberline {5.3}{\ignorespaces UPC Upsilon candidate \relax }}{48}{figure.caption.40}
 \contentsline {figure}{\numberline {5.4}{\ignorespaces Example of trigger rate. \relax }}{49}{figure.caption.41}

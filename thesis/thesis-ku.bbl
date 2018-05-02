@@ -109,6 +109,36 @@ L.~R.~F. Castillo, \href{http://dx.doi.org/10.1088/978-1-6817-4078-2ch4}{``The
   [physics.ins-det]}}.
 %%CITATION = ARXIV:0910.2505;%%.
 
+\bibitem{Benaglia:2014aqa}
+{\bfseries CMS} Collaboration, A.~Benaglia, ``{The CMS ECAL performance with
+  examples},''
+\href{http://dx.doi.org/10.1088/1748-0221/9/02/C02008}{{\em JINST} {\bfseries
+  9} (2014) C02008}.
+%%CITATION = JINST,9,C02008;%%.
+
+\bibitem{Bayatian:2006nff}
+{\bfseries CMS} Collaboration, G.~L. Bayatian {\em et~al.},
+``{CMS Physics},''.
+%%CITATION = CERN-LHCC-2006-001;%%.
+
+\bibitem{Sirunyan:2017ulk}
+{\bfseries CMS} Collaboration, A.~M. Sirunyan {\em et~al.}, ``{Particle-flow
+  reconstruction and global event description with the CMS detector},''
+  \href{http://dx.doi.org/10.1088/1748-0221/12/10/P10003}{{\em JINST}
+  {\bfseries 12} no.~10, (2017) P10003},
+\href{http://arxiv.org/abs/1706.04965}{{\ttfamily arXiv:1706.04965
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:1706.04965;%%.
+
+\bibitem{Bonolis:2011ph}
+L.~Bonolis, ``{Walther Bothe and Bruno Rossi: the birth and development of
+  coincidence methods in cosmic-ray physics},''
+  \href{http://dx.doi.org/10.1119/1.3619808}{{\em Am. J. Phys.} {\bfseries 79}
+  (2011) 1133},
+\href{http://arxiv.org/abs/1106.1365}{{\ttfamily arXiv:1106.1365
+  [physics.hist-ph]}}.
+%%CITATION = ARXIV:1106.1365;%%.
+
 \bibitem{Halzen:1984mc}
 F.~Halzen and A.~D. Martin, {\em {QUARKS AND LEPTONS: AN INTRODUCTORY COURSE IN
   MODERN PARTICLE PHYSICS}}.
@@ -254,13 +284,6 @@ V.~Guzey and M.~Klasen, ``{Diffractive dijet photoproduction in ultraperipheral
   (2016) 158},
 \href{http://arxiv.org/abs/1603.06055}{{\ttfamily arXiv:1603.06055 [hep-ph]}}.
 %%CITATION = ARXIV:1603.06055;%%.
-
-\bibitem{Benaglia:2014aqa}
-{\bfseries CMS} Collaboration, A.~Benaglia, ``{The CMS ECAL performance with
-  examples},''
-\href{http://dx.doi.org/10.1088/1748-0221/9/02/C02008}{{\em JINST} {\bfseries
-  9} (2014) C02008}.
-%%CITATION = JINST,9,C02008;%%.
 
 \bibitem{Gaiser:1982yw}
 J.~Gaiser,
