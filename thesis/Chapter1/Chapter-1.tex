@@ -18,6 +18,30 @@ The most accessible approach to quantum field theory is through the use of Feynm
 
 \section{Quantum electrodynamics}
 
+In classical electrodynamics, all of electrical and magnetic phenomena can be derived from four fundamental equations: Maxwell's laws. Below these equations are given in their differential form. 
+
+Gauss's law relates the divergence of a static electric field, $\vec{E}$, to it's source charge density, $\rho$,
+\begin{equation}
+\triangledown\cdot\vec{E}= \frac{\rho}{\epsilon_o},
+\end{equation}
+where $\epsilon_o$ is permittivity of free space. Gauss's law for a static magnetic field, $\vec{B}$, reveals the stark contrast between electricity and magnetism. The diverence of a static magnetic field is always a net 0. This reflects the seeming non-existence of magnetic monopoles.  
+\begin{equation}
+\triangledown\cdot\vec{B}=0
+\end{equation}
+Faraday's law describes the curl of an electric field in terms of the dynamics of a magnetic field. The electric field and the magnetic field are coupled, and a change in one will affect the properties of the other. For a given electric field, $\vec{E}$, the curl is equal to the partial derivative of a magnetic field, $\vec{B}$, with respect to time, $t$,
+\begin{equation}
+\triangledown\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}.
+\end{equation}
+Ampere's law addresses the curl of a magnetic field, $\vec{B}$, and once more the absence of magnetic monopoles gives rise to distinct properties. In addition to the partial derivative of $\vec{E}$ with respect to time $t$, there is a corrective term for the electric charge current density, $\vec{J}$, and the sum is multiplied by $\mu_o$, the permeability of free space,
+\begin{equation}
+\triangledown \times \vec{B} = \mu_o \left(  \vec{J} + \epsilon _{o} \frac{\partial \vec{E}}{\partial t} \right ).
+\end{equation}
+The complementarity of the classical electric and magnetic fields gives rise to the photon flux so important for ultra-peripheral collisions, and will be discussed in greater detail in the next chapter.
+
+\begin{equation}
+{\mathcal {L}}={\bar {\psi }}(i\gamma ^{\mu }D_{\mu }-m)\psi -{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu }
+\end{equation} 
+
 Quantum electrodynamics (QED) is a theory of electromagnetic interaction in terms of relativistic quantum field theory. QED addresses three specific processes: photon motion, electron motion, and the emission, or absorption, of a photon by an electron. To do this, first a Lagrangian is established based on Maxwell's laws and quantum mechanics. The photon constitutes a spin-1 solution to Maxwell's equations. Likewise, electrons are described, at non-relativistic scales, by the Schrodinger equation, at relativistic scales by the Dirac equation. Figure \ref{fig:qedFeynman} shows the resulting processes allowed by QED: the translation of an electron, the translation of a photon, and the scattering of a photon off an electron \cite{Griffiths:2008zz}.
 
 \begin{figure}[h!]
@@ -53,6 +77,10 @@ This has the practical consequence of the strong-interactions being stronger in 
 \end{figure}
 
 Within the nucleus, a proton can be thought of as a bubble in a vacuum. Debrye screening exerts a pressure on the proton. This pressure is responsible for the size of the proton. 
+
+\begin{equation}
+{\mathcal {L}}_{\mathrm {QCD} }={\bar {\psi }}_{i}\left(i(\gamma ^{\mu }D_{\mu })_{ij}-m\,\delta _{ij}\right)\psi _{j}-{\frac {1}{4}}G_{\mu \nu }^{a}G_{a}^{\mu \nu }
+\end{equation}
 
 \section{QCD experiments}
 
@@ -100,6 +128,16 @@ In electron-proton deep inelastic scattering, the electron interacts with the pr
 
 \subsection{Wigner distribution}
 
+The Wigner distribution was first developed as part of an attempt by Eugene Wigner to map solutions to Schrodinger equation into phase probability distributions, i.e. a statistical mechanics interpretation of quantum mechanics.
+\begin{equation}
+\displaystyle P(x,p)~{\stackrel {\mathrm {def} }{=}}~{\frac {1}{\pi \hbar }}\int _{-\infty }^{\infty }\psi ^{*}(x+y)\psi (x-y)e^{2ipy/\hbar }\,dy\
+\end{equation}
+The Wigner distribution $P(x,p)$ can be used to calculate the expectation value of any given variable by considering the Wigner tranformation $g(x,p)$ of that variable's operator, $\hat{G}$,
+\begin{equation}
+\displaystyle \langle {\hat {G}}\rangle =\int \!dx\,dp~P(x,p)~g(x,p)~.
+\end{equation}
+Notice that in order to derive expectation values, the probability distribution most be integrated with respect to a function of position or momentum, which are still non-commuting according to the uncertainty principle. 
+
 One can use the Wigner distribution to tomographically image the internal structure of the nucleus \cite{Hatta:2016dxp}. The nucleus manifests different structures at varying momentum fractions; specifically, small momentum fractions exhibit gluon saturation \cite{Boer:2011fh}; see figure \ref{fig:nuclImag} for an illustration of how the nucleus appears at varying momentum fractions.
 
 \begin{figure}[h!]
@@ -122,7 +160,7 @@ The Wigner distribution is a quantum phase space distribution that describes ell
 
 TMDs and GPDs manifest non-perturbative QCD effects. The Wigner distribution, at this scale, reflects the relationship between the position and momentum of partons. Integrating the Wigner function over the transverse distance yields the TMD, while integrating over transverse momentum yields a GPD with spatial information. 
 
-Yoshitaka Hatta uses the dipole framework to show that the azimuthal angular correlations of coherent dijets are generated by the underlying gluon Wigner distribution. Furthermore, these correlations are consistent with predictions based on standard collinear factorization. Relevant kinematic variables are mapped in the figure \ref{fig:yatta1}.
+Yoshitaka Hatta uses the dipole framework to show that the azimuthal angular correlations of coherent dijets are generated by the underlying Wigner distribution of the small-x gluons. Furthermore, these correlations are consistent with predictions based on standard collinear factorization. Relevant kinematic variables are mapped in the figure \ref{fig:yatta1}.
 
 \begin{figure}[h!]
 \begin{centering}
