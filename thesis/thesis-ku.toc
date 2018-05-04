@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {2.2}Vector meson photoproduction}{16}{section.2.2}
 \contentsline {section}{\numberline {2.3}Photon-photon interactions}{19}{section.2.3}
 \contentsline {section}{\numberline {2.4}Dijet photoproduction}{22}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Factorization}{23}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.1}Factorization}{24}{subsection.2.4.1}
 \contentsline {chapter}{\numberline {3}The experiment}{28}{chapter.3}
 \contentsline {section}{\numberline {3.1}Large Hadron Collider}{28}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}ATLAS}{28}{subsection.3.1.1}
