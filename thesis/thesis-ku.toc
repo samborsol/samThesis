@@ -43,9 +43,9 @@
 \contentsline {chapter}{\numberline {5}Trigger development and performance}{49}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introduction to triggering}{49}{section.5.1}
 \contentsline {section}{\numberline {5.2}Triggering at CMS}{49}{section.5.2}
-\contentsline {section}{\numberline {5.3}Author's contributions}{51}{section.5.3}
+\contentsline {section}{\numberline {5.3}Author's contributions}{52}{section.5.3}
 \contentsline {section}{\numberline {5.4}Studies from trigger menus}{53}{section.5.4}
-\contentsline {chapter}{\numberline {6}Data analysis}{54}{chapter.6}
-\contentsline {chapter}{\numberline {7}Systematic uncertainties}{59}{chapter.7}
-\contentsline {chapter}{\numberline {8}Results and conclusions}{60}{chapter.8}
-\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{78}{appendix.A}
+\contentsline {chapter}{\numberline {6}Data analysis}{55}{chapter.6}
+\contentsline {chapter}{\numberline {7}Systematic uncertainties}{60}{chapter.7}
+\contentsline {chapter}{\numberline {8}Results and conclusions}{61}{chapter.8}
+\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{79}{appendix.A}

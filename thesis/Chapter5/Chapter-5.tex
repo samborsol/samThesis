@@ -17,7 +17,21 @@ At stable beams, the LHC delivers bunch crossings every 25 nanoseconds. Each bun
 
 CMS uses a two-tiered triggering system. The first tier, the L1 trigger, is hardware based. The second tier, the high-level trigger (HLT), is software based. The L1 trigger recieves raw data from the calorimeters and the muon detectors; this determines when the tracker will readout data. The raw data from the tracker, calorimeters, and muon detectors is then passed on to a computer farm running the HLT menu. The HLT then performs a simplistic reconstruction of the raw data into physics objects useful for analysis: jets, tracks, and identifiable particles. If an event passes the HLT, the raw data is permanently stored in preparation for a more complex reconstruction. 
 
-The initial interaction rate is approximately $3.2$ $\mu s$. The L1 trigger can only pass some 1 in 1000 interactions to the HLT. The L1 trigger menu has an output rate of approximately 100 kHz. L1 achieves this rate by only considering data of reduced granularity and reduced resolution. A buffer is used to store the full event data while the L1 runs. The HLT menu reduces this to about 100 Hz as required by the limit on disk writing. 
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=4in]{Chapter5/importfigs/l1_trigger_flow.png}
+\par\end{centering}
+\caption{Flow of information in L1 trigger \label{fig:l1TriggerFlow}}
+\end{figure}
+
+The initial interaction rate is approximately $3.2$ $\mu s$. The L1 trigger can only pass some 1 in 1000 interactions to the HLT. The L1 trigger menu has an output rate of approximately 100 kHz. L1 achieves this rate by only considering data of reduced granularity and reduced resolution. A buffer is used to store the full event data while the L1 runs. The HLT menu reduces this to about 100 Hz as required by the limit on disk writing.
+
+\begin{figure}[h!]
+\begin{centering}
+\includegraphics[width=6in]{Chapter5/importfigs/hf_max_tower.png}
+\par\end{centering}
+\caption{Leading tower energy distribution in HF \label{fig:hfMaxTower}}
+\end{figure}
 
 The 2015 UPC triggers were for low multiplicity events and low transverse momentum events. Typical heavy-ion collisions are high multiplicity events. Hard scattering dominates. Fig.\ref{fig:eventdisplayHI} is an event display of one of the first heavy-ion collisions at CMS in 2010.
 
