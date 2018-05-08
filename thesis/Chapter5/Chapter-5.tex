@@ -72,6 +72,43 @@ I tested my HLT menu on both STARLIGHT MC and on data from the 2011 Pb+Pb run. S
 
 It was my duty to carefully observe the state of the UPC triggers during the heavy-ion run. If the total HLT rate ever drifted above 100 Hz, the HLT menu could crash and CMS lose considerable data. It was important for the trigger contacts to make sure that there HLT paths were behaving stablely. I also analyzed express physics data to test that the vector-meson triggers saw appropriate mass resonances.
 
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+\begin{table}[h!]
+\centering
+\caption{L1 Trigger Average Rates for Run 263757}
+\label{my-label}
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+L1 Type                           & Pre-DT Rate (Hz) & Pre-DT RMS Rate (Hz) & Post-DT Rate (Hz) & Post-DT RMS Rate (Hz) & Initial Prescale & Final Prescale \\ \midrule
+Double muon + HF veto (thresh. 1) & 7.78             & 8.39                 & 7.64              & 8.24                  & 0                & 0              \\
+Double muon + HF veto (thresh. 2) & 7.86             & 8.49                 & 7.71              & 8.33                  & 0                & 0              \\
+Single muon + HF veto (thresh. 2) & 85.58            & 89.76                & 84.31             & 88.53                 & 0                & 0              \\
+Double EG2 + HF veto (thresh. 2)  & 2.26             & 2.62                 & 2.19              & 2.54                  & 0                & 0              \\
+Single EG5 + HF veto (thresh. 2)  & 13.71            & 16.13                & 10.8              & 13.14                 & 0                & 0              \\ \bottomrule
+\end{tabular}
+\end{table}
+
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+\begin{table}[h!]
+\centering
+\caption{HLT Average Rates for Run 263757}
+\label{my-label}
+\begin{tabular}{@{}lll@{}}
+\toprule
+HLT Type             & L1 Seed                           & Average Rate of HLT (Hz) \\ \midrule
+L1 pass through      & Double muon + HF veto (thresh. 1) & 7.64                     \\
+Requires pixel track & Double muon + HF veto (thresh. 1) & 1.09                     \\
+L1 pass through      & Double muon + HF veto (thresh. 2) & 7.71                     \\
+Requires pixel track & Double muon + HF veto (thresh. 2) & 1.11                     \\
+L1 pass through      & Single muon + HF veto (thresh. 2) & 22.41                    \\
+Requires pixel track & Single muon + HF veto (thresh. 2) & 11.18                    \\
+L1 pass through      & Double EG2 + HF veto (thresh. 2)  & 2.19                     \\
+Requires pixel track & Single EG5 + HF veto (thresh. 2)  & 3.96                     \\ \bottomrule
+\end{tabular}
+\end{table}
+
 \section{Studies from trigger menus}
 
 The UPC HLTs I designed are useful for a variety of physics studies. In particular, vector meson photoproduction, light-by-light scattering, and UPC particle correlations. 
