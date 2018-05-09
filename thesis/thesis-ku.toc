@@ -30,22 +30,22 @@
 \contentsline {subsection}{\numberline {3.2.4}Muon detector}{37}{subsection.3.2.4}
 \contentsline {subsection}{\numberline {3.2.5}Zero degree calorimeter}{38}{subsection.3.2.5}
 \contentsline {subsection}{\numberline {3.2.6}Particle flow algorithm}{39}{subsection.3.2.6}
-\contentsline {chapter}{\numberline {4}Measuring luminosity}{40}{chapter.4}
-\contentsline {section}{\numberline {4.1}Instantaneous luminosity}{40}{section.4.1}
-\contentsline {section}{\numberline {4.2}Luminometers}{40}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Pixel cluster counting}{41}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Pixel luminosity telescope}{41}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Hadronic forward calorimeter}{42}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Fast Beam Conditions Monitor}{42}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Van de Meer scanning calibration}{43}{section.4.3}
-\contentsline {section}{\numberline {4.4}Corrections to VDM scans}{43}{section.4.4}
-\contentsline {section}{\numberline {4.5}Author's contributions}{45}{section.4.5}
-\contentsline {chapter}{\numberline {5}Trigger development and performance}{49}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction to triggering}{49}{section.5.1}
-\contentsline {section}{\numberline {5.2}Triggering at CMS}{49}{section.5.2}
-\contentsline {section}{\numberline {5.3}Author's contributions}{52}{section.5.3}
-\contentsline {section}{\numberline {5.4}Studies from trigger menus}{54}{section.5.4}
-\contentsline {chapter}{\numberline {6}Data analysis}{55}{chapter.6}
-\contentsline {chapter}{\numberline {7}Systematic uncertainties}{60}{chapter.7}
-\contentsline {chapter}{\numberline {8}Results and conclusions}{61}{chapter.8}
-\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{79}{appendix.A}
+\contentsline {chapter}{\numberline {4}Measuring luminosity}{42}{chapter.4}
+\contentsline {section}{\numberline {4.1}Instantaneous luminosity}{42}{section.4.1}
+\contentsline {section}{\numberline {4.2}Luminometers}{42}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Pixel cluster counting}{43}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Pixel luminosity telescope}{43}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Hadronic forward calorimeter}{44}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Fast Beam Conditions Monitor}{44}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Van de Meer scanning calibration}{45}{section.4.3}
+\contentsline {section}{\numberline {4.4}Corrections to VDM scans}{45}{section.4.4}
+\contentsline {section}{\numberline {4.5}Author's contributions}{47}{section.4.5}
+\contentsline {chapter}{\numberline {5}Trigger development and performance}{51}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction to triggering}{51}{section.5.1}
+\contentsline {section}{\numberline {5.2}Triggering at CMS}{51}{section.5.2}
+\contentsline {section}{\numberline {5.3}Author's contributions}{54}{section.5.3}
+\contentsline {section}{\numberline {5.4}Studies from trigger menus}{56}{section.5.4}
+\contentsline {chapter}{\numberline {6}Data analysis}{57}{chapter.6}
+\contentsline {chapter}{\numberline {7}Systematic uncertainties}{62}{chapter.7}
+\contentsline {chapter}{\numberline {8}Results and conclusions}{63}{chapter.8}
+\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{81}{appendix.A}
