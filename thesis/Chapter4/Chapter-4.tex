@@ -7,10 +7,15 @@ One of the most important quantities measured by CMS is luminosity. Luminosity i
 \begin{equation}
 \sigma  = \frac{R}{\mathit{L}} ,
 \end{equation}
-where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the luminosity.
+where $\sigma$ is the cross-section, $R$ is the rate at which the process occurs per collision, and $L$ is the instantaneous luminosity. $L$ is measured via the rate of a given luminometer and taking into account both the acceptance $A$,
 \begin{equation}
 L  = \frac{R}{ \sigma_{o}(E) A(t,\mu,n_b,...)} ,
 \end{equation}
+The denominator is typically measured as the visible cross section, $\sigma_{vis}$,
+\begin{equation}
+\sigma_{vis}  = \sigma_{o}(E) A(t,\mu,n_b,...),
+\end{equation}
+where $\sigma_{o}(E)$ is comes from the separating out the dependence of $\sigma_{vis}$ on collision energy E. $\sigma_{vis}$ ideally has no dependence on time or experiment conditions, i.e. constant with respect to pile-up and invariant to filling scheme. For example activity in the HF scales with the instantaneous luminosity. Therefore, the visible cross-section -- which has no time dependence -- can be used as calibration constant for converting the rate of HF activity into instantaneous luminosity. Every luminometer should have its own characteristic visible cross section. In this way, multiple independent luminometers can cross check each other \cite{CMS:2013gfa}.
 
 \section{Luminometers}
 
@@ -61,38 +66,42 @@ There are 24 single crystal diamond sensors in the BCM1f system. The BCM1f is lo
 
 \section{Van de Meer scanning calibration}
 
-The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. This calibration is accomplished via Van de Meer scanning. The opposing beams of LHC are moved back and forth in the transverse plane. During the scan, the detector response is measured as a function of beam displacement. The beam widths are calculated from Gaussian fits to the detector response. The visible cross-section of the luminometer in question is then derived from the width of the beams, and acts as the calibration of the detector response. Figure \ref{fig:pccVdMScans} presents the fitting of the VdM scan in the X and Y planes. 
+The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. This calibration is accomplished via Van de Meer scanning. The opposing beams of LHC are moved back and forth in the transverse plane. During the scan, the detector response is measured as a function of beam displacement. The beam widths are calculated from Gaussian fits to the detector response. The visible cross-section of the luminometer in question is then derived from the width of the beams, and acts as the calibration of the detector response. Figure \ref{fig:pccVdMScans} presents the fitting of the VdM scan in the X and Y planes \cite{CMS:2013gfa}. 
 \begin{equation}
 \sigma_{vis} = \frac{2 \pi \Sigma_x \Sigma_y v\left \langle n \right \rangle_{\Delta=0}}{N_1 N_2},
 \end{equation}
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=3in]{Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png}
 \includegraphics[width=3in]{Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-b.png}
 \par\end{centering}
-\caption{PCC VdM Scans. \label{fig:pccVdMScans}}
+\caption{PCC VdM Scans \cite{CMS:2013gfa} \label{fig:pccVdMScans}}
 \end{figure}
 
 \section{Corrections to VDM scans}
 
-Several corrections must be applied to VdM scan data before calculating the visible cross section. 
-
-The results of the VDM scan must be corrected for the following phenomena: the length scale, the ghosts and satellite background, the growth in beam emittance, orbit drift, and beam-beam electromagnetic effects. These affect the normalization of the VDM scans, and so the corrections take the form of calibration constants derived from additional scans and beam monitoring subdetectors. 
+Several corrections must be applied to VdM scan data before calculating the visible cross section. These corrections are considered uncorrelated, i.e. it does not matter in what order they are applied. The results of the VDM scan must be corrected for the following phenomena: the length scale, the ghosts and satellite background, the growth in beam emittance, orbit drift, and beam-beam electromagnetic effects. These affect the normalization of the VDM scans, and so the corrections take the form of calibration constants derived from additional scans and beam monitoring subdetectors \cite{CMS:2013gfa}. 
 
 The length scale correction is derived by comparing the effects of a length scan to the response of the tracker; checking the difference between the reported beam displacement and that seen in the tracker. 
 
 In addition to the circulating bunches, the LHC beams can be polluted by foreign particles that were not intended for injection by LHC commissioning. The presence of these foreign particles -- fleeting "ghosts" and persistent "satellites" -- can be detected by comparing the total beam current, measured by the DC beam current transformer, against the per bunch current measured by the FBCT. The FBCT, because it is timed for bunch crossings, is less likely to interact with ghosts and satellites. 
 
+[Something about beam emmitance]
+
+[Something about orbit drift]
+
+[Something about beam-beam em effects]
+
 \section{Systematic uncertainty}
 
 Figure \ref{fig:sysLumiError} displays the systematic uncertainties associated with the delivered luminosity. The "normalization" uncertainties are for the visible cross section, $\sigma_{vis}$. The "integration" uncertainties are for the integrated luminosity that is calculated using the $\sigma_{vis}$. The stability uncertainty is calculated from comparing the relative contributions of pixel tracker layers to total number of pixel clusters measured in a span of time. From run to run, each pixel layer contribution varies by no more than 1\%. It is possible for the rate of high track multiplicity events to exceed the temporary storage capacity of the tracker read-out buffer; the resulting inefficiencies are mainly found in the first barrel layer of the tracker. The "afterglow" refers to background noise associated with electrical excitations in the detector material, and warrants a correction factor to the integrated luminosity. 
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=4in]{Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png}
 \par\end{centering}
-\caption{Systematic Uncertainty During 2015 pp Run. \label{fig:sysLumiError}}
+\caption{Systematic Uncertainty During 2015 pp Run \cite{CMS:2013gfa} \label{fig:sysLumiError}}
 \end{figure}
 
 
@@ -102,7 +111,7 @@ LHC produces a staggering amount of data. The 2015 heavy-ion run itself recorded
 
 \begin{figure}[h!]
 \begin{centering}
-\includegraphics[width=6in]{Chapter4/importfigs/lumiFill.png}
+\includegraphics[width=5.5in]{Chapter4/importfigs/lumiFill.png}
 \par\end{centering}
 \caption{Luminosity by CMS fill. \label{fig:lumiFill}}
 \end{figure}
@@ -122,7 +131,7 @@ In additon to data certification, I reviewed the long-term stability of the BRIL
 
 \begin{figure}[h!]
 \begin{centering}
-\includegraphics[width=6in]{Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png}
+\includegraphics[width=5in]{Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png}
 \par\end{centering}
 \caption{CMS lumi during HI-2015. \label{fig:lumiHi2015}}
 \end{figure}
@@ -131,7 +140,7 @@ Figure \ref{fig:lumiCMSEra} is the CMS-recorded integrated luminosity for each p
 
 \begin{figure}[h!]
 \begin{centering}
-\includegraphics[width=6in]{Chapter4/importfigs/int_lumi_cumulative_pp_2.png}
+\includegraphics[width=5in]{Chapter4/importfigs/int_lumi_cumulative_pp_2.png}
 \par\end{centering}
 \caption{CMS Lumi by Era. \label{fig:lumiCMSEra}}
 \end{figure}

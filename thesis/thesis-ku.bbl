@@ -130,6 +130,11 @@ L.~R.~F. Castillo, \href{http://dx.doi.org/10.1088/978-1-6817-4078-2ch4}{``The
   [physics.ins-det]}}.
 %%CITATION = ARXIV:1706.04965;%%.
 
+\bibitem{CMS:2013gfa}
+{\bfseries CMS} Collaboration, C.~Collaboration,
+``{CMS Luminosity Based on Pixel Cluster Counting - Summer 2013 Update},''.
+%%CITATION = CMS-PAS-LUM-13-001;%%.
+
 \bibitem{Bonolis:2011ph}
 L.~Bonolis, ``{Walther Bothe and Bruno Rossi: the birth and development of
   coincidence methods in cosmic-ray physics},''
@@ -197,15 +202,23 @@ A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
   [hep-ph]}}.
 %%CITATION = HEP-PH/0307383;%%.
 
+\bibitem{Beaudette:2014cea}
+{\bfseries CMS} Collaboration, F.~Beaudette, ``{The CMS Particle Flow
+  Algorithm},'' in {\em {Proceedings, International Conference on Calorimetry
+  for the High Energy Frontier (CHEF 2013): Paris, France, April 22-25, 2013}},
+  pp.~295--304.
+\newblock 2013.
+\newblock \href{http://arxiv.org/abs/1401.8155}{{\ttfamily arXiv:1401.8155
+  [hep-ex]}}.
+\newblock
+\url{https://inspirehep.net/record/1279774/files/arXiv:1401.8155.pdf}.
+\newblock
+%%CITATION = ARXIV:1401.8155;%%.
+
 \bibitem{CMS:2010gua}
 {\bfseries CMS} Collaboration, CMS,
 ``{Measurement of CMS Luminosity},''.
 %%CITATION = CMS-PAS-EWK-10-004;%%.
-
-\bibitem{CMS:2013gfa}
-{\bfseries CMS} Collaboration, C.~Collaboration,
-``{CMS Luminosity Based on Pixel Cluster Counting - Summer 2013 Update},''.
-%%CITATION = CMS-PAS-LUM-13-001;%%.
 
 \bibitem{Kornmayer:2016wkz}
 {\bfseries CMS} Collaboration, A.~Kornmayer, ``{The CMS pixel luminosity

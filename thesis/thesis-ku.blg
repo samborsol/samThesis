@@ -25,45 +25,45 @@ Warning--empty institution in cgc2013.05
 Warning--empty author and editor in cmsTdrTrk
 Warning--all relevant fields are empty in starlight
 Warning--empty pages in cmsJpPP
-You've used 160 entries,
+You've used 161 entries,
             2328 wiz_defined-function locations,
-            1879 strings with 36872 characters,
-and the built_in function-call counts, 50390 in all, are:
-= -- 5451
-> -- 1334
+            1888 strings with 37196 characters,
+and the built_in function-call counts, 50824 in all, are:
+= -- 5502
+> -- 1338
 < -- 1
-+ -- 515
-- -- 355
-* -- 4540
-:= -- 5863
-add.period$ -- 333
-call.type$ -- 160
-change.case$ -- 181
++ -- 517
+- -- 356
+* -- 4572
+:= -- 5911
+add.period$ -- 338
+call.type$ -- 161
+change.case$ -- 182
 chr.to.int$ -- 0
-cite$ -- 170
-duplicate$ -- 2763
-empty$ -- 4978
-format.name$ -- 355
-if$ -- 13313
+cite$ -- 171
+duplicate$ -- 2790
+empty$ -- 5028
+format.name$ -- 356
+if$ -- 13429
 int.to.chr$ -- 0
-int.to.str$ -- 160
-missing$ -- 573
-newline$ -- 761
-num.names$ -- 160
-pop$ -- 753
+int.to.str$ -- 161
+missing$ -- 574
+newline$ -- 770
+num.names$ -- 161
+pop$ -- 761
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1914
+skip$ -- 1930
 stack$ -- 0
-substring$ -- 2517
-swap$ -- 1292
+substring$ -- 2545
+swap$ -- 1301
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 10
-while$ -- 354
-width$ -- 163
-write$ -- 1419
+while$ -- 357
+width$ -- 164
+write$ -- 1436
 (There were 11 warnings)
