@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.25)  9 MAY 2018 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.25)  9 MAY 2018 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1306,7 +1306,7 @@ g used on input line 77.
 ortfigs/CMS-PAS-LUM-15-001_Figure_005-b.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 100.
+               Default added (so using `tbp') on input line 92.
 
 
 <Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png, id=932, 871.255pt x 458.
@@ -1315,15 +1315,15 @@ File: Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png Graphic file (type p
 ng)
  <use Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png>
 Package pdftex.def Info: Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png u
-sed on input line 102.
+sed on input line 94.
 (pdftex.def)             Requested size: 289.07999pt x 152.19493pt.
  [47]
 <Chapter4/importfigs/lumiFill.png, id=940, 485.815pt x 487.8225pt>
 File: Chapter4/importfigs/lumiFill.png Graphic file (type png)
 
 <use Chapter4/importfigs/lumiFill.png>
-Package pdftex.def Info: Chapter4/importfigs/lumiFill.png used on input line 11
-4.
+Package pdftex.def Info: Chapter4/importfigs/lumiFill.png used on input line 10
+6.
 (pdftex.def)             Requested size: 397.48499pt x 399.12381pt.
 
 
@@ -1336,7 +1336,7 @@ File: Chapter4/importfigs/chris_palmer_run_registry.png Graphic file (type png)
 
  <use Chapter4/importfigs/chris_palmer_run_registry.png>
 Package pdftex.def Info: Chapter4/importfigs/chris_palmer_run_registry.png used
- on input line 125.
+ on input line 117.
 (pdftex.def)             Requested size: 433.62pt x 177.156pt.
 
 
@@ -1350,7 +1350,7 @@ c file (type png)
 
 <use Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png>
 Package pdftex.def Info: Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2
-015_pbpb.png used on input line 134.
+015_pbpb.png used on input line 126.
 (pdftex.def)             Requested size: 361.34999pt x 271.01183pt.
 
 [50 <./Chapter4/importfigs/chris_palmer_run_registry.png> <./Chapter4/importfig
@@ -1359,7 +1359,7 @@ s/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png>]
 File: Chapter4/importfigs/int_lumi_cumulative_pp_2.png Graphic file (type png)
 <use Chapter4/importfigs/int_lumi_cumulative_pp_2.png>
 Package pdftex.def Info: Chapter4/importfigs/int_lumi_cumulative_pp_2.png used 
-on input line 143.
+on input line 135.
 (pdftex.def)             Requested size: 361.34999pt x 271.01183pt.
 ) [51 <./Chapter4/importfigs/int_lumi_cumulative_pp_2.png>]
 \openout2 = `Chapter5/Chapter-5.aux'.
@@ -1643,7 +1643,7 @@ rw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis-ku.pdf (94 pages, 5034768 bytes).
+Output written on thesis-ku.pdf (94 pages, 5035060 bytes).
 PDF statistics:
  1809 PDF objects out of 2073 (max. 8388607)
  1478 compressed objects within 15 object streams
