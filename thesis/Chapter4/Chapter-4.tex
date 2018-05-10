@@ -61,10 +61,11 @@ There are 24 single crystal diamond sensors in the BCM1f system. The BCM1f is lo
 
 \section{Van de Meer scanning calibration}
 
-The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. This calibration is accomplished via Van de Meer scanning. The opposing beams of LHC are moved back and forth in the transverse plane. During the scan, the detector response is measured as a function of beam displacement. The beam widths are calculated from Gaussian fits to the detector response. The visible cross-section of the luminometer in question is then derived from the width of the beams, and acts as the calibration of the detector response. 
+The luminometers of CMS produce signals proportional to the instantanteous luminosity of the LHC beam. However, these signals need to be properly calibrated with respect to a known visible cross-section for each luminometer. This calibration is accomplished via Van de Meer scanning. The opposing beams of LHC are moved back and forth in the transverse plane. During the scan, the detector response is measured as a function of beam displacement. The beam widths are calculated from Gaussian fits to the detector response. The visible cross-section of the luminometer in question is then derived from the width of the beams, and acts as the calibration of the detector response. Figure \ref{fig:pccVdMScans} presents the fitting of the VdM scan in the X and Y planes. 
 \begin{equation}
 \sigma_{vis} = \frac{2 \pi \Sigma_x \Sigma_y v\left \langle n \right \rangle_{\Delta=0}}{N_1 N_2},
 \end{equation}
+
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=3in]{Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png}
@@ -75,11 +76,17 @@ The luminometers of CMS produce signals proportional to the instantanteous lumin
 
 \section{Corrections to VDM scans}
 
+Several corrections must be applied to VdM scan data before calculating the visible cross section. 
+
 The results of the VDM scan must be corrected for the following phenomena: the length scale, the ghosts and satellite background, the growth in beam emittance, orbit drift, and beam-beam electromagnetic effects. These affect the normalization of the VDM scans, and so the corrections take the form of calibration constants derived from additional scans and beam monitoring subdetectors. 
 
 The length scale correction is derived by comparing the effects of a length scan to the response of the tracker; checking the difference between the reported beam displacement and that seen in the tracker. 
 
 In addition to the circulating bunches, the LHC beams can be polluted by foreign particles that were not intended for injection by LHC commissioning. The presence of these foreign particles -- fleeting "ghosts" and persistent "satellites" -- can be detected by comparing the total beam current, measured by the DC beam current transformer, against the per bunch current measured by the FBCT. The FBCT, because it is timed for bunch crossings, is less likely to interact with ghosts and satellites. 
+
+\section{Systematic uncertainty}
+
+Figure \ref{fig:sysLumiError} displays the systematic uncertainties associated with the delivered luminosity. The "normalization" uncertainties are for the visible cross section, $\sigma_{vis}$. The "integration" uncertainties are for the integrated luminosity that is calculated using the $\sigma_{vis}$. The stability uncertainty is calculated from comparing the relative contributions of pixel tracker layers to total number of pixel clusters measured in a span of time. From run to run, each pixel layer contribution varies by no more than 1\%. It is possible for the rate of high track multiplicity events to exceed the temporary storage capacity of the tracker read-out buffer; the resulting inefficiencies are mainly found in the first barrel layer of the tracker. The "afterglow" refers to background noise associated with electrical excitations in the detector material, and warrants a correction factor to the integrated luminosity. 
 
 \begin{figure}[h!]
 \begin{centering}
@@ -91,7 +98,8 @@ In addition to the circulating bunches, the LHC beams can be polluted by foreign
 
 \section{Author's contributions}
 
-LHC produces a staggering amount of data. The 2015 heavy-ion run itself recorded some $1.4 pb^-1$ in integrated luminosity. This integrated luminosity is reconstructed into data on the order of pentabytes. 
+LHC produces a staggering amount of data. The 2015 heavy-ion run itself recorded some $1.4 pb^-1$ in integrated luminosity. This integrated luminosity is reconstructed into data on the order of pentabytes. Figure \ref{fig:lumiFill} is a table of the LHC comprising the 2015 Pb-Pb run, and presents for each fill the peak instantaneous luminosity, delivered integrated luminosity, and recorded integrated luminosity. The last column, EffbyLumi, is the ratio of the delivered to recorded integrated luminosities.  
+
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=6in]{Chapter4/importfigs/lumiFill.png}
@@ -101,7 +109,8 @@ LHC produces a staggering amount of data. The 2015 heavy-ion run itself recorded
 
 I contributed to CMS luminosity validation, and performed studies on the long-term stability of the BRIL luminometers. On a week by week basis, I would examine the data from online and offline luminometers and certify that it met the quality standards of CMS. If the data exhitibed non-linear behavior, I would de-certify the corresponding lumi-sections in the BRIL json files.
 
-All CMS data has to go through a data certification workflow. Data certification insures that only valid data is used in CMS analyses. Decisions on data certification are recorded in two systems: the DQM Run Registry, shown here in figure \ref{fig:runRegistry}, and the normtag JSON files of the BRIL-DPG. There are occasions when the sub-detectors of CMS might record poor quality data. For example, the software reading out data from the PLT could crash and thus compromise the output. In this case the certification workers would record the lumi sections during which the PLT software crashed. These lumi sections would be removed from the normtag JSON file passed on to the BRIL group. If all te luminometers are malfunctioning, a whole run could be invalidated in the run registry. 
+All CMS data has to go through a data certification workflow. Data certification insures that only valid data is used in CMS analyses. Decisions on data certification are recorded in two systems: the DQM Run Registry, shown here in figure \ref{fig:runRegistry}, and the normtag JSON files of the BRIL-DPG. There are occasions when the sub-detectors of CMS might record poor quality data. For example, the software reading out data from the PLT could crash and thus compromise the output. In this case the certification workers would record the lumi sections during which the PLT software crashed. These lumi sections would be removed from the normtag JSON file passed on to the BRIL group. If all te luminometers are malfunctioning, a whole run could be invalidated in the run registry.
+
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=6in]{Chapter4/importfigs/chris_palmer_run_registry.png}
@@ -109,7 +118,7 @@ All CMS data has to go through a data certification workflow. Data certification
 \caption{CMS Run Registry. \label{fig:runRegistry}}
 \end{figure}
 
-In additon to data certification, I reviewed the long-term stability of the BRIL luminometers during the 2015 and 2016 proton-proton runs. Stability refers to the comparative performance of the different luminometers. Ideally, the ratio of the instantaneous luminosity reported by separate luminometers should be a constant ratio, but in fact there is a tendency for this ratio to drift as a result of radiation damage to the luminometers. This drift can be seen in plotting the average ratio as a function of interaction rate and of the different measures of LHC time: runs, lumi-sections, and bunch-crossings.  Instantaneous luminosity, in theory, should be independent of machine conditions like acceptance and efficiency. 
+In additon to data certification, I reviewed the long-term stability of the BRIL luminometers during the 2015 and 2016 proton-proton runs. Stability refers to the comparative performance of the different luminometers. Ideally, the ratio of the instantaneous luminosity reported by separate luminometers should be a constant ratio, but in fact there is a tendency for this ratio to drift as a result of radiation damage to the luminometers. This drift can be seen in plotting the average ratio as a function of interaction rate and of the different measures of LHC time: runs, lumi-sections, and bunch-crossings.  Instantaneous luminosity, in theory, should be independent of machine conditions like acceptance and efficiency. Figure \ref{fig:lumiHi2015} is records the sum of the delivered and recorded integrated luminosity for each day of the 2015 Pb-Pb run. 
 
 \begin{figure}[h!]
 \begin{centering}
@@ -117,6 +126,9 @@ In additon to data certification, I reviewed the long-term stability of the BRIL
 \par\end{centering}
 \caption{CMS lumi during HI-2015. \label{fig:lumiHi2015}}
 \end{figure}
+
+Figure \ref{fig:lumiCMSEra} is the CMS-recorded integrated luminosity for each proton-proton era of LHC. Notice that as the collision energy increases, the recorded luminosity grows at steeper and steeper rate. This acceleration in the recorded luminosity is consistent with the higher multiplicity of high energy collisions. As LHC pushes the energy frontier, high quality luminosity analysis will become even more fundamental for the continued performance of CMS. The "High Luminosity Large Hadron Collider" (HL-LHC) is a project to increase the design luminosity of LHC by an order of magnitude by 2025. To fully leverage the power of this increased luminosity, particularly for studying possible anomalous couplings, CMS must continue providing measures of luminosity with tightly controlled systematic uncertainty. 
+
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=6in]{Chapter4/importfigs/int_lumi_cumulative_pp_2.png}

@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.29)  8 MAY 2018 21:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.25)  9 MAY 2018 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **thesis-ku.tex
 (./thesis-ku.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (./kuthesis.cls
 Document Class: kuthesis 2016/03/27 v2 KU thesis class
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
@@ -915,7 +915,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 
 
 ] [2]
-<Chapter1/importfigs/Feynman_Diagram_Components.png, id=477, 762.85pt x 720.692
+<Chapter1/importfigs/Feynman_Diagram_Components.png, id=482, 762.85pt x 720.692
 5pt>
 File: Chapter1/importfigs/Feynman_Diagram_Components.png Graphic file (type png
 )
@@ -928,7 +928,7 @@ d on input line 49.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [3] [4 <./Chapter1/importfigs/Feynman_Diagram_Components.png>]
-<Chapter1/importfigs/qcd_coupling_bethke.png, id=499, 548.0475pt x 554.07pt>
+<Chapter1/importfigs/qcd_coupling_bethke.png, id=504, 548.0475pt x 554.07pt>
 File: Chapter1/importfigs/qcd_coupling_bethke.png Graphic file (type png)
 
 <use Chapter1/importfigs/qcd_coupling_bethke.png>
@@ -940,7 +940,7 @@ put line 74.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5] [6 <./Chapter1/importfigs/qcd_coupling_bethke.png>]
-<Chapter1/importfigs/scholarpedia_bjorken_x_qcdExp.png, id=518, 532.99126pt x 5
+<Chapter1/importfigs/scholarpedia_bjorken_x_qcdExp.png, id=523, 532.99126pt x 5
 15.9275pt>
 File: Chapter1/importfigs/scholarpedia_bjorken_x_qcdExp.png Graphic file (type 
 png)
@@ -949,7 +949,7 @@ Package pdftex.def Info: Chapter1/importfigs/scholarpedia_bjorken_x_qcdExp.png
 used on input line 101.
 (pdftex.def)             Requested size: 289.07999pt x 279.83267pt.
  [7 <./Chapter1/importfigs/scholarpedia_bjorken_x_qcdExp.png (PNG copy)>]
-<Chapter1/importfigs/byr13.png, id=527, 563.10374pt x 364.36125pt>
+<Chapter1/importfigs/byr13.png, id=532, 563.10374pt x 364.36125pt>
 File: Chapter1/importfigs/byr13.png Graphic file (type png)
 
 <use Chapter1/importfigs/byr13.png>
@@ -960,7 +960,7 @@ Package pdftex.def Info: Chapter1/importfigs/byr13.png used on input line 114.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8] [9 <./Chapter1/importfigs/byr13.png>]
-<Chapter1/importfigs/imaging_the_nucleon_upc_dijets_pres.png, id=543, 932.48375
+<Chapter1/importfigs/imaging_the_nucleon_upc_dijets_pres.png, id=548, 932.48375
 pt x 517.935pt>
 File: Chapter1/importfigs/imaging_the_nucleon_upc_dijets_pres.png Graphic file 
 (type png)
@@ -978,7 +978,7 @@ Overfull \hbox (36.13498pt too wide) in paragraph at lines 145--146
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [10]
-<Chapter1/importfigs/fig6_introGPD_TMD.png, id=555, 615.29875pt x 359.3425pt>
+<Chapter1/importfigs/fig6_introGPD_TMD.png, id=560, 615.29875pt x 359.3425pt>
 File: Chapter1/importfigs/fig6_introGPD_TMD.png Graphic file (type png)
 
 <use Chapter1/importfigs/fig6_introGPD_TMD.png>
@@ -994,7 +994,7 @@ Overfull \hbox (36.13498pt too wide) in paragraph at lines 156--157
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [11 <./Chapter1/importfigs/imaging_the_nucleon_upc_dijets_pres.png>]
-<Chapter1/importfigs/fig4_yatta.png, id=564, 501.875pt x 308.15125pt>
+<Chapter1/importfigs/fig4_yatta.png, id=569, 501.875pt x 308.15125pt>
 File: Chapter1/importfigs/fig4_yatta.png Graphic file (type png)
 
 <use Chapter1/importfigs/fig4_yatta.png>
@@ -1008,7 +1008,7 @@ _yatta.png (PNG copy)>] [13]
 
 (./Chapter2/Chapter-2.tex
 Chapter 2.
-<Chapter1/importfigs/jackson_em_wwa.png, id=577, 892.33376pt x 477.785pt>
+<Chapter1/importfigs/jackson_em_wwa.png, id=582, 892.33376pt x 477.785pt>
 File: Chapter1/importfigs/jackson_em_wwa.png Graphic file (type png)
 
 <use Chapter1/importfigs/jackson_em_wwa.png>
@@ -1024,7 +1024,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 ] [15 <./Chapter1/importfigs/jackson_em_wwa.png>] [16]
-<Chapter2/importfigs/aliceData1.jpeg, id=600, 664.4825pt x 431.6125pt>
+<Chapter2/importfigs/aliceData1.jpeg, id=605, 664.4825pt x 431.6125pt>
 File: Chapter2/importfigs/aliceData1.jpeg Graphic file (type jpg)
 
 <use Chapter2/importfigs/aliceData1.jpeg>
@@ -1032,7 +1032,7 @@ Package pdftex.def Info: Chapter2/importfigs/aliceData1.jpeg used on input line
  56.
 (pdftex.def)             Requested size: 289.07999pt x 187.76967pt.
 
-<Chapter2/importfigs/patkenny_Figure_001-a.png, id=603, 569.12625pt x 542.025pt
+<Chapter2/importfigs/patkenny_Figure_001-a.png, id=608, 569.12625pt x 542.025pt
 >
 File: Chapter2/importfigs/patkenny_Figure_001-a.png Graphic file (type png)
  <use Chapter2/importfigs/patkenny_Figure_001-a.png>
@@ -1044,7 +1044,7 @@ input line 64.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<Chapter2/importfigs/patkenny_Figure_001-b.png, id=606, 574.145pt x 549.05125pt
+<Chapter2/importfigs/patkenny_Figure_001-b.png, id=611, 574.145pt x 549.05125pt
 >
 File: Chapter2/importfigs/patkenny_Figure_001-b.png Graphic file (type png)
  <use Chapter2/importfigs/patkenny_Figure_001-b.png>
@@ -1056,7 +1056,7 @@ input line 72.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<Chapter2/importfigs/patkenny_Figure_002.png, id=613, 597.23125pt x 845.1575pt>
+<Chapter2/importfigs/patkenny_Figure_002.png, id=618, 597.23125pt x 845.1575pt>
 File: Chapter2/importfigs/patkenny_Figure_002.png Graphic file (type png)
 <use Chapter2/importfigs/patkenny_Figure_002.png>
 Package pdftex.def Info: Chapter2/importfigs/patkenny_Figure_002.png used on in
@@ -1068,7 +1068,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [18 <./Chapter2/importfigs/patkenny_Figure_001-a.png>] [19 <./Chapter2/importfi
 gs/patkenny_Figure_001-b.png>]
-<Chapter2/importfigs/nphys4208-f1.jpg, id=628, 949.5475pt x 272.01625pt>
+<Chapter2/importfigs/nphys4208-f1.jpg, id=634, 949.5475pt x 272.01625pt>
 File: Chapter2/importfigs/nphys4208-f1.jpg Graphic file (type jpg)
 
 <use Chapter2/importfigs/nphys4208-f1.jpg>
@@ -1081,7 +1081,7 @@ Overfull \hbox (36.13498pt too wide) in paragraph at lines 101--102
  []
 
 [20 <./Chapter2/importfigs/patkenny_Figure_002.png>]
-<Chapter2/importfigs/nphys4208-f3.jpg, id=642, 949.5475pt x 417.56pt>
+<Chapter2/importfigs/nphys4208-f3.jpg, id=647, 949.5475pt x 417.56pt>
 File: Chapter2/importfigs/nphys4208-f3.jpg Graphic file (type jpg)
 
 <use Chapter2/importfigs/nphys4208-f3.jpg>
@@ -1095,7 +1095,7 @@ Overfull \hbox (36.13498pt too wide) in paragraph at lines 109--110
 
 [21 <./Chapter2/importfigs/nphys4208-f1.jpg> <./Chapter2/importfigs/nphys4208-f
 3.jpg>]
-<Chapter2/importfigs/light-by-light-figure_2.png, id=650, 1084.05pt x 715.92468
+<Chapter2/importfigs/light-by-light-figure_2.png, id=655, 1084.05pt x 715.92468
 pt>
 File: Chapter2/importfigs/light-by-light-figure_2.png Graphic file (type png)
  <use Chapter2/importfigs/light-by-light-figure_2.png>
@@ -1103,7 +1103,7 @@ Package pdftex.def Info: Chapter2/importfigs/light-by-light-figure_2.png used o
 n input line 118.
 (pdftex.def)             Requested size: 361.34999pt x 238.63733pt.
  [22 <./Chapter2/importfigs/light-by-light-figure_2.png>]
-<Chapter2/importfigs/fig_01a.png, id=660, 2214.2725pt x 1784.6675pt>
+<Chapter2/importfigs/fig_01a.png, id=665, 2214.2725pt x 1784.6675pt>
 File: Chapter2/importfigs/fig_01a.png Graphic file (type png)
 
 <use Chapter2/importfigs/fig_01a.png>
@@ -1111,7 +1111,7 @@ Package pdftex.def Info: Chapter2/importfigs/fig_01a.png used on input line 138
 .
 (pdftex.def)             Requested size: 170.71652pt x 137.57504pt.
 
-<Chapter2/importfigs/fig_01b.png, id=661, 2214.2725pt x 1784.6675pt>
+<Chapter2/importfigs/fig_01b.png, id=666, 2214.2725pt x 1784.6675pt>
 File: Chapter2/importfigs/fig_01b.png Graphic file (type png)
 
 <use Chapter2/importfigs/fig_01b.png>
@@ -1120,7 +1120,7 @@ Package pdftex.def Info: Chapter2/importfigs/fig_01b.png used on input line 140
 (pdftex.def)             Requested size: 170.71652pt x 137.57504pt.
  [23] [24 <./Chapter2/importfigs/fig_01a.png> <./Chapter2/importfigs/fig_01b.pn
 g>]
-<Chapter1/importfigs/h1_2015_feyn.png, id=675, 573.14125pt x 354.32375pt>
+<Chapter1/importfigs/h1_2015_feyn.png, id=680, 573.14125pt x 354.32375pt>
 File: Chapter1/importfigs/h1_2015_feyn.png Graphic file (type png)
 
 <use Chapter1/importfigs/h1_2015_feyn.png>
@@ -1128,7 +1128,7 @@ Package pdftex.def Info: Chapter1/importfigs/h1_2015_feyn.png used on input lin
 e 153.
 (pdftex.def)             Requested size: 433.62pt x 268.07237pt.
  [25 <./Chapter1/importfigs/h1_2015_feyn.png>]
-<Chapter1/importfigs/fig8_h1_2015.png, id=689, 569.12625pt x 571.13374pt>
+<Chapter1/importfigs/fig8_h1_2015.png, id=694, 569.12625pt x 571.13374pt>
 File: Chapter1/importfigs/fig8_h1_2015.png Graphic file (type png)
 
 <use Chapter1/importfigs/fig8_h1_2015.png>
@@ -1136,7 +1136,7 @@ Package pdftex.def Info: Chapter1/importfigs/fig8_h1_2015.png used on input lin
 e 175.
 (pdftex.def)             Requested size: 216.81pt x 217.5734pt.
  [26 <./Chapter1/importfigs/fig8_h1_2015.png>]
-<Chapter1/importfigs/fig7_h1_2015.png, id=701, 244.915pt x 250.9375pt>
+<Chapter1/importfigs/fig7_h1_2015.png, id=706, 244.915pt x 250.9375pt>
 File: Chapter1/importfigs/fig7_h1_2015.png Graphic file (type png)
 
 <use Chapter1/importfigs/fig7_h1_2015.png>
@@ -1153,7 +1153,7 @@ Chapter 3.
 
 
 ] [29]
-<Chapter3/importfigs/fromCMS_DesignPaper_perspective.png, id=719, 706.64pt x 51
+<Chapter3/importfigs/fromCMS_DesignPaper_perspective.png, id=724, 706.64pt x 51
 0.90875pt>
 File: Chapter3/importfigs/fromCMS_DesignPaper_perspective.png Graphic file (typ
 e png)
@@ -1162,7 +1162,7 @@ Package pdftex.def Info: Chapter3/importfigs/fromCMS_DesignPaper_perspective.pn
 g used on input line 34.
 (pdftex.def)             Requested size: 289.07999pt x 209.0062pt.
 
-<Chapter3/importfigs/Figure_001.png, id=724, 843.15pt x 596.2275pt>
+<Chapter3/importfigs/Figure_001.png, id=729, 843.15pt x 596.2275pt>
 File: Chapter3/importfigs/Figure_001.png Graphic file (type png)
 
 <use Chapter3/importfigs/Figure_001.png>
@@ -1175,7 +1175,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [30 <./Chapter3/importfigs/fromCMS_DesignPaper_perspective.png>] [31 <./Chapter
 3/importfigs/Figure_001.png>]
-<Chapter3/importfigs/cms_cft_09_003_fig1.png, id=738, 718.685pt x 338.26375pt>
+<Chapter3/importfigs/cms_cft_09_003_fig1.png, id=743, 718.685pt x 338.26375pt>
 File: Chapter3/importfigs/cms_cft_09_003_fig1.png Graphic file (type png)
 
 <use Chapter3/importfigs/cms_cft_09_003_fig1.png>
@@ -1183,7 +1183,7 @@ Package pdftex.def Info: Chapter3/importfigs/cms_cft_09_003_fig1.png used on in
 put line 62.
 (pdftex.def)             Requested size: 289.07999pt x 136.06183pt.
  [32 <./Chapter3/importfigs/cms_cft_09_003_fig1.png (PNG copy)>]
-<Chapter3/importfigs/ecal_performance_with_examples.png, id=748, 1110.1475pt x 
+<Chapter3/importfigs/ecal_performance_with_examples.png, id=753, 1110.1475pt x 
 346.29375pt>
 File: Chapter3/importfigs/ecal_performance_with_examples.png Graphic file (type
  png)
@@ -1203,7 +1203,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 pdfTeX warning: pdflatex (file ./Chapter3/importfigs/Figure_001-007.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Chapter3/importfigs/Figure_001-007.pdf, id=758, 569.12625pt x 532.99126pt>
+<Chapter3/importfigs/Figure_001-007.pdf, id=763, 569.12625pt x 532.99126pt>
 File: Chapter3/importfigs/Figure_001-007.pdf Graphic file (type pdf)
 
 <use Chapter3/importfigs/Figure_001-007.pdf>
@@ -1212,7 +1212,7 @@ ine 94.
 (pdftex.def)             Requested size: 289.07999pt x 270.74028pt.
  [34 <./Chapter3/importfigs/ecal_performance_with_examples.png> <./Chapter3/imp
 ortfigs/Figure_001-007.pdf>]
-<Chapter3/importfigs/Figure_013-a.png, id=779, 569.12625pt x 546.04pt>
+<Chapter3/importfigs/Figure_013-a.png, id=784, 569.12625pt x 546.04pt>
 File: Chapter3/importfigs/Figure_013-a.png Graphic file (type png)
 
 <use Chapter3/importfigs/Figure_013-a.png>
@@ -1220,7 +1220,7 @@ Package pdftex.def Info: Chapter3/importfigs/Figure_013-a.png used on input lin
 e 103.
 (pdftex.def)             Requested size: 289.07999pt x 277.36858pt.
 
-<Chapter3/importfigs/Figure_001-008.pdf, id=784, 569.12625pt x 408.52625pt>
+<Chapter3/importfigs/Figure_001-008.pdf, id=789, 569.12625pt x 408.52625pt>
 File: Chapter3/importfigs/Figure_001-008.pdf Graphic file (type pdf)
 
 <use Chapter3/importfigs/Figure_001-008.pdf>
@@ -1232,7 +1232,7 @@ ine 115.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [35 <./Chapter3/importfigs/Figure_013-a.png>]
-<Chapter3/importfigs/filtering_noise_in_CMS_hadron_calorimeter.png, id=794, 785
+<Chapter3/importfigs/filtering_noise_in_CMS_hadron_calorimeter.png, id=799, 785
 .93625pt x 440.64626pt>
 File: Chapter3/importfigs/filtering_noise_in_CMS_hadron_calorimeter.png Graphic
  file (type png)
@@ -1244,7 +1244,7 @@ rimeter.png used on input line 124.
 
 [36 <./Chapter3/importfigs/Figure_001-008.pdf> <./Chapter3/importfigs/filtering
 _noise_in_CMS_hadron_calorimeter.png (PNG copy)>]
-<Chapter3/importfigs/Figure_001-006.pdf, id=817, 323.97855pt x 234.58199pt>
+<Chapter3/importfigs/Figure_001-006.pdf, id=822, 323.97855pt x 234.58199pt>
 File: Chapter3/importfigs/Figure_001-006.pdf Graphic file (type pdf)
 
 <use Chapter3/importfigs/Figure_001-006.pdf>
@@ -1256,7 +1256,7 @@ ine 144.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [37] [38 <./Chapter3/importfigs/Figure_001-006.pdf>] [39]
-<Chapter3/importfigs/CCrec2_05_16.jpg, id=861, 702.625pt x 676.5275pt>
+<Chapter3/importfigs/CCrec2_05_16.jpg, id=866, 702.625pt x 676.5275pt>
 File: Chapter3/importfigs/CCrec2_05_16.jpg Graphic file (type jpg)
 
 <use Chapter3/importfigs/CCrec2_05_16.jpg>
@@ -1279,93 +1279,86 @@ Chapter 4.
 
 
 ] [43] [44]
-<Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png, id=900, 539.01375pt x
+<Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png, id=906, 539.01375pt x
  622.325pt>
 File: Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png Graphic file (typ
 e png)
  <use Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png>
 Package pdftex.def Info: Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.pn
-g used on input line 70.
+g used on input line 71.
 (pdftex.def)             Requested size: 216.81pt x 250.32149pt.
 
-<Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-b.png, id=901, 537.00626pt x
+<Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-b.png, id=907, 537.00626pt x
  628.3475pt>
 File: Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-b.png Graphic file (typ
 e png)
  <use Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-b.png>
 Package pdftex.def Info: Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-b.pn
-g used on input line 71.
+g used on input line 72.
 (pdftex.def)             Requested size: 216.81pt x 253.68355pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[45]
-<Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png, id=908, 871.255pt x 458.
+[45] [46 <./Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png> <./Chapter
+4/importfigs/CMS-PAS-LUM-15-001_Figure_005-b.png>]
+<Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png, id=921, 871.255pt x 458.
 71375pt>
 File: Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png Graphic file (type p
 ng)
  <use Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png>
 Package pdftex.def Info: Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png u
-sed on input line 86.
+sed on input line 93.
 (pdftex.def)             Requested size: 289.07999pt x 152.19493pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Chapter4/importfigs/lumiFill.png, id=909, 485.815pt x 487.8225pt>
+<Chapter4/importfigs/lumiFill.png, id=923, 485.815pt x 487.8225pt>
 File: Chapter4/importfigs/lumiFill.png Graphic file (type png)
 
 <use Chapter4/importfigs/lumiFill.png>
-Package pdftex.def Info: Chapter4/importfigs/lumiFill.png used on input line 97
-.
+Package pdftex.def Info: Chapter4/importfigs/lumiFill.png used on input line 10
+5.
 (pdftex.def)             Requested size: 433.62pt x 435.41118pt.
- [46 <./Chapter4/importfigs/CMS-PAS-LUM-15-001_Figure_005-a.png> <./Chapter4/im
-portfigs/CMS-PAS-LUM-15-001_Figure_005-b.png>]
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-<Chapter4/importfigs/chris_palmer_run_registry.png, id=917, 1596.96625pt x 652.
+[47 <./Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png>] [48 <./Chapter4/i
+mportfigs/lumiFill.png>]
+<Chapter4/importfigs/chris_palmer_run_registry.png, id=933, 1596.96625pt x 652.
 4375pt>
 File: Chapter4/importfigs/chris_palmer_run_registry.png Graphic file (type png)
 
  <use Chapter4/importfigs/chris_palmer_run_registry.png>
 Package pdftex.def Info: Chapter4/importfigs/chris_palmer_run_registry.png used
- on input line 107.
+ on input line 116.
 (pdftex.def)             Requested size: 433.62pt x 177.156pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[47 <./Chapter4/importfigs/CMS-PAS-LUM-15-001_Table_001.png>]
-<Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png, id=922, 57
+<Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png, id=935, 57
 8.16pt x 433.62pt>
 File: Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png Graphi
 c file (type png)
 
 <use Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png>
 Package pdftex.def Info: Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2
-015_pbpb.png used on input line 116.
+015_pbpb.png used on input line 125.
 (pdftex.def)             Requested size: 433.62pt x 325.2142pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-<Chapter4/importfigs/int_lumi_cumulative_pp_2.png, id=923, 578.16pt x 433.62pt>
+[49 <./Chapter4/importfigs/chris_palmer_run_registry.png>]
+<Chapter4/importfigs/int_lumi_cumulative_pp_2.png, id=941, 578.16pt x 433.62pt>
 File: Chapter4/importfigs/int_lumi_cumulative_pp_2.png Graphic file (type png)
 <use Chapter4/importfigs/int_lumi_cumulative_pp_2.png>
 Package pdftex.def Info: Chapter4/importfigs/int_lumi_cumulative_pp_2.png used 
-on input line 122.
+on input line 134.
 (pdftex.def)             Requested size: 433.62pt x 325.2142pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [48 <./Chapter4/importfigs/lumiFill.png>] [49 <./Chapter4/importfigs/chris_pa
-lmer_run_registry.png> <./Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_
-2015_pbpb.png>] [50 <./Chapter4/importfigs/int_lumi_cumulative_pp_2.png>]
+) [50 <./Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_2015_pbpb.png>]
+[51 <./Chapter4/importfigs/int_lumi_cumulative_pp_2.png>]
 \openout2 = `Chapter5/Chapter-5.aux'.
 
 
@@ -1373,7 +1366,7 @@ lmer_run_registry.png> <./Chapter4/importfigs/int_lumi_per_day_cumulative_pbpb_
 Chapter 5.
 
 <Chapter5/importfigs/Rossis-coincidence-circuit-appearing-in-Ref-65-The-selecti
-ng-resistance-on-the-right.png, id=941, 795.97375pt x 412.54124pt>
+ng-resistance-on-the-right.png, id=955, 795.97375pt x 412.54124pt>
 File: Chapter5/importfigs/Rossis-coincidence-circuit-appearing-in-Ref-65-The-se
 lecting-resistance-on-the-right.png Graphic file (type png)
 
@@ -1382,13 +1375,13 @@ ecting-resistance-on-the-right.png>
 Package pdftex.def Info: Chapter5/importfigs/Rossis-coincidence-circuit-appeari
 ng-in-Ref-65-The-selecting-resistance-on-the-right.png used on input line 9.
 (pdftex.def)             Requested size: 289.07999pt x 149.82407pt.
- [51
+ [52
 
 
 
  <./Chapter5/importfigs/Rossis-coincidence-circuit-appearing-in-Ref-65-The-sele
 cting-resistance-on-the-right.png (PNG copy)>]
-<Chapter5/importfigs/l1_trigger_flow.png, id=948, 652.4375pt x 478.78876pt>
+<Chapter5/importfigs/l1_trigger_flow.png, id=962, 652.4375pt x 478.78876pt>
 File: Chapter5/importfigs/l1_trigger_flow.png Graphic file (type png)
 
 <use Chapter5/importfigs/l1_trigger_flow.png>
@@ -1396,7 +1389,7 @@ Package pdftex.def Info: Chapter5/importfigs/l1_trigger_flow.png used on input
 line 22.
 (pdftex.def)             Requested size: 289.07999pt x 212.14345pt.
 
-<Chapter5/importfigs/hf_max_tower.png, id=949, 1201.48875pt x 447.6725pt>
+<Chapter5/importfigs/hf_max_tower.png, id=963, 1201.48875pt x 447.6725pt>
 File: Chapter5/importfigs/hf_max_tower.png Graphic file (type png)
 
 <use Chapter5/importfigs/hf_max_tower.png>
@@ -1407,15 +1400,15 @@ e 31.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter3/importfigs/cms_firstleadcoll.jpg, id=951, 803.0pt x 580.1675pt>
+<Chapter3/importfigs/cms_firstleadcoll.jpg, id=965, 803.0pt x 580.1675pt>
 File: Chapter3/importfigs/cms_firstleadcoll.jpg Graphic file (type jpg)
 
 <use Chapter3/importfigs/cms_firstleadcoll.jpg>
 Package pdftex.def Info: Chapter3/importfigs/cms_firstleadcoll.jpg used on inpu
 t line 40.
 (pdftex.def)             Requested size: 289.07999pt x 208.86012pt.
- [52 <./Chapter5/importfigs/l1_trigger_flow.png>]
-<Chapter3/importfigs/upcJpsi_run285530_lumi594_event944509077_v0.png, id=957, 7
+ [53 <./Chapter5/importfigs/l1_trigger_flow.png>]
+<Chapter3/importfigs/upcJpsi_run285530_lumi594_event944509077_v0.png, id=971, 7
 22.7pt x 363.85938pt>
 File: Chapter3/importfigs/upcJpsi_run285530_lumi594_event944509077_v0.png Graph
 ic file (type png)
@@ -1428,10 +1421,10 @@ Package pdftex.def Info: Chapter3/importfigs/upcJpsi_run285530_lumi594_event944
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[53 <./Chapter5/importfigs/hf_max_tower.png> <./Chapter3/importfigs/cms_firstle
-adcoll.jpg>] [54 <./Chapter3/importfigs/upcJpsi_run285530_lumi594_event94450907
+[54 <./Chapter5/importfigs/hf_max_tower.png> <./Chapter3/importfigs/cms_firstle
+adcoll.jpg>] [55 <./Chapter3/importfigs/upcJpsi_run285530_lumi594_event94450907
 7_v0.png>]
-<Chapter5/importfigs/triggerRateExample.png, id=966, 722.7pt x 577.15625pt>
+<Chapter5/importfigs/triggerRateExample.png, id=980, 722.7pt x 577.15625pt>
 File: Chapter5/importfigs/triggerRateExample.png Graphic file (type png)
 
 <use Chapter5/importfigs/triggerRateExample.png>
@@ -1516,13 +1509,13 @@ Overfull \hbox (37.41142pt too wide) in paragraph at lines 81--91
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[55 <./Chapter5/importfigs/triggerRateExample.png>]) [56]
+[56 <./Chapter5/importfigs/triggerRateExample.png>]) [57]
 \openout2 = `Chapter6/Chapter-6.aux'.
 
 
 (./Chapter6/Chapter-6.tex
 Chapter 6.
-<Chapter6/importfigs/phi_allQt_raw.pdf, id=976, 569.12625pt x 550.055pt>
+<Chapter6/importfigs/phi_allQt_raw.pdf, id=990, 569.12625pt x 550.055pt>
 File: Chapter6/importfigs/phi_allQt_raw.pdf Graphic file (type pdf)
 
 <use Chapter6/importfigs/phi_allQt_raw.pdf>
@@ -1533,7 +1526,7 @@ ne 8.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter6/importfigs/phi_allQt_mixed.pdf, id=977, 569.12625pt x 550.055pt>
+<Chapter6/importfigs/phi_allQt_mixed.pdf, id=991, 569.12625pt x 550.055pt>
 File: Chapter6/importfigs/phi_allQt_mixed.pdf Graphic file (type pdf)
 
 <use Chapter6/importfigs/phi_allQt_mixed.pdf>
@@ -1544,7 +1537,7 @@ line 15.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter6/importfigs/phi_allQt_subbed.pdf, id=978, 569.12625pt x 550.055pt>
+<Chapter6/importfigs/phi_allQt_subbed.pdf, id=992, 569.12625pt x 550.055pt>
 File: Chapter6/importfigs/phi_allQt_subbed.pdf Graphic file (type pdf)
 
 <use Chapter6/importfigs/phi_allQt_subbed.pdf>
@@ -1555,7 +1548,7 @@ Package pdftex.def Info: Chapter6/importfigs/phi_allQt_subbed.pdf used on input
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter6/importfigs/phi_allQt_final.pdf, id=979, 569.12625pt x 550.055pt>
+<Chapter6/importfigs/phi_allQt_final.pdf, id=993, 569.12625pt x 550.055pt>
 File: Chapter6/importfigs/phi_allQt_final.pdf Graphic file (type pdf)
 
 <use Chapter6/importfigs/phi_allQt_final.pdf>
@@ -1566,20 +1559,20 @@ line 29.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [57
+) [58
 
 
 
-] [58 <./Chapter6/importfigs/phi_allQt_raw.pdf, page is rotated 90 degrees>] [5
-9 <./Chapter6/importfigs/phi_allQt_mixed.pdf, page is rotated 90 degrees>] [60 
+] [59 <./Chapter6/importfigs/phi_allQt_raw.pdf, page is rotated 90 degrees>] [6
+0 <./Chapter6/importfigs/phi_allQt_mixed.pdf, page is rotated 90 degrees>] [61 
 <./Chapter6/importfigs/phi_allQt_subbed.pdf, page is rotated 90 degrees>]
-[61 <./Chapter6/importfigs/phi_allQt_final.pdf, page is rotated 90 degrees>]
+[62 <./Chapter6/importfigs/phi_allQt_final.pdf, page is rotated 90 degrees>]
 \openout2 = `Chapter7/Chapter-7.aux'.
 
 
 (./Chapter7/Chapter-7.tex
 Chapter 7.
-) [62
+) [63
 
 
 
@@ -1588,7 +1581,7 @@ Chapter 7.
 
  (./Chapter8/Chapter-8.tex
 Chapter 8.
-) [63
+) [64
 
 
 
@@ -1596,17 +1589,17 @@ Chapter 8.
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 8.
  (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [64
+) [65
 
 
-] [65]
-[66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79]) [80]
+] [66]
+[67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80]) [81]
 \openout2 = `Appendix1/Appendix1.aux'.
 
 
 (./Appendix1/Appendix1.tex
 Appendix A.
-) [81
+) [82
 
 
 ]
@@ -1619,7 +1612,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
 Package rerunfilecheck Info: File `thesis-ku.out' has not changed.
-(rerunfilecheck)             Checksum: BF54679888CAC59BA0B08CBF4E041477;8493.
+(rerunfilecheck)             Checksum: 3178BA9FD73FA76C46AB001F7DB65BDD;8661.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1627,12 +1620,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
- 13846 strings out of 494910
- 203660 string characters out of 6179836
- 278599 words of memory out of 5000000
- 16432 multiletter control sequences out of 15000+600000
+ 13849 strings out of 493029
+ 203691 string characters out of 6136233
+ 283289 words of memory out of 5000000
+ 16677 multiletter control sequences out of 15000+600000
  58196 words of font info for 111 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  44i,11n,51p,1606b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
 /fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
@@ -1648,10 +1641,10 @@ rw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis-ku.pdf (92 pages, 5009404 bytes).
+Output written on thesis-ku.pdf (93 pages, 5032258 bytes).
 PDF statistics:
- 1775 PDF objects out of 2073 (max. 8388607)
- 1448 compressed objects within 15 object streams
- 381 named destinations out of 1000 (max. 500000)
- 636 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1789 PDF objects out of 2073 (max. 8388607)
+ 1461 compressed objects within 15 object streams
+ 383 named destinations out of 1000 (max. 500000)
+ 644 words of extra memory for PDF output out of 10000 (max. 10000000)
 

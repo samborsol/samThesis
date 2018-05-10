@@ -39,13 +39,14 @@
 \contentsline {subsection}{\numberline {4.2.4}Fast Beam Conditions Monitor}{44}{subsection.4.2.4}
 \contentsline {section}{\numberline {4.3}Van de Meer scanning calibration}{45}{section.4.3}
 \contentsline {section}{\numberline {4.4}Corrections to VDM scans}{45}{section.4.4}
-\contentsline {section}{\numberline {4.5}Author's contributions}{47}{section.4.5}
-\contentsline {chapter}{\numberline {5}Trigger development and performance}{51}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction to triggering}{51}{section.5.1}
-\contentsline {section}{\numberline {5.2}Triggering at CMS}{51}{section.5.2}
-\contentsline {section}{\numberline {5.3}Author's contributions}{54}{section.5.3}
-\contentsline {section}{\numberline {5.4}Studies from trigger menus}{56}{section.5.4}
-\contentsline {chapter}{\numberline {6}Data analysis}{57}{chapter.6}
-\contentsline {chapter}{\numberline {7}Systematic uncertainties}{62}{chapter.7}
-\contentsline {chapter}{\numberline {8}Results and conclusions}{63}{chapter.8}
-\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{81}{appendix.A}
+\contentsline {section}{\numberline {4.5}Systematic uncertainty}{47}{section.4.5}
+\contentsline {section}{\numberline {4.6}Author's contributions}{47}{section.4.6}
+\contentsline {chapter}{\numberline {5}Trigger development and performance}{52}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction to triggering}{52}{section.5.1}
+\contentsline {section}{\numberline {5.2}Triggering at CMS}{52}{section.5.2}
+\contentsline {section}{\numberline {5.3}Author's contributions}{55}{section.5.3}
+\contentsline {section}{\numberline {5.4}Studies from trigger menus}{57}{section.5.4}
+\contentsline {chapter}{\numberline {6}Data analysis}{58}{chapter.6}
+\contentsline {chapter}{\numberline {7}Systematic uncertainties}{63}{chapter.7}
+\contentsline {chapter}{\numberline {8}Results and conclusions}{64}{chapter.8}
+\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{82}{appendix.A}
