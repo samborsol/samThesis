@@ -3,50 +3,50 @@
 \contentsline {section}{\numberline {1.1}The Standard Model}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}Quantum electrodynamics}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}Quantum chromodynamics}{5}{section.1.3}
-\contentsline {section}{\numberline {1.4}QCD experiments}{7}{section.1.4}
+\contentsline {section}{\numberline {1.4}QCD experiments}{6}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Deep inelastic scattering}{7}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Quark gluon plasma}{9}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}Parton distribution functions}{10}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Wigner distribution}{11}{subsection.1.5.1}
-\contentsline {chapter}{\numberline {2}Ultra-peripheral collisions at the Large Hadron Collider}{15}{chapter.2}
-\contentsline {section}{\numberline {2.1}Ultra-peripheral heavy-ion collisions}{15}{section.2.1}
-\contentsline {section}{\numberline {2.2}Vector meson photoproduction}{17}{section.2.2}
-\contentsline {section}{\numberline {2.3}Photon-photon interactions}{20}{section.2.3}
-\contentsline {section}{\numberline {2.4}Dijet photoproduction}{23}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Factorization}{25}{subsection.2.4.1}
-\contentsline {chapter}{\numberline {3}The experiment}{29}{chapter.3}
-\contentsline {section}{\numberline {3.1}Large Hadron Collider}{29}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}ATLAS}{29}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}ALICE}{30}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}LHCb}{30}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}TOTEM}{30}{subsection.3.1.4}
-\contentsline {section}{\numberline {3.2}Compact Muon Solenoid}{31}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Tracker}{32}{subsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.1.1}Pixel tracker}{33}{subsubsection.3.2.1.1}
-\contentsline {subsubsection}{\numberline {3.2.1.2}Strip tracker}{34}{subsubsection.3.2.1.2}
-\contentsline {subsection}{\numberline {3.2.2}Electromagnetic calorimeter}{34}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Hadronic calorimeter}{36}{subsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.3.1}Hadronic forward calorimeters}{38}{subsubsection.3.2.3.1}
-\contentsline {subsection}{\numberline {3.2.4}Muon detector}{38}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Zero degree calorimeter}{39}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Particle flow algorithm}{40}{subsection.3.2.6}
-\contentsline {chapter}{\numberline {4}Measuring luminosity}{43}{chapter.4}
-\contentsline {section}{\numberline {4.1}Instantaneous luminosity}{43}{section.4.1}
-\contentsline {section}{\numberline {4.2}Luminometers}{44}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Pixel cluster counting}{44}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Pixel luminosity telescope}{45}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Hadronic forward calorimeter}{45}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Fast Beam Conditions Monitor}{46}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Van de Meer scanning calibration}{46}{section.4.3}
-\contentsline {section}{\numberline {4.4}Corrections to VDM scans}{47}{section.4.4}
-\contentsline {section}{\numberline {4.5}Systematic uncertainty}{48}{section.4.5}
-\contentsline {section}{\numberline {4.6}Author's contributions}{49}{section.4.6}
-\contentsline {chapter}{\numberline {5}Trigger development and performance}{53}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction to triggering}{53}{section.5.1}
-\contentsline {section}{\numberline {5.2}Triggering at CMS}{53}{section.5.2}
-\contentsline {section}{\numberline {5.3}Author's contributions}{56}{section.5.3}
-\contentsline {section}{\numberline {5.4}Studies from trigger menus}{58}{section.5.4}
-\contentsline {chapter}{\numberline {6}Data analysis}{59}{chapter.6}
-\contentsline {chapter}{\numberline {7}Systematic uncertainties}{64}{chapter.7}
-\contentsline {chapter}{\numberline {8}Results and conclusions}{65}{chapter.8}
-\contentsline {chapter}{\numberline {A}My Appendix, Next to my Spleen}{84}{appendix.A}
+\contentsline {section}{\numberline {1.5}Parton distribution functions}{13}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Wigner distribution}{15}{subsection.1.5.1}
+\contentsline {chapter}{\numberline {2}Ultra-peripheral collisions at the Large Hadron Collider}{18}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ultra-peripheral heavy-ion collisions}{18}{section.2.1}
+\contentsline {section}{\numberline {2.2}Vector meson photoproduction}{20}{section.2.2}
+\contentsline {section}{\numberline {2.3}Photon-photon interactions}{23}{section.2.3}
+\contentsline {section}{\numberline {2.4}Dijet photoproduction}{26}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Factorization}{28}{subsection.2.4.1}
+\contentsline {chapter}{\numberline {3}The experiment}{32}{chapter.3}
+\contentsline {section}{\numberline {3.1}Large Hadron Collider}{32}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}ATLAS}{32}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}ALICE}{33}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}LHCb}{33}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}TOTEM}{33}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Compact Muon Solenoid}{34}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Tracker}{35}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Pixel tracker}{36}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Strip tracker}{37}{subsubsection.3.2.1.2}
+\contentsline {subsection}{\numberline {3.2.2}Electromagnetic calorimeter}{37}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Hadronic calorimeter}{39}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Hadronic forward calorimeters}{41}{subsubsection.3.2.3.1}
+\contentsline {subsection}{\numberline {3.2.4}Muon detector}{41}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Zero degree calorimeter}{42}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Particle flow algorithm}{43}{subsection.3.2.6}
+\contentsline {chapter}{\numberline {4}Measuring luminosity}{46}{chapter.4}
+\contentsline {section}{\numberline {4.1}Instantaneous luminosity}{46}{section.4.1}
+\contentsline {section}{\numberline {4.2}Luminometers}{47}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Pixel cluster counting}{47}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Pixel luminosity telescope}{48}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Hadronic forward calorimeter}{49}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Fast Beam Conditions Monitor}{49}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Van de Meer scanning calibration}{50}{section.4.3}
+\contentsline {section}{\numberline {4.4}Corrections to VDM scans}{50}{section.4.4}
+\contentsline {section}{\numberline {4.5}Systematic uncertainty}{52}{section.4.5}
+\contentsline {section}{\numberline {4.6}Author's contributions}{52}{section.4.6}
+\contentsline {chapter}{\numberline {5}Trigger development and performance}{57}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction to triggering}{57}{section.5.1}
+\contentsline {section}{\numberline {5.2}Triggering at CMS}{58}{section.5.2}
+\contentsline {section}{\numberline {5.3}Author's contributions}{61}{section.5.3}
+\contentsline {section}{\numberline {5.4}Studies from trigger menus}{62}{section.5.4}
+\contentsline {chapter}{\numberline {6}Data analysis}{64}{chapter.6}
+\contentsline {chapter}{\numberline {7}Systematic uncertainties}{69}{chapter.7}
+\contentsline {chapter}{\numberline {8}Results and conclusions}{70}{chapter.8}
+\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{89}{appendix.A}
