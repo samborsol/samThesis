@@ -1,23 +1,24 @@
-\setlength\abovedisplayskip{0pt}
+\setlength\abovedisplayskip{0.4pt}
+\setlength\belowdisplayskip{0.4pt}
 
 \chapter{Ultra-relativistic heavy-ion collisions}
 
 Microseconds after the big bang, the universe was filled with a hot, dense state of strongly interacting subnuclear particles. There is evidence that this phase of matter, the quark gluon plasma (QGP), is reproduced in the high energy densities reached by ultra-relativistic heavy-ion collisions. Measurements at the Relativistic Heavy Ion Collider (RHIC) and the Large Hadron Collider (LHC) are consistent with the QGP having the sheer viscosity of a perfect fluid. As such, the QGP will not obscure the initial conditions of the pre-collision heavy-ion. Therefore heavy-ion initial state properties must be rigorously measured to better distinguish between the effects of the QGP and of the inherent properties of the nucleus.
 
-This thesis seeks to further knowledge of initial state phenomena by measuring the gluon Wigner distribution within the nucleus. In the context of coherent dijet photoproduction from ultra-peripheral collisions (UPC), the Wigner distribution of elliptic gluons is encoded in the angular correlations of the dijet transverse momentum and the proton recoil momentum. UPC have strongly suppressed hadronic activity, with all interactions between nuclei being mediated by the electromagnetic field. This photo-nuclear interaction is understood via the equivalent photon approximation arising the Weizacker-Williams formalism. 
+This thesis seeks to further knowledge of initial state phenomena by measuring the gluon Wigner distribution within the nucleus. In the context of coherent dijet photoproduction from ultra-peripheral collisions (UPC), the Wigner distribution of elliptic gluons is encoded in the angular correlations of the dijet transverse momentum and the proton recoil momentum \cite{Hagiwara:2016kam}. UPC have strongly suppressed hadronic activity, with all interactions between nuclei being mediated by the electromagnetic field. This photo-nuclear interaction is understood via the equivalent photon approximation arising the Weizacker-Williams formalism. 
 
 A dataset of ultra-peripheral collision data was taken during the 2015 Pb-Pb run at the Compact Muon Solenoid (CMS). UPC have been shown to pass vetos on activity in the Hadronic Forward Calorimters (HF). The angular correlations of the UPC dijets are measured and used to constrain the elliptic gluon in two bins of dijet total transverse momentum. 
 
 \section{The Standard Model}
 
-The Standard Model describes the fundamental particles of the universe in terms of fermions and bosons. Fermions are particles with half-integer spin, while bosons have integer-spin. This difference in spin has far reaching consequences. Fermions must obey the Pauli Exclusion Principle: only one fermion at a time can occupy a given state. However, multiple bosons can simultaneously occupy a specific state. Subnuclear particles -- protons and neutrons -- contain large numbers of both fermions and bosons. 
+The Standard Model describes the fundamental particles of the universe in terms of fermions and bosons. Fermions are particles with half-integer spin, while bosons have integer-spin. This difference in spin has far reaching consequences. Fermions must obey the Pauli Exclusion Principle: only one fermion at a time can occupy a given state. However, multiple bosons can simultaneously occupy a specific state. Subnuclear particles -- protons and neutrons -- contain large numbers of both fermions and bosons. Fermions and bosons have different stastical properties. Fermi-Dirac stastistics describe the energy distribution of fermions. Likewise, the boson energy distribution is described by Bose-Einstein statistics. 
 
 Among the fermions are the leptons, neutrinos, and quarks. The leptons consist of the electron, muon, and tau, as well as their anti-particles. The leptons are seemingly fundamental: high energy experiments have yet to observe internal lepton-structure. Neutrinos are weakly interacting particles detected primarily through the precise measuring of missing transverse energy in the products of particle collisions. Quarks are the constituent particles of baryons, which contain three valence quarks, and mesons, which contain two valence quarks. In addition to the valence quarks are the sea quarks, which appear and disappear as quark-antiquark pairs within hadrons. The hadrons are particles made of quarks and gluons. Gluons are particles that mediate the strong nuclear force; likewise, photons mediate the electromagnetic force, and weak-gauge bosons mediate the weak nuclear force. A fourth boson, the graviton, is expected to transmit the gravitational force, but this particles existence has not been verified. 
 
 The behavior of fundamental particles is best described within the framework of quantum field theory (QTF). QFT defines a Lagrangian for fundamental particles. This Lagrangian then predicts the outcome of particle collisions. Different terms in the Lagrangian correspond to the various interactions between particles. The Standard Model Lagrangian, $\mathcal{L}_{Standard Model}$ can be broken down into three basic terms:	
 \begin{equation}
 \mathcal{L}_{Standard Model} = \mathcal{L}_{QED} + \mathcal{L}_{QCD} + \mathcal{L}_{Higgs} + ... ,  
-\end{equation}
+\end{equation} 
 Where $\mathcal{L}_{QED}$ is the QED Lagrangin, $\mathcal{L}_{QCD}$ is the QCD Lagrangian, and $\mathcal{L}_{Higgs}$ is the Higgs Lagrangian. The QED and QCD Lagrangians will be the most important in what follows \cite{Halzen:1984mc}. 
 
 The most accessible approach to quantum field theory is through the use of Feynman diagrams. First, one imagines an interaction between particles. Then, one draws this process into a Feynman diagram, which is essentially a pictorial representation of exchanges between particles. The Lagrangian can be interpreted into Feynman rules. These rules describe how the Feynman diagram translates into a calcuation for the quantum mechanical amplitude of the process. The quantum mechanical amplitude, in turn, is proportional to the cross-section of the process. This is important because, sense the cross-section is invariant between experiments, one can use it to effectively test for invariant quantities in the Lagrangian \cite{Peskin:1995ev}.
@@ -48,9 +49,10 @@ Quantum electrodynamics (QED) is a theory of electromagnetic interaction in term
 \begin{equation}
 {\mathcal {L}}={\bar {\psi }}(i\gamma ^{\mu }D_{\mu }-m)\psi -{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu },
 \end{equation} 
-where $\psi$ is , $\gamma$ is, $D$ is, and $F$ is .
+where $\psi$ is spin-$\frac{1}{2}$ field, $\gamma^\mu$ are the Dirac matrices, $D_\mu$ is the gauge covariant derivative, $m$ is the electron mass, and $F_{\mu\upsilon}$ is the electromagnetic field tensor.
 
-QED addresses three specific processes: photon motion, electron motion, and the emission, or absorption, of a photon by an electron. To do this, first a Lagrangian is established based on Maxwell's laws and quantum mechanics. The photon constitutes a spin-1 solution to Maxwell's equations. Likewise, electrons are described, at non-relativistic scales, by the Schrodinger equation, at relativistic scales by the Dirac equation. Figure \ref{fig:qedFeynman} shows the resulting processes allowed by QED: the translation of an electron, the translation of a photon, and the scattering of a photon off an electron \cite{Griffiths:2008zz}. 
+QED addresses three specific processes: photon motion, electron motion, and the emission, or absorption, of a photon by an electron. To do this, first a Lagrangian is established based on Maxwell's laws and quantum mechanics. The photon constitutes a spin-1 solution to Maxwell's equations. Likewise, electrons are described, at non-relativistic scales, by the Schrodinger equation, at relativistic scales by the Dirac equation. Figure \ref{fig:qedFeynman} shows the resulting processes allowed by QED: the translation of an electron, the translation of a photon, and the scattering of a photon off an electron \cite{Griffiths:2008zz}. \setlength\abovedisplayskip{0.4pt}
+\setlength\belowdisplayskip{0.4pt}
 
 \begin{figure}[h!]
 \begin{centering}
@@ -73,7 +75,11 @@ Gluons are the QCD analogues of the photons in QED. Gluons are spin-1 and massle
 \begin{equation}
 {\mathcal {L}}_{\mathrm {QCD} }={\bar {\psi }}_{i}\left(i(\gamma ^{\mu }D_{\mu })_{ij}-m\,\delta _{ij}\right)\psi _{j}-{\frac {1}{4}}G_{\mu \nu }^{a}G_{a}^{\mu \nu },
 \end{equation}
-where $\psi$ is, $\gamma$ is, $\delta$ is, and $G$ is .
+where $m$ now represents the quark mass, the $\delta_{ij}$ is the delta function and $G_{\mu \nu }^{a}$ is gluon field tensor,  
+\begin{equation}
+\displaystyle G_{\mu \nu }^{a}=\partial _{\mu }{\mathcal {A}}_{\nu }^{a}-\partial _{\nu }{\mathcal {A}}_{\mu }^{a}+gf^{abc}{\mathcal {A}}_{\mu }^{b}{\mathcal {A}}_{\nu }^{c}.
+\end{equation}
+The SU(3) group of the quarks is indexed as $i,j,...$; the adjoint SU(3) group, for the gluons, is indexed $a,b,c$. ${\mathcal {A}}_{\nu }^{a}$ is the gluon field, $f^{abc}$ are the SU(3) structure constants, and $g$ is the strong coupling \cite{Schafer:2005ff}. 
 
 Unlike QED, the QCD coupling increases with distance \cite{Bethke:2006ac}. Figure \ref{fig:runningQCDCoupling} shows the running of the QCD coupling with $Q^2$:
 \begin{equation}
@@ -149,25 +155,21 @@ The viscosity of the nuclear medium directly affects how the initial properties 
 \begin{centering}
 \includegraphics[width=5in]{Chapter1/importfigs/fig_bb_timeline.png}
 \par\end{centering}
-\caption{History of the Universe \label{fig:history}}
+\caption{History of the Universe \cite{Bandyopadhyay:2017wip} \label{fig:history}}
 \end{figure}
 
-The QGP is particularly interesting because of its implications for the early universe. Figure \ref{fig:history} is a simplified cosmological timeline. In the first hundred or so microseconds after the Big Bang, the universe was small, dense, and highly energetic. The energy density of the early universe would have been in excess of 1 $GeV/(fm)^3$. Note that 1 $GeV/(fm)^3$ is the energy density at which QGP is thought to form. The universe cools and hadrons form out of the quarks and gluons. The protons and neutrons condense into nuclei. The positively charged nuclei gather negatively charged electrons, forming the atoms that in cosmic time become stars. The progression from a hot, dense medium to stable hadrons is also seen in heavy-ion collisions, as illustrated by figure \ref{fig:historyHI}. The y-axis represents time, and the x-axis represents the longitudinal separation of the ions. Notice that after the ions cross, there is a "cascade" during which the partons take on thermal energy, and until reaching a critical temperature for QGP formation. The hadron gas passes through two temperature "freeze-outs". New particles stop forming the chemical freeze-out temperature. These particles stop exchanging kinetic energy after cooling beyond the "kinetic freeze-out".
+The QGP is particularly interesting because of its implications for the early universe. Figure \ref{fig:history} is a simplified cosmological timeline. In the first hundred or so microseconds after the Big Bang, the universe was small, dense, and highly energetic \cite{Bandyopadhyay:2017wip}. The energy density of the early universe would have been in excess of 1 $GeV/(fm)^3$. Note that 1 $GeV/(fm)^3$ is the energy density at which QGP is thought to form. The universe cools and hadrons form out of the quarks and gluons. The protons and neutrons condense into nuclei. The positively charged nuclei gather negatively charged electrons, forming the atoms that in cosmic time become stars. The progression from a hot, dense medium to stable hadrons is also seen in heavy-ion collisions, as illustrated by figure \ref{fig:historyHI} \cite{Wang:2012jua}. The y-axis represents time, and the x-axis represents the longitudinal separation of the ions. Notice that after the ions cross, there is a "cascade" during which the partons take on thermal energy, and until reaching a critical temperature for QGP formation. The hadron gas passes through two temperature "freeze-outs". New particles stop forming the chemical freeze-out temperature. These particles stop exchanging kinetic energy after cooling beyond the "kinetic freeze-out".
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=5in]{Chapter1/importfigs/The-space-time-evolution-of-heavy-ion-collision-The-figure-is-taken-from-28.png}
 \par\end{centering}
-\caption{History of a Heavy-Ion Collision \label{fig:historyHI}}
+\caption{History of a Heavy-Ion Collision \cite{Wang:2012jua}\label{fig:historyHI}}
 \end{figure}
-
-
 
 \section{Parton distribution functions}
 
-QCD describes the interaction between quarks and gluons, but within a nucleon the calculations are too complicated to solve for the behavior of each individual parton. Theorists compromise using the factorisation theorem to use data frome DIS experiments to make predictions. The factorisation theorem is discussed in greater detail later in this theorist.
-
-Parton distribution functions (PDFs) are a method of encoding data from DIS experiments in the form of probability density. PDFs give the probability of finding a species of parton with given momentum fraction, $x$, and a given squared energy scale, $Q^2$.
+QCD describes the interaction between quarks and gluons, but within a nucleon the calculations are too complicated to solve for the behavior of each individual parton. Theorists compromise using the factorisation theorem to use data frome DIS experiments to make predictions. The factorisation theorem is discussed in greater detail later in this theorist. Parton distribution functions (PDFs) are a method of encoding data from DIS experiments in the form of probability density. PDFs give the probability of finding a species of parton with given momentum fraction, $x$, and a given squared energy scale, $Q^2$ \cite{Martin:2009iq}.
 
 In electron-proton deep inelastic scattering, the electron interacts with the proton electromagnetically by the emission of a virtual photon. This virtual photon has a four momentum $q$ and a virtuality $Q^2 = - q^2$. When virtuality is low, the virtual photon is approximately "real"; these quasi-photons are discussed in greater detail in the next chapter. The virtual photon, originating from the e. lectron, interacts with a parton and changes its initial momentum fraction, $x$. The $Q^2$ of the probing virtual photon and Bjorken-x of interacting parton are determined from the collision products. The whole data sample can be used to fill out a probability density, $F_i(x, Q^2)$, of finding a parton species $i$ at a given momentum fraction $x$ with a probe of virtuality $Q^2$.
 
@@ -180,7 +182,7 @@ One can use the Wigner distribution to tomographically image the internal struct
 \caption{Subnuclear tomography (Ask Daniel again) \label{fig:nuclImag}}
 \end{figure}
 
-	The quantum field theory lagrangian of the strong interaction is relatively simple, but because of confinement and asymptotic freedom the hadronic bound states are too complex for an analytic solution. Furthermore, collider experiment data requires a quantitative interpretation to be useful. The gap between QCD and heavy-ion data is bridged using the parton model, which considers hadrons as composed of quarks and gluons. Parton density functions (PDFs) model the longitudinal momentum distribution of the partons. PDFs are supplemented by transverse momentum distributions (TMDs) and generalized parton distributions (GPDs). In addition to transverse momentum, GPDs describe the transverse spatial distribution. TMDs and GPDs are derived from the final state particles of a collision. Markus Diehl maps the relationship between various distribution functions in figure \ref{fig:gpdTMDWeb} \cite{Diehl:2003ny}.
+The quantum field theory lagrangian of the strong interaction is relatively simple, but because of confinement and asymptotic freedom the hadronic bound states are too complex for an analytic solution. Furthermore, collider experiment data requires a quantitative interpretation to be useful. The gap between QCD and heavy-ion data is bridged using the parton model, which considers hadrons as composed of quarks and gluons. Parton density functions (PDFs) model the longitudinal momentum distribution of the partons. PDFs are supplemented by transverse momentum distributions (TMDs) and generalized parton distributions (GPDs). In addition to transverse momentum, GPDs describe the transverse spatial distribution. TMDs and GPDs are derived from the final state particles of a collision. Markus Diehl maps the relationship between various distribution functions in figure \ref{fig:gpdTMDWeb} \cite{Diehl:2003ny}.
 
 \subsection{Wigner distribution}
 
@@ -214,4 +216,4 @@ Yoshitaka Hatta uses the dipole framework to show that the azimuthal angular cor
 \caption{Feynman Diagram of Coherent Dijets in Dipole Framework \cite{Hatta:2016dxp}\label{fig:yatta1}}.
 \end{figure}
 
-It is expected that the dominant contribution to the angular correlation is the ellipitic, corresponding to $n=2$ in the Fourier transform. The interior of the proton displays an intricate structure. UPC collisions allow an unprecedented access to the structure in general and the elliptic gluons in particular. 
+It is expected that the dominant contribution to the angular correlation is the ellipitic, corresponding to $n=2$ in the Fourier transform. The interior of the proton displays an intricate structure. UPC collisions allow an unprecedented access to the nuclear structure in general and the small-x gluons in particular \cite{Altinoluk:2015dpi}. 

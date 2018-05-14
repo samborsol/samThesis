@@ -29,6 +29,28 @@ R.~S. Bhalerao, ``{Relativistic heavy-ion collisions},''.
   Report (CERN-2014-001) and KEK report (KEK-Proceedings-2013-8), K. Kawagoe
   and M. Mulders (eds.), 2014, p. 219. Total 21 pages.
 
+\bibitem{Bandyopadhyay:2017wip}
+A.~Bandyopadhyay, {\em {Non-perturbative study of spectral function and its
+  application in Quark Gluon Plasma}}.
+\newblock PhD thesis, Saha Inst., 2017.
+\newblock \href{http://arxiv.org/abs/1710.06226}{{\ttfamily arXiv:1710.06226
+  [hep-ph]}}.
+\newblock
+\url{http://inspirehep.net/record/1631188/files/arXiv:1710.06226.pdf}.
+\newblock
+%%CITATION = ARXIV:1710.06226;%%.
+
+\bibitem{Wang:2012jua}
+H.~Wang, {\em {Study of particle ratio fluctuations and charge balance
+  functions at RHIC}}.
+\newblock PhD thesis, Michigan State U., 2012.
+\newblock \href{http://arxiv.org/abs/1304.2073}{{\ttfamily arXiv:1304.2073
+  [nucl-ex]}}.
+\newblock
+\url{http://drupal.star.bnl.gov/STAR/files/Study_of_Particle_Ratio_Fluctuation_and_Charge_Balance_Function_at_RHIC_v6_0.pdf}.
+\newblock
+%%CITATION = ARXIV:1304.2073;%%.
+
 \bibitem{Diehl:2003ny}
 M.~Diehl, ``{Generalized parton distributions},''
   \href{http://dx.doi.org/10.1016/j.physrep.2003.08.002,
@@ -144,6 +166,14 @@ L.~Bonolis, ``{Walther Bothe and Bruno Rossi: the birth and development of
   [physics.hist-ph]}}.
 %%CITATION = ARXIV:1106.1365;%%.
 
+\bibitem{Hagiwara:2016kam}
+Y.~Hagiwara, Y.~Hatta, and T.~Ueda, ``{Wigner, Husimi, and generalized
+  transverse momentum dependent distributions in the color glass condensate},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.94.094036}{{\em Phys. Rev.}
+  {\bfseries D94} no.~9, (2016) 094036},
+\href{http://arxiv.org/abs/1609.05773}{{\ttfamily arXiv:1609.05773 [hep-ph]}}.
+%%CITATION = ARXIV:1609.05773;%%.
+
 \bibitem{Halzen:1984mc}
 F.~Halzen and A.~D. Martin, {\em {QUARKS AND LEPTONS: AN INTRODUCTORY COURSE IN
   MODERN PARTICLE PHYSICS}}.
@@ -181,11 +211,29 @@ F.~Wilczek, ``{QCD made simple},''
   (2000) 22--28}.
 %%CITATION = PHTOA,53N8,22;%%.
 
+\bibitem{Schafer:2005ff}
+T.~Schäfer, ``{Phases of QCD},'' in {\em {20th Annual Hampton University
+  Graduate Studies Program (HUGS 2005) Newport News, Virginia, May 31-June 17,
+  2005}}.
+\newblock 2005.
+\newblock
+\href{http://arxiv.org/abs/hep-ph/0509068}{{\ttfamily arXiv:hep-ph/0509068
+  [hep-ph]}}.
+\newblock
+%%CITATION = HEP-PH/0509068;%%.
+
 \bibitem{Bjorken:1968dy}
 J.~D. Bjorken, ``{Asymptotic Sum Rules at Infinite Momentum},''
 \href{http://dx.doi.org/10.1103/PhysRev.179.1547}{{\em Phys. Rev.} {\bfseries
   179} (1969) 1547--1553}.
 %%CITATION = PHRVA,179,1547;%%.
+
+\bibitem{Martin:2009iq}
+A.~Martin, W.~Stirling, R.~Thorne, and G.~Watt, ``{Parton distributions for the
+  LHC},'' \href{http://dx.doi.org/10.1140/epjc/s10052-009-1072-5}{{\em
+  Eur.Phys.J.} {\bfseries C63} (2009) 189--285},
+\href{http://arxiv.org/abs/0901.0002}{{\ttfamily arXiv:0901.0002 [hep-ph]}}.
+%%CITATION = ARXIV:0901.0002;%%.
 
 \bibitem{Boer:2011fh}
 D.~Boer {\em et~al.}, ``{Gluons and the quark sea at high energies:
@@ -201,6 +249,15 @@ A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
 \href{http://arxiv.org/abs/hep-ph/0307383}{{\ttfamily arXiv:hep-ph/0307383
   [hep-ph]}}.
 %%CITATION = HEP-PH/0307383;%%.
+
+\bibitem{Altinoluk:2015dpi}
+T.~Altinoluk, N.~Armesto, G.~Beuf, and A.~H. Rezaeian, ``{Diffractive Dijet
+  Production in Deep Inelastic Scattering and Photon-Hadron Collisions in the
+  Color Glass Condensate},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2016.05.032}{{\em Phys. Lett.}
+  {\bfseries B758} (2016) 373--383},
+\href{http://arxiv.org/abs/1511.07452}{{\ttfamily arXiv:1511.07452 [hep-ph]}}.
+%%CITATION = ARXIV:1511.07452;%%.
 
 \bibitem{Beaudette:2014cea}
 {\bfseries CMS} Collaboration, F.~Beaudette, ``{The CMS Particle Flow
@@ -405,13 +462,6 @@ J.~Pumplin, D.~Stump, J.~Huston, H.~Lai, P.~M. Nadolsky, {\em et~al.}, ``{New
 \href{http://arxiv.org/abs/hep-ph/0201195}{{\ttfamily arXiv:hep-ph/0201195
   [hep-ph]}}.
 %%CITATION = HEP-PH/0201195;%%.
-
-\bibitem{Martin:2009iq}
-A.~Martin, W.~Stirling, R.~Thorne, and G.~Watt, ``{Parton distributions for the
-  LHC},'' \href{http://dx.doi.org/10.1140/epjc/s10052-009-1072-5}{{\em
-  Eur.Phys.J.} {\bfseries C63} (2009) 189--285},
-\href{http://arxiv.org/abs/0901.0002}{{\ttfamily arXiv:0901.0002 [hep-ph]}}.
-%%CITATION = ARXIV:0901.0002;%%.
 
 \bibitem{Goldhaber:1948zza}
 M.~Goldhaber and E.~Teller, ``{On nuclear dipole vibrations},''

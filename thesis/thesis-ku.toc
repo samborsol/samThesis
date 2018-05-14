@@ -39,14 +39,14 @@
 \contentsline {subsection}{\numberline {4.2.4}Fast Beam Conditions Monitor}{49}{subsection.4.2.4}
 \contentsline {section}{\numberline {4.3}Van de Meer scanning calibration}{50}{section.4.3}
 \contentsline {section}{\numberline {4.4}Corrections to VDM scans}{50}{section.4.4}
-\contentsline {section}{\numberline {4.5}Systematic uncertainty}{52}{section.4.5}
+\contentsline {section}{\numberline {4.5}Systematic uncertainty}{51}{section.4.5}
 \contentsline {section}{\numberline {4.6}Author's contributions}{52}{section.4.6}
-\contentsline {chapter}{\numberline {5}Trigger development and performance}{57}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction to triggering}{57}{section.5.1}
-\contentsline {section}{\numberline {5.2}Triggering at CMS}{58}{section.5.2}
-\contentsline {section}{\numberline {5.3}Author's contributions}{61}{section.5.3}
-\contentsline {section}{\numberline {5.4}Studies from trigger menus}{62}{section.5.4}
-\contentsline {chapter}{\numberline {6}Data analysis}{64}{chapter.6}
-\contentsline {chapter}{\numberline {7}Systematic uncertainties}{69}{chapter.7}
-\contentsline {chapter}{\numberline {8}Results and conclusions}{70}{chapter.8}
-\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{89}{appendix.A}
+\contentsline {chapter}{\numberline {5}Trigger development and performance}{56}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction to triggering}{56}{section.5.1}
+\contentsline {section}{\numberline {5.2}Triggering at CMS}{57}{section.5.2}
+\contentsline {section}{\numberline {5.3}Author's contributions}{60}{section.5.3}
+\contentsline {section}{\numberline {5.4}Studies from trigger menus}{61}{section.5.4}
+\contentsline {chapter}{\numberline {6}Data analysis}{63}{chapter.6}
+\contentsline {chapter}{\numberline {7}Systematic uncertainties}{68}{chapter.7}
+\contentsline {chapter}{\numberline {8}Results and conclusions}{69}{chapter.8}
+\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{88}{appendix.A}

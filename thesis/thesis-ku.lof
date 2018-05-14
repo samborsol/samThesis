@@ -5,8 +5,8 @@
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Collision Cross Section vs Bjorken-x, theory and data \cite {Shimizu:2009fc} \relax }}{8}{figure.caption.6}
 \contentsline {figure}{\numberline {1.4}{\ignorespaces QCD Phase Diagram \cite {Bhalerao:1695331} \relax }}{10}{figure.caption.7}
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Heavy-ion collision overlap region \relax }}{11}{figure.caption.8}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces History of the Universe \relax }}{12}{figure.caption.9}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces History of a Heavy-Ion Collision \relax }}{13}{figure.caption.10}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces History of the Universe \cite {Bandyopadhyay:2017wip} \relax }}{12}{figure.caption.9}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces History of a Heavy-Ion Collision \cite {Wang:2012jua}\relax }}{13}{figure.caption.10}
 \contentsline {figure}{\numberline {1.8}{\ignorespaces Subnuclear tomography (Ask Daniel again) \relax }}{14}{figure.caption.11}
 \contentsline {figure}{\numberline {1.9}{\ignorespaces Interconnectedness of Parton Distributions \cite {Diehl:2003ny} \relax }}{16}{figure.caption.12}
 \contentsline {figure}{\numberline {1.10}{\ignorespaces Feynman Diagram of Coherent Dijets in Dipole Framework \cite {Hatta:2016dxp}\relax }}{17}{figure.caption.13}
@@ -38,24 +38,24 @@
 \contentsline {figure}{\numberline {3.10}{\ignorespaces Performance of particle flow alorgithm compared to calorimeter readout \cite {Sirunyan:2017ulk} \relax }}{44}{figure.caption.35}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces PLT triple coincidence \relax }}{48}{figure.caption.36}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces PCC VdM Scans \cite {CMS:2013gfa} \relax }}{51}{figure.caption.37}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces PCC VdM Scans \cite {CMS:2013gfa} \relax }}{50}{figure.caption.37}
 \contentsline {figure}{\numberline {4.3}{\ignorespaces Systematic Uncertainty During 2015 pp Run \cite {CMS:2013gfa} \relax }}{52}{figure.caption.38}
 \contentsline {figure}{\numberline {4.4}{\ignorespaces Luminosity by CMS fill. \relax }}{53}{figure.caption.39}
 \contentsline {figure}{\numberline {4.5}{\ignorespaces CMS Run Registry. \relax }}{54}{figure.caption.40}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces CMS lumi during HI-2015. \relax }}{55}{figure.caption.41}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces CMS Lumi by Era. \relax }}{56}{figure.caption.42}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces CMS lumi during HI-2015. \relax }}{54}{figure.caption.41}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces CMS Lumi by Era. \relax }}{55}{figure.caption.42}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Rossi circuit with three Geiger-Muller coincidence circuits \cite {Bonolis:2011ph} \relax }}{57}{figure.caption.43}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Flow of information in L1 trigger \relax }}{59}{figure.caption.44}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Leading tower energy distribution in HF \relax }}{59}{figure.caption.45}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces High multiplicity PbPb collision \relax }}{60}{figure.caption.46}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces UPC Upsilon candidate \relax }}{60}{figure.caption.47}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Example of trigger rate. \relax }}{61}{figure.caption.48}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Rossi circuit with three Geiger-Muller coincidence circuits \cite {Bonolis:2011ph} \relax }}{56}{figure.caption.43}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Flow of information in L1 trigger \relax }}{58}{figure.caption.44}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Leading tower energy distribution in HF \relax }}{58}{figure.caption.45}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces High multiplicity PbPb collision \relax }}{59}{figure.caption.46}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces UPC Upsilon candidate \relax }}{59}{figure.caption.47}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Example of trigger rate. \relax }}{60}{figure.caption.48}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Raw $\phi $ distribution. \relax }}{65}{figure.caption.51}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Mixed $\phi $ distribution. \relax }}{66}{figure.caption.52}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Subtracted $\phi $ distribution. \relax }}{67}{figure.caption.53}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Final $\phi $ distribution. \relax }}{68}{figure.caption.54}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Raw $\phi $ distribution. \relax }}{64}{figure.caption.51}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Mixed $\phi $ distribution. \relax }}{65}{figure.caption.52}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Subtracted $\phi $ distribution. \relax }}{66}{figure.caption.53}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Final $\phi $ distribution. \relax }}{67}{figure.caption.54}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
