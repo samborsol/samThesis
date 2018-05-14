@@ -14,7 +14,10 @@ A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
 Reallocated field_info (elt_size=4) to 10024 items from 5000.
 Warning--entry type for "starlight" isn't style-file defined
---line 1932 of file Biblio/allcites.bib
+--line 1890 of file Biblio/allcites.bib
+Warning--string name "j-j-math-phys" is undefined
+--line 2263 of file Biblio/allcites.bib
+Warning--empty author in Long:796947
 Warning--empty publisher in Halzen:1984mc
 Warning--empty publisher in Griffiths:2008zz
 Warning--empty pages in CMS_AN_2008-098
@@ -25,45 +28,45 @@ Warning--empty institution in cgc2013.05
 Warning--empty author and editor in cmsTdrTrk
 Warning--all relevant fields are empty in starlight
 Warning--empty pages in cmsJpPP
-You've used 166 entries,
+You've used 176 entries,
             2328 wiz_defined-function locations,
-            1929 strings with 38550 characters,
-and the built_in function-call counts, 52287 in all, are:
-= -- 5666
-> -- 1375
+            2010 strings with 40551 characters,
+and the built_in function-call counts, 55084 in all, are:
+= -- 5968
+> -- 1448
 < -- 1
-+ -- 532
-- -- 366
-* -- 4706
-:= -- 6090
-add.period$ -- 356
-call.type$ -- 166
-change.case$ -- 185
++ -- 561
+- -- 385
+* -- 4964
+:= -- 6416
+add.period$ -- 377
+call.type$ -- 176
+change.case$ -- 196
 chr.to.int$ -- 0
-cite$ -- 176
-duplicate$ -- 2875
-empty$ -- 5183
-format.name$ -- 366
-if$ -- 13806
+cite$ -- 187
+duplicate$ -- 3032
+empty$ -- 5476
+format.name$ -- 385
+if$ -- 14545
 int.to.chr$ -- 0
-int.to.str$ -- 166
-missing$ -- 583
-newline$ -- 806
-num.names$ -- 166
-pop$ -- 787
+int.to.str$ -- 176
+missing$ -- 617
+newline$ -- 853
+num.names$ -- 175
+pop$ -- 842
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1972
+skip$ -- 2063
 stack$ -- 0
-substring$ -- 2585
-swap$ -- 1328
+substring$ -- 2688
+swap$ -- 1387
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 10
-while$ -- 365
-width$ -- 169
-write$ -- 1499
-(There were 11 warnings)
+warning$ -- 11
+while$ -- 385
+width$ -- 179
+write$ -- 1589
+(There were 13 warnings)

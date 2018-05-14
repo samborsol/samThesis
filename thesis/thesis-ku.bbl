@@ -166,6 +166,27 @@ L.~Bonolis, ``{Walther Bothe and Bruno Rossi: the birth and development of
   [physics.hist-ph]}}.
 %%CITATION = ARXIV:1106.1365;%%.
 
+\bibitem{Rafelski:2013obw}
+J.~Rafelski, ``{Connecting QGP-Heavy Ion Physics to the Early Universe},''
+  \href{http://arxiv.org/abs/1306.2471}{{\ttfamily arXiv:1306.2471
+  [astro-ph.CO]}}.
+[Nucl. Phys. Proc. Suppl.243-244,155(2013)].
+%%CITATION = ARXIV:1306.2471;%%.
+
+\bibitem{Arsene:2004fa}
+{\bfseries BRAHMS} Collaboration, I.~Arsene {\em et~al.}, ``{Quark gluon plasma
+  and color glass condensate at RHIC? The Perspective from the BRAHMS
+  experiment},'' \href{http://dx.doi.org/10.1016/j.nuclphysa.2005.02.130}{{\em
+  Nucl. Phys.} {\bfseries A757} (2005) 1--27},
+\href{http://arxiv.org/abs/nucl-ex/0410020}{{\ttfamily arXiv:nucl-ex/0410020
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0410020;%%.
+
+\bibitem{Long:796947}
+``{The Frontiers of Nuclear Science, A Long Range Plan},''
+\href{http://arxiv.org/abs/0809.3137}{{\ttfamily arXiv:0809.3137 [nucl-ex]}}.
+%%CITATION = ARXIV:0809.3137;%%.
+
 \bibitem{Hagiwara:2016kam}
 Y.~Hagiwara, Y.~Hatta, and T.~Ueda, ``{Wigner, Husimi, and generalized
   transverse momentum dependent distributions in the color glass condensate},''
@@ -173,6 +194,36 @@ Y.~Hagiwara, Y.~Hatta, and T.~Ueda, ``{Wigner, Husimi, and generalized
   {\bfseries D94} no.~9, (2016) 094036},
 \href{http://arxiv.org/abs/1609.05773}{{\ttfamily arXiv:1609.05773 [hep-ph]}}.
 %%CITATION = ARXIV:1609.05773;%%.
+
+\bibitem{Contreras:2015dqa}
+J.~G. Contreras and J.~D. Tapia~Takaki, ``{Ultra-peripheral heavy-ion
+  collisions at the LHC},''
+\href{http://dx.doi.org/10.1142/S0217751X15420129}{{\em Int. J. Mod. Phys.}
+  {\bfseries A30} (2015) 1542012}.
+%%CITATION = IMPAE,A30,1542012;%%.
+
+\bibitem{vonWeizsacker:1934sx}
+C.~von Weizsacker, ``{Radiation emitted in collisions of very fast
+  electrons},''
+\href{http://dx.doi.org/10.1007/BF01333110}{{\em Z.Phys.} {\bfseries 88} (1934)
+  612--625}.
+%%CITATION = ZEPYA,88,612;%%.
+
+\bibitem{Williams:1934ad}
+E.~Williams, ``{Nature of the high-energy particles of penetrating radiation
+  and status of ionization and radiation formulae},''
+\href{http://dx.doi.org/10.1103/PhysRev.45.729}{{\em Phys.Rev.} {\bfseries 45}
+  (1934) 729--730}.
+%%CITATION = PHRVA,45,729;%%.
+
+\bibitem{Dyson:1967:SM}
+F.~J. Dyson and A.~Lenard, ``Stability of matter. {I},''
+  \href{http://dx.doi.org/https://doi.org/10.1063/1.1705209}{ {\bfseries 8}
+  no.~3, (Mar., 1967) 423--434}.
+
+\bibitem{Huang_1987}
+K.~Huang, {\em Statistical Mechanics}.
+\newblock John Wiley \& Sons, 2~ed., 1987.
 
 \bibitem{Halzen:1984mc}
 F.~Halzen and A.~D. Martin, {\em {QUARKS AND LEPTONS: AN INTRODUCTORY COURSE IN
@@ -191,12 +242,36 @@ M.~E. Peskin and D.~V. Schroeder, {\em {An Introduction to quantum field
 \newblock
 %%CITATION = INSPIRE-407703;%%.
 
+\bibitem{griffiths1999introduction}
+D.~Griffiths, {\em Introduction to Electrodynamics}.
+\newblock Prentice Hall, 1999.
+\newblock \url{https://books.google.com/books?id=M8XvAAAAMAAJ}.
+
 \bibitem{Griffiths:2008zz}
 D.~Griffiths, {\em {Introduction to elementary particles}}.
 \newblock
 2008.
 \newblock
 %%CITATION = INSPIRE-806976;%%.
+
+\bibitem{Bouchendira:2010es}
+R.~Bouchendira, P.~Clade, S.~Guellati-Khelifa, F.~Nez, and F.~Biraben, ``{New
+  determination of the fine structure constant and test of the quantum
+  electrodynamics},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.106.080801}{{\em Phys. Rev.
+  Lett.} {\bfseries 106} (2011) 080801},
+\href{http://arxiv.org/abs/1012.3627}{{\ttfamily arXiv:1012.3627
+  [physics.atom-ph]}}.
+%%CITATION = ARXIV:1012.3627;%%.
+
+\bibitem{Abbiendi:2005rx}
+{\bfseries OPAL} Collaboration, G.~Abbiendi {\em et~al.}, ``{Measurement of the
+  running of the QED coupling in small-angle Bhabha scattering at LEP},''
+  \href{http://dx.doi.org/10.1140/epjc/s2005-02389-3}{{\em Eur. Phys. J.}
+  {\bfseries C45} (2006) 1--21},
+\href{http://arxiv.org/abs/hep-ex/0505072}{{\ttfamily arXiv:hep-ex/0505072
+  [hep-ex]}}.
+%%CITATION = HEP-EX/0505072;%%.
 
 \bibitem{Brock:1993sz}
 {\bfseries CTEQ} Collaboration, R.~Brock {\em et~al.}, ``{Handbook of
@@ -221,6 +296,13 @@ T.~Schäfer, ``{Phases of QCD},'' in {\em {20th Annual Hampton University
   [hep-ph]}}.
 \newblock
 %%CITATION = HEP-PH/0509068;%%.
+
+\bibitem{Deur:2016tte}
+A.~Deur, S.~J. Brodsky, and G.~F. de~Teramond, ``{The QCD Running Coupling},''
+  \href{http://dx.doi.org/10.1016/j.ppnp.2016.04.003}{{\em Prog. Part. Nucl.
+  Phys.} {\bfseries 90} (2016) 1--74},
+\href{http://arxiv.org/abs/1604.08082}{{\ttfamily arXiv:1604.08082 [hep-ph]}}.
+%%CITATION = ARXIV:1604.08082;%%.
 
 \bibitem{Bjorken:1968dy}
 J.~D. Bjorken, ``{Asymptotic Sum Rules at Infinite Momentum},''
@@ -258,6 +340,40 @@ T.~Altinoluk, N.~Armesto, G.~Beuf, and A.~H. Rezaeian, ``{Diffractive Dijet
   {\bfseries B758} (2016) 373--383},
 \href{http://arxiv.org/abs/1511.07452}{{\ttfamily arXiv:1511.07452 [hep-ph]}}.
 %%CITATION = ARXIV:1511.07452;%%.
+
+\bibitem{lta2011.09}
+V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``{Coherent rho and J/psi
+  photoproduction in ultraperipheral processes with electromagnetic
+  dissociation of heavy ions at RHIC and LHC},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2012.03.041}{{\em Phys.Lett.}
+  {\bfseries B710} (2012) 647--653},
+\href{http://arxiv.org/abs/1109.0737}{{\ttfamily arXiv:1109.0737 [hep-ph]}}.
+%%CITATION = ARXIV:1109.0737;%%.
+
+\bibitem{pQCD2011.08}
+A.~Adeluyi and C.~A. Bertulani, ``Gluon distributions in nuclei probed at
+  energies available at the {CERN} large hadron collider,''
+  \href{http://dx.doi.org/10.1103/PhysRevC.84.024916}{{\em Phys. Rev. C}
+  {\bfseries 84} (Aug, 2011) 024916}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.84.024916}.
+
+\bibitem{lta2013.05}
+V.~Guzey, E.~Kryshen, M.~Strikman, and M.~Zhalov, ``Evidence for nuclear gluon
+  shadowing from the {ALICE} measurements of pbpb ultraperipheral exclusive
+  production,''
+  \href{http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2013.08.043}{{\em
+  Physics Letters B} {\bfseries 726} no.~1–3, (2013) 290 -- 295}.
+  \url{http://www.sciencedirect.com/science/article/pii/S0370269313006825}.
+
+\bibitem{pQCD2013.02}
+A.~Adeluyi and T.~Nguyen, ``{Coherent photoproduction of $\psi$ and $\Upsilon$
+  mesons in ultraperipheral pPb and PbPb collisions at the {CERN} Large Hadron
+  Collider at $\sqrt {S_{NN}}=5$ TeV and $\sqrt {S_{NN}}=2.76$ TeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.87.027901}{{\em Phys. Rev. C}
+  {\bfseries 87} (Feb, 2013) 027901},
+  \href{http://arxiv.org/abs/1302.4288}{{\ttfamily arXiv:1302.4288 [nucl-th]}}.
+\url{http://link.aps.org/doi/10.1103/PhysRevC.87.027901}.
+%%CITATION = ARXIV:1302.4288;%%.
 
 \bibitem{Beaudette:2014cea}
 {\bfseries CMS} Collaboration, F.~Beaudette, ``{The CMS Particle Flow
@@ -582,20 +698,6 @@ E.~Witten, ``{Cosmic Separation of Phases},''
 R.~Vogt,
 ``{Quark-Gluon Plasma Signatures},''.
 %%CITATION = CMS-NOTE-1998-061 ETC.;%%.
-
-\bibitem{vonWeizsacker:1934sx}
-C.~von Weizsacker, ``{Radiation emitted in collisions of very fast
-  electrons},''
-\href{http://dx.doi.org/10.1007/BF01333110}{{\em Z.Phys.} {\bfseries 88} (1934)
-  612--625}.
-%%CITATION = ZEPYA,88,612;%%.
-
-\bibitem{Williams:1934ad}
-E.~Williams, ``{Nature of the high-energy particles of penetrating radiation
-  and status of ionization and radiation formulae},''
-\href{http://dx.doi.org/10.1103/PhysRev.45.729}{{\em Phys.Rev.} {\bfseries 45}
-  (1934) 729--730}.
-%%CITATION = PHRVA,45,729;%%.
 
 \bibitem{Grachov:2006ke}
 {\bfseries CMS Collaboration} Collaboration, O.~A. Grachov {\em et~al.},
@@ -1023,15 +1125,6 @@ S.~R. Klein and J.~Nystrand, ``Interference in exclusive vector meson
   {\bfseries 84} (Mar, 2000) 2330--2333}.
   \url{http://link.aps.org/doi/10.1103/PhysRevLett.84.2330}.
 
-\bibitem{lta2011.09}
-V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``{Coherent rho and J/psi
-  photoproduction in ultraperipheral processes with electromagnetic
-  dissociation of heavy ions at RHIC and LHC},''
-  \href{http://dx.doi.org/10.1016/j.physletb.2012.03.041}{{\em Phys.Lett.}
-  {\bfseries B710} (2012) 647--653},
-\href{http://arxiv.org/abs/1109.0737}{{\ttfamily arXiv:1109.0737 [hep-ph]}}.
-%%CITATION = ARXIV:1109.0737;%%.
-
 \bibitem{lta2012.03}
 V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``Coherent $\rho$ and {J/$\Psi$}
   photoproduction in ultraperipheral processes with electromagnetic
@@ -1039,31 +1132,6 @@ V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``Coherent $\rho$ and {J/$\Psi$}
   \href{http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2012.03.041}{{\em
   Physics Letters B} {\bfseries 710} no.~4–5, (2012) 647 -- 653}.
   \url{http://www.sciencedirect.com/science/article/pii/S0370269312003152}.
-
-\bibitem{lta2013.05}
-V.~Guzey, E.~Kryshen, M.~Strikman, and M.~Zhalov, ``Evidence for nuclear gluon
-  shadowing from the {ALICE} measurements of pbpb ultraperipheral exclusive
-  production,''
-  \href{http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2013.08.043}{{\em
-  Physics Letters B} {\bfseries 726} no.~1–3, (2013) 290 -- 295}.
-  \url{http://www.sciencedirect.com/science/article/pii/S0370269313006825}.
-
-\bibitem{pQCD2011.08}
-A.~Adeluyi and C.~A. Bertulani, ``Gluon distributions in nuclei probed at
-  energies available at the {CERN} large hadron collider,''
-  \href{http://dx.doi.org/10.1103/PhysRevC.84.024916}{{\em Phys. Rev. C}
-  {\bfseries 84} (Aug, 2011) 024916}.
-  \url{http://link.aps.org/doi/10.1103/PhysRevC.84.024916}.
-
-\bibitem{pQCD2013.02}
-A.~Adeluyi and T.~Nguyen, ``{Coherent photoproduction of $\psi$ and $\Upsilon$
-  mesons in ultraperipheral pPb and PbPb collisions at the {CERN} Large Hadron
-  Collider at $\sqrt {S_{NN}}=5$ TeV and $\sqrt {S_{NN}}=2.76$ TeV},''
-  \href{http://dx.doi.org/10.1103/PhysRevC.87.027901}{{\em Phys. Rev. C}
-  {\bfseries 87} (Feb, 2013) 027901},
-  \href{http://arxiv.org/abs/1302.4288}{{\ttfamily arXiv:1302.4288 [nucl-th]}}.
-\url{http://link.aps.org/doi/10.1103/PhysRevC.87.027901}.
-%%CITATION = ARXIV:1302.4288;%%.
 
 \bibitem{cmsTnP}
 T.~C. collaboration, ``Performance of cms muon reconstruction in pp collision
