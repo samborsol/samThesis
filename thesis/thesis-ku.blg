@@ -12,61 +12,50 @@ A level-1 auxiliary file: Chapter8/Chapter-8.aux
 The style file: Biblio/utphys.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
-Reallocated field_info (elt_size=4) to 10024 items from 5000.
-Warning--entry type for "starlight" isn't style-file defined
---line 1890 of file Biblio/allcites.bib
 Warning--string name "j-j-math-phys" is undefined
---line 2263 of file Biblio/allcites.bib
+--line 2229 of file Biblio/allcites.bib
 Warning--empty author in Long:796947
 Warning--empty publisher in Halzen:1984mc
 Warning--empty publisher in Griffiths:2008zz
-Warning--empty pages in CMS_AN_2008-098
-Warning--empty title in gdr_neutron
-Warning--empty pages in elect_cms_note06
-Warning--empty pages in yepes_cms_note03
-Warning--empty institution in cgc2013.05
-Warning--empty author and editor in cmsTdrTrk
-Warning--all relevant fields are empty in starlight
-Warning--empty pages in cmsJpPP
-You've used 176 entries,
+You've used 90 entries,
             2328 wiz_defined-function locations,
-            2010 strings with 40551 characters,
-and the built_in function-call counts, 55084 in all, are:
-= -- 5968
-> -- 1448
-< -- 1
-+ -- 561
-- -- 385
-* -- 4964
-:= -- 6416
-add.period$ -- 377
-call.type$ -- 176
-change.case$ -- 196
+            1368 strings with 24093 characters,
+and the built_in function-call counts, 28446 in all, are:
+= -- 3098
+> -- 699
+< -- 0
++ -- 273
+- -- 183
+* -- 2612
+:= -- 3300
+add.period$ -- 204
+call.type$ -- 90
+change.case$ -- 95
 chr.to.int$ -- 0
-cite$ -- 187
-duplicate$ -- 3032
-empty$ -- 5476
-format.name$ -- 385
-if$ -- 14545
+cite$ -- 93
+duplicate$ -- 1568
+empty$ -- 2864
+format.name$ -- 183
+if$ -- 7498
 int.to.chr$ -- 0
-int.to.str$ -- 176
-missing$ -- 617
-newline$ -- 853
-num.names$ -- 175
-pop$ -- 842
+int.to.str$ -- 90
+missing$ -- 310
+newline$ -- 467
+num.names$ -- 89
+pop$ -- 440
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2063
+skip$ -- 1037
 stack$ -- 0
-substring$ -- 2688
-swap$ -- 1387
-text.length$ -- 1
+substring$ -- 1404
+swap$ -- 700
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 11
-while$ -- 385
-width$ -- 179
-write$ -- 1589
-(There were 13 warnings)
+warning$ -- 3
+while$ -- 201
+width$ -- 92
+write$ -- 852
+(There were 4 warnings)

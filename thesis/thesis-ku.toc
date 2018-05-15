@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {1.2}Quantum electrodynamics}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}Quantum chromodynamics}{5}{section.1.3}
 \contentsline {section}{\numberline {1.4}QCD experiments}{6}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Deep inelastic scattering}{7}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.1}Deep inelastic scattering}{8}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Quark gluon plasma}{9}{subsection.1.4.2}
 \contentsline {section}{\numberline {1.5}Parton distribution functions}{13}{section.1.5}
 \contentsline {subsection}{\numberline {1.5.1}Wigner distribution}{15}{subsection.1.5.1}
@@ -49,4 +49,4 @@
 \contentsline {chapter}{\numberline {6}Data analysis}{63}{chapter.6}
 \contentsline {chapter}{\numberline {7}Systematic uncertainties}{68}{chapter.7}
 \contentsline {chapter}{\numberline {8}Results and conclusions}{69}{chapter.8}
-\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{89}{appendix.A}
+\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{80}{appendix.A}
