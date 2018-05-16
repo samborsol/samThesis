@@ -29,6 +29,14 @@ R.~S. Bhalerao, ``{Relativistic heavy-ion collisions},''.
   Report (CERN-2014-001) and KEK report (KEK-Proceedings-2013-8), K. Kawagoe
   and M. Mulders (eds.), 2014, p. 219. Total 21 pages.
 
+\bibitem{spsHI}
+H.~Satz, ``{The SPS heavy ion programme},''
+  \href{http://dx.doi.org/10.1016/j.physrep.2004.08.009}{{\em Phys.Rept.}
+  {\bfseries 403-404} (2004) 33--50},
+\href{http://arxiv.org/abs/hep-ph/0405051}{{\ttfamily arXiv:hep-ph/0405051
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0405051;%%.
+
 \bibitem{Bandyopadhyay:2017wip}
 A.~Bandyopadhyay, {\em {Non-perturbative study of spectral function and its
   application in Quark Gluon Plasma}}.
@@ -331,19 +339,49 @@ F.~Gelis, ``Color glass condensate and glasma,''
   Saturation, the Color Glass Condensate and the Glasma: What Have We Learned
   from RHIC?
 
-\bibitem{bjEdense}
-J.~D. Bjorken, ``Highly relativistic nucleus-nucleus collisions: The central
-  rapidity region,'' \href{http://dx.doi.org/10.1103/PhysRevD.27.140}{{\em
-  Phys. Rev. D} {\bfseries 27} (Jan, 1983) 140--151}.
-  \url{http://link.aps.org/doi/10.1103/PhysRevD.27.140}.
+\bibitem{Bjorken:1982qr}
+J.~Bjorken, ``{Highly Relativistic Nucleus-Nucleus Collisions: The Central
+  Rapidity Region},''
+\href{http://dx.doi.org/10.1103/PhysRevD.27.140}{{\em Phys.Rev.} {\bfseries
+  D27} (1983) 140--151}.
+%%CITATION = PHRVA,D27,140;%%.
 
-\bibitem{spsHI}
-H.~Satz, ``{The SPS heavy ion programme},''
-  \href{http://dx.doi.org/10.1016/j.physrep.2004.08.009}{{\em Phys.Rept.}
-  {\bfseries 403-404} (2004) 33--50},
-\href{http://arxiv.org/abs/hep-ph/0405051}{{\ttfamily arXiv:hep-ph/0405051
+\bibitem{Martin:2009iq}
+A.~Martin, W.~Stirling, R.~Thorne, and G.~Watt, ``{Parton distributions for the
+  LHC},'' \href{http://dx.doi.org/10.1140/epjc/s10052-009-1072-5}{{\em
+  Eur.Phys.J.} {\bfseries C63} (2009) 189--285},
+\href{http://arxiv.org/abs/0901.0002}{{\ttfamily arXiv:0901.0002 [hep-ph]}}.
+%%CITATION = ARXIV:0901.0002;%%.
+
+\bibitem{Eskola:2008ca}
+K.~J. Eskola, H.~Paukkunen, and C.~A. Salgado, ``{An Improved global analysis
+  of nuclear parton distribution functions including RHIC data},''
+  \href{http://dx.doi.org/10.1088/1126-6708/2008/07/102}{{\em JHEP} {\bfseries
+  0807} (2008) 102},
+\href{http://arxiv.org/abs/0802.0139}{{\ttfamily arXiv:0802.0139 [hep-ph]}}.
+%%CITATION = ARXIV:0802.0139;%%.
+
+\bibitem{Pumplin:2002vw}
+J.~Pumplin, D.~Stump, J.~Huston, H.~Lai, P.~M. Nadolsky, {\em et~al.}, ``{New
+  generation of parton distributions with uncertainties from global QCD
+  analysis},'' \href{http://dx.doi.org/10.1088/1126-6708/2002/07/012}{{\em
+  JHEP} {\bfseries 0207} (2002) 012},
+\href{http://arxiv.org/abs/hep-ph/0201195}{{\ttfamily arXiv:hep-ph/0201195
   [hep-ph]}}.
-%%CITATION = HEP-PH/0405051;%%.
+%%CITATION = HEP-PH/0201195;%%.
+
+\bibitem{cmsJpPP}
+S.~Chatrchyan {\em et~al.}, ``J/$\psi$ and $\psi$(2s) production in pp
+  collisions at $\sqrt{s}$ = 7 tev,''
+  \href{http://dx.doi.org/10.1007/JHEP02(2012)011}{{\em Journal of High Energy
+  Physics} {\bfseries 2012} no.~2, (2012) }.
+  \url{http://dx.doi.org/10.1007/JHEP02%282012%29011}.
+
+\bibitem{Boer:2011fh}
+D.~Boer {\em et~al.}, ``{Gluons and the quark sea at high energies:
+  Distributions, polarization, tomography},''
+\href{http://arxiv.org/abs/1108.1713}{{\ttfamily arXiv:1108.1713 [nucl-th]}}.
+%%CITATION = ARXIV:1108.1713;%%.
 
 \bibitem{ags2rhic}
 P.~Steinberg, ``{Relativistic heavy ion physics: Results from AGS to RHIC},''
@@ -358,32 +396,6 @@ H.~Song, S.~A. Bass, U.~Heinz, T.~Hirano, and C.~Shen, ``200 $a$ gev
   liquid,'' \href{http://dx.doi.org/10.1103/PhysRevLett.106.192301}{{\em Phys.
   Rev. Lett.} {\bfseries 106} (May, 2011) 192301}.
   \url{http://link.aps.org/doi/10.1103/PhysRevLett.106.192301}.
-
-\bibitem{Roland:2014jsa}
-G.~Roland, K.~Safarik, and P.~Steinberg, ``{Heavy-ion collisions at the LHC},''
-\href{http://dx.doi.org/10.1016/j.ppnp.2014.05.001}{{\em Prog.Part.Nucl.Phys.}
-  {\bfseries 77} (2014) 70--127}.
-%%CITATION = PPNPD,77,70;%%.
-
-\bibitem{Frankfurt:2005mc}
-L.~Frankfurt, M.~Strikman, and C.~Weiss, ``Small-$x$ physics: From hera to lhc
-  and beyond,'' {\em Ann. Rev. Nucl. Part. Sci.} {\bfseries 55} (2005)
-  403--465,
-\href{http://arxiv.org/abs/hep-ph/0507286}{{\ttfamily hep-ph/0507286}}.
-%%CITATION = HEP-PH 0507286;%%.
-
-\bibitem{Vogt:2002ve}
-R.~Vogt, ``Heavy quark production in heavy ion colliders,'' {\em Heavy Ion
-  Phys.} {\bfseries 18} (2003) 11--20,
-\href{http://arxiv.org/abs/hep-ph/0205330}{{\ttfamily hep-ph/0205330}}.
-%%CITATION = HEP-PH 0205330;%%.
-
-\bibitem{Bjorken:1982qr}
-J.~Bjorken, ``{Highly Relativistic Nucleus-Nucleus Collisions: The Central
-  Rapidity Region},''
-\href{http://dx.doi.org/10.1103/PhysRevD.27.140}{{\em Phys.Rev.} {\bfseries
-  D27} (1983) 140--151}.
-%%CITATION = PHRVA,D27,140;%%.
 
 \bibitem{Hands:2001ve}
 S.~Hands, ``{The Phase diagram of QCD},''
@@ -419,11 +431,6 @@ B.~Alver {\em et~al.}, ``Importance of correlations and fluctuations on the
   \href{http://dx.doi.org/10.1103/PhysRevC.77.014906}{{\em Phys. Rev. C}
   {\bfseries 77} (Jan, 2008) 014906}.
   \url{http://link.aps.org/doi/10.1103/PhysRevC.77.014906}.
-
-\bibitem{Vogt:1998kna}
-R.~Vogt,
-``{Quark-Gluon Plasma Signatures},''.
-%%CITATION = CMS-NOTE-1998-061 ETC.;%%.
 
 \bibitem{Chatrchyan:2013nka}
 {\bfseries CMS Collaboration} Collaboration, S.~Chatrchyan {\em et~al.},
@@ -505,42 +512,35 @@ E.~Witten, ``{Cosmic Separation of Phases},''
   D30} (1984) 272--285}.
 %%CITATION = PHRVA,D30,272;%%.
 
-\bibitem{Martin:2009iq}
-A.~Martin, W.~Stirling, R.~Thorne, and G.~Watt, ``{Parton distributions for the
-  LHC},'' \href{http://dx.doi.org/10.1140/epjc/s10052-009-1072-5}{{\em
-  Eur.Phys.J.} {\bfseries C63} (2009) 189--285},
-\href{http://arxiv.org/abs/0901.0002}{{\ttfamily arXiv:0901.0002 [hep-ph]}}.
-%%CITATION = ARXIV:0901.0002;%%.
+\bibitem{bjEdense}
+J.~D. Bjorken, ``Highly relativistic nucleus-nucleus collisions: The central
+  rapidity region,'' \href{http://dx.doi.org/10.1103/PhysRevD.27.140}{{\em
+  Phys. Rev. D} {\bfseries 27} (Jan, 1983) 140--151}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevD.27.140}.
 
-\bibitem{Eskola:2008ca}
-K.~J. Eskola, H.~Paukkunen, and C.~A. Salgado, ``{An Improved global analysis
-  of nuclear parton distribution functions including RHIC data},''
-  \href{http://dx.doi.org/10.1088/1126-6708/2008/07/102}{{\em JHEP} {\bfseries
-  0807} (2008) 102},
-\href{http://arxiv.org/abs/0802.0139}{{\ttfamily arXiv:0802.0139 [hep-ph]}}.
-%%CITATION = ARXIV:0802.0139;%%.
+\bibitem{Vogt:1998kna}
+R.~Vogt,
+``{Quark-Gluon Plasma Signatures},''.
+%%CITATION = CMS-NOTE-1998-061 ETC.;%%.
 
-\bibitem{Pumplin:2002vw}
-J.~Pumplin, D.~Stump, J.~Huston, H.~Lai, P.~M. Nadolsky, {\em et~al.}, ``{New
-  generation of parton distributions with uncertainties from global QCD
-  analysis},'' \href{http://dx.doi.org/10.1088/1126-6708/2002/07/012}{{\em
-  JHEP} {\bfseries 0207} (2002) 012},
-\href{http://arxiv.org/abs/hep-ph/0201195}{{\ttfamily arXiv:hep-ph/0201195
-  [hep-ph]}}.
-%%CITATION = HEP-PH/0201195;%%.
+\bibitem{Roland:2014jsa}
+G.~Roland, K.~Safarik, and P.~Steinberg, ``{Heavy-ion collisions at the LHC},''
+\href{http://dx.doi.org/10.1016/j.ppnp.2014.05.001}{{\em Prog.Part.Nucl.Phys.}
+  {\bfseries 77} (2014) 70--127}.
+%%CITATION = PPNPD,77,70;%%.
 
-\bibitem{cmsJpPP}
-S.~Chatrchyan {\em et~al.}, ``J/$\psi$ and $\psi$(2s) production in pp
-  collisions at $\sqrt{s}$ = 7 tev,''
-  \href{http://dx.doi.org/10.1007/JHEP02(2012)011}{{\em Journal of High Energy
-  Physics} {\bfseries 2012} no.~2, (2012) }.
-  \url{http://dx.doi.org/10.1007/JHEP02%282012%29011}.
+\bibitem{Frankfurt:2005mc}
+L.~Frankfurt, M.~Strikman, and C.~Weiss, ``Small-$x$ physics: From hera to lhc
+  and beyond,'' {\em Ann. Rev. Nucl. Part. Sci.} {\bfseries 55} (2005)
+  403--465,
+\href{http://arxiv.org/abs/hep-ph/0507286}{{\ttfamily hep-ph/0507286}}.
+%%CITATION = HEP-PH 0507286;%%.
 
-\bibitem{Boer:2011fh}
-D.~Boer {\em et~al.}, ``{Gluons and the quark sea at high energies:
-  Distributions, polarization, tomography},''
-\href{http://arxiv.org/abs/1108.1713}{{\ttfamily arXiv:1108.1713 [nucl-th]}}.
-%%CITATION = ARXIV:1108.1713;%%.
+\bibitem{Vogt:2002ve}
+R.~Vogt, ``Heavy quark production in heavy ion colliders,'' {\em Heavy Ion
+  Phys.} {\bfseries 18} (2003) 11--20,
+\href{http://arxiv.org/abs/hep-ph/0205330}{{\ttfamily hep-ph/0205330}}.
+%%CITATION = HEP-PH 0205330;%%.
 
 \bibitem{Belitsky:2003nz}
 A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
