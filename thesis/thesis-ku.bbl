@@ -81,6 +81,14 @@ J.~D. Jackson, {\em Classical electrodynamics}.
 \newblock Wiley, New York, {NY}, 3rd ed.~ed., 1999.
 \newblock \url{http://cdsweb.cern.ch/record/490457}.
 
+\bibitem{Andreev:2015cwa}
+{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
+  Production with a Leading Proton in $ep$ Collisions at HERA},''
+  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
+  (2015) 056},
+\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
+%%CITATION = ARXIV:1502.01683;%%.
+
 \bibitem{Klein:2017nqo}
 S.~Klein and J.~Nystrand, ``{Ultraperipheral nuclear collisions},''
 \href{http://dx.doi.org/10.1063/PT.3.3727}{{\em Phys. Today} {\bfseries 70}
@@ -107,14 +115,6 @@ S.~Klein and J.~Nystrand, ``{Ultraperipheral nuclear collisions},''
 \bibitem{Collaboration:2278547}
 A.~Collaboration, ``{ATLAS Event Display: Light-by-Light Scattering}.'' General
   Photo, Aug, 2017.
-
-\bibitem{Andreev:2015cwa}
-{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
-  Production with a Leading Proton in $ep$ Collisions at HERA},''
-  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
-  (2015) 056},
-\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
-%%CITATION = ARXIV:1502.01683;%%.
 
 \bibitem{dEnterria:2007iyi}
 {\bfseries CMS} Collaboration, D.~G. d'Enterria {\em et~al.}, ``{CMS physics
@@ -604,6 +604,61 @@ M.~Wilde, ``Measurement of direct photons in pp and pb–pb collisions with
   Quark Matter 2012 Proceedings of the \{XXIII\} International Conference on
   Ultrarelativistic Nucleus-Nucleus Collisions.
 
+\bibitem{Chekanov:2008fh}
+{\bfseries ZEUS} Collaboration, S.~Chekanov {\em et~al.}, ``{Deep inelastic
+  scattering with leading protons or large rapidity gaps at HERA},''
+  \href{http://dx.doi.org/10.1016/j.nuclphysb.2009.03.003}{{\em Nucl. Phys.}
+  {\bfseries B816} (2009) 1--61},
+\href{http://arxiv.org/abs/0812.2003}{{\ttfamily arXiv:0812.2003 [hep-ex]}}.
+%%CITATION = ARXIV:0812.2003;%%.
+
+\bibitem{Bauer:1977iq}
+T.~Bauer, R.~Spital, D.~Yennie, and F.~Pipkin, ``{The Hadronic Properties of
+  the Photon in High-Energy Interactions},''
+\href{http://dx.doi.org/10.1103/RevModPhys.50.261}{{\em Rev.Mod.Phys.}
+  {\bfseries 50} (1978) 261}.
+%%CITATION = RMPHA,50,261;%%.
+
+\bibitem{Frankfurt:2006tp}
+L.~Frankfurt, M.~Strikman, and M.~Zhalov, ``{Elastic and large t rapidity gap
+  vector meson production in ultraperipheral proton-ion collisions},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2006.07.059}{{\em Phys.Lett.}
+  {\bfseries B640} (2006) 162--169},
+\href{http://arxiv.org/abs/hep-ph/0605160}{{\ttfamily arXiv:hep-ph/0605160
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0605160;%%.
+
+\bibitem{Alexa:2013xxa}
+{\bfseries H1 Collaboration} Collaboration, C.~Alexa {\em et~al.}, ``{Elastic
+  and Proton-Dissociative Photoproduction of J/psi Mesons at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-013-2466-y}{{\em Eur.Phys.J.}
+  {\bfseries C73} (2013) 2466},
+\href{http://arxiv.org/abs/1304.5162}{{\ttfamily arXiv:1304.5162 [hep-ex]}}.
+%%CITATION = ARXIV:1304.5162;%%.
+
+\bibitem{Aktas:2006qs}
+{\bfseries H1} Collaboration, A.~Aktas {\em et~al.}, ``Diffractive
+  photoproduction of $\rho$ mesons with large momentum transfer at hera,'' {\em
+  Phys. Lett.} {\bfseries B638} (2006) 422--431,
+\href{http://arxiv.org/abs/hep-ex/0603038}{{\ttfamily hep-ex/0603038}}.
+%%CITATION = HEP-EX 0603038;%%.
+
+\bibitem{Aaron:2010aa}
+F.~D. Aaron {\em et~al.}, ``{Measurement of the cross section for diffractive
+  deep-inelastic scattering with a leading proton at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-011-1578-5}{{\em Eur. Phys. J.}
+  {\bfseries C71} (2011) 1578},
+\href{http://arxiv.org/abs/1010.1476}{{\ttfamily arXiv:1010.1476 [hep-ex]}}.
+%%CITATION = ARXIV:1010.1476;%%.
+
+\bibitem{Aaron:2010su}
+{\bfseries H1} Collaboration, F.~D. Aaron {\em et~al.}, ``{Diffractive Dijet
+  Photoproduction in ep Collisions at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-010-1448-6}{{\em Eur. Phys. J.}
+  {\bfseries C70} (2010) 15--37},
+\href{http://arxiv.org/abs/1006.0946}{{\ttfamily arXiv:1006.0946 [hep-ex]}}.
+%%CITATION = ARXIV:1006.0946;%%.
+
 \bibitem{lta2011.09}
 V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``{Coherent rho and J/psi
   photoproduction in ultraperipheral processes with electromagnetic
@@ -762,13 +817,6 @@ S.~R. Klein and J.~Nystrand, ``Photoproduction of quarkonium in proton proton
   (2004) 142003,
 \href{http://arxiv.org/abs/hep-ph/0311164}{{\ttfamily hep-ph/0311164}}.
 %%CITATION = HEP-PH 0311164;%%.
-
-\bibitem{Aktas:2006qs}
-{\bfseries H1} Collaboration, A.~Aktas {\em et~al.}, ``Diffractive
-  photoproduction of $\rho$ mesons with large momentum transfer at hera,'' {\em
-  Phys. Lett.} {\bfseries B638} (2006) 422--431,
-\href{http://arxiv.org/abs/hep-ex/0603038}{{\ttfamily hep-ex/0603038}}.
-%%CITATION = HEP-EX 0603038;%%.
 
 \bibitem{oniaPol}
 P.~Faccioli, C.~Lourenco, J.~Seixas, and H.~K. Wohri, ``{Towards the
@@ -958,54 +1006,6 @@ J.~A. Crittenden, ``{Exclusive production of neutral vector mesons at the
 \href{http://arxiv.org/abs/hep-ex/9704009}{{\ttfamily arXiv:hep-ex/9704009
   [hep-ex]}}.
 %%CITATION = HEP-EX/9704009;%%.
-
-\bibitem{Chekanov:2008fh}
-{\bfseries ZEUS} Collaboration, S.~Chekanov {\em et~al.}, ``{Deep inelastic
-  scattering with leading protons or large rapidity gaps at HERA},''
-  \href{http://dx.doi.org/10.1016/j.nuclphysb.2009.03.003}{{\em Nucl. Phys.}
-  {\bfseries B816} (2009) 1--61},
-\href{http://arxiv.org/abs/0812.2003}{{\ttfamily arXiv:0812.2003 [hep-ex]}}.
-%%CITATION = ARXIV:0812.2003;%%.
-
-\bibitem{Bauer:1977iq}
-T.~Bauer, R.~Spital, D.~Yennie, and F.~Pipkin, ``{The Hadronic Properties of
-  the Photon in High-Energy Interactions},''
-\href{http://dx.doi.org/10.1103/RevModPhys.50.261}{{\em Rev.Mod.Phys.}
-  {\bfseries 50} (1978) 261}.
-%%CITATION = RMPHA,50,261;%%.
-
-\bibitem{Frankfurt:2006tp}
-L.~Frankfurt, M.~Strikman, and M.~Zhalov, ``{Elastic and large t rapidity gap
-  vector meson production in ultraperipheral proton-ion collisions},''
-  \href{http://dx.doi.org/10.1016/j.physletb.2006.07.059}{{\em Phys.Lett.}
-  {\bfseries B640} (2006) 162--169},
-\href{http://arxiv.org/abs/hep-ph/0605160}{{\ttfamily arXiv:hep-ph/0605160
-  [hep-ph]}}.
-%%CITATION = HEP-PH/0605160;%%.
-
-\bibitem{Alexa:2013xxa}
-{\bfseries H1 Collaboration} Collaboration, C.~Alexa {\em et~al.}, ``{Elastic
-  and Proton-Dissociative Photoproduction of J/psi Mesons at HERA},''
-  \href{http://dx.doi.org/10.1140/epjc/s10052-013-2466-y}{{\em Eur.Phys.J.}
-  {\bfseries C73} (2013) 2466},
-\href{http://arxiv.org/abs/1304.5162}{{\ttfamily arXiv:1304.5162 [hep-ex]}}.
-%%CITATION = ARXIV:1304.5162;%%.
-
-\bibitem{Aaron:2010aa}
-F.~D. Aaron {\em et~al.}, ``{Measurement of the cross section for diffractive
-  deep-inelastic scattering with a leading proton at HERA},''
-  \href{http://dx.doi.org/10.1140/epjc/s10052-011-1578-5}{{\em Eur. Phys. J.}
-  {\bfseries C71} (2011) 1578},
-\href{http://arxiv.org/abs/1010.1476}{{\ttfamily arXiv:1010.1476 [hep-ex]}}.
-%%CITATION = ARXIV:1010.1476;%%.
-
-\bibitem{Aaron:2010su}
-{\bfseries H1} Collaboration, F.~D. Aaron {\em et~al.}, ``{Diffractive Dijet
-  Photoproduction in ep Collisions at HERA},''
-  \href{http://dx.doi.org/10.1140/epjc/s10052-010-1448-6}{{\em Eur. Phys. J.}
-  {\bfseries C70} (2010) 15--37},
-\href{http://arxiv.org/abs/1006.0946}{{\ttfamily arXiv:1006.0946 [hep-ex]}}.
-%%CITATION = ARXIV:1006.0946;%%.
 
 \bibitem{Evans:2008zzb}
 L.~Evans and P.~Bryant, ``{LHC Machine},''
