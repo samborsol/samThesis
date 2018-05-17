@@ -89,6 +89,13 @@ J.~D. Jackson, {\em Classical electrodynamics}.
 \href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
 %%CITATION = ARXIV:1502.01683;%%.
 
+\bibitem{Adler:2002sc}
+{\bfseries STAR} Collaboration, C.~Adler {\em et~al.}, ``Coherent $\rho^0$
+  production in ultra-peripheral heavy ion collisions,'' {\em Phys. Rev. Lett.}
+  {\bfseries 89} (2002) 272302,
+\href{http://arxiv.org/abs/nucl-ex/0206004}{{\ttfamily nucl-ex/0206004}}.
+%%CITATION = NUCL-EX 0206004;%%.
+
 \bibitem{Klein:2017nqo}
 S.~Klein and J.~Nystrand, ``{Ultraperipheral nuclear collisions},''
 \href{http://dx.doi.org/10.1063/PT.3.3727}{{\em Phys. Today} {\bfseries 70}
@@ -103,6 +110,13 @@ S.~Klein and J.~Nystrand, ``{Ultraperipheral nuclear collisions},''
   {\bfseries B772} (2017) 489--511},
 \href{http://arxiv.org/abs/1605.06966}{{\ttfamily arXiv:1605.06966 [nucl-ex]}}.
 %%CITATION = ARXIV:1605.06966;%%.
+
+\bibitem{Chudasama:2016eck}
+{\bfseries CMS} Collaboration, R.~Chudasama and D.~Dutta, ``{Exclusive
+  Photoproduction of Upsilon in pPb collisions with the CMS},'' {\em PoS}
+  {\bfseries ICPAQGP2015} (2017) 042,
+\href{http://arxiv.org/abs/1607.00786}{{\ttfamily arXiv:1607.00786 [hep-ex]}}.
+%%CITATION = ARXIV:1607.00786;%%.
 
 \bibitem{Aaboud:2017bwk}
 {\bfseries ATLAS} Collaboration, M.~Aaboud {\em et~al.}, ``{Evidence for
@@ -718,13 +732,6 @@ V.~Goncalves and M.~Machado, ``{Vector Meson Production in Coherent Hadronic
 \href{http://arxiv.org/abs/1106.3036}{{\ttfamily arXiv:1106.3036 [hep-ph]}}.
 %%CITATION = ARXIV:1106.3036;%%.
 
-\bibitem{Adler:2002sc}
-{\bfseries STAR} Collaboration, C.~Adler {\em et~al.}, ``Coherent $\rho^0$
-  production in ultra-peripheral heavy ion collisions,'' {\em Phys. Rev. Lett.}
-  {\bfseries 89} (2002) 272302,
-\href{http://arxiv.org/abs/nucl-ex/0206004}{{\ttfamily nucl-ex/0206004}}.
-%%CITATION = NUCL-EX 0206004;%%.
-
 \bibitem{Lappi:2013am}
 T.~Lappi and H.~Mantysaari, ``{$J/|psi$ production in ultraperipheral Pb+Pb and
   $p$+Pb collisions at energies available at the CERN Large Hadron Collider},''
@@ -766,29 +773,6 @@ J.~Nystrand, ``Electromagnetic interactions in nucleus nucleus and proton
 \href{http://arxiv.org/abs/hep-ph/0412096}{{\ttfamily hep-ph/0412096}}.
 %%CITATION = HEP-PH 0412096;%%.
 
-\bibitem{Abelev:2012ba}
-{\bfseries ALICE Collaboration} Collaboration, B.~Abelev {\em et~al.},
-  ``{Coherent $J/\psi$ photoproduction in ultra-peripheral Pb-Pb collisions at
-  $\sqrt{s_{NN}} = 2.76$ TeV},''
-  \href{http://dx.doi.org/10.1016/j.physletb.2012.11.059}{{\em Phys.Lett.}
-  {\bfseries B718} (2013) 1273--1283},
-\href{http://arxiv.org/abs/1209.3715}{{\ttfamily arXiv:1209.3715 [nucl-ex]}}.
-%%CITATION = ARXIV:1209.3715;%%.
-
-\bibitem{pQCD2011.08}
-A.~Adeluyi and C.~A. Bertulani, ``Gluon distributions in nuclei probed at
-  energies available at the {CERN} large hadron collider,''
-  \href{http://dx.doi.org/10.1103/PhysRevC.84.024916}{{\em Phys. Rev. C}
-  {\bfseries 84} (Aug, 2011) 024916}.
-  \url{http://link.aps.org/doi/10.1103/PhysRevC.84.024916}.
-
-\bibitem{TheALICE:2014dwa}
-{\bfseries ALICE Collaboration} Collaboration, B.~B. Abelev {\em et~al.},
-  ``{Exclusive $J/\psi$ photoproduction off protons in ultra-peripheral p-Pb
-  collisions at $\sqrt{s_{NN}}$=5.02 TeV},''
-\href{http://arxiv.org/abs/1406.7819}{{\ttfamily arXiv:1406.7819 [nucl-ex]}}.
-%%CITATION = ARXIV:1406.7819;%%.
-
 \bibitem{Guzey:2013taa}
 V.~Guzey and M.~Zhalov, ``{Rapidity and momentum transfer distributions of
   coherent $J/\psi$ photoproduction in ultraperipheral pPb collisions at the
@@ -817,6 +801,29 @@ S.~R. Klein and J.~Nystrand, ``Photoproduction of quarkonium in proton proton
   (2004) 142003,
 \href{http://arxiv.org/abs/hep-ph/0311164}{{\ttfamily hep-ph/0311164}}.
 %%CITATION = HEP-PH 0311164;%%.
+
+\bibitem{Abelev:2012ba}
+{\bfseries ALICE Collaboration} Collaboration, B.~Abelev {\em et~al.},
+  ``{Coherent $J/\psi$ photoproduction in ultra-peripheral Pb-Pb collisions at
+  $\sqrt{s_{NN}} = 2.76$ TeV},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2012.11.059}{{\em Phys.Lett.}
+  {\bfseries B718} (2013) 1273--1283},
+\href{http://arxiv.org/abs/1209.3715}{{\ttfamily arXiv:1209.3715 [nucl-ex]}}.
+%%CITATION = ARXIV:1209.3715;%%.
+
+\bibitem{pQCD2011.08}
+A.~Adeluyi and C.~A. Bertulani, ``Gluon distributions in nuclei probed at
+  energies available at the {CERN} large hadron collider,''
+  \href{http://dx.doi.org/10.1103/PhysRevC.84.024916}{{\em Phys. Rev. C}
+  {\bfseries 84} (Aug, 2011) 024916}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.84.024916}.
+
+\bibitem{TheALICE:2014dwa}
+{\bfseries ALICE Collaboration} Collaboration, B.~B. Abelev {\em et~al.},
+  ``{Exclusive $J/\psi$ photoproduction off protons in ultra-peripheral p-Pb
+  collisions at $\sqrt{s_{NN}}$=5.02 TeV},''
+\href{http://arxiv.org/abs/1406.7819}{{\ttfamily arXiv:1406.7819 [nucl-ex]}}.
+%%CITATION = ARXIV:1406.7819;%%.
 
 \bibitem{oniaPol}
 P.~Faccioli, C.~Lourenco, J.~Seixas, and H.~K. Wohri, ``{Towards the
