@@ -35,7 +35,7 @@ Heavy-ion collisions at LHC produce strongly interacting nuclear matter. The tem
 
 The Compact Muon Solenoid (CMS) is a general-purpose particle detector located at Point-5 of the LHC. CMS was designed to precisely measure the momentum of muons. The titular superconducting solenoid magnet was designed to generate a 4 Tesla field, but operates at 3.8 T to increase longevity. This field is homogeneous and parallel to the beam line close to the interaction point. The momentum of a muon is measured from how it deflects when moving through the magnetic field \cite{CmsPTdrv2}. Altogether, CMS weighs approximately 12,500 metric tons, with a diameter of 14.6 m and a length of 21.6 meters. Figure \ref{fig:cmsCutOut} displays the detector's various sub-systems \cite{dEnterria:2007iyi}. 
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/fromCMS_DesignPaper_perspective.png}
 \par\end{centering}
@@ -44,7 +44,7 @@ The Compact Muon Solenoid (CMS) is a general-purpose particle detector located a
 
 Within the solenoid volume are a silicon pixel and strip tracker, a lead tungsten crystal electromagnetic calorimeter (ECAL), and a brass and scintillator hadron calorimeter (HCAL), each composed of a barrel and two endcap sections. Fig.\ref{fig:cmsCutOutZY} radial layering of CMS component systems \cite{10.1088/978-1-6817-4078-2ch4}.
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=5.5in]{Chapter3/importfigs/Figure_001.png}
 \par\end{centering}
@@ -63,7 +63,7 @@ A charged particle causes an electrical signal when passing through a silicon pi
 
 The tracker system is designed for high granularity and fast readout, such that each trajectory can be associated with its corresponding bunch crossing. The tracker is resilient enough to withstand the high flux of particles accompanying every bunch crossing; at design luminosity of $10^34 cm^-2 s^-1$, some 1000 particles will traverse the tracker every 25 ns. However, the mass of the tracker is minimal enough to suppress multiple scattering, off its material, that would distort particle trajectories. These design constraints -- resistance and transparency -- are satisfied silicon. The tracker has approximately $200 m^2$ of silicon surface, making it the largest silicon detector ever constructed. The pseudorapidity coverage of the pixel and strip trackers is shown in figure \ref{fig:trackerYZ} \cite{Chatrchyan:2009sr}.
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/cms_cft_09_003_fig1.png}
 \par\end{centering}
@@ -86,7 +86,7 @@ Outside the pixel tracker are the layers of the strip tracker. They function sim
 
 The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for detecting electrons and photons. The calorimeter is comprised of lead tungstate ($PbWO_4$) crystals arranged in cylinder about the beam, including two endcaps, as seen in figure \ref{fig:ecalComp} \cite{Benaglia:2014aqa}. The granularity of these crystals gives the ECAL excellent energy resolution, angular resolution, and spatial resolution; for example, the ECAL has the resolution suitable for the decay of the Higgs boson into two photons. The ECAL is both hermetic and homogenous \cite{elect_cms_note06}. 
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=7in]{Chapter3/importfigs/ecal_performance_with_examples.png}
 \par\end{centering}
@@ -95,7 +95,7 @@ The Electromagnetic Calorimeter (ECAL) is the dedicated CMS calorimeter for dete
 
 The data readout is fast enough that CMS can trigger off signals in the ECAL. It takes about 25 ns for an ECAL hit to scintillate 80 percent of its lights, putting the calorimeter's rate on the same scale as the bunch crossing. Scintillation in the crystals activates photodetectors that transmit information to the L1 trigger. In the barrel these photodectors are avalanche photodiodes (APDs). The endcaps use vacuum phototriodes (VPTs). ECAL's energy resolution, as a function of energy, is given by figure \ref{fig:ecalRes} \cite{Bayatian:2006nff}. The resolution increases with energy because, at large energies, parton showers become more similar as their random fluctuations average-out.
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-007.pdf}
 \par\end{centering}
@@ -104,7 +104,7 @@ The data readout is fast enough that CMS can trigger off signals in the ECAL. It
  
 In CMS trigger development, "EG" triggers fire based on energy deposits in the ECAL; fig.\ref{fig:ecalResL1} gives the EG trigger energy resolution \cite{Bayatian:2006nff}. This energy comes primarily from electrons and photons. When these particles strike a tungstate crystal, the particle shower size is approximately that of the crystal. Electrons are distinguished from photons by the correlation of track to ECAL energy. The L1 trigger does not fire on tracks, which are reconstructed at the HLT level. Thus, L1 EG triggers do not distinguish between electrons and photons. 
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_013-a.png}
 \par\end{centering}
@@ -116,7 +116,7 @@ In CMS trigger development, "EG" triggers fire based on energy deposits in the E
 
 The Hadronic Calorimeter (HCAL) is the next layer outside the ECAL. The HCAL is a sampling calorimeter, meaning that it absorbs particles and measures their energyy and momentum via scintillation. HCAL has such a large acceptance that it can indirectly observe non-interacting particles such as neutrinos. The HCAL is designed to be hermetic, so that imbalances of momentum and energy can be precisely measured \cite{Baiatian:2007xva}. Figure \ref{fig:hcalRes} plots the HCAL's energy resolution; note that the resolution changes with $|\eta|$ \cite{Bayatian:2006nff}.
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-008.pdf}
 \par\end{centering}
@@ -125,7 +125,7 @@ The Hadronic Calorimeter (HCAL) is the next layer outside the ECAL. The HCAL is 
 
 There are four sub-sections of the HCAL: the inner barrel (HB) and the outer barrel (HO), two endcaps (HE), and two forward calorimeters (HF). The HF are the most relevant to this analysis because of their use in triggering on non-hadronic events. Fig.\ref{fig:hcalComp} shows the HCAL energy resolution \cite{Bayatian:2006nff}.
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=5in]{Chapter3/importfigs/filtering_noise_in_CMS_hadron_calorimeter.png}
 \par\end{centering}
@@ -145,7 +145,7 @@ Hits in the HF are used to measure the instantaneous luminosity of CMS. As shown
 
 The outermost layer of CMS consists of the muon detectors, as seen in figure \ref{fig:muonYZ} \cite{Bayatian:2006nff}. Muons are particles nearly identical to electrons, except for their mass, which exceeds that of the electron by some two orders of magnitude. High mass particles, like the Higgs boson, often decay into a final state containing muons. The muon detector not only identifies muons, but also measures their momentum. The muon detector has readout fast enough for triggering on muons \cite{CMS_AN_2008-098} \cite{cmsTnP}.
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/Figure_001-006.pdf}
 \par\end{centering}
@@ -170,7 +170,7 @@ The PF is also responsible for implementing the jet reconstruction algorithms of
 
 CMS gains significant jet reconstruction efficiency via the PF. At low transverse momentum, PF reconstructs jets at nearly twice the resolution of HCAL and ECAL. This increase in efficiency comes from the PF integrating in track data with the calorimeter tower data. Figure \ref{fig:pfPerf} compares the performance of the PF algorithm to the calorimter reconstruction \cite{Sirunyan:2017ulk}.
 
-\begin{figure}[h!]
+\begin{figure}[]
 \begin{centering}
 \includegraphics[width=4in]{Chapter3/importfigs/CCrec2_05_16.jpg}
 \par\end{centering}

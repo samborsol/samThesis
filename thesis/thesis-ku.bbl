@@ -81,6 +81,14 @@ J.~D. Jackson, {\em Classical electrodynamics}.
 \newblock Wiley, New York, {NY}, 3rd ed.~ed., 1999.
 \newblock \url{http://cdsweb.cern.ch/record/490457}.
 
+\bibitem{Andreev:2015cwa}
+{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
+  Production with a Leading Proton in $ep$ Collisions at HERA},''
+  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
+  (2015) 056},
+\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
+%%CITATION = ARXIV:1502.01683;%%.
+
 \bibitem{Adler:2002sc}
 {\bfseries STAR} Collaboration, C.~Adler {\em et~al.}, ``Coherent $\rho^0$
   production in ultra-peripheral heavy ion collisions,'' {\em Phys. Rev. Lett.}
@@ -121,14 +129,6 @@ S.~Klein and J.~Nystrand, ``{Ultraperipheral nuclear collisions},''
 \bibitem{Collaboration:2278547}
 A.~Collaboration, ``{ATLAS Event Display: Light-by-Light Scattering}.'' General
   Photo, Aug, 2017.
-
-\bibitem{Andreev:2015cwa}
-{\bfseries H1} Collaboration, V.~Andreev {\em et~al.}, ``{Diffractive Dijet
-  Production with a Leading Proton in $ep$ Collisions at HERA},''
-  \href{http://dx.doi.org/10.1007/JHEP05(2015)056}{{\em JHEP} {\bfseries 05}
-  (2015) 056},
-\href{http://arxiv.org/abs/1502.01683}{{\ttfamily arXiv:1502.01683 [hep-ex]}}.
-%%CITATION = ARXIV:1502.01683;%%.
 
 \bibitem{dEnterria:2007iyi}
 {\bfseries CMS} Collaboration, D.~G. d'Enterria {\em et~al.}, ``{CMS physics
@@ -618,6 +618,14 @@ M.~Wilde, ``Measurement of direct photons in pp and pb–pb collisions with
   Quark Matter 2012 Proceedings of the \{XXIII\} International Conference on
   Ultrarelativistic Nucleus-Nucleus Collisions.
 
+\bibitem{Aaron:2010su}
+{\bfseries H1} Collaboration, F.~D. Aaron {\em et~al.}, ``{Diffractive Dijet
+  Photoproduction in ep Collisions at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-010-1448-6}{{\em Eur. Phys. J.}
+  {\bfseries C70} (2010) 15--37},
+\href{http://arxiv.org/abs/1006.0946}{{\ttfamily arXiv:1006.0946 [hep-ex]}}.
+%%CITATION = ARXIV:1006.0946;%%.
+
 \bibitem{lta2011.09}
 V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``{Coherent rho and J/psi
   photoproduction in ultraperipheral processes with electromagnetic
@@ -987,14 +995,6 @@ F.~D. Aaron {\em et~al.}, ``{Measurement of the cross section for diffractive
   {\bfseries C71} (2011) 1578},
 \href{http://arxiv.org/abs/1010.1476}{{\ttfamily arXiv:1010.1476 [hep-ex]}}.
 %%CITATION = ARXIV:1010.1476;%%.
-
-\bibitem{Aaron:2010su}
-{\bfseries H1} Collaboration, F.~D. Aaron {\em et~al.}, ``{Diffractive Dijet
-  Photoproduction in ep Collisions at HERA},''
-  \href{http://dx.doi.org/10.1140/epjc/s10052-010-1448-6}{{\em Eur. Phys. J.}
-  {\bfseries C70} (2010) 15--37},
-\href{http://arxiv.org/abs/1006.0946}{{\ttfamily arXiv:1006.0946 [hep-ex]}}.
-%%CITATION = ARXIV:1006.0946;%%.
 
 \bibitem{Donnachie:2002en}
 S.~Donnachie, H.~G. Dosch, O.~Nachtmann, and P.~Landshoff, ``{Pomeron physics
