@@ -8,23 +8,23 @@
 \contentsline {figure}{\numberline {1.6}{\ignorespaces $J/\Psi $ suppression in Pb-Pb collisions \cite {spsHI} \relax }}{12}{figure.caption.9}
 \contentsline {figure}{\numberline {1.7}{\ignorespaces Heavy-ion collision overlap region \relax }}{13}{figure.caption.10}
 \contentsline {figure}{\numberline {1.8}{\ignorespaces $v_2$ vs collision energy \cite {spsHI} \relax }}{14}{figure.caption.11}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces STAR $Au+Au$ at $\sqrt {s_{NN}}=130$ GeV, (left)$v_2$ vs centrality and (right)$v_2$ vs $p_T$ \cite {Ackermann:2000tr}\relax }}{14}{figure.caption.12}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{14}{subfigure.9.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{14}{subfigure.9.2}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces STAR $Au+Au$ at $\sqrt {s_{NN}}=130$ GeV, (left)$v_2$ vs centrality and (right)$v_2$ vs $p_T$ \cite {Ackermann:2000tr}\relax }}{15}{figure.caption.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{15}{subfigure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{15}{subfigure.9.2}
 \contentsline {figure}{\numberline {1.10}{\ignorespaces CMS (left) pPb and (right) PbPb, angular correlations \cite {Chatrchyan:2013nka}\relax }}{15}{figure.caption.13}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{15}{subfigure.10.1}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{15}{subfigure.10.2}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces History of the Universe \cite {Bandyopadhyay:2017wip} \relax }}{15}{figure.caption.14}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces History of a Heavy-Ion Collision \cite {Wang:2012jua}\relax }}{16}{figure.caption.15}
-\contentsline {figure}{\numberline {1.13}{\ignorespaces Interconnectedness of Parton Distributions \cite {Diehl:2003ny} \relax }}{18}{figure.caption.16}
-\contentsline {figure}{\numberline {1.14}{\ignorespaces Feynman Diagram of Coherent Dijets in Dipole Framework \cite {Hatta:2016dxp}\relax }}{18}{figure.caption.17}
-\contentsline {figure}{\numberline {1.15}{\ignorespaces equation...\relax }}{20}{figure.caption.18}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Subcaption 1}}}{20}{subfigure.15.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Subcaption 2}}}{20}{subfigure.15.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Subcaption 3}}}{20}{subfigure.15.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Subcaption 4}}}{20}{subfigure.15.4}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Subcaption 5}}}{20}{subfigure.15.5}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Subcaption 6}}}{20}{subfigure.15.6}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces History of the Universe \cite {Bandyopadhyay:2017wip} \relax }}{16}{figure.caption.14}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces History of a Heavy-Ion Collision \cite {Wang:2012jua}\relax }}{17}{figure.caption.15}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Interconnectedness of Parton Distributions \cite {Diehl:2003ny} \relax }}{19}{figure.caption.16}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Feynman Diagram of Coherent Dijets in Dipole Framework \cite {Hatta:2016dxp}\relax }}{19}{figure.caption.17}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Theoretical Quark GTMDs \cite {Chakrabarti:2016yuw}\relax }}{20}{figure.caption.18}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{20}{subfigure.15.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{20}{subfigure.15.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{20}{subfigure.15.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{20}{subfigure.15.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{20}{subfigure.15.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{20}{subfigure.15.6}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \cite {WWJackson} \relax }}{22}{figure.caption.19}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Ratio of H1 data cross-section to NLO-QCD cross-section \cite {Andreev:2015cwa} \relax }}{23}{figure.caption.20}
@@ -43,7 +43,7 @@
 \contentsline {figure}{\numberline {2.13}{\ignorespaces Feynman diagrams for coherent jet photoproduction in (a) direct-photon in ep, (b) resolved-photon in ep \cite {Andreev:2015cwa} \relax }}{33}{figure.caption.31}
 \contentsline {figure}{\numberline {2.14}{\ignorespaces Ratio of H1 data cross-section to NLO-QCD cross-section \cite {Andreev:2015cwa} \relax }}{34}{figure.caption.32}
 \contentsline {figure}{\numberline {2.15}{\ignorespaces Beam envelope vs. distance to vertex in H1 \cite {Andreev:2015cwa} \relax }}{35}{figure.caption.33}
-\contentsline {figure}{\numberline {2.16}{\ignorespaces H1, Diffractive Dijets, Kinematics \cite {Aaron:2010aa} \relax }}{36}{figure.caption.34}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces H1, Diffractive $e+p$ products, Kinematics \cite {Aaron:2010aa} \relax }}{36}{figure.caption.34}
 \contentsline {figure}{\numberline {2.17}{\ignorespaces H1, Diffractive Dijets, Cross Section \cite {Aaron:2010aa} \relax }}{37}{figure.caption.35}
 \contentsline {figure}{\numberline {2.18}{\ignorespaces ZEUS, Diffractive Dijets, Kinematics \cite {Chekanov:2008fh} \relax }}{38}{figure.caption.36}
 \contentsline {figure}{\numberline {2.19}{\ignorespaces ATLAS UPC Dijets, (left)$p_T$ and (right)invariant mass \cite {Donnachie:2002en}\relax }}{39}{figure.caption.37}

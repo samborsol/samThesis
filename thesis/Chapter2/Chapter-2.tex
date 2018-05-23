@@ -174,7 +174,7 @@ Light-by-light scattering has been observed at ATLAS. The relevant data sample c
 
 Figure \ref{fig:atlasEvent} is an event display for an ATLAS light-by-light candidate \cite{Collaboration:2278547}. Notice that the two photons are back-to-back in the plane perpendicular to the beam.
 
-\section{Dijet photoproduction}
+\section{Coherent dijet photoproduction and diffraction}
 
 Jets are one of the most interesting nuclear phenomena discovered in the modern era of particle acclerators. The existence of jets is a direct result of QCD confinement. In hadron collisions, it is possible for the hadron's constituent partons to fragment away. These partons, of themselves, would not be colorless. However, QCD confinement -- caused by the running QCD coupling -- demands that only colorless objects can independently exist. Therefore, as the fragment partons separate, they manifest new partons around themselves and screen the color charge. The formation of colorless composites, out of colored partons, is called "hadronization". The process of hadronization continues until the kinetic energy of all the fragmented partons drops below the potential energy the binding strong force. The result is a narrow cone of hadrons fanning out from a common source: a "jet". Analyzing a jet can elucidate the properties of its mother parton \cite{d'Enterria:2004nv}.  
 
@@ -226,19 +226,23 @@ H1 used the Very Forward Proton Spectrometer (VFPS) to trigger on low $Q^2$ prot
 
 The H1 data was compared to predictions based on NLO-QCD convoluted with diffractive parton distribution functions (DPDFs) from HERA inclusive diffractive deep-inelastic scattering (DDIS) data. For diffractive pp collisions the high transverse momentum jets yield a hard scale for perturbative QCD \cite{Aaron:2010su}.
 
+H1 used the RAPGAP MC generator to model diffractive $e+p \rightarrow e+X+p$ processes. The requirement of a leading proton, remaining intact or dissociating into a low energy state, was used to sample diffractive events. The collision product kinematics of data and MC are shown in figure \ref{fig:h1Kinematics}. Not only is the data in good agreement with predictions from RAPGAP, but the cross section of diffractive $e+p$ scattering is well described by calculations based on DPDFs. For this process, $\beta$ refers to the fraction of the pomeron's longitudinal momentum transferred to the parton within the nucleus. Figure \ref{fig:h1XSec} is the diffractive cross section as a function of $\beta$ \cite{Aaron:2010aa}. 
+
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/d10-095f3.png}
 \par\end{centering}
-\caption{H1, Diffractive Dijets, Kinematics \cite{Aaron:2010aa} \label{fig:h1Kinematics}}
+\caption{H1, Diffractive $e+p$ products, Kinematics \cite{Aaron:2010aa} \label{fig:h1Kinematics}}
 \end{figure}
-
+ 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=4in]{Chapter2/importfigs/d10-095f15.png}
 \par\end{centering}
 \caption{H1, Diffractive Dijets, Cross Section \cite{Aaron:2010aa} \label{fig:h1XSec}}
 \end{figure}
+
+Rapidity gaps are one of the experimental signatures used to select for diffractive events. The ZEUS collaboration, in their diffractive $e+p$ studies, defined a "large rapidity gap" (LRG) sample as having at least two empty units of rapidity in the forward proton spectrometer (FPS). Here "empty" means the FPS detected no physics objects above 400 MeV. Furthermore, the energy deposited in the FPS could not exceed 1 GeV. The data was found to be in good agreement with diffractive MC produced in SATRAP, as seein in figure \ref{fig:zeusKinematics} \cite{Chekanov:2008fh}. 
 
 \begin{figure}[h!]
 \begin{centering}
@@ -251,7 +255,7 @@ ATLAS has published preliminary results on UPC dijet production. It has been sho
 
 ATLAS used a combination of triggering, forward calorimetry, and rapidity gap requirements to select events of photo-nuclear dijet production in ultra-peripheral heavy-ion collisions. Figure \ref{fig:exampleDijetAtlas} shows the two variations of the leading order diagram for UPC dijet production. On the left is direct photo-production, in which the mediating virtual photon has low enough virtuality to interact with the nucleus as a photon. On the right is resolved photo-production, in which the virtual photon has a high enough virtuality to manifest a hadronic structure, the interaction with the nucleus is mediated by a pomeron \cite{Donnachie:2002en}. Directly photo-produced final state particles will have a characteristic rapidity gap in the final state because the target nucleus does not dissociate. Resolved photoproduction, however, excites the nucleus such that the rapidity gap is partially filled. 
 
-\begin{figure}%
+\begin{figure}[h!]
     \centering
     \subfloat[label 1]{{\includegraphics[width=6cm]{Chapter2/importfigs/fig_01a.png} }}%
     \qquad
