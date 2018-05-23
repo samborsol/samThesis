@@ -6,47 +6,46 @@
 \contentsline {section}{\numberline {1.4}Deep inelastic scattering}{6}{section.1.4}
 \contentsline {section}{\numberline {1.5}Parton distribution functions}{9}{section.1.5}
 \contentsline {section}{\numberline {1.6}Evidence of quark gluon plasma}{11}{section.1.6}
-\contentsline {section}{\numberline {1.7}Wigner distribution}{16}{section.1.7}
-\contentsline {chapter}{\numberline {2}Ultra-peripheral collisions and photoproduction}{20}{chapter.2}
-\contentsline {section}{\numberline {2.1}Ultra-peripheral heavy-ion collisions}{20}{section.2.1}
-\contentsline {section}{\numberline {2.2}Vector meson photoproduction}{22}{section.2.2}
-\contentsline {section}{\numberline {2.3}Vector meson photoproduction}{23}{section.2.3}
-\contentsline {section}{\numberline {2.4}Photon-photon interactions}{29}{section.2.4}
-\contentsline {section}{\numberline {2.5}Dijet photoproduction}{31}{section.2.5}
-\contentsline {chapter}{\numberline {3}The experiment}{37}{chapter.3}
-\contentsline {section}{\numberline {3.1}Large Hadron Collider}{37}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}ATLAS}{37}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}ALICE}{38}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}LHCb}{38}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}TOTEM}{38}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}CASTOR}{39}{subsection.3.1.5}
-\contentsline {section}{\numberline {3.2}Compact Muon Solenoid}{39}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Tracker}{40}{subsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.1.1}Pixel tracker}{42}{subsubsection.3.2.1.1}
-\contentsline {subsubsection}{\numberline {3.2.1.2}Strip tracker}{42}{subsubsection.3.2.1.2}
-\contentsline {subsection}{\numberline {3.2.2}Electromagnetic calorimeter}{42}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Hadronic calorimeter}{45}{subsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.3.1}Hadronic forward calorimeters}{45}{subsubsection.3.2.3.1}
-\contentsline {subsection}{\numberline {3.2.4}Muon detector}{46}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Zero degree calorimeter}{47}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Particle flow algorithm}{48}{subsection.3.2.6}
-\contentsline {chapter}{\numberline {4}Measuring luminosity}{51}{chapter.4}
-\contentsline {section}{\numberline {4.1}Instantaneous luminosity}{51}{section.4.1}
-\contentsline {section}{\numberline {4.2}Luminometers}{52}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Pixel cluster counting}{52}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Pixel luminosity telescope}{53}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Hadronic forward calorimeter}{54}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Fast Beam Conditions Monitor}{54}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Van de Meer scanning calibration}{55}{section.4.3}
-\contentsline {section}{\numberline {4.4}Corrections to VDM scans}{55}{section.4.4}
-\contentsline {section}{\numberline {4.5}Systematic uncertainty}{56}{section.4.5}
-\contentsline {section}{\numberline {4.6}Author's contributions}{57}{section.4.6}
-\contentsline {chapter}{\numberline {5}Trigger development and performance}{61}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction to triggering}{61}{section.5.1}
-\contentsline {section}{\numberline {5.2}Triggering at CMS}{62}{section.5.2}
-\contentsline {section}{\numberline {5.3}Author's contributions}{65}{section.5.3}
-\contentsline {section}{\numberline {5.4}Studies from trigger menus}{66}{section.5.4}
-\contentsline {chapter}{\numberline {6}Data analysis}{68}{chapter.6}
-\contentsline {chapter}{\numberline {7}Systematic uncertainties}{73}{chapter.7}
-\contentsline {chapter}{\numberline {8}Results and conclusions}{74}{chapter.8}
-\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{94}{appendix.A}
+\contentsline {section}{\numberline {1.7}Wigner distribution}{17}{section.1.7}
+\contentsline {chapter}{\numberline {2}Ultra-peripheral collisions and photoproduction}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ultra-peripheral heavy-ion collisions}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}Vector meson photoproduction}{23}{section.2.2}
+\contentsline {section}{\numberline {2.3}Photon-photon interactions}{29}{section.2.3}
+\contentsline {section}{\numberline {2.4}Dijet photoproduction}{31}{section.2.4}
+\contentsline {chapter}{\numberline {3}The experiment}{40}{chapter.3}
+\contentsline {section}{\numberline {3.1}Large Hadron Collider}{40}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}ATLAS}{40}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}ALICE}{41}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}LHCb}{41}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}TOTEM}{41}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}CASTOR}{42}{subsection.3.1.5}
+\contentsline {section}{\numberline {3.2}Compact Muon Solenoid}{42}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Tracker}{43}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Pixel tracker}{45}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Strip tracker}{45}{subsubsection.3.2.1.2}
+\contentsline {subsection}{\numberline {3.2.2}Electromagnetic calorimeter}{45}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Hadronic calorimeter}{48}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Hadronic forward calorimeters}{48}{subsubsection.3.2.3.1}
+\contentsline {subsection}{\numberline {3.2.4}Muon detector}{49}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Zero degree calorimeter}{50}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Particle flow algorithm}{51}{subsection.3.2.6}
+\contentsline {chapter}{\numberline {4}Measuring luminosity}{54}{chapter.4}
+\contentsline {section}{\numberline {4.1}Instantaneous luminosity}{54}{section.4.1}
+\contentsline {section}{\numberline {4.2}Luminometers}{55}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Pixel cluster counting}{55}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Pixel luminosity telescope}{56}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Hadronic forward calorimeter}{57}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Fast Beam Conditions Monitor}{57}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Van de Meer scanning calibration}{58}{section.4.3}
+\contentsline {section}{\numberline {4.4}Corrections to VDM scans}{58}{section.4.4}
+\contentsline {section}{\numberline {4.5}Systematic uncertainty}{59}{section.4.5}
+\contentsline {section}{\numberline {4.6}Author's contributions}{60}{section.4.6}
+\contentsline {chapter}{\numberline {5}Trigger development and performance}{64}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction to triggering}{64}{section.5.1}
+\contentsline {section}{\numberline {5.2}Triggering at CMS}{65}{section.5.2}
+\contentsline {section}{\numberline {5.3}Author's contributions}{68}{section.5.3}
+\contentsline {section}{\numberline {5.4}Studies from trigger menus}{69}{section.5.4}
+\contentsline {chapter}{\numberline {6}Data analysis}{71}{chapter.6}
+\contentsline {chapter}{\numberline {7}Systematic uncertainties}{76}{chapter.7}
+\contentsline {chapter}{\numberline {8}Results and conclusions}{77}{chapter.8}
+\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{97}{appendix.A}

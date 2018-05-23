@@ -8,70 +8,78 @@
 \contentsline {figure}{\numberline {1.6}{\ignorespaces $J/\Psi $ suppression in Pb-Pb collisions \cite {spsHI} \relax }}{12}{figure.caption.9}
 \contentsline {figure}{\numberline {1.7}{\ignorespaces Heavy-ion collision overlap region \relax }}{13}{figure.caption.10}
 \contentsline {figure}{\numberline {1.8}{\ignorespaces $v_2$ vs collision energy \cite {spsHI} \relax }}{14}{figure.caption.11}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces History of the Universe \cite {Bandyopadhyay:2017wip} \relax }}{15}{figure.caption.12}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces History of a Heavy-Ion Collision \cite {Wang:2012jua}\relax }}{16}{figure.caption.13}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces Interconnectedness of Parton Distributions \cite {Diehl:2003ny} \relax }}{17}{figure.caption.14}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces Feynman Diagram of Coherent Dijets in Dipole Framework \cite {Hatta:2016dxp}\relax }}{18}{figure.caption.15}
-\contentsline {figure}{\numberline {1.13}{\ignorespaces equation...\relax }}{19}{figure.caption.16}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Subcaption 1}}}{19}{subfigure.13.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Subcaption 2}}}{19}{subfigure.13.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Subcaption 3}}}{19}{subfigure.13.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Subcaption 4}}}{19}{subfigure.13.4}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Subcaption 5}}}{19}{subfigure.13.5}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Subcaption 6}}}{19}{subfigure.13.6}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces STAR $Au+Au$ at $\sqrt {s_{NN}}=130$ GeV, (left)$v_2$ vs centrality and (right)$v_2$ vs $p_T$ \cite {Ackermann:2000tr}\relax }}{14}{figure.caption.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{14}{subfigure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{14}{subfigure.9.2}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces CMS (left) pPb and (right) PbPb, angular correlations \cite {Chatrchyan:2013nka}\relax }}{15}{figure.caption.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{15}{subfigure.10.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{15}{subfigure.10.2}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces History of the Universe \cite {Bandyopadhyay:2017wip} \relax }}{15}{figure.caption.14}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces History of a Heavy-Ion Collision \cite {Wang:2012jua}\relax }}{16}{figure.caption.15}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Interconnectedness of Parton Distributions \cite {Diehl:2003ny} \relax }}{18}{figure.caption.16}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Feynman Diagram of Coherent Dijets in Dipole Framework \cite {Hatta:2016dxp}\relax }}{18}{figure.caption.17}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces equation...\relax }}{20}{figure.caption.18}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Subcaption 1}}}{20}{subfigure.15.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Subcaption 2}}}{20}{subfigure.15.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Subcaption 3}}}{20}{subfigure.15.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Subcaption 4}}}{20}{subfigure.15.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Subcaption 5}}}{20}{subfigure.15.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Subcaption 6}}}{20}{subfigure.15.6}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \cite {WWJackson} \relax }}{21}{figure.caption.17}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Ratio of H1 data cross-section to NLO-QCD cross-section \cite {Andreev:2015cwa} \relax }}{22}{figure.caption.18}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Beam envelope vs. distance to vertex in H1 \cite {Andreev:2015cwa} \relax }}{23}{figure.caption.19}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces $AuAu \rightarrow AuAu\rho ^o$, (a.) UPC exclusive $\rho ^o$ diagram, (b.) with mutual nuclei excitation \cite {Adler:2002sc} \relax }}{24}{figure.caption.20}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces UPC exclusive $\rho ^o$ $p_T$, (a.) topology triggered (b.) minimum bias triggered \cite {Adler:2002sc} \relax }}{25}{figure.caption.21}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces $\gamma +$proton$\rightarrow J/\Psi +$proton cross-section \cite {Klein:2017nqo}. \relax }}{25}{figure.caption.22}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Left: dimuon invariant mass spectrum, right: dimuon $p_T$ spectrum \cite {Khachatryan:2016qhq}\relax }}{26}{figure.caption.23}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{26}{subfigure.7.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{26}{subfigure.7.2}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Differential cross section versus rapidity for coherent $J/\Psi $ production in ultra-peripheral PbPb collisions at $\sqrt {s_{NN}}=2.76 TeV$ \cite {Khachatryan:2016qhq} \relax }}{27}{figure.caption.24}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces $\Upsilon $ photoproduction mass spectrum \cite {Chudasama:2016eck} \relax }}{28}{figure.caption.25}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces $\sigma _{\Upsilon _{\gamma p}}$ vs $W_{\gamma p}$ \cite {Chudasama:2016eck} \relax }}{28}{figure.caption.26}
-\contentsline {figure}{\numberline {2.11}{\ignorespaces $\gamma \gamma $ Diagrams of light-by-light scattering, (a.) channels, (b.) analagous \cite {Aaboud:2017bwk} \relax }}{30}{figure.caption.27}
-\contentsline {figure}{\numberline {2.12}{\ignorespaces $\gamma \gamma $ kinematics, (a.) acoplanarity, (b.) invariant mass \cite {Aaboud:2017bwk} \relax }}{30}{figure.caption.28}
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Event Display of ATLAS photon-photon scattering \cite {Collaboration:2278547} \relax }}{31}{figure.caption.29}
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Feynman diagrams for coherent jet photoproduction in (a) direct-photon in ep, (b) resolved-photon in ep \cite {Andreev:2015cwa} \relax }}{33}{figure.caption.30}
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Ratio of H1 data cross-section to NLO-QCD cross-section \cite {Andreev:2015cwa} \relax }}{34}{figure.caption.31}
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Beam envelope vs. distance to vertex in H1 \cite {Andreev:2015cwa} \relax }}{35}{figure.caption.32}
-\contentsline {figure}{\numberline {2.17}{\ignorespaces 2 Figures side by side\relax }}{36}{figure.caption.33}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{36}{subfigure.17.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{36}{subfigure.17.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \cite {WWJackson} \relax }}{22}{figure.caption.19}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Ratio of H1 data cross-section to NLO-QCD cross-section \cite {Andreev:2015cwa} \relax }}{23}{figure.caption.20}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces $AuAu \rightarrow AuAu\rho ^o$, (a.) UPC exclusive $\rho ^o$ diagram, (b.) with mutual nuclei excitation \cite {Adler:2002sc} \relax }}{24}{figure.caption.21}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces UPC exclusive $\rho ^o$ $p_T$, (a.) topology triggered (b.) minimum bias triggered \cite {Adler:2002sc} \relax }}{25}{figure.caption.22}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces $\gamma +$proton$\rightarrow J/\Psi +$proton cross-section \cite {Klein:2017nqo}. \relax }}{25}{figure.caption.23}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Left: dimuon invariant mass spectrum, right: dimuon $p_T$ spectrum \cite {Khachatryan:2016qhq}\relax }}{26}{figure.caption.24}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{26}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{26}{subfigure.6.2}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Differential cross section versus rapidity for coherent $J/\Psi $ production in ultra-peripheral PbPb collisions at $\sqrt {s_{NN}}=2.76 TeV$ \cite {Khachatryan:2016qhq} \relax }}{27}{figure.caption.25}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces $\Upsilon $ photoproduction mass spectrum \cite {Chudasama:2016eck} \relax }}{28}{figure.caption.26}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces $\sigma _{\Upsilon _{\gamma p}}$ vs $W_{\gamma p}$ \cite {Chudasama:2016eck} \relax }}{28}{figure.caption.27}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces $\gamma \gamma $ Diagrams of light-by-light scattering, (a.) channels, (b.) analagous \cite {Aaboud:2017bwk} \relax }}{30}{figure.caption.28}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces $\gamma \gamma $ kinematics, (a.) acoplanarity, (b.) invariant mass \cite {Aaboud:2017bwk} \relax }}{30}{figure.caption.29}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Event Display of ATLAS photon-photon scattering \cite {Collaboration:2278547} \relax }}{31}{figure.caption.30}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Feynman diagrams for coherent jet photoproduction in (a) direct-photon in ep, (b) resolved-photon in ep \cite {Andreev:2015cwa} \relax }}{33}{figure.caption.31}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Ratio of H1 data cross-section to NLO-QCD cross-section \cite {Andreev:2015cwa} \relax }}{34}{figure.caption.32}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Beam envelope vs. distance to vertex in H1 \cite {Andreev:2015cwa} \relax }}{35}{figure.caption.33}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces H1, Diffractive Dijets, Kinematics \cite {Aaron:2010aa} \relax }}{36}{figure.caption.34}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces H1, Diffractive Dijets, Cross Section \cite {Aaron:2010aa} \relax }}{37}{figure.caption.35}
+\contentsline {figure}{\numberline {2.18}{\ignorespaces ZEUS, Diffractive Dijets, Kinematics \cite {Chekanov:2008fh} \relax }}{38}{figure.caption.36}
+\contentsline {figure}{\numberline {2.19}{\ignorespaces ATLAS UPC Dijets, (left)$p_T$ and (right)invariant mass \cite {Donnachie:2002en}\relax }}{39}{figure.caption.37}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{39}{subfigure.19.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{39}{subfigure.19.2}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces CMS Detector \cite {dEnterria:2007iyi} \relax }}{39}{figure.caption.34}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces CMS radial cross-section \cite {10.1088/978-1-6817-4078-2ch4} \relax }}{40}{figure.caption.35}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Pseudorapidity acceptance of tracker \cite {Chatrchyan:2009sr} \relax }}{41}{figure.caption.36}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces ECAL components \cite {Benaglia:2014aqa} \relax }}{43}{figure.caption.37}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Ecal energy resolution \cite {Bayatian:2006nff} \relax }}{44}{figure.caption.38}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Ecal energy resolution \cite {Bayatian:2006nff}\relax }}{44}{figure.caption.39}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces HCAL energy resolution \cite {Bayatian:2006nff}\relax }}{45}{figure.caption.40}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces HCAL Components \cite {Bayatian:2006nff} \relax }}{46}{figure.caption.41}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Pseudorapidity acceptance of muon detector \cite {Bayatian:2006nff}\relax }}{47}{figure.caption.42}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Performance of particle flow alorgithm compared to calorimeter readout \cite {Sirunyan:2017ulk} \relax }}{49}{figure.caption.43}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces CMS Detector \cite {dEnterria:2007iyi} \relax }}{42}{figure.caption.38}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces CMS radial cross-section \cite {10.1088/978-1-6817-4078-2ch4} \relax }}{43}{figure.caption.39}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Pseudorapidity acceptance of tracker \cite {Chatrchyan:2009sr} \relax }}{44}{figure.caption.40}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces ECAL components \cite {Benaglia:2014aqa} \relax }}{46}{figure.caption.41}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Reconstructed data, ECAL energy resolution \cite {Bayatian:2006nff} \relax }}{47}{figure.caption.42}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces L1 trigger, ECAL energy resolution \cite {Bayatian:2006nff}\relax }}{47}{figure.caption.43}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces HCAL energy resolution \cite {Bayatian:2006nff}\relax }}{48}{figure.caption.44}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces HCAL Components \cite {Bayatian:2006nff} \relax }}{49}{figure.caption.45}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Pseudorapidity acceptance of muon detector \cite {Bayatian:2006nff}\relax }}{50}{figure.caption.46}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Performance of particle flow alorgithm compared to calorimeter readout \cite {Sirunyan:2017ulk} \relax }}{52}{figure.caption.47}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces PLT triple coincidence \relax }}{53}{figure.caption.44}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces PCC VdM Scans \cite {CMS:2013gfa} \relax }}{55}{figure.caption.45}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Systematic Uncertainty During 2015 pp Run \cite {CMS:2013gfa} \relax }}{57}{figure.caption.46}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Luminosity by CMS fill. \relax }}{58}{figure.caption.47}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces CMS Run Registry. \relax }}{59}{figure.caption.48}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces CMS lumi during HI-2015. \relax }}{59}{figure.caption.49}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces CMS Lumi by Era. \relax }}{60}{figure.caption.50}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces PLT triple coincidence \relax }}{56}{figure.caption.48}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces PCC VdM Scans \cite {CMS:2013gfa} \relax }}{58}{figure.caption.49}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Systematic Uncertainty During 2015 pp Run \cite {CMS:2013gfa} \relax }}{60}{figure.caption.50}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Luminosity by CMS fill. \relax }}{61}{figure.caption.51}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces CMS Run Registry. \relax }}{62}{figure.caption.52}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces CMS lumi during HI-2015. \relax }}{62}{figure.caption.53}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces CMS Lumi by Era. \relax }}{63}{figure.caption.54}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Rossi circuit with three Geiger-Muller coincidence circuits \cite {Bonolis:2011ph} \relax }}{61}{figure.caption.51}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Flow of information in L1 trigger \relax }}{63}{figure.caption.52}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Leading tower energy distribution in HF \relax }}{63}{figure.caption.53}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces High multiplicity PbPb collision \relax }}{64}{figure.caption.54}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces UPC Upsilon candidate \relax }}{64}{figure.caption.55}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Example of trigger rate. \relax }}{65}{figure.caption.56}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Rossi circuit with three Geiger-Muller coincidence circuits \cite {Bonolis:2011ph} \relax }}{64}{figure.caption.55}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Flow of information in L1 trigger \relax }}{66}{figure.caption.56}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Leading tower energy distribution in HF \relax }}{66}{figure.caption.57}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces High multiplicity PbPb collision \relax }}{67}{figure.caption.58}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces UPC Upsilon candidate \relax }}{67}{figure.caption.59}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Example of trigger rate. \relax }}{68}{figure.caption.60}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Raw $\phi $ distribution. \relax }}{69}{figure.caption.59}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Mixed $\phi $ distribution. \relax }}{70}{figure.caption.60}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Subtracted $\phi $ distribution. \relax }}{71}{figure.caption.61}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Final $\phi $ distribution. \relax }}{72}{figure.caption.62}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Raw $\phi $ distribution. \relax }}{72}{figure.caption.63}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Mixed $\phi $ distribution. \relax }}{73}{figure.caption.64}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Subtracted $\phi $ distribution. \relax }}{74}{figure.caption.65}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Final $\phi $ distribution. \relax }}{75}{figure.caption.66}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

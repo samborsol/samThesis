@@ -37,6 +37,24 @@ H.~Satz, ``{The SPS heavy ion programme},''
   [hep-ph]}}.
 %%CITATION = HEP-PH/0405051;%%.
 
+\bibitem{Ackermann:2000tr}
+{\bfseries STAR Collaboration} Collaboration, K.~Ackermann {\em et~al.},
+  ``{Elliptic flow in Au + Au collisions at (S(NN))**(1/2) = 130 GeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.86.402}{{\em Phys.Rev.Lett.}
+  {\bfseries 86} (2001) 402--407},
+\href{http://arxiv.org/abs/nucl-ex/0009011}{{\ttfamily arXiv:nucl-ex/0009011
+  [nucl-ex]}}.
+%%CITATION = NUCL-EX/0009011;%%.
+
+\bibitem{Chatrchyan:2013nka}
+{\bfseries CMS Collaboration} Collaboration, S.~Chatrchyan {\em et~al.},
+  ``{Multiplicity and transverse momentum dependence of two- and four-particle
+  correlations in pPb and PbPb collisions},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2013.06.028}{{\em Phys.Lett.}
+  {\bfseries B724} (2013) 213--240},
+\href{http://arxiv.org/abs/1305.0609}{{\ttfamily arXiv:1305.0609 [nucl-ex]}}.
+%%CITATION = ARXIV:1305.0609;%%.
+
 \bibitem{Bandyopadhyay:2017wip}
 A.~Bandyopadhyay, {\em {Non-perturbative study of spectral function and its
   application in Quark Gluon Plasma}}.
@@ -129,6 +147,28 @@ S.~Klein and J.~Nystrand, ``{Ultraperipheral nuclear collisions},''
 \bibitem{Collaboration:2278547}
 A.~Collaboration, ``{ATLAS Event Display: Light-by-Light Scattering}.'' General
   Photo, Aug, 2017.
+
+\bibitem{Aaron:2010aa}
+F.~D. Aaron {\em et~al.}, ``{Measurement of the cross section for diffractive
+  deep-inelastic scattering with a leading proton at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-011-1578-5}{{\em Eur. Phys. J.}
+  {\bfseries C71} (2011) 1578},
+\href{http://arxiv.org/abs/1010.1476}{{\ttfamily arXiv:1010.1476 [hep-ex]}}.
+%%CITATION = ARXIV:1010.1476;%%.
+
+\bibitem{Chekanov:2008fh}
+{\bfseries ZEUS} Collaboration, S.~Chekanov {\em et~al.}, ``{Deep inelastic
+  scattering with leading protons or large rapidity gaps at HERA},''
+  \href{http://dx.doi.org/10.1016/j.nuclphysb.2009.03.003}{{\em Nucl. Phys.}
+  {\bfseries B816} (2009) 1--61},
+\href{http://arxiv.org/abs/0812.2003}{{\ttfamily arXiv:0812.2003 [hep-ex]}}.
+%%CITATION = ARXIV:0812.2003;%%.
+
+\bibitem{Donnachie:2002en}
+S.~Donnachie, H.~G. Dosch, O.~Nachtmann, and P.~Landshoff, ``{Pomeron physics
+  and QCD},''
+{\em Camb.Monogr.Part.Phys.Nucl.Phys.Cosmol.} {\bfseries 19} (2002) 1--347.
+%%CITATION = CMPCE,19,1;%%.
 
 \bibitem{dEnterria:2007iyi}
 {\bfseries CMS} Collaboration, D.~G. d'Enterria {\em et~al.}, ``{CMS physics
@@ -446,15 +486,6 @@ B.~Alver {\em et~al.}, ``Importance of correlations and fluctuations on the
   {\bfseries 77} (Jan, 2008) 014906}.
   \url{http://link.aps.org/doi/10.1103/PhysRevC.77.014906}.
 
-\bibitem{Chatrchyan:2013nka}
-{\bfseries CMS Collaboration} Collaboration, S.~Chatrchyan {\em et~al.},
-  ``{Multiplicity and transverse momentum dependence of two- and four-particle
-  correlations in pPb and PbPb collisions},''
-  \href{http://dx.doi.org/10.1016/j.physletb.2013.06.028}{{\em Phys.Lett.}
-  {\bfseries B724} (2013) 213--240},
-\href{http://arxiv.org/abs/1305.0609}{{\ttfamily arXiv:1305.0609 [nucl-ex]}}.
-%%CITATION = ARXIV:1305.0609;%%.
-
 \bibitem{Karsch:2000kv}
 F.~Karsch, E.~Laermann, and A.~Peikert, ``{Quark mass and flavor dependence of
   the QCD phase transition},''
@@ -501,15 +532,6 @@ N.~Borghini, P.~M. Dinh, and J.-Y. Ollitrault, ``{Flow analysis from cumulants:
 \href{http://arxiv.org/abs/nucl-ex/0110016}{{\ttfamily arXiv:nucl-ex/0110016
   [nucl-ex]}}.
 %%CITATION = NUCL-EX/0110016;%%.
-
-\bibitem{Ackermann:2000tr}
-{\bfseries STAR Collaboration} Collaboration, K.~Ackermann {\em et~al.},
-  ``{Elliptic flow in Au + Au collisions at (S(NN))**(1/2) = 130 GeV},''
-  \href{http://dx.doi.org/10.1103/PhysRevLett.86.402}{{\em Phys.Rev.Lett.}
-  {\bfseries 86} (2001) 402--407},
-\href{http://arxiv.org/abs/nucl-ex/0009011}{{\ttfamily arXiv:nucl-ex/0009011
-  [nucl-ex]}}.
-%%CITATION = NUCL-EX/0009011;%%.
 
 \bibitem{Borghini:2004ke}
 N.~Borghini, R.~Bhalerao, and J.~Ollitrault, ``{Anisotropic flow from Lee-Yang
@@ -617,14 +639,6 @@ M.~Wilde, ``Measurement of direct photons in pp and pb–pb collisions with
   \url{http://www.sciencedirect.com/science/article/pii/S0375947413001954}. The
   Quark Matter 2012 Proceedings of the \{XXIII\} International Conference on
   Ultrarelativistic Nucleus-Nucleus Collisions.
-
-\bibitem{Aaron:2010su}
-{\bfseries H1} Collaboration, F.~D. Aaron {\em et~al.}, ``{Diffractive Dijet
-  Photoproduction in ep Collisions at HERA},''
-  \href{http://dx.doi.org/10.1140/epjc/s10052-010-1448-6}{{\em Eur. Phys. J.}
-  {\bfseries C70} (2010) 15--37},
-\href{http://arxiv.org/abs/1006.0946}{{\ttfamily arXiv:1006.0946 [hep-ex]}}.
-%%CITATION = ARXIV:1006.0946;%%.
 
 \bibitem{lta2011.09}
 V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``{Coherent rho and J/psi
@@ -956,14 +970,6 @@ V.~Guzey and M.~Klasen, ``{Diffractive dijet photoproduction in ultraperipheral
 \href{http://arxiv.org/abs/1603.06055}{{\ttfamily arXiv:1603.06055 [hep-ph]}}.
 %%CITATION = ARXIV:1603.06055;%%.
 
-\bibitem{Chekanov:2008fh}
-{\bfseries ZEUS} Collaboration, S.~Chekanov {\em et~al.}, ``{Deep inelastic
-  scattering with leading protons or large rapidity gaps at HERA},''
-  \href{http://dx.doi.org/10.1016/j.nuclphysb.2009.03.003}{{\em Nucl. Phys.}
-  {\bfseries B816} (2009) 1--61},
-\href{http://arxiv.org/abs/0812.2003}{{\ttfamily arXiv:0812.2003 [hep-ex]}}.
-%%CITATION = ARXIV:0812.2003;%%.
-
 \bibitem{Bauer:1977iq}
 T.~Bauer, R.~Spital, D.~Yennie, and F.~Pipkin, ``{The Hadronic Properties of
   the Photon in High-Energy Interactions},''
@@ -988,19 +994,13 @@ L.~Frankfurt, M.~Strikman, and M.~Zhalov, ``{Elastic and large t rapidity gap
 \href{http://arxiv.org/abs/1304.5162}{{\ttfamily arXiv:1304.5162 [hep-ex]}}.
 %%CITATION = ARXIV:1304.5162;%%.
 
-\bibitem{Aaron:2010aa}
-F.~D. Aaron {\em et~al.}, ``{Measurement of the cross section for diffractive
-  deep-inelastic scattering with a leading proton at HERA},''
-  \href{http://dx.doi.org/10.1140/epjc/s10052-011-1578-5}{{\em Eur. Phys. J.}
-  {\bfseries C71} (2011) 1578},
-\href{http://arxiv.org/abs/1010.1476}{{\ttfamily arXiv:1010.1476 [hep-ex]}}.
-%%CITATION = ARXIV:1010.1476;%%.
-
-\bibitem{Donnachie:2002en}
-S.~Donnachie, H.~G. Dosch, O.~Nachtmann, and P.~Landshoff, ``{Pomeron physics
-  and QCD},''
-{\em Camb.Monogr.Part.Phys.Nucl.Phys.Cosmol.} {\bfseries 19} (2002) 1--347.
-%%CITATION = CMPCE,19,1;%%.
+\bibitem{Aaron:2010su}
+{\bfseries H1} Collaboration, F.~D. Aaron {\em et~al.}, ``{Diffractive Dijet
+  Photoproduction in ep Collisions at HERA},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-010-1448-6}{{\em Eur. Phys. J.}
+  {\bfseries C70} (2010) 15--37},
+\href{http://arxiv.org/abs/1006.0946}{{\ttfamily arXiv:1006.0946 [hep-ex]}}.
+%%CITATION = ARXIV:1006.0946;%%.
 
 \bibitem{pythia}
 T.~Sj\"{o}strand, S.~Mrenna, and P.~Skands, ``Pythia 6.4 physics and manual,''
