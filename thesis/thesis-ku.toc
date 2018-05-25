@@ -44,7 +44,9 @@
 \contentsline {section}{\numberline {5.1}Introduction to triggering}{64}{section.5.1}
 \contentsline {section}{\numberline {5.2}Triggering at CMS}{65}{section.5.2}
 \contentsline {section}{\numberline {5.3}Author's contributions}{68}{section.5.3}
-\contentsline {section}{\numberline {5.4}Studies from trigger menus}{69}{section.5.4}
+\contentsline {subsection}{\numberline {5.3.1}Pb+Pb 2015 UPC Triggers}{68}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}p+Pb 2016 UPC Triggers}{69}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}Studies from trigger menus}{70}{section.5.4}
 \contentsline {chapter}{\numberline {6}Data analysis}{71}{chapter.6}
 \contentsline {chapter}{\numberline {7}Systematic uncertainties}{76}{chapter.7}
 \contentsline {chapter}{\numberline {8}Results and conclusions}{77}{chapter.8}
