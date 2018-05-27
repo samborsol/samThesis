@@ -50,16 +50,16 @@
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{39}{subfigure.19.1}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{39}{subfigure.19.2}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces CMS Detector \cite {dEnterria:2007iyi} \relax }}{42}{figure.caption.38}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces CMS Detector \cite {dEnterria:2007iyi} \relax }}{43}{figure.caption.38}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces CMS radial cross-section \cite {10.1088/978-1-6817-4078-2ch4} \relax }}{43}{figure.caption.39}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Pseudorapidity acceptance of tracker \cite {Chatrchyan:2009sr} \relax }}{44}{figure.caption.40}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Pseudorapidity acceptance of tracker \cite {Chatrchyan:2009sr} \relax }}{45}{figure.caption.40}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces ECAL components \cite {Benaglia:2014aqa} \relax }}{46}{figure.caption.41}
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Reconstructed data, ECAL energy resolution \cite {Bayatian:2006nff} \relax }}{47}{figure.caption.42}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces L1 trigger, ECAL energy resolution \cite {Bayatian:2006nff}\relax }}{47}{figure.caption.43}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces HCAL energy resolution \cite {Bayatian:2006nff}\relax }}{48}{figure.caption.44}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces L1 trigger, ECAL energy resolution \cite {Bayatian:2006nff}\relax }}{48}{figure.caption.43}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces HCAL energy resolution \cite {Bayatian:2006nff}\relax }}{49}{figure.caption.44}
 \contentsline {figure}{\numberline {3.8}{\ignorespaces HCAL Components \cite {Bayatian:2006nff} \relax }}{49}{figure.caption.45}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Pseudorapidity acceptance of muon detector \cite {Bayatian:2006nff}\relax }}{50}{figure.caption.46}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Performance of particle flow alorgithm compared to calorimeter readout \cite {Sirunyan:2017ulk} \relax }}{52}{figure.caption.47}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Pseudorapidity acceptance of muon detector \cite {Bayatian:2006nff}\relax }}{51}{figure.caption.46}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Performance of particle flow alorgithm compared to calorimeter readout \cite {Sirunyan:2017ulk} \relax }}{53}{figure.caption.47}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces PLT triple coincidence \relax }}{56}{figure.caption.48}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces PCC VdM Scans \cite {CMS:2013gfa} \relax }}{58}{figure.caption.49}
@@ -76,10 +76,14 @@
 \contentsline {figure}{\numberline {5.5}{\ignorespaces UPC Upsilon candidate \relax }}{67}{figure.caption.59}
 \contentsline {figure}{\numberline {5.6}{\ignorespaces Example of trigger rate. \relax }}{68}{figure.caption.60}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Raw $\phi $ distribution. \relax }}{72}{figure.caption.65}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Mixed $\phi $ distribution. \relax }}{73}{figure.caption.66}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Subtracted $\phi $ distribution. \relax }}{74}{figure.caption.67}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Final $\phi $ distribution. \relax }}{75}{figure.caption.68}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Raw $\phi $ distribution. \relax }}{73}{figure.caption.65}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Mixed $\phi $ distribution. \relax }}{74}{figure.caption.66}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Subtracted $\phi $ distribution. \relax }}{75}{figure.caption.67}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Final $\phi $ distribution. \relax }}{76}{figure.caption.68}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces RAPGAP process: boson-gluon fusion. \relax }}{98}{figure.caption.70}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Left: Energy Distribution Before Fitting, Right: Energy Distribution After Fitting\relax }}{99}{figure.caption.71}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{99}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{99}{subfigure.2.2}

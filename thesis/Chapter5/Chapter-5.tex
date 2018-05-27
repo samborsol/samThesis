@@ -126,18 +126,18 @@ For the 2016 $p+Pb$ run I prepared a trigger menu similar to that of the 2015 $P
 \centering
 \caption{L1 Trigger Average Rates for Run 285530}
 \label{my-label}
-\begin{tabular}{@{}l|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.3cm}|p{1.3cm}|}
+\begin{tabular}{@{}l|p{1.6cm}|p{1.6cm}|p{1.6cm}|}
 %\begin{tabular}{@{}lllllll@{}}
 \toprule
-L1 Type                           & Pre-DT Rate (Hz) & Pre-DT RMS Rate (Hz) & Post-DT Rate (Hz) & Post-DT RMS Rate (Hz) & Initial Prescale & Final Prescale \\ \midrule
-Double muon + HF veto (1 Tower) & ???             & ???                 & ???              & ???                  & 0                & 0              \\
-Double muon + HF veto (2 Tower) & ???             & ???                 & ???              & ???                  & 0                & 0              \\
-Single muon + HF veto (1 Tower) & ???            & ???                & ???             & ???                 & 0                & 0              \\
-Single muon + HF veto (2 Tower) & ???            & ???                & ???             & ???                 & 0                & 0              \\
-Double EG2 + HF veto (1 Tower)  & ???             & ???                 & ???              & ???                  & 0                & 0              \\
-Double EG2 + HF veto (2 Tower)  & ???             & ???                 & ???              & ???                  & 0                & 0              \\
-Single EG5 + HF veto (1 Tower)  & ???            & ???                & ???              & ???                 & 0                & 0              \\ 
-Single EG5 + HF veto (2 Tower)  & ???            & ???                & ???              & ???                 & 0                & 0              \\ 
+L1 Type                           & Pre-DT Rate Before Prescale (Hz) & Pre-DT Rate After Prescale (Hz) & Post-DT Rate (Hz) \\ \midrule
+Double muon + HF veto (1 Tower) & 5.47             & 5.47                 & 5.38            \\
+Double muon + HF veto (2 Tower) & 5.47             & 5.47                 & 5.38            \\
+Single muon + HF veto (1 Tower) & 123.31	       & 123.31               & 121.15          \\
+Single muon + HF veto (2 Tower) & 123.31           & 123.31               & 121.15             \\
+Double EG2 + HF veto (1 Tower)  & 228.22           & N/A                  & N/A            \\
+Double EG2 + HF veto (2 Tower)  & 228.22           & N/A                  & N/A            \\
+Single EG5 + HF veto (1 Tower)  & 211.17           & 211.17                & 207.00	              \\ 
+Single EG5 + HF veto (2 Tower)  & 211.17           & 211.17                & 207.00	              \\ 
 \bottomrule
 \end{tabular}
 \end{table}
@@ -149,18 +149,22 @@ Single EG5 + HF veto (2 Tower)  & ???            & ???                & ???     
 \begin{tabular}{@{}lll@{}}
 \toprule
 HLT Type             & L1 Seed                           & Average Rate of HLT (Hz) \\ \midrule
-L1 pass through      & Double muon + HF veto (1 Tower) & ???                     \\
-Requires pixel track & Double muon + HF veto (1 Tower) & ???                     \\
-L1 pass through      & Double muon + HF veto (2 Tower) & ???                     \\
-Requires pixel track & Double muon + HF veto (2 Tower) & ???                     \\
-L1 pass through      & Single muon + HF veto (1 Tower) & ???                    \\
-Requires pixel track & Single muon + HF veto (1 Tower) & ???                    \\
-L1 pass through      & Single muon + HF veto (2 Tower) & ???                    \\
-Requires pixel track & Single muon + HF veto (2 Tower) & ???                    \\
-L1 pass through      & Double EG2 + HF veto (1 Tower)  & ???                     \\
-Requires pixel track & Single EG5 + HF veto (1 Tower)  & ???                     \\
-L1 pass through      & Double EG2 + HF veto (2 Tower)  & ???                     \\
-Requires pixel track & Single EG5 + HF veto (2 Tower)  & ???                     \\ \bottomrule
+L1 pass through      & Double muon + HF veto (1 Tower) & 5.40	                    \\
+Requires pixel track & Double muon + HF veto (1 Tower) & 1.20	                    \\
+L1 pass through      & Double muon + HF veto (2 Tower) & 5.40                     	\\
+Requires pixel track & Double muon + HF veto (2 Tower) & 1.20                     	\\
+L1 pass through      & Single muon + HF veto (1 Tower) & 121.70                   	\\
+Requires pixel track & Single muon + HF veto (1 Tower) & 58.16                    	\\
+L1 pass through      & Single muon + HF veto (2 Tower) & 121.70	                    \\
+Requires pixel track & Single muon + HF veto (2 Tower) & 58.16                    	\\
+L1 pass through      & Double EG2 + HF veto (1 Tower)  & N/A                     	\\
+Requires pixel track & Double EG2 + HF veto (1 Tower)  & N/A                     	\\
+L1 pass through      & Double EG2 + HF veto (2 Tower)  & N/A                  		\\
+Requires pixel track & Double EG2 + HF veto (2 Tower)  & N/A                     	\\ 
+L1 pass through      & Single EG5 + HF veto (1 Tower)  & 208.18          			\\
+Requires pixel track & Single EG5 + HF veto (1 Tower)  & 159.79                     \\
+L1 pass through      & Single EG5 + HF veto (2 Tower)  & 208.18                     \\
+Requires pixel track & Single EG5 + HF veto (2 Tower)  & 159.79	                    \\ \bottomrule
 \end{tabular}
 \end{table}
 
