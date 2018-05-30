@@ -13,9 +13,9 @@ The style file: ieeetr.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
 Warning--entry type for "starlight" isn't style-file defined
---line 1795 of file Biblio/allcites.bib
+--line 1798 of file Biblio/allcites.bib
 Warning--string name "j-j-math-phys" is undefined
---line 2167 of file Biblio/allcites.bib
+--line 2170 of file Biblio/allcites.bib
 Warning--I didn't find a database entry for "Ackermann:200tr"
 Warning--empty journal in Rafelski:2013obw
 Warning--empty author in Long:796947
@@ -23,6 +23,9 @@ Warning--empty journal in Long:796947
 Warning--empty journal in Dyson:1967:SM
 Warning--empty publisher in Halzen:1984mc
 Warning--empty publisher in Griffiths:2008zz
+Warning--empty author in wikiCommons
+Warning--empty journal in wikiCommons
+Warning--empty year in wikiCommons
 Warning--empty journal in CGC2Lec
 Warning--empty journal in Boer:2011fh
 Warning--empty journal in Bhalerao:1695331
@@ -47,36 +50,36 @@ Warning--empty journal in CMS:2010gua
 Warning--empty journal in vanderMeer:1968zz
 Warning--empty journal in Dasu:2000ge
 Warning--empty journal in Sphicas:2002gg
-You've used 161 entries,
+You've used 162 entries,
             1876 wiz_defined-function locations,
-            1464 strings with 28353 characters,
-and the built_in function-call counts, 42446 in all, are:
-= -- 4339
-> -- 1335
+            1467 strings with 28389 characters,
+and the built_in function-call counts, 42559 in all, are:
+= -- 4346
+> -- 1336
 < -- 0
-+ -- 517
++ -- 518
 - -- 356
-* -- 2609
-:= -- 5736
+* -- 2620
+:= -- 5747
 add.period$ -- 175
-call.type$ -- 161
-change.case$ -- 152
+call.type$ -- 162
+change.case$ -- 153
 chr.to.int$ -- 0
-cite$ -- 191
-duplicate$ -- 2489
-empty$ -- 3999
+cite$ -- 195
+duplicate$ -- 2498
+empty$ -- 4016
 format.name$ -- 356
-if$ -- 10807
+if$ -- 10833
 int.to.chr$ -- 0
-int.to.str$ -- 161
-missing$ -- 164
-newline$ -- 500
+int.to.str$ -- 162
+missing$ -- 165
+newline$ -- 503
 num.names$ -- 158
-pop$ -- 484
+pop$ -- 492
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1893
+skip$ -- 1895
 stack$ -- 0
 substring$ -- 2585
 swap$ -- 1184
@@ -84,8 +87,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 30
+warning$ -- 33
 while$ -- 359
-width$ -- 164
-write$ -- 1541
-(There were 33 warnings)
+width$ -- 165
+write$ -- 1546
+(There were 36 warnings)

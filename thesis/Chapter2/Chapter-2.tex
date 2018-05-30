@@ -7,7 +7,27 @@ In this chapter, we will review recent LHC results on ultra-peripheral collision
 
 \section{Ultra-peripheral heavy-ion collisions}
 
-Ultra-peripheral collisions occur at impact parameters greater than the sum of the heavy-ion radii. In these collisions, hadronic interactions are strongly suppressed while photonuclear activity is enhanced proportional to the square of the nuclear charge \cite{Hands:2001ve}. The electromagnetic field of an incoming heavy-ion, from the perspective of a target, is equivalent to a flux of virtual photons; figure \ref{fig:smushedField} illustrates the Lorentz contraction of the field of a boosted charge \cite{Baltz:2007kq}\cite{WWJackson}.
+In classical electrodynamics, all of electrical and magnetic phenomena can be derived from four fundamental equations: Maxwell's laws. Below these equations are given in their differential form. 
+
+Gauss's law relates the divergence of a static electric field, $\vec{E}$, to its source charge density, $\rho$,
+\begin{equation}
+\triangledown\cdot\vec{E}= \frac{\rho}{\epsilon_o},
+\end{equation}
+where $\epsilon_o$ is permittivity of free space. Gauss's law for a static magnetic field, $\vec{B}$, reveals the stark contrast between electricity and magnetism. The diverence of a static magnetic field is always a net 0. This reflects the seeming non-existence of magnetic monopoles.  
+\begin{equation}
+\triangledown\cdot\vec{B}=0
+\end{equation}
+Faraday's law describes the curl of an electric field in terms of the dynamics of a magnetic field. The electric field and the magnetic field are coupled, and a change in one will affect the properties of the other. For a given electric field, $\vec{E}$, the curl is equal to the partial derivative of a magnetic field, $\vec{B}$, with respect to time, $t$,
+\begin{equation}
+\triangledown\times\vec{E}=-\frac{\partial\vec{B}}{\partial t}.
+\end{equation}
+Ampere's law addresses the curl of a magnetic field, $\vec{B}$, and once more the absence of magnetic monopoles gives rise to distinct properties. In addition to the partial derivative of $\vec{E}$ with respect to time $t$, there is a corrective term for the electric charge current density, $\vec{J}$, and the sum is multiplied by $\mu_o$, the permeability of free space,
+\begin{equation}
+\triangledown \times \vec{B} = \mu_o \left(  \vec{J} + \epsilon _{o} \frac{\partial \vec{E}}{\partial t} \right ).
+\end{equation}
+The complementarity of the classical electric and magnetic fields gives rise to the photon flux so important for ultra-peripheral collisions, and will be discussed in greater detail in the next chapter \cite{griffiths1999introduction}.
+
+Ultra-peripheral collisions occur at impact parameters greater than the sum of the heavy-ion radii. In these collisions, hadronic interactions are strongly suppressed while photonuclear activity is enhanced proportional to the square of the nuclear charge \cite{Contreras:2015dqa}. The electromagnetic field of an incoming heavy-ion, from the perspective of a target, is equivalent to a flux of virtual photons; Figure \ref{fig:smushedField} illustrates the Lorentz contraction of the field of a boosted charge \cite{Baltz:2007kq}\cite{WWJackson}.
 
 \begin{figure}[h!]
 \begin{centering}
@@ -16,52 +36,45 @@ Ultra-peripheral collisions occur at impact parameters greater than the sum of t
 \caption{ (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \cite{WWJackson} \label{fig:smushedField}}
 \end{figure}
 
-UPC models typically address two elements: the photon flux, $N_{\gamma / Pb}$, and the photoproduction cross-section, $\sigma_{\gamma Pb}$. These quantities are related to the UPC cross-section, $\sigma_{PbPb}$, in the following equation,
+UPC models typically address two elements: the photon flux, $N_{\gamma / Pb}$, and the photoproduction cross-section, $\sigma_{\gamma Pb}$. These quantities are related to the UPC cross-section, $\sigma_{PbPb}$, in the following equation
 \begin{equation}
 \frac{d \sigma_{PbPb}}{dy} = N_{\gamma/Pb}(y,M)\sigma_{\gamma Pb}(y)+N_{\gamma/Pb}(-y,M)\sigma_{\gamma Pb}(-y),
 \end{equation}
 where there are two terms to reflect that either heavy-ion can be a source of photons \cite{Bertulani:2005ru}. 
 
-The Weizsacker-Williams appoximation (WWA) calculates the density of photons, about the nucleus, as a function of energy. WWA is a semi-classical formulation. Maxwell's equations are solved for a stationary point charge boosted to an ultra-relativistic velocity. In the target's frame, the Fourier transform of the source field is taken \cite{directPhotonTheory}. The Fourier frequency modes are interpreted through the quantum mechanical equation of photon energy. The photon flux as function of energy is given by
+The Weizsacker-Williams appoximation (WWA) calculates the density of photons, about the nucleus, as a function of energy. WWA is a semi-classical formulation. Maxwell's equations are solved for a stationary point charge boosted to an ultra-relativistic velocity. In the target's frame, the Fourier transform of the source field is taken. The Fourier frequency modes are interpreted through the quantum mechanical equation of photon energy. The photon flux as function of energy is given by
 \begin{equation}
 N(\omega,b) = \frac{\alpha}{\hbar \omega}\left( \frac{Z}{b\beta\pi} \right)^2\left ( \frac{\omega b}{\gamma \nu} \right )K_1^2\left ( \frac{\omega b}{\gamma \nu} \right ) ,
 \end{equation}
-where $\alpha$ is the QED coupling constant, $\omega$ is the photon energy, $Z$ is the atomic number of the nuclei, $b$ is the impact parameter, $\beta$ is ratio of the nuclei speed to the speed of light, $\gamma$ is the Lorentz boost of the nuclei, $K_1^2$ is a Bessel function, $\nu$ is the photon frequency \cite{WWJackson}.
+where $\alpha$ is the QED coupling constant, $\omega$ is the photon energy, $Z$ is the atomic number of the nuclei, $b$ is the impact parameter, $\beta$ is the ratio of the nuclei speed to the speed of light, $\gamma$ is the Lorentz boost of the nuclei, $K_1^2$ is a Bessel function, and $\nu$ is the photon frequency \cite{WWJackson}.
 
-There are ways to represent the photon flux as solely a function of photon wavelength:
+The photon flux can be written as a function of the photon wavelength:
 \begin{equation}
 n(k) = \frac{2 \alpha Z^2}{\pi}\left [ \xi K_0(\xi) - \frac{\xi^2}{Z}(K_1^2(\xi)-K_0^2(\xi)) \right ]
 \end{equation}
 
-Gluons are the particle exchanged in strong interactions. However, gluons themselves carry color charge. By analogy, photons transmit the electromagnetic force, but do not themselves have an electric charge. The gluons are spin-1, meaning that more than one can occupy the same quantum state \cite{Hufner:1996jw}.
-
-The photoproduction cross-section is proportional to the gluon distribution. At low momentum transfer, photons interact electromagnetically, i.e. directly, with partons \cite{photonALICE}. High energy, "resolved" photons possess a hadronic structure; instead of directly interacting with the nuclei, these photons fluctuate into mediating quark-antiquark pairs. 
-
-\section{Vector meson photoproduction}
-The vector mesons are a subset of the mesons that have spin-1 and negative parity. There are three vector mesons that are particularly interesting for UPC studies: the $\rho^o$, the $J/\Psi$, and the $\Upsilon(1s)$. The $\rho^o$ is an antisymmetric superposition of, up and down, quark-antiquark pairs, $(1/\sqrt{2})(u\bar{u}-b\bar{b})$. The $J/\Psi$ consists of a charm quark and a charm antiquark. The $\Upsilon(1s)$ consists of a bottom quark and a bottom antiquark. $J/\Psi$ and its excited states are referred to as charmonia; likewise, $\Upsilon(1s)$ and its excited states are referred to as bottomonia.
-
-The Bjorken $x$ probed by a specific UPC vector meson is set by the mass $M$, the rapidity $y$, and collision energy $\sqrt{s}$, such that
-\begin{equation}
-x = \frac{M_{J/\Psi}}{\sqrt{s}}e^{\pm y}.
-\end{equation} The vector meson mass also sets the hard scale, $Q^2$, of the photoproduction,
-\begin{equation}
-Q^2 ~ \frac{M_{J/\Psi}}{4}.
-\end{equation}
-
-\begin{figure}[]
-\begin{centering}
-\includegraphics[width=3in]{Chapter1/importfigs/fig8_h1_2015.png}
-\par\end{centering}
-\caption{Ratio of H1 data cross-section to NLO-QCD cross-section \cite{Andreev:2015cwa} \label{fig:h1Ratio}}
-\end{figure}
-
-The virtual photons present in UPC can fluctuate into a quark-antiquark pair which can take the form of a low mass meson \cite{lta2011.09}\cite{Chekanov:2002xi}\cite{Klasen:2007pm}. This meson then interacts with the target nuclei via colorless gluon exchange, emitting a vector meson \cite{Emling:1994gu} \cite{dePassos:2001dc} \cite{Ryskin:1992ui}\cite{Goldhaber:1948zza}. If the virtual photon interacts coherently with the target nucleus, this is reflected in the transverse momentum of the vector meson \cite{Goncalves:2011vf}. The vector meson decays into a dilepton pair detectable by CMS \cite{Lappi:2013am}\cite{Gaiser:1982yw}\cite{Aktas:2005xu}\cite{Abbas:2013oua}. STARLIGHT is a Monte Carlo generator designed to model vector meson photoproduction in UPC \cite{starlight}.
+[something something about spin and quantum statistics \cite{Hufner:1996jw} ]
 
 For a given final state $X$, the collision cross section is given as
 \begin{equation}
 \sigma_X = \int d \omega \frac{n(\omega)}{\omega} \sigma_X^\gamma(\omega),
 \end{equation}
-where $n(\omega)$ is the number of photons emitted at an energy $\omega$, and $\sigma_X^\gamma(\omega)$ is the photonuclear cross-section of the photon-nucleon interaction. The Weizacker-Williams approximation provides $n(\omega)$. The integral reflects how a state $X$ can result from the interaction of a quasi-real photon of varying energy \cite{Nystrand:2004vn}. 
+where $n(\omega)$ is the number of photons emitted at an energy $\omega$, and $\sigma_X^\gamma(\omega)$ is the photonuclear cross-section of the photon-nucleon interaction. The Weizacker-Williams approximation provides $n(\omega)$. The integral reflects how a state $X$ can result from the interaction of a quasi-real photon of varying energy \cite{Nystrand:2004vn}. At low momentum transfer, photons interact electromagnetically, i.e. directly, with partons \cite{photonALICE}. High energy, "resolved" photons possess a hadronic structure; instead of directly interacting with the nuclei, these photons fluctuate into mediating quark-antiquark pairs.
+
+UPCs can generate a wide variety of particles. In the next section we will discuss current results on vector meson photoproduction.
+
+\section{VM photoproduction}
+The vector mesons are a subset of the mesons that have spin-1 and negative parity. There are three vector mesons that have recently been studied in UPCS: the $\rho^0$, the $J/\psi$, and the $\Upsilon(1S)$. The $\rho^0$ is an antisymmetric superposition of up and down quark-antiquark pairs, $(1/\sqrt{2})(u\bar{u}-b\bar{b})$. The $J/\psi$ consists of a charm quark and a charm antiquark. The $\Upsilon(1S)$ consists of a bottom quark and a bottom antiquark. $J/\psi$ and its excited states are referred to as charmonia; likewise, $\Upsilon(1S)$ and its excited states are referred to as bottomonia.
+
+The Bjorken-$x$ probed by a specific UPC vector meson is set by the mass $M_{VM}$, the rapidity $y$, and collision energy $\sqrt{s}$, such that
+\begin{equation}
+x = \frac{M_{VM}}{\sqrt{s}}e^{\pm y}.
+\end{equation} The vector meson mass also sets the hard scale, $Q^2$, of the photoproduction. For example, for the $J/\psi$
+\begin{equation}
+Q^2 = \frac{M_{VM}}{4}.
+\end{equation}
+
+The virtual photons present in UPC can fluctuate into a quark-antiquark pair which can take the form of a low mass meson \cite{lta2011.09}\cite{Chekanov:2002xi}\cite{Klasen:2007pm}. This meson then interacts with the target nuclei via colorless gluon exchange, emitting a vector meson \cite{Emling:1994gu} \cite{dePassos:2001dc} \cite{Ryskin:1992ui}\cite{Goldhaber:1948zza}. If the virtual photon interacts coherently with the target nucleus, this is reflected in the transverse momentum of the vector meson \cite{Goncalves:2011vf}. The vector meson decays into a dilepton pair that can be detected by the experiment. STARLIGHT is a Monte Carlo generator designed to model vector meson photoproduction in UPC \cite{starlight}.
 
 \begin{figure}[h!]
 \begin{centering}
@@ -70,9 +83,9 @@ where $n(\omega)$ is the number of photons emitted at an energy $\omega$, and $\
 \caption{$AuAu \rightarrow AuAu\rho^o$, (a.) UPC exclusive $\rho^o$ diagram, (b.) with mutual nuclei excitation \cite{Adler:2002sc} \label{fig:upcRhoStar}}
 \end{figure}
 
-One of the first observations of vector meson photoproduction in UPC was that of exclusive coherent $\rho^o$ production at STAR. For this process the source nuclei emits a virtual photon that fluctuates into a $\rho^o$ meson that scatters elastically off the target nuclei. The $\rho^o$ decays into a pair of oppisitely charged dimuons. These dimuons leave two back to back tracks in the STAR tracker. The Feynman diagrams for the process are seen in figure \ref{fig:upcRhoStar}. In exclusive production there are only two tracks in the tracker, with the rest of the detector being empty. In mutual nuclei excitation, the further exchange of virtual photons excite both nuclei and produce tracks in addition to those of the dimuon. The exclusive events are selected using a low-multiplicity trigger, while the mutual excitation events are selected using a minimum bias trigger with the additional requirement of neutron emission detected in both of STAR's ZDC \cite{Adler:2002sc}. 
+One of the first observations of vector meson photoproduction in UPC was that of exclusive coherent $\rho^0$ production at STAR. For this process the source nuclei emits a virtual photon that fluctuates into a $\rho^0$ meson that scatters elastically off the target nuclei. The $\rho^o$ decays into a pair of oppositely charged pions. These pions leave two back-to-back tracks in the STAR tracker. The Feynman diagrams for the process are seen in Figure \ref{fig:upcRhoStar}. In exclusive production there are only two tracks in the tracker, with the rest of the detector being empty. In mutual nuclei excitation, the further exchange of virtual photons excite both nuclei and produce tracks in addition to those of the dipion system. The exclusive events were selected by STAR using a low-multiplicity trigger, while the mutual excitation events were selected using a minimum bias trigger with the additional requirement of neutron emission detected in both ZDCs \cite{Adler:2002sc}. 
 
-One of the key signatures of UPC coherent $\rho$, and UPC coherent mesons in general, is the low-$p_T$ peak. If the virtual photon has energy on the order of $1/2R_{A}$, where $R_{A}$ is the radius of the nuclei, the photon couples with the whole nucleus. The low momentum corresponds to large wavelength of the photon with respect to the nuclear radius \cite{Guzey:2013taa}\cite{Frankfurt:2006wg}\cite{Baltz:2002pp}\cite{Klein:2003vd}. The $p_T$ spectrum of the $\rho$ detected by the topology and minimum-bias triggers are shown in figure \ref{fig:upcRhoStarPt}.
+One of the key signatures of coherent $\rho^0$, and UPC coherent mesons in general is the low-$p_T$ peak of the VM. If the virtual photon has energy on the order of $1/2R_{A}$, where $R_{A}$ is the radius of the nuclei, the photon couples with the whole nucleus. The low momentum corresponds to large wavelength of the photon with respect to the nuclear radius \cite{Guzey:2013taa}\cite{Frankfurt:2006wg}\cite{Baltz:2002pp}\cite{Klein:2003vd}. The $p_T$ spectrum of the $\rho^0$ detected by the topology and minimum-bias triggers are shown in Figure \ref{fig:upcRhoStarPt}, where the low $p_T$ $\rho^0$ coordinates consistent with coherent photoproduction is seen for the two different triggers.
 
 \begin{figure}[h!]
 \begin{centering}
@@ -81,13 +94,13 @@ One of the key signatures of UPC coherent $\rho$, and UPC coherent mesons in gen
 \caption{UPC exclusive $\rho^o$ $p_T$, (a.) topology triggered (b.) minimum bias triggered \cite{Adler:2002sc} \label{fig:upcRhoStarPt}}
 \end{figure}
 
-Ultra-peripheral coherent $J/\Psi$ photoproduction was studied in the ALICE 2011 Pb-Pb data \cite{Abelev:2012ba}. Notice that the cross-section of coherent $J/\Psi$ photoproduction, for $\gamma+p\rightarrow J/\Psi+p$, has a power-law dependence on the photon-proton center-of-mass energy, as seen in figure \ref{fig:aliceData1} \cite{Klein:2017nqo}. This data can be used to measure the gluon distribution as a function of Bjorken-x \cite{pQCD2011.08}.
+More recently, ultra-peripheral coherent $J/\psi$ photoproduction was studied by the ALICE Collaboration using the 2011 Pb-Pb data \cite{Abelev:2012ba}. Notice that the cross section of coherent $J/\psi$ photoproduction, for $\gamma+p\rightarrow J/\psi+p$, has a power-law dependence on the photon-proton center-of-mass energy, as seen in Figure \ref{fig:aliceData1} \cite{Klein:2017nqo}. This data can be is sensitive to the gluon distribution in the proton as a function of Bjorken-x \cite{pQCD2011.08}.
 
 \begin{figure}[h!]
 \begin{centering}
 \includegraphics[width=3.5in]{Chapter2/importfigs/alice_jpsi_data.png}
 \par\end{centering}
-\caption{$\gamma +$proton$\rightarrow J/\Psi +$proton cross-section \cite{Klein:2017nqo}. \label{fig:aliceData1}}
+\caption{$\gamma +$proton$\rightarrow J/\Psi +$proton cross section, showing the ALICE and HERA data \cite{Klein:2017nqo}. \label{fig:aliceData1}}
 \end{figure}
 
 CMS and ALICE have studied $J/\psi$ and $\rho^0$ photoproduction off the proton in proton-Pb collisions \cite{TheALICE:2014dwa}. In coherent UPC photoproduction of $J/\Psi$, the transverse momentum distribution peaks at about 60 MeV because, for coherent production, the photon energy is inversely proportional to the Pb ion diameter, $1/2R_{Pb}$.

@@ -50,13 +50,12 @@ M.~E. Peskin and D.~V. Schroeder, {\em {An Introduction to quantum field
   theory}}.
 \newblock Reading, USA: Addison-Wesley, 1995.
 
-\bibitem{griffiths1999introduction}
-D.~Griffiths, {\em Introduction to Electrodynamics}.
-\newblock Prentice Hall, 1999.
-
 \bibitem{Griffiths:2008zz}
 D.~Griffiths, {\em {Introduction to elementary particles}}.
 \newblock 2008.
+
+\bibitem{wikiCommons}
+``{Wiki Commons},''
 
 \bibitem{Bouchendira:2010es}
 R.~Bouchendira, P.~Clade, S.~Guellati-Khelifa, F.~Nez, and F.~Biraben, ``{New
@@ -279,6 +278,10 @@ T.~Altinoluk, N.~Armesto, G.~Beuf, and A.~H. Rezaeian, ``{Diffractive Dijet
 D.~Chakrabarti, T.~Maji, C.~Mondal, and A.~Mukherjee, ``{Wigner distributions
   and orbital angular momentum of a proton},'' {\em Eur. Phys. J.}, vol.~C76,
   no.~7, p.~409, 2016.
+
+\bibitem{griffiths1999introduction}
+D.~Griffiths, {\em Introduction to Electrodynamics}.
+\newblock Prentice Hall, 1999.
 
 \bibitem{Baltz:2007kq}
 A.~Baltz, G.~Baur, D.~d'Enterria, L.~Frankfurt, F.~Gelis, {\em et~al.}, ``{The

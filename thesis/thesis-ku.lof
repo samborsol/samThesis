@@ -1,32 +1,32 @@
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces QED Components of Feynman Diagrams (Plot from WikiCommons). \relax }}{4}{figure.caption.4}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces QCD Coupling Constant vs. $Q^2$ \cite {Bethke:2006ac} \relax }}{6}{figure.caption.5}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Collision Cross Section vs Bjorken-x, theory and data \cite {Shimizu:2009fc} \relax }}{8}{figure.caption.6}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Subnuclear tomography (Ask Daniel again) \relax }}{10}{figure.caption.7}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces QCD Phase Diagram \cite {Bhalerao:1695331} \relax }}{11}{figure.caption.8}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces $J/\Psi $ suppression in Pb-Pb collisions \cite {spsHI} \relax }}{12}{figure.caption.9}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Heavy-ion collision overlap region \relax }}{13}{figure.caption.10}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces $v_2$ vs collision energy \cite {spsHI} \relax }}{14}{figure.caption.11}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces STAR $Au+Au$ at $\sqrt {s_{NN}}=130$ GeV, (left)$v_2$ vs centrality and (right)$v_2$ vs $p_T$ \cite {Ackermann:2000tr}\relax }}{14}{figure.caption.12}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{14}{subfigure.9.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{14}{subfigure.9.2}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces CMS (left) pPb and (right) PbPb, angular correlations \cite {Chatrchyan:2013nka}\relax }}{15}{figure.caption.13}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{15}{subfigure.10.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{15}{subfigure.10.2}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces History of the Universe \cite {Bandyopadhyay:2017wip} \relax }}{15}{figure.caption.14}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces History of a Heavy-Ion Collision \cite {Wang:2012jua}\relax }}{16}{figure.caption.15}
-\contentsline {figure}{\numberline {1.13}{\ignorespaces Interconnectedness of Parton Distributions \cite {Diehl:2003ny} \relax }}{18}{figure.caption.16}
-\contentsline {figure}{\numberline {1.14}{\ignorespaces Feynman Diagram of Coherent Dijets in Dipole Framework \cite {Hatta:2016dxp}\relax }}{19}{figure.caption.17}
-\contentsline {figure}{\numberline {1.15}{\ignorespaces Theoretical Quark GTMDs \cite {Chakrabarti:2016yuw}\relax }}{20}{figure.caption.18}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{20}{subfigure.15.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{20}{subfigure.15.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{20}{subfigure.15.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{20}{subfigure.15.4}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{20}{subfigure.15.5}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{20}{subfigure.15.6}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces QED components of Feynman Diagrams \cite {wikiCommons}. \relax }}{4}{figure.caption.4}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces QCD coupling constant as a function of $Q^2$ \cite {Bethke:2006ac}. \relax }}{6}{figure.caption.5}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Collision cross section as a function of Bjorken-$x$, with data compared to HERA-PDF calculations \cite {Shimizu:2009fc}. \relax }}{7}{figure.caption.6}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Subnuclear tomography (Ask Daniel again) .\relax }}{9}{figure.caption.7}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces QCD phase diagram showing the temperature $T$ as a function of baryon chemical potential $\mu _B$. Different phases such as the critical point, QGP, and hadron gas are seen \cite {Bhalerao:1695331}. \relax }}{10}{figure.caption.8}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces $J/\Psi $ suppression in Pb-Pb collisions \cite {spsHI} \relax }}{11}{figure.caption.9}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Heavy-ion collision overlap region \relax }}{12}{figure.caption.10}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces $v_2$ vs collision energy \cite {spsHI} \relax }}{13}{figure.caption.11}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces STAR $Au+Au$ at $\sqrt {s_{NN}}=130$ GeV: (a)$v_2$ as a function of centrality with hydrodynamic calculations (empty rectangles) and data (black dots); (b)$v_2$ as a function of $p_T$ \cite {Ackermann:2000tr}.\relax }}{13}{figure.caption.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{13}{subfigure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{13}{subfigure.9.2}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces CMS (a) pPb and (b) PbPb, angular correlations \cite {Chatrchyan:2013nka}\relax }}{14}{figure.caption.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{14}{subfigure.10.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{14}{subfigure.10.2}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Pictorial time-line of the Universe, showing phase transitions \cite {Bandyopadhyay:2017wip}. \relax }}{15}{figure.caption.14}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Space-time diagram of a heavy-ion collision \cite {Wang:2012jua}.\relax }}{16}{figure.caption.15}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Interconnectedness of Parton Distributions \cite {Diehl:2003ny} \relax }}{17}{figure.caption.16}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Feynman Diagram of Coherent Dijets in Dipole Framework \cite {Hatta:2016dxp}\relax }}{18}{figure.caption.17}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Theoretical Quark GTMDs \cite {Chakrabarti:2016yuw}\relax }}{19}{figure.caption.18}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{19}{subfigure.15.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{19}{subfigure.15.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{19}{subfigure.15.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{19}{subfigure.15.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{19}{subfigure.15.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{19}{subfigure.15.6}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \cite {WWJackson} \relax }}{22}{figure.caption.19}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces (a.) electromagnetic field of stationary charge (b.) eletromagnetic field of boosted charge \cite {WWJackson} \relax }}{21}{figure.caption.19}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Ratio of H1 data cross-section to NLO-QCD cross-section \cite {Andreev:2015cwa} \relax }}{23}{figure.caption.20}
 \contentsline {figure}{\numberline {2.3}{\ignorespaces $AuAu \rightarrow AuAu\rho ^o$, (a.) UPC exclusive $\rho ^o$ diagram, (b.) with mutual nuclei excitation \cite {Adler:2002sc} \relax }}{24}{figure.caption.21}
 \contentsline {figure}{\numberline {2.4}{\ignorespaces UPC exclusive $\rho ^o$ $p_T$, (a.) topology triggered (b.) minimum bias triggered \cite {Adler:2002sc} \relax }}{25}{figure.caption.22}
