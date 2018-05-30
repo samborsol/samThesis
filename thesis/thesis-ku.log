@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.25)  27 MAY 2018 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.25)  30 MAY 2018 00:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,6 +542,9 @@ Package caption Info: listings package is loaded.
 \sf@top=\skip46
 \sf@bottom=\skip47
 )
+(/usr/share/texlive/texmf-dist/tex/latex/notoccite/notoccite.sty
+Package: notoccite 2000/07/20
+)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
@@ -716,23 +719,23 @@ LaTeX Warning: Label `fig:patKennyPlots' multiply defined.
 ))
 \openout1 = `thesis-ku.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 96.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 97.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -805,7 +808,7 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring ON on input line 96.
+Package hyperref Info: Link coloring ON on input line 97.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -815,73 +818,73 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count130
 )
-LaTeX Info: Redefining \ref on input line 96.
-LaTeX Info: Redefining \pageref on input line 96.
-LaTeX Info: Redefining \nameref on input line 96.
+LaTeX Info: Redefining \ref on input line 97.
+LaTeX Info: Redefining \pageref on input line 97.
+LaTeX Info: Redefining \nameref on input line 97.
 
 (./thesis-ku.out) (./thesis-ku.out)
 \@outlinefile=\write3
 \openout3 = `thesis-ku.out'.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 10
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 10
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 10
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 10
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 105.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 106.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
-LaTeX Font Info:    Try loading font information for U+esint on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Try loading font information for U+esint on input line 106.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
  [1
 
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
 
  []
 
 [2]
-Overfull \hbox (9.73395pt too wide) in paragraph at lines 107--108
+Overfull \hbox (9.73395pt too wide) in paragraph at lines 108--109
 []\T1/ptm/m/n/12 This dis-ser-ta-tion de-scribes the study of co-her-ent di-jet
  pho-to-pro-duc-tion in ultra-peripheral
  []
@@ -924,7 +927,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 
 
 ] [2] [3]
-<Chapter1/importfigs/Feynman_Diagram_Components.png, id=582, 712.6625pt x 617.3
+<Chapter1/importfigs/Feynman_Diagram_Components.png, id=584, 712.6625pt x 617.3
 0624pt>
 File: Chapter1/importfigs/Feynman_Diagram_Components.png Graphic file (type png
 )
@@ -932,23 +935,15 @@ File: Chapter1/importfigs/Feynman_Diagram_Components.png Graphic file (type png
 Package pdftex.def Info: Chapter1/importfigs/Feynman_Diagram_Components.png use
 d on input line 58.
 (pdftex.def)             Requested size: 289.07999pt x 250.39384pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4] [5 <./Chapter1/importfigs/Feynman_Diagram_Components.png>]
-<Chapter1/importfigs/qcd_coupling_bethke.png, id=612, 548.0475pt x 554.07pt>
+ [4 <./Chapter1/importfigs/Feynman_Diagram_Components.png>] [5]
+<Chapter1/importfigs/qcd_coupling_bethke.png, id=615, 548.0475pt x 554.07pt>
 File: Chapter1/importfigs/qcd_coupling_bethke.png Graphic file (type png)
 
 <use Chapter1/importfigs/qcd_coupling_bethke.png>
 Package pdftex.def Info: Chapter1/importfigs/qcd_coupling_bethke.png used on in
 put line 90.
 (pdftex.def)             Requested size: 289.07999pt x 292.26073pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[6] [7 <./Chapter1/importfigs/qcd_coupling_bethke.png>]
+ [6 <./Chapter1/importfigs/qcd_coupling_bethke.png>] [7]
 <Chapter1/importfigs/scholarpedia_bjorken_x_qcdExp.png, id=639, 532.99126pt x 5
 15.9275pt>
 File: Chapter1/importfigs/scholarpedia_bjorken_x_qcdExp.png Graphic file (type 
@@ -972,23 +967,31 @@ Overfull \hbox (36.13498pt too wide) in paragraph at lines 130--131
  [][] 
  []
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [9] [10 <./Chapter1/importfigs/imaging_the_nucleon_upc_dijets_pres.png>]
-<Chapter1/importfigs/byr13.png, id=678, 563.10374pt x 364.36125pt>
+<Chapter1/importfigs/byr13.png, id=680, 563.10374pt x 364.36125pt>
 File: Chapter1/importfigs/byr13.png Graphic file (type png)
 
 <use Chapter1/importfigs/byr13.png>
 Package pdftex.def Info: Chapter1/importfigs/byr13.png used on input line 143.
 (pdftex.def)             Requested size: 289.07999pt x 187.05046pt.
- [11 <./Chapter1/importfigs/byr13.png>]
-<Chapter1/importfigs/jpsiSupp.png, id=694, 847.165pt x 599.23875pt>
+
+<Chapter1/importfigs/jpsiSupp.png, id=688, 847.165pt x 599.23875pt>
 File: Chapter1/importfigs/jpsiSupp.png Graphic file (type png)
 
 <use Chapter1/importfigs/jpsiSupp.png>
 Package pdftex.def Info: Chapter1/importfigs/jpsiSupp.png used on input line 15
 3.
 (pdftex.def)             Requested size: 289.07999pt x 204.47911pt.
- [12 <./Chapter1/importfigs/jpsiSupp.png>]
-<Chapter1/importfigs/elliptic_flow_3D_medium.png, id=717, 623.32875pt x 399.492
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./Chapter1/importfigs/byr13.png>] [12 <./Chapter1/importfigs/jpsiSupp.png>
+]
+<Chapter1/importfigs/elliptic_flow_3D_medium.png, id=718, 623.32875pt x 399.492
 5pt>
 File: Chapter1/importfigs/elliptic_flow_3D_medium.png Graphic file (type png)
  <use Chapter1/importfigs/elliptic_flow_3D_medium.png>
@@ -996,19 +999,22 @@ Package pdftex.def Info: Chapter1/importfigs/elliptic_flow_3D_medium.png used o
 n input line 168.
 (pdftex.def)             Requested size: 289.07999pt x 185.27443pt.
 
-<Chapter1/importfigs/elliptic_flow.png, id=720, 774.895pt x 665.48625pt>
+<Chapter1/importfigs/elliptic_flow.png, id=721, 774.895pt x 665.48625pt>
 File: Chapter1/importfigs/elliptic_flow.png Graphic file (type png)
 
 <use Chapter1/importfigs/elliptic_flow.png>
 Package pdftex.def Info: Chapter1/importfigs/elliptic_flow.png used on input li
 ne 175.
 (pdftex.def)             Requested size: 289.07999pt x 248.2671pt.
- [13 <./Chapter1/importfigs/elliptic_flow_3D_medium.png (PNG copy)>]
 
-LaTeX Warning: Citation `Ackermann:200tr' on page 14 undefined on input line 18
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `Ackermann:200tr' on page 13 undefined on input line 18
 1.
 
-<Chapter1/importfigs/star_130_fig3.png, id=735, 732.7375pt x 503.8825pt>
+<Chapter1/importfigs/star_130_fig3.png, id=725, 732.7375pt x 503.8825pt>
 File: Chapter1/importfigs/star_130_fig3.png Graphic file (type png)
 
 <use Chapter1/importfigs/star_130_fig3.png>
@@ -1016,14 +1022,14 @@ Package pdftex.def Info: Chapter1/importfigs/star_130_fig3.png used on input li
 ne 185.
 (pdftex.def)             Requested size: 170.71652pt x 117.38982pt.
 
-<Chapter1/importfigs/star_130_fig4.png, id=736, 760.8425pt x 544.0325pt>
+<Chapter1/importfigs/star_130_fig4.png, id=726, 760.8425pt x 544.0325pt>
 File: Chapter1/importfigs/star_130_fig4.png Graphic file (type png)
 
 <use Chapter1/importfigs/star_130_fig4.png>
 Package pdftex.def Info: Chapter1/importfigs/star_130_fig4.png used on input li
 ne 187.
 (pdftex.def)             Requested size: 170.71652pt x 122.06998pt.
-
+ [13 <./Chapter1/importfigs/elliptic_flow_3D_medium.png (PNG copy)>]
 <Chapter1/importfigs/corr2D_pPbNew_pt0-0_nmin220_nmax260_20130206.png, id=741, 
 556.0775pt x 484.81125pt>
 File: Chapter1/importfigs/corr2D_pPbNew_pt0-0_nmin220_nmax260_20130206.png Grap
@@ -1055,12 +1061,13 @@ line 205.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14 <./Chapter1/importfigs/elliptic_flow.png>] [15 <./Chapter1/importfigs/star_
-130_fig3.png> <./Chapter1/importfigs/star_130_fig4.png> <./Chapter1/importfigs/
+[14 <./Chapter1/importfigs/elliptic_flow.png> <./Chapter1/importfigs/star_130_f
+ig3.png> <./Chapter1/importfigs/star_130_fig4.png>] [15 <./Chapter1/importfigs/
 corr2D_pPbNew_pt0-0_nmin220_nmax260_20130206.png> <./Chapter1/importfigs/corr2D
-_PbPb_pt0-0_nmin220_nmax260_20130325.png>]
+_PbPb_pt0-0_nmin220_nmax260_20130325.png> <./Chapter1/importfigs/fig_bb_timelin
+e.png>]
 <Chapter1/importfigs/The-space-time-evolution-of-heavy-ion-collision-The-figure
--is-taken-from-28.png, id=767, 204.765pt x 158.2713pt>
+-is-taken-from-28.png, id=768, 204.765pt x 158.2713pt>
 File: Chapter1/importfigs/The-space-time-evolution-of-heavy-ion-collision-The-f
 igure-is-taken-from-28.png Graphic file (type png)
 
@@ -1069,13 +1076,9 @@ gure-is-taken-from-28.png>
 Package pdftex.def Info: Chapter1/importfigs/The-space-time-evolution-of-heavy-
 ion-collision-The-figure-is-taken-from-28.png used on input line 214.
 (pdftex.def)             Requested size: 361.34999pt x 279.32147pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[16 <./Chapter1/importfigs/fig_bb_timeline.png>] [17 <./Chapter1/importfigs/The
--space-time-evolution-of-heavy-ion-collision-The-figure-is-taken-from-28.png>]
-<Chapter1/importfigs/fig6_introGPD_TMD.png, id=793, 615.29875pt x 359.3425pt>
+ [16 <./Chapter1/importfigs/The-space-time-evolution-of-heavy-ion-collision-The
+-figure-is-taken-from-28.png>]
+<Chapter1/importfigs/fig6_introGPD_TMD.png, id=784, 615.29875pt x 359.3425pt>
 File: Chapter1/importfigs/fig6_introGPD_TMD.png Graphic file (type png)
 
 <use Chapter1/importfigs/fig6_introGPD_TMD.png>
@@ -1090,7 +1093,7 @@ Overfull \hbox (36.13498pt too wide) in paragraph at lines 239--240
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter1/importfigs/fig4_yatta.png, id=797, 501.875pt x 308.15125pt>
+[17] <Chapter1/importfigs/fig4_yatta.png, id=799, 501.875pt x 308.15125pt>
 File: Chapter1/importfigs/fig4_yatta.png Graphic file (type png)
 
 <use Chapter1/importfigs/fig4_yatta.png>
@@ -1108,7 +1111,7 @@ See the caption package documentation for explanation.
 
 LaTeX Warning: Reference `fig:sixPlot' on page 18 undefined on input line 255.
 
-[18] <Chapter1/importfigs/chakraburti_1.png, id=812, 493.845pt x 325.215pt>
+<Chapter1/importfigs/chakraburti_1.png, id=808, 493.845pt x 325.215pt>
 File: Chapter1/importfigs/chakraburti_1.png Graphic file (type png)
 
 <use Chapter1/importfigs/chakraburti_1.png>
@@ -1116,7 +1119,7 @@ Package pdftex.def Info: Chapter1/importfigs/chakraburti_1.png used on input li
 ne 261.
 (pdftex.def)             Requested size: 256.0748pt x 168.63142pt.
 
-<Chapter1/importfigs/chakraburti_2.png, id=813, 493.845pt x 325.215pt>
+<Chapter1/importfigs/chakraburti_2.png, id=809, 493.845pt x 325.215pt>
 File: Chapter1/importfigs/chakraburti_2.png Graphic file (type png)
 
 <use Chapter1/importfigs/chakraburti_2.png>
@@ -1128,7 +1131,7 @@ Overfull \hbox (42.39458pt too wide) in paragraph at lines 261--263
  [][][][] 
  []
 
-<Chapter1/importfigs/chakraburti_3.png, id=814, 499.8675pt x 325.215pt>
+<Chapter1/importfigs/chakraburti_3.png, id=810, 499.8675pt x 325.215pt>
 File: Chapter1/importfigs/chakraburti_3.png Graphic file (type png)
 
 <use Chapter1/importfigs/chakraburti_3.png>
@@ -1136,7 +1139,7 @@ Package pdftex.def Info: Chapter1/importfigs/chakraburti_3.png used on input li
 ne 264.
 (pdftex.def)             Requested size: 256.0748pt x 166.60677pt.
 
-<Chapter1/importfigs/chakraburti_4.png, id=815, 499.8675pt x 325.215pt>
+<Chapter1/importfigs/chakraburti_4.png, id=811, 499.8675pt x 325.215pt>
 File: Chapter1/importfigs/chakraburti_4.png Graphic file (type png)
 
 <use Chapter1/importfigs/chakraburti_4.png>
@@ -1148,7 +1151,7 @@ Overfull \hbox (42.39458pt too wide) in paragraph at lines 264--266
  [][][][] 
  []
 
-<Chapter1/importfigs/chakraburti_5.png, id=816, 499.8675pt x 325.215pt>
+<Chapter1/importfigs/chakraburti_5.png, id=812, 499.8675pt x 325.215pt>
 File: Chapter1/importfigs/chakraburti_5.png Graphic file (type png)
 
 <use Chapter1/importfigs/chakraburti_5.png>
@@ -1156,7 +1159,7 @@ Package pdftex.def Info: Chapter1/importfigs/chakraburti_5.png used on input li
 ne 267.
 (pdftex.def)             Requested size: 256.0748pt x 166.60677pt.
 
-<Chapter1/importfigs/chakraburti_6.png, id=817, 499.8675pt x 325.215pt>
+<Chapter1/importfigs/chakraburti_6.png, id=813, 499.8675pt x 325.215pt>
 File: Chapter1/importfigs/chakraburti_6.png Graphic file (type png)
 
 <use Chapter1/importfigs/chakraburti_6.png>
@@ -1168,11 +1171,11 @@ Overfull \hbox (42.39458pt too wide) in paragraph at lines 267--269
  [][][][] 
  []
 
-) [19 <./Chapter1/importfigs/fig6_introGPD_TMD.png> <./Chapter1/importfigs/fig4
-_yatta.png (PNG copy)>] [20 <./Chapter1/importfigs/chakraburti_1.png> <./Chapte
-r1/importfigs/chakraburti_2.png> <./Chapter1/importfigs/chakraburti_3.png> <./C
-hapter1/importfigs/chakraburti_4.png> <./Chapter1/importfigs/chakraburti_5.png>
- <./Chapter1/importfigs/chakraburti_6.png>]
+) [18 <./Chapter1/importfigs/fig6_introGPD_TMD.png>] [19 <./Chapter1/importfigs
+/fig4_yatta.png (PNG copy)>] [20 <./Chapter1/importfigs/chakraburti_1.png> <./C
+hapter1/importfigs/chakraburti_2.png> <./Chapter1/importfigs/chakraburti_3.png>
+ <./Chapter1/importfigs/chakraburti_4.png> <./Chapter1/importfigs/chakraburti_5
+.png> <./Chapter1/importfigs/chakraburti_6.png>]
 \openout2 = `Chapter2/Chapter-2.aux'.
 
  (./Chapter2/Chapter-2.tex
@@ -1434,8 +1437,7 @@ File: Chapter3/importfigs/Figure_001.png Graphic file (type png)
 Package pdftex.def Info: Chapter3/importfigs/Figure_001.png used on input line 
 49.
 (pdftex.def)             Requested size: 397.48499pt x 281.08214pt.
- [42] [43 <./Chapter3/importfigs/fromCMS_DesignPaper_perspective.png> <./Chapte
-r3/importfigs/Figure_001.png>]
+ [42] [43 <./Chapter3/importfigs/fromCMS_DesignPaper_perspective.png>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 66.
@@ -1447,7 +1449,8 @@ File: Chapter3/importfigs/cms_cft_09_003_fig1.png Graphic file (type png)
 Package pdftex.def Info: Chapter3/importfigs/cms_cft_09_003_fig1.png used on in
 put line 68.
 (pdftex.def)             Requested size: 289.07999pt x 136.06183pt.
- [44] [45 <./Chapter3/importfigs/cms_cft_09_003_fig1.png (PNG copy)>]
+ [44 <./Chapter3/importfigs/Figure_001.png>] [45 <./Chapter3/importfigs/cms_cft
+_09_003_fig1.png (PNG copy)>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 89.
@@ -1549,7 +1552,7 @@ Package pdftex.def Info: Chapter3/importfigs/CCrec2_05_16.jpg used on input lin
 e 175.
 (pdftex.def)             Requested size: 289.07999pt x 278.34842pt.
 )
-Overfull \hbox (1.3927pt too wide) in paragraph at lines 180--127
+Overfull \hbox (1.3927pt too wide) in paragraph at lines 180--128
 []\T1/ptm/m/n/12 CMS was the first mod-ern col-lider ex-per-i-ment to re-place 
 tra-di-tional trig-ger-ing, based on energy-
  []
@@ -1944,32 +1947,33 @@ Chapter 8.
 
 
 
-] (./thesis-ku.bbl
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 8.
- (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [79
+] (./thesis-ku.bbl [79
 
 
-] [80]
-[81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
-[96]) [97]
+] [80] [81] [82]
+Underfull \hbox (badness 4518) in paragraph at lines 257--259
+[]\T1/ptm/m/n/12 G. Roland, K. Sa-farik, and P. Stein-berg, ``Heavy-ion col-li-
+sions at the LHC,''
+ []
+
+[83] [84] [85] [86] [87] [88] [89] [90] [91] [92]) [93]
 \openout2 = `Appendix1/Appendix1.aux'.
 
- (./Appendix1/Appendix1.tex
+
+(./Appendix1/Appendix1.tex
 Appendix A.
-<Appendix1/importfigs/rapgap_diagram.png, id=2092, 522.95375pt x 403.5075pt>
+<Appendix1/importfigs/rapgap_diagram.png, id=1773, 522.95375pt x 403.5075pt>
 File: Appendix1/importfigs/rapgap_diagram.png Graphic file (type png)
 
 <use Appendix1/importfigs/rapgap_diagram.png>
 Package pdftex.def Info: Appendix1/importfigs/rapgap_diagram.png used on input 
 line 13.
 (pdftex.def)             Requested size: 289.07999pt x 223.05655pt.
- [98
+ [94
 
 
  <./Appendix1/importfigs/rapgap_diagram.png>]
-<Appendix1/importfigs/before_fit.png, id=2099, 697.60625pt x 662.475pt>
+<Appendix1/importfigs/before_fit.png, id=1779, 697.60625pt x 662.475pt>
 File: Appendix1/importfigs/before_fit.png Graphic file (type png)
 
 <use Appendix1/importfigs/before_fit.png>
@@ -1977,26 +1981,26 @@ Package pdftex.def Info: Appendix1/importfigs/before_fit.png used on input line
  29.
 (pdftex.def)             Requested size: 199.16928pt x 189.14091pt.
 
-<Appendix1/importfigs/after_fit.png, id=2100, 665.48625pt x 662.475pt>
+<Appendix1/importfigs/after_fit.png, id=1780, 665.48625pt x 662.475pt>
 File: Appendix1/importfigs/after_fit.png Graphic file (type png)
 
 <use Appendix1/importfigs/after_fit.png>
 Package pdftex.def Info: Appendix1/importfigs/after_fit.png used on input line 
 31.
 (pdftex.def)             Requested size: 199.16928pt x 198.25882pt.
-) [99 <./Appendix1/importfigs/before_fit.png> <./Appendix1/importfigs/after_fit
+) [95 <./Appendix1/importfigs/before_fit.png> <./Appendix1/importfigs/after_fit
 .png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
  (./thesis-ku.aux
 (./Chapter1/Chapter-1.aux) (./Chapter2/Chapter-2.aux) (./Chapter3/Chapter-3.aux
 ) (./Chapter4/Chapter-4.aux) (./Chapter5/Chapter-5.aux)
 (./Chapter6/Chapter-6.aux) (./Chapter7/Chapter-7.aux) (./Chapter8/Chapter-8.aux
 ) (./Appendix1/Appendix1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
 Package rerunfilecheck Info: File `thesis-ku.out' has not changed.
-(rerunfilecheck)             Checksum: ED4AF45C8B211A173088964A65B8B78C;9037.
+(rerunfilecheck)             Checksum: C9DC4F799E1C82F1614BA693DDC1667B;8896.
 
 
 LaTeX Warning: There were undefined references.
@@ -2004,34 +2008,33 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
  ) 
 Here is how much of TeX's memory you used:
- 14104 strings out of 493029
- 211109 string characters out of 6136233
- 294234 words of memory out of 5000000
- 16829 multiletter control sequences out of 15000+600000
- 58196 words of font info for 111 fonts, out of 8000000 for 9000
+ 14034 strings out of 493029
+ 210201 string characters out of 6136233
+ 293723 words of memory out of 5000000
+ 16780 multiletter control sequences out of 15000+600000
+ 57878 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,11n,51p,1535b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
-/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/rsfs/rsfs10.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
-rw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis-ku.pdf (110 pages, 6766015 bytes).
+ 44i,11n,51p,1535b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/esint-type1/esint10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+rsfs/rsfs10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on thesis-ku.pdf (106 pages, 6695197 bytes).
 PDF statistics:
- 2258 PDF objects out of 2487 (max. 8388607)
- 1856 compressed objects within 19 object streams
- 460 named destinations out of 1000 (max. 500000)
+ 1930 PDF objects out of 2073 (max. 8388607)
+ 1536 compressed objects within 16 object streams
+ 440 named destinations out of 1000 (max. 500000)
  782 words of extra memory for PDF output out of 10000 (max. 10000000)
 

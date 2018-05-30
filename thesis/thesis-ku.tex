@@ -19,6 +19,7 @@
 \usepackage{setspace}
 \usepackage{esint}
 \usepackage{subfig}
+\usepackage{notoccite}
 
 %\usepackage[authoryear]{natbib}
 \doublespacing
@@ -104,7 +105,7 @@
 \maketitle
 \begin{abstract}
 
-This dissertation describes the study of coherent dijet photoproduction in ultra-peripheral heavy-ion collisions. Ultra-peripheral collisions have impact parameters larger $2R$ where $R$ is the radius of the heavy-ion. These collisions are mediated entirely by the exchange of low-virtuality photon according to the Weizacker-Williams approximation. The angular correlation of coherently photoproduced dijets is sensitive to elliptic gluon distribution. The azimuthal anisotropy of the ion recoil momentum $P_T$ and the dijet transverse momentum $Q_T$ is presented for two bins of $Q_T$: $0<Q_T<5$ and $5<Q_T<10$. 
+This dissertation describes the study of coherent dijet photoproduction in ultra-peripheral heavy-ion collisions. Ultra-peripheral collisions have impact parameters larger $2R$ where $R$ is the radius of the heavy-ion. These collisions are mediated entirely by the exchange of low-virtuality photon according to the Weizacker-Williams approximation. The angular correlation of coherently photoproduced dijets is sensitive to elliptic gluon distribution. The azimuthal anisotropy of the ion recoil momentum $P_T$ and the dijet transverse momentum $Q_T$ is presented for two bins of $Q_T$: $0<Q_T<5$ GeV and $5<Q_T<10$ GeV. 
 
 \begin{acknowledgementslong}
 
@@ -131,17 +132,20 @@ This dissertation describes the study of coherent dijet photoproduction in ultra
 \include{Chapter7/Chapter-7}
 \include{Chapter8/Chapter-8}
 
-%\global\long\def\bibname{References}
+\global\long\def\bibname{References}
 %\nocite{*}
 %\bibliographystyle{apalike2}
-%\bibliography{Biblio/allcites}
+\bibliographystyle{ieeetr}
+\bibliography{Biblio/allcites}
 
-\global\long\def\bibname{References}
-\nocite{*}
-\bibliographystyle{Biblio/utphys}
+%\global\long\def\bibname{References}
+%\nocite{*}
+%\bibliographystyle{Biblio/utphys}
+%\bibliographystyle{ieeetr}
+%\bibliographystyle{unsrtnat}
 %\bibliographystyle{apalike2}
 %\bibliography{Biblio/allcites,Biblio/upcTheoryChp}
-\bibliography{Biblio/allcites}
+%\bibliography{Biblio/allcites}
 
 \appendix
 \include{Appendix1/Appendix1}

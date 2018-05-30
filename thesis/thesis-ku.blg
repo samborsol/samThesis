@@ -9,65 +9,83 @@ A level-1 auxiliary file: Chapter5/Chapter-5.aux
 A level-1 auxiliary file: Chapter6/Chapter-6.aux
 A level-1 auxiliary file: Chapter7/Chapter-7.aux
 A level-1 auxiliary file: Chapter8/Chapter-8.aux
-The style file: Biblio/utphys.bst
+The style file: ieeetr.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
-Reallocated field_info (elt_size=4) to 10184 items from 5000.
 Database file #1: Biblio/allcites.bib
 Warning--entry type for "starlight" isn't style-file defined
 --line 1795 of file Biblio/allcites.bib
 Warning--string name "j-j-math-phys" is undefined
 --line 2167 of file Biblio/allcites.bib
 Warning--I didn't find a database entry for "Ackermann:200tr"
+Warning--empty journal in Rafelski:2013obw
 Warning--empty author in Long:796947
+Warning--empty journal in Long:796947
+Warning--empty journal in Dyson:1967:SM
 Warning--empty publisher in Halzen:1984mc
 Warning--empty publisher in Griffiths:2008zz
-Warning--empty pages in cmsJpPP
+Warning--empty journal in CGC2Lec
+Warning--empty journal in Boer:2011fh
+Warning--empty journal in Bhalerao:1695331
+Warning--empty journal in Sorensen:2009cz
+Warning--empty journal in Borghini:2001zr
+Warning--empty journal in Vogt:1998kna
+Warning--empty journal in Klasen:2007pm
+Warning--empty journal in Gaiser:1982yw
 Warning--all relevant fields are empty in starlight
+Warning--empty journal in Frankfurt:2006wg
+Warning--empty journal in TheALICE:2014dwa
+Warning--empty journal in Guzey:2013jaa
+Warning--empty journal in emPCite6
+Warning--empty journal in Crittenden:1997yz
 Warning--empty author and editor in cmsTdrTrk
-Warning--empty pages in elect_cms_note06
-Warning--empty pages in CMS_AN_2008-098
-Warning--empty title in gdr_neutron
-Warning--empty pages in yepes_cms_note03
-Warning--empty institution in cgc2013.05
-You've used 177 entries,
-            2328 wiz_defined-function locations,
-            2022 strings with 41085 characters,
-and the built_in function-call counts, 55433 in all, are:
-= -- 6000
-> -- 1462
-< -- 1
-+ -- 566
-- -- 389
-* -- 5019
-:= -- 6457
-add.period$ -- 379
-call.type$ -- 177
-change.case$ -- 197
+Warning--empty journal in Bayatian:2006nff
+Warning--empty journal in Baiatian:2007xva
+Warning--empty journal in CMS:2013gfa
+Warning--empty journal in cmsLumi
+Warning--empty journal in Krasny:2006xg
+Warning--empty journal in CMS:2010gua
+Warning--empty journal in vanderMeer:1968zz
+Warning--empty journal in Dasu:2000ge
+Warning--empty journal in Sphicas:2002gg
+You've used 161 entries,
+            1876 wiz_defined-function locations,
+            1464 strings with 28353 characters,
+and the built_in function-call counts, 42446 in all, are:
+= -- 4339
+> -- 1335
+< -- 0
++ -- 517
+- -- 356
+* -- 2609
+:= -- 5736
+add.period$ -- 175
+call.type$ -- 161
+change.case$ -- 152
 chr.to.int$ -- 0
-cite$ -- 188
-duplicate$ -- 3049
-empty$ -- 5509
-format.name$ -- 389
-if$ -- 14632
+cite$ -- 191
+duplicate$ -- 2489
+empty$ -- 3999
+format.name$ -- 356
+if$ -- 10807
 int.to.chr$ -- 0
-int.to.str$ -- 177
-missing$ -- 621
-newline$ -- 858
-num.names$ -- 176
-pop$ -- 845
+int.to.str$ -- 161
+missing$ -- 164
+newline$ -- 500
+num.names$ -- 158
+pop$ -- 484
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2073
+skip$ -- 1893
 stack$ -- 0
-substring$ -- 2694
-swap$ -- 1395
-text.length$ -- 1
+substring$ -- 2585
+swap$ -- 1184
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 11
-while$ -- 387
-width$ -- 180
-write$ -- 1600
-(There were 14 warnings)
+warning$ -- 30
+while$ -- 359
+width$ -- 164
+write$ -- 1541
+(There were 33 warnings)
