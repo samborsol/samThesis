@@ -96,15 +96,6 @@ J.~D. Bjorken, ``{Asymptotic Sum Rules at Infinite Momentum},'' {\em Phys.
 M.~Thomson, {\em {Modern particle physics}}.
 \newblock New York: Cambridge University Press, 2013.
 
-\bibitem{CGC2Lec}
-L.~McLerran, ``{The Color Glass Condensate and Glasma},'' 2008.
-
-\bibitem{CGCandGlasma}
-F.~Gelis, ``Color glass condensate and glasma,'' {\em Nuclear Physics A},
-  vol.~854, no.~1, pp.~10 -- 17, 2011.
-\newblock Saturation, the Color Glass Condensate and the Glasma: What Have We
-  Learned from RHIC?
-
 \bibitem{Bjorken:1982qr}
 J.~Bjorken, ``{Highly Relativistic Nucleus-Nucleus Collisions: The Central
   Rapidity Region},'' {\em Phys.Rev.}, vol.~D27, pp.~140--151, 1983.
@@ -134,18 +125,10 @@ S.~Chatrchyan {\em et~al.}, ``J/$\psi$ and $\psi$(2s) production in pp
   collisions at $\sqrt{s}$ = 7 tev,'' {\em Journal of High Energy Physics},
   vol.~2012, no.~2, 2012.
 
-\bibitem{Hatta:2016dxp}
-Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Probing the Small- x Gluon Tomography in
-  Correlated Hard Diffractive Dijet Production in Deep Inelastic Scattering},''
-  {\em Phys. Rev. Lett.}, vol.~116, no.~20, p.~202301, 2016.
-
-\bibitem{Boer:2011fh}
-D.~Boer {\em et~al.}, ``{Gluons and the quark sea at high energies:
-  Distributions, polarization, tomography},'' 2011.
-
-\bibitem{Diehl:2003ny}
-M.~Diehl, ``{Generalized parton distributions},'' {\em Phys. Rept.}, vol.~388,
-  pp.~41--277, 2003.
+\bibitem{Accardi:2011mz}
+A.~Accardi, V.~Guzey, A.~Prokudin, and C.~Weiss, ``{Nuclear physics with a
+  medium-energy Electron-Ion Collider},'' {\em Eur. Phys. J.}, vol.~A48, p.~92,
+  2012.
 
 \bibitem{spsHI}
 H.~Satz, ``{The SPS heavy ion programme},'' {\em Phys.Rept.}, vol.~403-404,
@@ -172,6 +155,15 @@ R.~S. Bhalerao, ``{Relativistic heavy-ion collisions},'' pp.~219--239. 21 p,
 \bibitem{Hands:2001ve}
 S.~Hands, ``{The Phase diagram of QCD},'' {\em Contemp.Phys.}, vol.~42,
   pp.~209--225, 2001.
+
+\bibitem{Bandyopadhyay:2017wip}
+A.~Bandyopadhyay, {\em {Non-perturbative study of spectral function and its
+  application in Quark Gluon Plasma}}.
+\newblock PhD thesis, Saha Inst., 2017.
+
+\bibitem{Witten:1984rs}
+E.~Witten, ``{Cosmic Separation of Phases},'' {\em Phys.Rev.}, vol.~D30,
+  pp.~272--285, 1984.
 
 \bibitem{Gyulassy:1990ye}
 M.~Gyulassy and M.~Plumer, ``{Jet Quenching in Dense Matter},'' {\em
@@ -231,15 +223,6 @@ N.~Borghini, R.~Bhalerao, and J.~Ollitrault, ``{Anisotropic flow from Lee-Yang
   zeroes: A Practical guide},'' {\em J.Phys.}, vol.~G30, pp.~S1213--S1216,
   2004.
 
-\bibitem{Bandyopadhyay:2017wip}
-A.~Bandyopadhyay, {\em {Non-perturbative study of spectral function and its
-  application in Quark Gluon Plasma}}.
-\newblock PhD thesis, Saha Inst., 2017.
-
-\bibitem{Witten:1984rs}
-E.~Witten, ``{Cosmic Separation of Phases},'' {\em Phys.Rev.}, vol.~D30,
-  pp.~272--285, 1984.
-
 \bibitem{Wang:2012jua}
 H.~Wang, {\em {Study of particle ratio fluctuations and charge balance
   functions at RHIC}}.
@@ -264,21 +247,6 @@ L.~Frankfurt, M.~Strikman, and C.~Weiss, ``Small-$x$ physics: From hera to lhc
 R.~Vogt, ``Heavy quark production in heavy ion colliders,'' {\em Heavy Ion
   Phys.}, vol.~18, pp.~11--20, 2003.
 
-\bibitem{Belitsky:2003nz}
-A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
-  quantum phase space distributions},'' {\em Phys. Rev.}, vol.~D69, p.~074014,
-  2004.
-
-\bibitem{Altinoluk:2015dpi}
-T.~Altinoluk, N.~Armesto, G.~Beuf, and A.~H. Rezaeian, ``{Diffractive Dijet
-  Production in Deep Inelastic Scattering and Photon-Hadron Collisions in the
-  Color Glass Condensate},'' {\em Phys. Lett.}, vol.~B758, pp.~373--383, 2016.
-
-\bibitem{Chakrabarti:2016yuw}
-D.~Chakrabarti, T.~Maji, C.~Mondal, and A.~Mukherjee, ``{Wigner distributions
-  and orbital angular momentum of a proton},'' {\em Eur. Phys. J.}, vol.~C76,
-  no.~7, p.~409, 2016.
-
 \bibitem{griffiths1999introduction}
 D.~Griffiths, {\em Introduction to Electrodynamics}.
 \newblock Prentice Hall, 1999.
@@ -297,15 +265,9 @@ C.~A. Bertulani, S.~R. Klein, and J.~Nystrand, ``{Physics of ultra-peripheral
   nuclear collisions},'' {\em Ann.Rev.Nucl.Part.Sci.}, vol.~55, pp.~271--310,
   2005.
 
-\bibitem{directPhotonTheory}
-P.~Stankus, ``Direct photon production in relativistic heavy-ion collisions,''
-  {\em Annual Review of Nuclear and Particle Science}, vol.~55, no.~1,
-  pp.~517--554, 2005.
-
-\bibitem{Hufner:1996jw}
-J.~Hufner, B.~Kopeliovich, and A.~B. Zamolodchikov, ``{Inelastic J / psi
-  photoproduction off nuclei: Gluon enhancement or double color exchange?},''
-  {\em Z.Phys.}, vol.~A357, pp.~113--120, 1997.
+\bibitem{Nystrand:2004vn}
+J.~Nystrand, ``Electromagnetic interactions in nucleus nucleus and proton
+  proton collisions,'' {\em Nucl. Phys.}, vol.~A752, pp.~470--479, 2005.
 
 \bibitem{photonALICE}
 M.~Wilde, ``Measurement of direct photons in pp and pb–pb collisions with
@@ -313,10 +275,6 @@ M.~Wilde, ``Measurement of direct photons in pp and pb–pb collisions with
   576c, 2013.
 \newblock The Quark Matter 2012 Proceedings of the \{XXIII\} International
   Conference on Ultrarelativistic Nucleus-Nucleus Collisions.
-
-\bibitem{Andreev:2015cwa}
-V.~Andreev {\em et~al.}, ``{Diffractive Dijet Production with a Leading Proton
-  in $ep$ Collisions at HERA},'' {\em JHEP}, vol.~05, p.~056, 2015.
 
 \bibitem{lta2011.09}
 V.~Rebyakova, M.~Strikman, and M.~Zhalov, ``{Coherent rho and J/psi
@@ -353,30 +311,8 @@ V.~Goncalves and M.~Machado, ``{Vector Meson Production in Coherent Hadronic
   Interactions: An update on predictions for RHIC and LHC},'' {\em Phys.Rev.},
   vol.~C84, p.~011902, 2011.
 
-\bibitem{Lappi:2013am}
-T.~Lappi and H.~Mantysaari, ``{$J/|psi$ production in ultraperipheral Pb+Pb and
-  $p$+Pb collisions at energies available at the CERN Large Hadron Collider},''
-  {\em Phys.Rev.}, vol.~C87, no.~3, p.~032201, 2013.
-
-\bibitem{Gaiser:1982yw}
-J.~Gaiser, ``{Charmonium Spectroscopy From Radiative Decays of the $J/\psi$ and
-  $\psi^\prime$},'' 1982.
-
-\bibitem{Aktas:2005xu}
-A.~Aktas {\em et~al.}, ``{Elastic J/psi production at HERA},'' {\em
-  Eur.Phys.J.}, vol.~C46, pp.~585--603, 2006.
-
-\bibitem{Abbas:2013oua}
-E.~Abbas {\em et~al.}, ``{Charmonium and $e^+e^-$ pair photoproduction at
-  mid-rapidity in ultra-peripheral Pb-Pb collisions at $\sqrt{s_{NN}}$ = 2.76
-  TeV},'' {\em Eur.Phys.J.}, vol.~C73, p.~2617, 2013.
-
 \bibitem{starlight}
 
-
-\bibitem{Nystrand:2004vn}
-J.~Nystrand, ``Electromagnetic interactions in nucleus nucleus and proton
-  proton collisions,'' {\em Nucl. Phys.}, vol.~A752, pp.~470--479, 2005.
 
 \bibitem{Adler:2002sc}
 C.~Adler {\em et~al.}, ``Coherent $\rho^0$ production in ultra-peripheral heavy
@@ -522,18 +458,10 @@ A.~Cisek, W.~Schafer, and A.~Szczurek, ``{Exclusive coherent production of
   heavy vector mesons in nucleus-nucleus collisions at LHC},'' {\em Phys.Rev.},
   vol.~C86, p.~014905, 2012.
 
-\bibitem{Chudasama:2016eck}
-R.~Chudasama and D.~Dutta, ``{Exclusive Photoproduction of Upsilon in pPb
-  collisions with the CMS},'' {\em PoS}, vol.~ICPAQGP2015, p.~042, 2017.
-
 \bibitem{Aaboud:2017bwk}
 M.~Aaboud {\em et~al.}, ``{Evidence for light-by-light scattering in heavy-ion
   collisions with the ATLAS detector at the LHC},'' {\em Nature Phys.},
   vol.~13, no.~9, pp.~852--858, 2017.
-
-\bibitem{Collaboration:2278547}
-A.~Collaboration, ``{ATLAS Event Display: Light-by-Light Scattering}.'' General
-  Photo, Aug 2017.
 
 \bibitem{d'Enterria:2004nv}
 D.~d'Enterria, ``Hard spectra and qcd matter: Experimental review,'' {\em J.
@@ -553,6 +481,10 @@ V.~Guzey and M.~Klasen, ``{A fresh look at factorization breaking in
 V.~Guzey and M.~Klasen, ``{Diffractive dijet photoproduction in ultraperipheral
   collisions at the LHC in next-to-leading order QCD},'' {\em JHEP}, vol.~04,
   p.~158, 2016.
+
+\bibitem{Andreev:2015cwa}
+V.~Andreev {\em et~al.}, ``{Diffractive Dijet Production with a Leading Proton
+  in $ep$ Collisions at HERA},'' {\em JHEP}, vol.~05, p.~056, 2015.
 
 \bibitem{Chekanov:2008fh}
 S.~Chekanov {\em et~al.}, ``{Deep inelastic scattering with leading protons or
@@ -594,6 +526,30 @@ T.~Sj\"{o}strand, S.~Mrenna, and P.~Skands, ``Pythia 6.4 physics and manual,''
 \bibitem{Crittenden:1997yz}
 J.~A. Crittenden, ``{Exclusive production of neutral vector mesons at the
   electron - proton collider HERA},'' 1997.
+
+\bibitem{Belitsky:2003nz}
+A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
+  quantum phase space distributions},'' {\em Phys. Rev.}, vol.~D69, p.~074014,
+  2004.
+
+\bibitem{Diehl:2003ny}
+M.~Diehl, ``{Generalized parton distributions},'' {\em Phys. Rept.}, vol.~388,
+  pp.~41--277, 2003.
+
+\bibitem{Hatta:2016dxp}
+Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Probing the Small- x Gluon Tomography in
+  Correlated Hard Diffractive Dijet Production in Deep Inelastic Scattering},''
+  {\em Phys. Rev. Lett.}, vol.~116, no.~20, p.~202301, 2016.
+
+\bibitem{Altinoluk:2015dpi}
+T.~Altinoluk, N.~Armesto, G.~Beuf, and A.~H. Rezaeian, ``{Diffractive Dijet
+  Production in Deep Inelastic Scattering and Photon-Hadron Collisions in the
+  Color Glass Condensate},'' {\em Phys. Lett.}, vol.~B758, pp.~373--383, 2016.
+
+\bibitem{Chakrabarti:2016yuw}
+D.~Chakrabarti, T.~Maji, C.~Mondal, and A.~Mukherjee, ``{Wigner distributions
+  and orbital angular momentum of a proton},'' {\em Eur. Phys. J.}, vol.~C76,
+  no.~7, p.~409, 2016.
 
 \bibitem{Evans:2008zzb}
 L.~Evans and P.~Bryant, ``{LHC Machine},'' {\em JINST}, vol.~3, p.~S08001,

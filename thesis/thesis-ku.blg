@@ -13,9 +13,9 @@ The style file: ieeetr.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
 Warning--entry type for "starlight" isn't style-file defined
---line 1798 of file Biblio/allcites.bib
+--line 1813 of file Biblio/allcites.bib
 Warning--string name "j-j-math-phys" is undefined
---line 2170 of file Biblio/allcites.bib
+--line 2185 of file Biblio/allcites.bib
 Warning--I didn't find a database entry for "Ackermann:200tr"
 Warning--empty journal in Rafelski:2013obw
 Warning--empty author in Long:796947
@@ -26,14 +26,11 @@ Warning--empty publisher in Griffiths:2008zz
 Warning--empty author in wikiCommons
 Warning--empty journal in wikiCommons
 Warning--empty year in wikiCommons
-Warning--empty journal in CGC2Lec
-Warning--empty journal in Boer:2011fh
 Warning--empty journal in Bhalerao:1695331
 Warning--empty journal in Sorensen:2009cz
 Warning--empty journal in Borghini:2001zr
 Warning--empty journal in Vogt:1998kna
 Warning--empty journal in Klasen:2007pm
-Warning--empty journal in Gaiser:1982yw
 Warning--all relevant fields are empty in starlight
 Warning--empty journal in Frankfurt:2006wg
 Warning--empty journal in TheALICE:2014dwa
@@ -50,45 +47,45 @@ Warning--empty journal in CMS:2010gua
 Warning--empty journal in vanderMeer:1968zz
 Warning--empty journal in Dasu:2000ge
 Warning--empty journal in Sphicas:2002gg
-You've used 162 entries,
+You've used 152 entries,
             1876 wiz_defined-function locations,
-            1467 strings with 28389 characters,
-and the built_in function-call counts, 42559 in all, are:
-= -- 4346
-> -- 1336
+            1411 strings with 26825 characters,
+and the built_in function-call counts, 40258 in all, are:
+= -- 4105
+> -- 1279
 < -- 0
-+ -- 518
-- -- 356
-* -- 2620
-:= -- 5747
-add.period$ -- 175
-call.type$ -- 162
-change.case$ -- 153
++ -- 494
+- -- 342
+* -- 2487
+:= -- 5432
+add.period$ -- 164
+call.type$ -- 152
+change.case$ -- 143
 chr.to.int$ -- 0
-cite$ -- 195
-duplicate$ -- 2498
-empty$ -- 4016
-format.name$ -- 356
-if$ -- 10833
+cite$ -- 182
+duplicate$ -- 2359
+empty$ -- 3790
+format.name$ -- 342
+if$ -- 10248
 int.to.chr$ -- 0
-int.to.str$ -- 162
-missing$ -- 165
-newline$ -- 503
-num.names$ -- 158
-pop$ -- 492
+int.to.str$ -- 152
+missing$ -- 156
+newline$ -- 472
+num.names$ -- 148
+pop$ -- 464
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1895
+skip$ -- 1795
 stack$ -- 0
-substring$ -- 2585
-swap$ -- 1184
+substring$ -- 2451
+swap$ -- 1124
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 33
-while$ -- 359
-width$ -- 165
-write$ -- 1546
-(There were 36 warnings)
+warning$ -- 30
+while$ -- 339
+width$ -- 155
+write$ -- 1452
+(There were 33 warnings)
