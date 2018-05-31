@@ -23,9 +23,6 @@ Warning--empty journal in Long:796947
 Warning--empty journal in Dyson:1967:SM
 Warning--empty publisher in Halzen:1984mc
 Warning--empty publisher in Griffiths:2008zz
-Warning--empty author in wikiCommons
-Warning--empty journal in wikiCommons
-Warning--empty year in wikiCommons
 Warning--empty journal in Bhalerao:1695331
 Warning--empty journal in Sorensen:2009cz
 Warning--empty journal in Borghini:2001zr
@@ -36,7 +33,6 @@ Warning--empty journal in Frankfurt:2006wg
 Warning--empty journal in TheALICE:2014dwa
 Warning--empty journal in Guzey:2013jaa
 Warning--empty journal in emPCite6
-Warning--empty journal in Crittenden:1997yz
 Warning--empty author and editor in cmsTdrTrk
 Warning--empty journal in Bayatian:2006nff
 Warning--empty journal in Baiatian:2007xva
@@ -47,45 +43,45 @@ Warning--empty journal in CMS:2010gua
 Warning--empty journal in vanderMeer:1968zz
 Warning--empty journal in Dasu:2000ge
 Warning--empty journal in Sphicas:2002gg
-You've used 152 entries,
+You've used 141 entries,
             1876 wiz_defined-function locations,
-            1411 strings with 26825 characters,
-and the built_in function-call counts, 40258 in all, are:
-= -- 4105
-> -- 1279
+            1354 strings with 25236 characters,
+and the built_in function-call counts, 37744 in all, are:
+= -- 3862
+> -- 1186
 < -- 0
-+ -- 494
-- -- 342
-* -- 2487
-:= -- 5432
-add.period$ -- 164
-call.type$ -- 152
-change.case$ -- 143
++ -- 458
+- -- 317
+* -- 2323
+:= -- 5081
+add.period$ -- 153
+call.type$ -- 141
+change.case$ -- 133
 chr.to.int$ -- 0
-cite$ -- 182
-duplicate$ -- 2359
-empty$ -- 3790
-format.name$ -- 342
-if$ -- 10248
+cite$ -- 167
+duplicate$ -- 2204
+empty$ -- 3550
+format.name$ -- 317
+if$ -- 9613
 int.to.chr$ -- 0
-int.to.str$ -- 152
-missing$ -- 156
-newline$ -- 472
-num.names$ -- 148
-pop$ -- 464
+int.to.str$ -- 141
+missing$ -- 144
+newline$ -- 438
+num.names$ -- 138
+pop$ -- 425
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1795
+skip$ -- 1695
 stack$ -- 0
-substring$ -- 2451
-swap$ -- 1124
+substring$ -- 2361
+swap$ -- 1059
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 30
-while$ -- 339
-width$ -- 155
-write$ -- 1452
-(There were 33 warnings)
+warning$ -- 26
+while$ -- 319
+width$ -- 144
+write$ -- 1348
+(There were 29 warnings)

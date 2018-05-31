@@ -54,9 +54,6 @@ M.~E. Peskin and D.~V. Schroeder, {\em {An Introduction to quantum field
 D.~Griffiths, {\em {Introduction to elementary particles}}.
 \newblock 2008.
 
-\bibitem{wikiCommons}
-``{Wiki Commons},''
-
 \bibitem{Bouchendira:2010es}
 R.~Bouchendira, P.~Clade, S.~Guellati-Khelifa, F.~Nez, and F.~Biraben, ``{New
   determination of the fine structure constant and test of the quantum
@@ -246,10 +243,6 @@ L.~Frankfurt, M.~Strikman, and C.~Weiss, ``Small-$x$ physics: From hera to lhc
 \bibitem{Vogt:2002ve}
 R.~Vogt, ``Heavy quark production in heavy ion colliders,'' {\em Heavy Ion
   Phys.}, vol.~18, pp.~11--20, 2003.
-
-\bibitem{griffiths1999introduction}
-D.~Griffiths, {\em Introduction to Electrodynamics}.
-\newblock Prentice Hall, 1999.
 
 \bibitem{Baltz:2007kq}
 A.~Baltz, G.~Baur, D.~d'Enterria, L.~Frankfurt, F.~Gelis, {\em et~al.}, ``{The
@@ -467,21 +460,6 @@ M.~Aaboud {\em et~al.}, ``{Evidence for light-by-light scattering in heavy-ion
 D.~d'Enterria, ``Hard spectra and qcd matter: Experimental review,'' {\em J.
   Phys.}, vol.~G30, pp.~S767--S774, 2004.
 
-\bibitem{Strikman:2005yv}
-M.~Strikman, R.~Vogt, and S.~White, ``Probing small $x$ parton densities in
-  ultraperipheral a a and p a collisions at the lhc,'' {\em Phys. Rev. Lett.},
-  vol.~96, p.~082001, 2006.
-
-\bibitem{Guzey:2016awf}
-V.~Guzey and M.~Klasen, ``{A fresh look at factorization breaking in
-  diffractive photoproduction of dijets at HERA at next-to-leading order
-  QCD},'' {\em Eur. Phys. J.}, vol.~C76, no.~8, p.~467, 2016.
-
-\bibitem{Guzey:2016tek}
-V.~Guzey and M.~Klasen, ``{Diffractive dijet photoproduction in ultraperipheral
-  collisions at the LHC in next-to-leading order QCD},'' {\em JHEP}, vol.~04,
-  p.~158, 2016.
-
 \bibitem{Andreev:2015cwa}
 V.~Andreev {\em et~al.}, ``{Diffractive Dijet Production with a Leading Proton
   in $ep$ Collisions at HERA},'' {\em JHEP}, vol.~05, p.~056, 2015.
@@ -514,19 +492,6 @@ F.~D. Aaron {\em et~al.}, ``{Measurement of the cross section for diffractive
 F.~D. Aaron {\em et~al.}, ``{Diffractive Dijet Photoproduction in ep Collisions
   at HERA},'' {\em Eur. Phys. J.}, vol.~C70, pp.~15--37, 2010.
 
-\bibitem{Donnachie:2002en}
-S.~Donnachie, H.~G. Dosch, O.~Nachtmann, and P.~Landshoff, ``{Pomeron physics
-  and QCD},'' {\em Camb.Monogr.Part.Phys.Nucl.Phys.Cosmol.}, vol.~19,
-  pp.~1--347, 2002.
-
-\bibitem{pythia}
-T.~Sj\"{o}strand, S.~Mrenna, and P.~Skands, ``Pythia 6.4 physics and manual,''
-  {\em Journal of High Energy Physics}, vol.~2006, no.~05, p.~026, 2006.
-
-\bibitem{Crittenden:1997yz}
-J.~A. Crittenden, ``{Exclusive production of neutral vector mesons at the
-  electron - proton collider HERA},'' 1997.
-
 \bibitem{Belitsky:2003nz}
 A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
   quantum phase space distributions},'' {\em Phys. Rev.}, vol.~D69, p.~074014,
@@ -540,16 +505,6 @@ M.~Diehl, ``{Generalized parton distributions},'' {\em Phys. Rept.}, vol.~388,
 Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Probing the Small- x Gluon Tomography in
   Correlated Hard Diffractive Dijet Production in Deep Inelastic Scattering},''
   {\em Phys. Rev. Lett.}, vol.~116, no.~20, p.~202301, 2016.
-
-\bibitem{Altinoluk:2015dpi}
-T.~Altinoluk, N.~Armesto, G.~Beuf, and A.~H. Rezaeian, ``{Diffractive Dijet
-  Production in Deep Inelastic Scattering and Photon-Hadron Collisions in the
-  Color Glass Condensate},'' {\em Phys. Lett.}, vol.~B758, pp.~373--383, 2016.
-
-\bibitem{Chakrabarti:2016yuw}
-D.~Chakrabarti, T.~Maji, C.~Mondal, and A.~Mukherjee, ``{Wigner distributions
-  and orbital angular momentum of a proton},'' {\em Eur. Phys. J.}, vol.~C76,
-  no.~7, p.~409, 2016.
 
 \bibitem{Evans:2008zzb}
 L.~Evans and P.~Bryant, ``{LHC Machine},'' {\em JINST}, vol.~3, p.~S08001,
@@ -677,11 +632,6 @@ M.~Guthoff, ``{Instrumentation for beam radiation and luminosity measurement in
 \bibitem{vanderMeer:1968zz}
 S.~van~der Meer, ``{Calibration of the Effective Beam Height in the ISR},''
   1968.
-
-\bibitem{Bonolis:2011ph}
-L.~Bonolis, ``{Walther Bothe and Bruno Rossi: the birth and development of
-  coincidence methods in cosmic-ray physics},'' {\em Am. J. Phys.}, vol.~79,
-  p.~1133, 2011.
 
 \bibitem{Dasu:2000ge}
 S.~Dasu {\em et~al.}, ``{CMS. The TriDAS project. Technical design report, vol.
