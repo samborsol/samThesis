@@ -220,6 +220,10 @@ N.~Borghini, R.~Bhalerao, and J.~Ollitrault, ``{Anisotropic flow from Lee-Yang
   zeroes: A Practical guide},'' {\em J.Phys.}, vol.~G30, pp.~S1213--S1216,
   2004.
 
+\bibitem{Heinz:2008tv}
+U.~W. Heinz, ``{The Strongly coupled quark-gluon plasma created at RHIC},''
+  {\em J. Phys.}, vol.~A42, p.~214003, 2009.
+
 \bibitem{Wang:2012jua}
 H.~Wang, {\em {Study of particle ratio fluctuations and charge balance
   functions at RHIC}}.
@@ -501,6 +505,11 @@ A.~V. Belitsky, X.-d. Ji, and F.~Yuan, ``{Quark imaging in the proton via
 M.~Diehl, ``{Generalized parton distributions},'' {\em Phys. Rept.}, vol.~388,
   pp.~41--277, 2003.
 
+\bibitem{Hatta:2017cte}
+Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Gluon Tomography from Deeply Virtual
+  Compton Scattering at Small-x},'' {\em Phys. Rev.}, vol.~D95, no.~11,
+  p.~114026, 2017.
+
 \bibitem{Hatta:2016dxp}
 Y.~Hatta, B.-W. Xiao, and F.~Yuan, ``{Probing the Small- x Gluon Tomography in
   Correlated Hard Diffractive Dijet Production in Deep Inelastic Scattering},''
@@ -640,6 +649,14 @@ S.~Dasu {\em et~al.}, ``{CMS. The TriDAS project. Technical design report, vol.
 \bibitem{Sphicas:2002gg}
 P.~Sphicas, ``{CMS: The TriDAS project. Technical design report, Vol. 2: Data
   acquisition and high-level trigger},'' 2002.
+
+\bibitem{Khachatryan:2016bia}
+V.~Khachatryan {\em et~al.}, ``{The CMS trigger system},'' {\em JINST},
+  vol.~12, no.~01, p.~P01020, 2017.
+
+\bibitem{Agostinelli:2002hh}
+S.~Agostinelli {\em et~al.}, ``{GEANT4: A Simulation toolkit},'' {\em Nucl.
+  Instrum. Meth.}, vol.~A506, pp.~250--303, 2003.
 
 \bibitem{lheFormat}
 J.~Alwall, A.~Ballestrero, P.~Bartalini, S.~Belov, E.~Boos, {\em et~al.}, ``{A

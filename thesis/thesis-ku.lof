@@ -6,7 +6,7 @@
 \contentsline {figure}{\numberline {1.4}{\ignorespaces Pictorial time-line of the Universe, showing phase transitions \cite {Bandyopadhyay:2017wip}. \relax }}{10}{figure.caption.7}
 \contentsline {figure}{\numberline {1.5}{\ignorespaces QCD phase diagram showing the temperature $T$ as a function of baryon chemical potential $\mu _B$. Different phases such as the critical point, QGP, and hadron gas are seen \cite {Bhalerao:1695331}. \relax }}{11}{figure.caption.8}
 \contentsline {figure}{\numberline {1.6}{\ignorespaces $J/\psi $ suppression as a function of transverse energy $E_T$ in Pb-Pb collisions at SPS. Data from different periods are shown and compared to theories that do not incorporate QGP \cite {spsHI}. \relax }}{11}{figure.caption.9}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Heavy-ion overlap region, showing the elliptic flow produced. \relax }}{12}{figure.caption.10}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Heavy-ion overlap region, showing the elliptic flow produced \cite {Heinz:2008tv}. \relax }}{12}{figure.caption.10}
 \contentsline {figure}{\numberline {1.8}{\ignorespaces $v_2$ as a function of collision energy for various heavy ion experiments \cite {spsHI}. \relax }}{13}{figure.caption.11}
 \contentsline {figure}{\numberline {1.9}{\ignorespaces STAR $Au+Au$ at $\sqrt {s_{NN}}=130$ GeV: (a)$v_2$ as a function of centrality with hydrodynamic calculations (empty rectangles) and data (black dots); (b)$v_2$ as a function of $p_T$ \cite {Ackermann:2000tr}.\relax }}{14}{figure.caption.12}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{14}{subfigure.9.1}
@@ -44,14 +44,12 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces PLT triple coincidence \relax }}{47}{figure.caption.37}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces PCC VdM Scans \cite {CMS:2013gfa} \relax }}{50}{figure.caption.38}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Systematic Uncertainty During 2015 pp Run \cite {CMS:2013gfa} \relax }}{51}{figure.caption.39}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Luminosity by CMS fill. \relax }}{52}{figure.caption.40}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces CMS Run Registry. \relax }}{53}{figure.caption.41}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces CMS lumi during HI-2015. \relax }}{54}{figure.caption.42}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces CMS Lumi by Era. \relax }}{55}{figure.caption.43}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces CMS Run Registry. \relax }}{53}{figure.caption.41}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces CMS lumi during the 2015 PbPb run. \relax }}{54}{figure.caption.42}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Total integrated luminosity for the various pp periods in 2010 until 2017. \relax }}{55}{figure.caption.43}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Flow of information in L1 trigger \relax }}{57}{figure.caption.44}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces High multiplicity PbPb collision \relax }}{57}{figure.caption.45}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Flow of information in L1 trigger \cite {Khachatryan:2016bia}. \relax }}{57}{figure.caption.44}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces High multiplicity PbPb collision \relax }}{58}{figure.caption.45}
 \contentsline {figure}{\numberline {5.3}{\ignorespaces UPC Upsilon candidate \relax }}{58}{figure.caption.46}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Raw $\phi $ distribution. \relax }}{63}{figure.caption.51}
@@ -61,7 +59,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces RAPGAP process: boson-gluon fusion. \relax }}{82}{figure.caption.56}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Left: Energy Distribution Before Fitting, Right: Energy Distribution After Fitting\relax }}{83}{figure.caption.57}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{83}{subfigure.2.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{83}{subfigure.2.2}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces RAPGAP process: boson-gluon fusion. \relax }}{83}{figure.caption.56}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Left: Energy Distribution Before Fitting, Right: Energy Distribution After Fitting\relax }}{84}{figure.caption.57}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{84}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{84}{subfigure.2.2}

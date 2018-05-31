@@ -42,11 +42,11 @@
 \contentsline {section}{\numberline {4.6}Author's contributions}{51}{section.4.6}
 \contentsline {chapter}{\numberline {5}Trigger development and performance}{56}{chapter.5}
 \contentsline {section}{\numberline {5.1}Triggering at CMS}{56}{section.5.1}
-\contentsline {section}{\numberline {5.2}Author's contributions}{58}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}UPC triggers during the 2015 PbPb run}{58}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}p+Pb 2016 UPC Triggers}{60}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Studies from trigger menus}{61}{section.5.3}
+\contentsline {section}{\numberline {5.2}Author's contributions}{59}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}UPC triggers during the 2015 PbPb run}{59}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}UPC triggers from the 2016 pPb run}{60}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Studies from trigger menus}{60}{section.5.3}
 \contentsline {chapter}{\numberline {6}Data analysis}{62}{chapter.6}
 \contentsline {chapter}{\numberline {7}Systematic uncertainties}{67}{chapter.7}
 \contentsline {chapter}{\numberline {8}Results and conclusions}{68}{chapter.8}
-\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{82}{appendix.A}
+\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{83}{appendix.A}
