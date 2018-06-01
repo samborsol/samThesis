@@ -1,17 +1,17 @@
 \select@language {english}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The Standard Model}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Quantum electrodynamics}{3}{section.1.2}
-\contentsline {section}{\numberline {1.3}Quantum chromodynamics}{4}{section.1.3}
-\contentsline {section}{\numberline {1.4}Deep inelastic scattering}{5}{section.1.4}
-\contentsline {section}{\numberline {1.5}PDFs}{7}{section.1.5}
-\contentsline {section}{\numberline {1.6}Quark gluon plasma}{9}{section.1.6}
-\contentsline {chapter}{\numberline {2}Ultra-peripheral collisions and photoproduction}{16}{chapter.2}
-\contentsline {section}{\numberline {2.1}Ultra-peripheral heavy-ion collisions}{16}{section.2.1}
-\contentsline {section}{\numberline {2.2}VM photoproduction}{18}{section.2.2}
-\contentsline {section}{\numberline {2.3}Photon-photon interactions}{21}{section.2.3}
-\contentsline {section}{\numberline {2.4}Dijet photoproduction}{24}{section.2.4}
-\contentsline {section}{\numberline {2.5}Wigner distribution}{27}{section.2.5}
+\contentsline {section}{\numberline {1.2}Quantum electrodynamics}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Quantum chromodynamics}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Deep inelastic scattering}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}PDFs}{8}{section.1.5}
+\contentsline {section}{\numberline {1.6}Quark gluon plasma}{10}{section.1.6}
+\contentsline {chapter}{\numberline {2}Ultra-peripheral collisions and photoproduction}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ultra-peripheral heavy-ion collisions}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}VM photoproduction}{19}{section.2.2}
+\contentsline {section}{\numberline {2.3}Photon-photon interactions}{23}{section.2.3}
+\contentsline {section}{\numberline {2.4}Dijet photoproduction}{25}{section.2.4}
+\contentsline {section}{\numberline {2.5}Wigner distribution}{28}{section.2.5}
 \contentsline {chapter}{\numberline {3}The CMS experiment at CERN LHC}{31}{chapter.3}
 \contentsline {section}{\numberline {3.1}Large Hadron Collider}{31}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}ATLAS}{31}{subsection.3.1.1}
@@ -49,4 +49,4 @@
 \contentsline {chapter}{\numberline {6}Data analysis}{62}{chapter.6}
 \contentsline {chapter}{\numberline {7}Systematic uncertainties}{67}{chapter.7}
 \contentsline {chapter}{\numberline {8}Results and conclusions}{68}{chapter.8}
-\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{83}{appendix.A}
+\contentsline {chapter}{\numberline {A}Monte Carlo Generation and Reconstruction}{82}{appendix.A}
