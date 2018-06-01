@@ -13,9 +13,9 @@ The style file: ieeetr.bst
 A level-1 auxiliary file: Appendix1/Appendix1.aux
 Database file #1: Biblio/allcites.bib
 Warning--entry type for "starlight" isn't style-file defined
---line 1883 of file Biblio/allcites.bib
+--line 1895 of file Biblio/allcites.bib
 Warning--string name "j-j-math-phys" is undefined
---line 2255 of file Biblio/allcites.bib
+--line 2267 of file Biblio/allcites.bib
 Warning--empty journal in Rafelski:2013obw
 Warning--empty author in Long:796947
 Warning--empty journal in Long:796947
@@ -43,45 +43,45 @@ Warning--empty journal in CMS:2010gua
 Warning--empty journal in vanderMeer:1968zz
 Warning--empty journal in Dasu:2000ge
 Warning--empty journal in Sphicas:2002gg
-You've used 143 entries,
+You've used 144 entries,
             1876 wiz_defined-function locations,
-            1366 strings with 25431 characters,
-and the built_in function-call counts, 38068 in all, are:
-= -- 3895
-> -- 1191
+            1372 strings with 25631 characters,
+and the built_in function-call counts, 38223 in all, are:
+= -- 3906
+> -- 1195
 < -- 0
-+ -- 461
-- -- 318
-* -- 2327
-:= -- 5123
-add.period$ -- 155
-call.type$ -- 143
-change.case$ -- 135
++ -- 463
+- -- 319
+* -- 2335
+:= -- 5145
+add.period$ -- 156
+call.type$ -- 144
+change.case$ -- 136
 chr.to.int$ -- 0
-cite$ -- 170
-duplicate$ -- 2238
-empty$ -- 3586
-format.name$ -- 318
-if$ -- 9705
+cite$ -- 171
+duplicate$ -- 2251
+empty$ -- 3610
+format.name$ -- 319
+if$ -- 9743
 int.to.chr$ -- 0
-int.to.str$ -- 143
-missing$ -- 146
-newline$ -- 444
-num.names$ -- 140
-pop$ -- 435
+int.to.str$ -- 144
+missing$ -- 147
+newline$ -- 447
+num.names$ -- 141
+pop$ -- 443
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1715
+skip$ -- 1717
 stack$ -- 0
 substring$ -- 2345
-swap$ -- 1074
+swap$ -- 1075
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 27
-while$ -- 320
-width$ -- 146
-write$ -- 1367
+while$ -- 321
+width$ -- 147
+write$ -- 1375
 (There were 29 warnings)

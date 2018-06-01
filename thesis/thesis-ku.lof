@@ -3,7 +3,7 @@
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Feynman Diagram of Coherent Dijets in Dipole Framework \cite {Hatta:2016dxp}\relax }}{3}{figure.caption.4}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces QCD coupling constant as a function of $Q^2$ \cite {Bethke:2006ac}. \relax }}{6}{figure.caption.5}
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Collision cross section as a function of Bjorken-$x$, with data compared to HERA-PDF calculations \cite {Shimizu:2009fc}. \relax }}{8}{figure.caption.6}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Suppression factor of Pb PDF as a function of Bjorken-$x$. \relax }}{9}{figure.caption.7}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Suppression factor of Pb PDF as a function of Bjorken-$x$ \cite {Paakkinen:2018zbs}. \relax }}{9}{figure.caption.7}
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Subnuclear tomography \cite {Accardi:2011mz}. \relax }}{10}{figure.caption.8}
 \contentsline {figure}{\numberline {1.6}{\ignorespaces Pictorial time-line of the Universe, showing phase transitions \cite {Bandyopadhyay:2017wip}. \relax }}{11}{figure.caption.9}
 \contentsline {figure}{\numberline {1.7}{\ignorespaces QCD phase diagram showing the temperature $T$ as a function of baryon chemical potential $\mu _B$. Different phases such as the critical point, QGP, and hadron gas are seen \cite {Bhalerao:1695331}. \relax }}{12}{figure.caption.10}
@@ -61,7 +61,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces RAPGAP process: boson-gluon fusion. \relax }}{82}{figure.caption.58}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Left: Energy Distribution Before Fitting, Right: Energy Distribution After Fitting\relax }}{83}{figure.caption.59}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{83}{subfigure.2.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{83}{subfigure.2.2}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces RAPGAP process: boson-gluon fusion. \relax }}{83}{figure.caption.58}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Left: Energy Distribution Before Fitting, Right: Energy Distribution After Fitting\relax }}{84}{figure.caption.59}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {label 1}}}{84}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {label 2}}}{84}{subfigure.2.2}
