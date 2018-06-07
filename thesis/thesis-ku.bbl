@@ -452,24 +452,9 @@ M.~Chiu, A.~Denisov, E.~Garcia, J.~Katzy, A.~Makeev, M.~Murray, and S.~White,
   $\sqrt{{s}_{\mathrm{NN}}}\phantom{\rule{0ex}{0ex}}=\phantom{\rule{0ex}{0ex}}130\mathrm{GeV}$
   $au+au$ collisions,'' {\em Phys. Rev. Lett.}, vol.~89, p.~012302, Jun 2002.
 
-\bibitem{Aaboud:2017bwk}
-M.~Aaboud {\em et~al.}, ``{Evidence for light-by-light scattering in heavy-ion
-  collisions with the ATLAS detector at the LHC},'' {\em Nature Phys.},
-  vol.~13, no.~9, pp.~852--858, 2017.
-
 \bibitem{Andreev:2015cwa}
 V.~Andreev {\em et~al.}, ``{Diffractive Dijet Production with a Leading Proton
   in $ep$ Collisions at HERA},'' {\em JHEP}, vol.~05, p.~056, 2015.
-
-\bibitem{Chekanov:2008fh}
-S.~Chekanov {\em et~al.}, ``{Deep inelastic scattering with leading protons or
-  large rapidity gaps at HERA},'' {\em Nucl. Phys.}, vol.~B816, pp.~1--61,
-  2009.
-
-\bibitem{Bauer:1977iq}
-T.~Bauer, R.~Spital, D.~Yennie, and F.~Pipkin, ``{The Hadronic Properties of
-  the Photon in High-Energy Interactions},'' {\em Rev.Mod.Phys.}, vol.~50,
-  p.~261, 1978.
 
 \bibitem{Frankfurt:2006tp}
 L.~Frankfurt, M.~Strikman, and M.~Zhalov, ``{Elastic and large t rapidity gap
@@ -650,10 +635,5 @@ V.~Khachatryan {\em et~al.}, ``{The CMS trigger system},'' {\em JINST},
 \bibitem{Agostinelli:2002hh}
 S.~Agostinelli {\em et~al.}, ``{GEANT4: A Simulation toolkit},'' {\em Nucl.
   Instrum. Meth.}, vol.~A506, pp.~250--303, 2003.
-
-\bibitem{lheFormat}
-J.~Alwall, A.~Ballestrero, P.~Bartalini, S.~Belov, E.~Boos, {\em et~al.}, ``{A
-  Standard format for Les Houches event files},'' {\em Comput.Phys.Commun.},
-  vol.~176, pp.~300--304, 2007.
 
 \end{thebibliography}
